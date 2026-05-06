@@ -1,0 +1,107 @@
+# inspiration_on_running_a_company
+
+Reserved theme for future notes that translate historical texts into practical methods for:
+- organization design
+- leadership and talent use
+- strategy and execution
+
+## Subfolders
+- `organization_design/`
+- `leadership_and_talent/`
+- `strategy_and_execution/`
+
+## Current contents
+- `organization_design/002-dont-treat-bottom-up-correction-as-loss-of-control.md`
+- `organization_design/001-dont-judge-org-allies-by-title-and-posture.md`
+- `organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
+- `organization_design/007-no-investigation-no-organizational-voice.md`
+- `organization_design/009-classify-roles-by-real-function-and-incentives.md`
+- `organization_design/015-broaden-the-alliance-without-giving-away-the-strategic-core.md`
+- `organization_design/016-turn-strategy-into-a-shared-company-mission.md`
+- `organization_design/017-organizational-understanding-grows-from-field-contact-and-revalidation.md`
+- `organization_design/021-dont-trade-surface-harmony-for-organizational-truth.md`
+- `organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md`
+- `organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md`
+- `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
+- `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
+- `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
+- `strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
+- `strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
+- `strategy_and_execution/012-realign-the-company-around-the-main-threat-and-broad-alliance.md`
+- `strategy_and_execution/013-preserve-core-strength-and-concentrate-for-the-decisive-company-battle.md`
+- `strategy_and_execution/018-find-the-main-operating-contradiction-before-fighting-on-all-fronts.md`
+- `strategy_and_execution/019-dont-just-set-strategy-build-the-org-and-resource-system.md`
+- `strategy_and_execution/020-company-crucial-phases-need-full-mobilization-not-partial-effort.md`
+- `strategy_and_execution/022-dont-confuse-top-level-reconciliation-with-operating-turnaround.md`
+- `strategy_and_execution/023-dont-run-company-critical-phases-as-a-passive-defensive-war.md`
+- `strategy_and_execution/024-dont-mistake-partial-operating-relief-for-a-real-company-turnaround.md`
+- `strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md`
+- `strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md`
+- `strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md`
+- `strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md`
+- `strategy_and_execution/031-a-new-company-stage-begins-when-insight-joins-the-frontline.md`
+- `strategy_and_execution/032-vanguards-must-join-the-real-business-main-force.md`
+- `strategy_and_execution/033-dont-let-appeasement-logic-break-your-company-mainline-and-alliance.md`
+- `strategy_and_execution/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
+- `strategy_and_execution/035-dont-treat-a-new-business-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+- `strategy_and_execution/036-dont-treat-business-allies-as-outsiders-build-org-self-reliance-and-defend-boundaries.md`
+- `strategy_and_execution/037-dont-judge-business-allies-by-surface-deals-see-whose-interests-really-align.md`
+- `strategy_and_execution/038-companies-need-alliances-hard-execution-and-an-organizing-core.md`
+- `strategy_and_execution/039-stalemate-competition-three-internal-dangers.md`
+- `strategy_and_execution/041-统一战线创业中的联盟与阶级分析.md`
+- `strategy_and_execution/mao-044-united-front-business-philosophy.md`
+- `strategy_and_execution/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
+- `strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md`
+- `strategy_and_execution/047-real-company-unity-needs-progress-openness-and-protecting-builders.md`
+- `strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md`
+- `strategy_and_execution/049-dont-call-it-company-unity-if-it-does-not-protect-progress.md`
+- `strategy_and_execution/050-dont-call-it-a-new-company-order-if-most-builders-still-have-no-real-say.md`
+- `strategy_and_execution/051-dont-call-it-shared-company-governance-if-public-affairs-are-still-run-by-a-few.md`
+- `strategy_and_execution/052-broaden-company-support-without-dropping-strategic-direction.md`
+- `strategy_and_execution/053-real-company-turnarounds-come-from-growing-new-strength-not-just-defending-old-territory.md`
+- `strategy_and_execution/054-unity-that-lasts-needs-holding-the-business-mainline-and-keeping-the-organization-together.md`
+- `strategy_and_execution/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-companies.md`
+- `strategy_and_execution/056-when-a-company-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
+- `strategy_and_execution/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-situation-better.md`
+- `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
+
+## Focus of the current notes
+- how companies recognize bottom-up correction, distinguish real structural grievances from noise, and turn frontline pressure into governance upgrade instead of suppressing it as disorder
+- how organizations identify allies, blockers, and swing forces by real incentives, dependency structure, and operating position instead of title and posture alone
+- how organizations identify recurring internal cognitive and coordination errors
+- how to keep criticism inside mechanisms instead of letting it decay into factional noise
+- how to preserve strategic focus instead of drifting into blind expansion and internal fragmentation
+- how companies build local strongholds first and then expand in waves
+- how leaders avoid both premature despair and premature full-scale expansion
+- how managers investigate reality before issuing structural judgements and interventions
+- how companies build cash, supply, and operating resilience for long pressure cycles
+- how organizations classify people by real function, incentives, and structural role instead of title alone
+- how companies build an operating system that balances production, trade flow, partner structure, finance, and discipline
+- how companies re-identify the main external threat, widen the alliance structure, and avoid self-isolating strategy during major regime change
+- how organizations broaden internal and external alliance structures in a more complex stage without giving away strategic direction, independence, and leadership responsibility
+- how companies turn a top-level strategic direction into a shared organizational mission by opening real feedback channels, developing backbone operators, and organizing broad participation
+- how organizations form more reliable managerial judgement by moving from field contact to structural understanding and then back into real-world validation
+- how organizations prevent slow internal decay by forcing criticism, bad signals, and cooperation problems back into formal mechanisms instead of letting surface harmony and private politics run the company
+- how companies preserve core cash, talent, and operating strength instead of trying to defend every front at once
+- how leadership contracts secondary lines and concentrates force on one decisive operating battle when under pressure
+- how leadership teams judge claimed turnarounds by whether old harmful policies stop, real resources move, and key actors pay the cost of changing course
+- how management identifies the current main operating contradiction instead of letting every department escalate its own pressure into the company's top priority
+- how companies match a correct strategy with organization, resource, alliance, governance, and cash arrangements so the business does not confuse right direction with automatic execution
+- how companies fight crucial phases by fully mobilizing people, budgets, structure, partners, and one-line realities instead of relying on half-converted strategy and a few exhausted core operators
+- how companies avoid mistaking top-level reconciliation, investor calm, or partner détente for a real operating turnaround by building a shared governing framework, widening real participation, and retiring outdated systems
+- how companies stop running critical phases as passive defensive wars by widening real participation, replacing outdated operating systems, and concentrating force on proactive attacks against decisive business bottlenecks
+- how companies navigate dangerous transition periods by not mistaking partial operating relief for a real turnaround, while widening true participation and preserving enough independent organizational position to stop the old system from reabsorbing the attempted transformation
+- how companies protect hard-won operating order during coordination periods by welcoming real support while preventing unauthorized intervention, reopened old privileges, and boundaryless cooperation from dragging the business back into chaos
+- how companies build real operating base areas under long pressure, preserve cash and organizational mobility, and gradually turn weak-position survival into stronger main-force business capacity
+- how companies avoid both defeatist contraction and premature expansion by using stage judgment, long positioning, local decisive battles, and sustained mobilization to turn weak operating positions into winnable ones
+- how companies stop prematurely claiming a leadership position and instead build the real organizational backbone—cadre quality, discipline, feedback democracy, alliance work, talent use, and learning capacity—that makes larger responsibility and leadership legitimacy actually sustainable
+- how companies widen alliance structures, make strategic concessions, and still preserve long-term direction, organizational initiative, and development position so cooperation with stronger external forces does not turn the business into a passive appendage
+- how companies stop managing decisive hard battles as one more parallel operating issue, and instead identify the main battlefield, organize business main force around it, and make most organizational work directly or indirectly serve that central strategic line
+- how companies recognize that a real new operating stage begins only when top-level insight joins frontline customer and delivery reality, allowing strategy to combine with burden-bearing organizational forces and become wider mobilization and execution capacity
+- how companies stop mistaking insightful managers for the whole operating main force, and instead connect leadership judgement with frontline burden-bearing systems so broader business mobilization can actually happen
+- how companies recognize that under sustained pressure the first collapse often comes not from external competition alone but from internal appeasement logic that blurs the mainline, isolates backbone operators, and trades real strategic position for surface calm
+- how companies turn claimed unity into real operating order by protecting backbone builders, making repeat destroyers pay a cost, and refusing to let surface calm repeatedly reward the people who break the business mainline
+- how companies avoid mistaking a newly stabilized operating phase for rest, and instead hold the business mainline, keep the backbone coalition from drifting apart, continue system progress, and turn temporary relief into preparation for counterattack
+- how companies stop treating real business allies as outsiders, build organizational self-reliance through internal governance upgrade, and defend boundaries without dissolving cooperation into factional drag
+- how companies distinguish tactical deals and public gestures from real long-term interest alignment, so leadership can use outside resources without surrendering strategic judgement or self-reliance
+- how companies stop treating alliance-building and hard execution as separate capabilities, and instead build the organizational core that can unify partners, decisive battles, and internal construction around one strategic mainline

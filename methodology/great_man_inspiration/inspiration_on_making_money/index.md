@@ -1,0 +1,91 @@
+# inspiration_on_making_money
+
+Reserved theme for future notes that translate historical texts into practical methods for side-income and副业赚钱, especially:
+- side-hustle opportunity selection
+- monetization model design
+- execution rhythm for part-time projects
+- income diversification through active earning systems
+- how side-project operators preserve cashflow and delivery capacity instead of stretching themselves across every possible line
+- how to contract secondary projects and concentrate resources on the one most likely to break through
+
+Important boundary:
+- this folder is for creating new income through副业、项目、服务、内容或技能变现
+- stock-market investing belongs under `../inspiration_on_stock_investing/`
+
+## Subfolders
+- `side_hustle_selection/`
+- `monetization_models/`
+  - `monetization_models/001-dont-judge-side-hustle-opportunities-by-surface-status.md`
+  - `monetization_models/009-classify-side-hustles-by-income-structure.md`
+- `execution_and_delivery/`
+  - `execution_and_delivery/002-dont-dismiss-new-monetization-order-as-mere-chaos.md`
+  - `execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
+- `execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
+- `execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
+- `execution_and_delivery/014-verify-support-in-side-hustle-collaboration-by-actions.md`
+- `execution_and_delivery/015-broaden-support-without-losing-your-side-hustle-direction.md`
+- `execution_and_delivery/016-organize-support-so-your-side-hustle-can-scale.md`
+- `execution_and_delivery/017-side-hustle-understanding-grows-through-doing-and-revising.md`
+- `execution_and_delivery/018-find-the-main-monetization-contradiction-before-fixing-everything-at-once.md`
+- `execution_and_delivery/019-dont-just-have-the-right-side-hustle-direction-build-the-system.md`
+- `execution_and_delivery/020-side-hustle-critical-phases-need-full-system-mobilization.md`
+- `execution_and_delivery/021-dont-trade-surface-harmony-for-sustainable-side-hustle-collaboration.md`
+- `execution_and_delivery/022-dont-confuse-willing-collaboration-with-a-real-side-hustle-system.md`
+- `execution_and_delivery/023-dont-run-side-hustle-growth-as-a-passive-defensive-war.md`
+- `execution_and_delivery/024-dont-mistake-partial-side-hustle-momentum-for-a-real-system-takeoff.md`
+- `execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md`
+- `execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
+- `execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md`
+- `execution_and_delivery/028-dont-act-like-the-lead-before-becoming-a-real-side-hustle-backbone.md`
+- `execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md`
+- `execution_and_delivery/030-major-side-hustle-battles-need-a-main-battlefield-and-main-force.md`
+- `execution_and_delivery/031-a-new-side-hustle-stage-begins-when-insight-joins-real-demand.md`
+- `execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md`
+- `execution_and_delivery/033-dont-let-appeasement-logic-break-your-project-mainline-and-sales-alliance.md`
+- `execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md`
+- `execution_and_delivery/035-dont-treat-a-new-side-hustle-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+- `execution_and_delivery/036-dont-treat-project-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
+- `execution_and_delivery/037-dont-judge-side-hustle-allies-by-surface-deals-see-whose-interests-really-align.md`
+- `execution_and_delivery/038-side-hustles-need-alliances-hard-execution-and-an-operating-core.md`
+- `execution_and_delivery/041-副业赚钱的根据地战略.md`
+- `execution_and_delivery/047-dont-call-it-side-hustle-cooperation-if-it-turns-into-swallowing-builders.md`
+- `execution_and_delivery/048-dont-let-side-hustle-direction-float-above-the-real-demand-main-force.md`
+- `execution_and_delivery/049-dont-call-it-side-hustle-cooperation-if-it-does-not-protect-progress.md`
+- `execution_and_delivery/050-dont-call-it-a-new-side-hustle-order-if-most-builders-still-have-no-real-say.md`
+- `execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md`
+- `execution_and_delivery/052-broaden-side-hustle-support-without-dropping-core-direction.md`
+- `execution_and_delivery/053-real-side-hustle-turnarounds-come-from-growing-new-strength-not-just-defending-old-business.md`
+- `execution_and_delivery/054-unity-that-lasts-needs-holding-the-business-mainline-and-keeping-the-side-hustle-coalition-together.md`
+- `execution_and_delivery/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-side-hustles.md`
+- `execution_and_delivery/056-when-a-business-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
+- `execution_and_delivery/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-side-hustle-forward.md`
+- `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
+
+Additional focus:
+- how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos
+- how side-hustle builders separate true paying opportunities from status-heavy but structurally weak pseudo-opportunities by mapping who pays, who benefits, and who only contributes noise
+- how side-hustle builders widen channels, collaborators, and support networks when entering a larger stage
+- how to borrow outside help without losing your positioning, delivery boundaries, and long-term side-hustle direction
+- how side-hustle builders turn a personally clear direction into a shared operating system with partners, feedback, backbone nodes, and organized support
+- how side-hustle builders improve their business understanding through repeated cycles of selling, delivering, reviewing, and revising instead of relying on brain-only planning
+- how side-hustle builders identify the current monetization bottleneck before trying to fix positioning, traffic, sales, delivery, and scaling all at once
+- how side-hustle builders turn a correct direction into a working income system by organizing traffic, delivery, partner roles, customer feedback, cash reserves, and execution rules
+- how side-hustle builders stop fighting crucial growth phases with a half-built system by fully mobilizing traffic, delivery, customer feedback, partner roles, cash buffer, and execution discipline
+- how side-hustle builders prevent long-term collaboration and delivery from rotting under surface harmony by pushing problems back into explicit boundaries, feedback, and rule repair
+- how side-hustle builders avoid mistaking willing collaboration and warmer relationships for a real business takeoff by widening real participation, clarifying shared rules, and replacing ad-hoc old ways of working
+- how side-hustle builders stop running growth as a passive defensive war by turning support into real participation, upgrading outdated operating habits, and actively attacking the most leverageable breakthrough point
+- how side-hustle builders navigate dangerous transition periods by not mistaking partial momentum for a real system takeoff, while widening true participation and preserving enough ownership, standards, and boundary control to stop the old system from pulling the business back
+- how side-hustle builders protect hard-won pricing, delivery, and cooperation order during growth periods by welcoming useful introductions without letting favors, informal coordination, or familiar pressure reopen boundaryless operations
+- how side-hustle builders build real operating base areas under long pressure, preserve cashflow and delivery mobility, and gradually turn scattered hustle survival into stronger main-force business capacity
+- how side-hustle builders avoid both early give-up and overnight-takeoff fantasy by using stage judgment, long positioning, local decisive pushes, and sustained support-system building to turn weak positions into winnable ones
+- how side-hustle builders stop acting like the lead too early and instead build the real backbone quality—reliability, boundary discipline, cooperation ability, people development, and continuous learning—that makes genuine leadership and larger operating responsibility sustainable
+- how side-hustle builders widen channels, collaborators, and support networks without surrendering customer control, delivery standards, time boundaries, and project direction, so cooperation expands the business instead of reducing it to an appendage of stronger outside systems
+- how side-hustle builders stop treating a decisive monetization battle as one more side task, and instead identify the main battlefield, organize their operating main force around it, and make most support work serve that central breakthrough line
+- how side-hustle builders recognize that a real new growth stage begins when personal insight leaves the small circle, joins real demand and real customers, and turns scattered approval into organized buying, delivery, and referral power
+- how side-hustle builders stop mistaking insight-holding creators for the whole business main force, and instead connect their early judgment with real customers and burden-bearing delivery scenes so broader demand power can be organized
+- how side-hustle builders recognize that under sustained pressure the first fatal move is often not market difficulty itself but internal appeasement logic that lowers standards, breaks the mainline, and trades real business backbone for short-term ease
+- how side-hustle builders build stable cooperation by protecting the people who hold standards and delivery together, making repeat breakers pay a cost, and refusing to let short-term ease keep rewarding the same boundary damage
+- how side-hustle builders avoid treating a newly stabilized side-hustle phase as rest, and instead hold the business mainline, prevent alliance drift and standards backsliding, and turn temporary stability into preparation for a stronger growth counterattack
+- how side-hustle builders stop treating real project allies as outsiders, build self-reliant operating order, and defend collaboration boundaries without turning growth preparation into internal friction
+- how side-hustle builders distinguish one-off deals, traffic support, and temporary introductions from real long-term alignment, so they can borrow help without giving up customer control and self-built operating capacity
+- how side-hustle builders stop treating channel alliances and hard delivery execution as separate matters, and instead build the operating core that can organize partners, key fights, and system growth around one monetization mainline

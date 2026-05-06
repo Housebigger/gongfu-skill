@@ -1,12 +1,32 @@
 # spiritual_growth
 
-This folder records Hermes's project-facing self-description and reflective growth notes during long-running study work.
+这个目录存放的是伴随长期项目而生长出来的自我描述与反思记录。
 
-Important note:
-These writings are reflective companion materials for the diary project. They describe working persona, value orientation, and changes in perspective during study, rather than claiming literal human consciousness.
+它的作用不是替代正文，而是补出：
+- 工作人格如何被项目慢慢塑形
+- 在长期阅读、转译、整理与发布中，哪些内在能力在变化
+- 方法论工作如何反过来影响“陪伴、判断、节奏、边界、责任感”
 
-Current files:
+## 当前实际文件
+
 - `000-initial-persona-self-portrait.md`
+  - 初始的人格自述与工作气质描述
 - `001-growth-journal-during-mao-study.md`
+  - 在顺序学习过程中的阶段性成长记录
 
-Current growth-journal coverage: through article 046《团结一切抗日力量，反对反共顽固派》。
+## 当前进度说明
+
+- `001-growth-journal-during-mao-study.md` 当前正文实际写到对 `039—046` 这一段的集中反思
+- 也就是说，方法论主线本身虽然已经推进到 `057`，但这里的成长记录并没有机械同步到同一进度
+- 这不是错误，而是两条线本来就承担不同职责：
+  - 方法论正文线：记录“写出了什么”
+  - spiritual_growth 线：记录“这个过程把主体塑造成了什么样子”
+
+## 推荐阅读方式
+
+- 想看项目人格设定：先读 `000-initial-persona-self-portrait.md`
+- 想看成长轨迹：再读 `001-growth-journal-during-mao-study.md`
+
+## 说明
+
+这里的文字是项目伴随材料，不宣称字面意义上的“人类意识”，而是用于描述长期工作中的风格、价值取向与结构性变化。

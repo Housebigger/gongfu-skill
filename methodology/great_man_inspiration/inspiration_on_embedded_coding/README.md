@@ -1,17 +1,67 @@
 # inspiration_on_embedded_coding
 
-Theme: translate major historical texts into modern embedded-software and engineering methodology.
+这个主题把毛主席相关文章转译成面向嵌入式软件、固件、驱动、板级联调、量产收敛与现场维护的方法论。
 
-Important boundary:
-This folder is specifically for embedded software, firmware, drivers, hardware-coupled debugging, and engineering work constrained by real devices and field conditions.
-General app, web, and mini-program software methodology should go under `../inspiration_on_software_development/`.
+## 主题边界
 
-Start with:
-- `index.md`
-- `indexes/embedded-engineering-thought-series-index.md`
+这里专门处理：
+- firmware / driver / BSP / board bring-up
+- 硬件强耦合的软件问题
+- 真机调试、量产、现场问题闭环
+- 长周期、资源受限、硬约束明显的工程场景
 
-Current contents are organized by practical engineering use:
-- `engineering_strategy/`
-- `debugging_and_fieldwork/`
-- `system_analysis_and_architecture/`
-- `team_process_and_knowledge/`
+不处理：
+- 通用 App / Web / 小程序产品开发
+- 纯产品侧需求管理
+- 一般性的互联网协作方法
+
+这些内容应放到 `../inspiration_on_software_development/`。
+
+## 当前实际结构
+
+- `debugging_and_fieldwork/`：2 篇
+  - 面向调试闭环、真机调查、反资料主义
+- `engineering_strategy/`：7 篇
+  - 面向长周期工程、根据地、主战场、阶段判断、总动员
+- `system_analysis_and_architecture/`：1 篇
+  - 面向主次矛盾、故障排序与系统结构判断
+- `team_process_and_knowledge/`：21 篇
+  - 面向协作边界、知识沉淀、纪律、保护建设者、复杂协作治理
+- `indexes/`
+  - `indexes/embedded-engineering-thought-series-index.md`
+
+当前合计：31 篇 article-based 笔记，对应 31 篇毛文来源。
+
+## 推荐入口
+
+- 总入口：`index.md`
+- 系列索引：`indexes/embedded-engineering-thought-series-index.md`
+
+## 子目录速览
+
+### `debugging_and_fieldwork/`
+适合看：
+- 如何用实践闭环取代纸面判断
+- 如何把“没有调查就没有发言权”落到驱动与现场问题上
+
+### `engineering_strategy/`
+适合看：
+- 长周期工程如何判断阶段
+- 如何建工程根据地
+- 如何识别主战场、组织主力、避免误把暂稳当休息
+
+### `system_analysis_and_architecture/`
+适合看：
+- 复杂系统里如何识别主次矛盾
+- 故障排序与结构化诊断怎么做
+
+### `team_process_and_knowledge/`
+适合看：
+- 嵌入式团队的协作边界、知识复盘、纪律、奖惩与协同治理
+- 为什么“保护建设者 + 让破坏者承担后果”是团队长期稳定的核心
+
+## 放置原则
+
+- 先按“工程用途”放置，再按文章顺序命名
+- 同一篇毛文只要能落到嵌入式母题，就可以进入这里
+- 如果内容的主要承载场景是产品软件而不是硬件耦合工程，请改放到 `../inspiration_on_software_development/`

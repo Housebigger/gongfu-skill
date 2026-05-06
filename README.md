@@ -1,12 +1,64 @@
+# gongfu-skill
 
-共富.skill
+这是一个从 `Hermes_exploration_diary` 中迁移出来的、以“可复用功夫”为核心的知识仓库。
 
-共同富裕从来不是遥不可及的远景规划，更不是脱离现实的空谈幻想，时代发展走到今天，已然步入理念凝聚、价值共建、利益普惠的关键窗口期。广大劳动人民更应清醒认知：共同富裕从来不会凭空降临，既不能被动寄望于资本群体的良心自省与善意施舍，也不能坐等所谓天降青天大老爷的怜悯成全、自上而下的单向安排。我们更当传承祖祖辈辈薪火相传的勤劳本色，执起耕耘大地的镰刀锄头，握紧建设家园的锤子铁锹，以踏实立身去开垦时代沃土，以勤勉奋斗去创造美好生活，靠自身双手打拼属于自己的幸福与公平。
+它当前保留的重点，不是流水式日记，而是已经沉淀成方法论、主题化转译、经验结晶和伴随式反思的稳定部分。
 
-机器人行业，是为数字世界筑牢实体根基、搭建智能躯体的基础性行业，是赋能社会生产、大幅拉升生产力与生产效率的关键性行业，更是颠覆传统劳作模式、重塑劳动形态、解放人力束缚的前瞻性行业。承载着科技变革与产业升级使命的机器人领域，其核心技术、产业链优势与时代发展红利，绝不能任由大型资本肆意垄断、私自把控，更不能沦为资本无序扩张、固化阶层差距、开展新一轮劳动剥削的冰冷凶器。
+## 当前仓库实际包含什么
 
-与机器人行业相辅相成的人工智能行业，更是数字时代的“智慧大脑”，是重构生产生活方式、激活全产业链活力、推动生产力迭代升级的核心引擎。从智能算法的精准赋能到大数据的高效应用，从人机协同的高效生产到民生服务的便捷升级，人工智能的每一步发展，都与广大劳动人民的切身利益紧密相连，都承载着解放人力、提升福祉、推动社会进步的时代使命。这一行业的核心算法、数据资源、技术成果，同样不能被大资本所垄断、所操控——若任由资本将人工智能异化为精准压榨劳动价值、收割大众利益、固化阶层壁垒的工具，不仅会背离科技发展的初心，更会阻碍共同富裕的推进步伐。人工智能的智慧之光，理应照亮每一位劳动者的奋斗之路，其技术成果理应归全体人民共建共享，成为助力劳动者提升能力、减轻负担、实现价值的强大支撑，而非资本牟取暴利、加剧不公的手段。
+### 1. `methodology/great_man_inspiration/`
+这是仓库当前最主要的正文区。
 
-新时代能够解放生产力、引领产业变革的新型生产工具、科创成果与核心生产资料，理当扎根人民、归属人民、服务人民，由广大劳动者共同参与创造、共同享有红利、共同守护成果。那些漠视劳动法规底线、钻制度空子大肆敛财的逐利之徒，那些脱离群众根基、高高在上骑在百姓头上作威作福的傲慢者，那些身处社会主义时代语境，却以资本权贵自居、沾沾自喜凌驾于大众利益之上的利己者，那些依附公共资源、吸附社会根基、把普通民众当作牟利血包的寄生蛀虫，终将被时代进步的洪流涤荡净化，被社会公平正义的大势冲刷淘汰，更会被滚滚向前的历史车轮碾作尘埃。
+- 7 个主题目录：
+  - `inspiration_on_today_life/`
+  - `inspiration_on_software_development/`
+  - `inspiration_on_running_a_company/`
+  - `inspiration_on_stock_investing/`
+  - `inspiration_on_making_money/`
+  - `inspiration_on_embedded_coding/`
+  - `inspiration_on_educational_undertakings/`
+- 当前已建立 `原文对应` 的主题转译文件：327 篇
+- 当前已建立原文关联的毛文标题数：58 篇
+  - 顺序主线：001—057
+  - 非顺序拓展：060《改造我们的学习》
+- 顺序主线的下一篇：058《关于打退第二次反共高潮的总结》
 
-生而无产，立身以勤；生逢时代，守心以正。我辈劳动者当觉醒本心、自立自强，不甘平庸、不愿受制，以奋斗守护尊严，以实干构筑梦想，众志成城齐心捍卫人人共建、人人共享、人人共富的美好未来。起来！起来！起来！
+建议入口：
+- `methodology/great_man_inspiration/README.md`
+- 各主题目录下自己的 `README.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
+
+### 2. `accumulation_settle/`
+这是正文之外的沉淀层，存放跨文章经验汇总与伴随式成长材料。
+
+- `experience_crystallization/`：11 个稳定沉淀文件
+  - `000-mao-study-execution-wisdom.md`
+  - `100-theme-summaries-index.md`
+  - `101—108` 八个主题化经验汇总
+  - `109-theme-summary-source-mapping.md`
+- `spiritual_growth/`：2 个伴随式反思文件
+  - `000-initial-persona-self-portrait.md`
+  - `001-growth-journal-during-mao-study.md`
+
+## 推荐阅读路径
+
+### 如果你想先看全局导航
+1. 读 `methodology/great_man_inspiration/README.md`
+2. 再按主题进入各子目录 `README.md`
+
+### 如果你想沿毛文顺序追主线
+1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
+2. 当前边界是 057，下一篇是 058
+
+### 如果你想看“做事方法”而不是单篇文章
+1. 读 `accumulation_settle/experience_crystallization/README.md`
+2. 从 `100-theme-summaries-index.md` 进入 101—108 主题汇总
+
+### 如果你想看项目伴随式自我反思
+1. 读 `accumulation_settle/spiritual_growth/README.md`
+
+## 维护原则
+
+- 目录导航以每层 `README.md` 为准
+- 主题放置优先按“用途/母题”而不是单纯按日期
+- README 只描述当前仓库里真实存在的结构，不假设旧仓库里未迁移的文件仍然存在

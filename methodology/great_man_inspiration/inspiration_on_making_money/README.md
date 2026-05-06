@@ -1,7 +1,50 @@
 # inspiration_on_making_money
 
-Reserved for future notes that translate historical texts into practical lessons on side-income, project monetization, and副业赚钱 strategy.
+这个主题聚焦“主动赚钱 / 副业变现 / 项目化收入”方法论，而不是二级市场投资。
 
-Boundary:
-- use this folder for active earning systems and monetizable side projects
-- use `../inspiration_on_stock_investing/` for stock-market investing and二级市场 methodology
+也就是说，它回答的是：
+- 如何识别可做的副业机会
+- 如何设计变现模型
+- 如何把个人项目做成能稳定交付、能持续供血的赚钱系统
+
+不回答：
+- 股票研究
+- 仓位管理
+- 二级市场择时
+
+那些内容属于 `../inspiration_on_stock_investing/`。
+
+## 当前实际结构
+
+- `monetization_models/`：2 篇
+- `execution_and_delivery/`：44 篇
+
+当前合计：46 篇 article-based 笔记，对应 46 篇毛文来源。
+
+说明：
+- 早期文档里曾把这里当作“reserved theme”描述，但当前仓库里它已经是一个内容相当完整的成熟主题，不再只是预留目录。
+
+## 子目录速览
+
+### `monetization_models/`
+适合看：
+- 机会判断
+- 收入结构分类
+
+### `execution_and_delivery/`
+适合看：
+- 客户经营
+- 支持面组织
+- 副业主战场判断
+- 现金流与边界控制
+- 如何在复杂合作里守住主线又扩大收入面
+
+## 推荐入口
+
+- 总入口：`index.md`
+
+## 使用提醒
+
+- 这里强调“做出来、卖出去、交付得住”
+- 如果一个方法主要服务于主动收入系统，就放这里
+- 如果主要服务于股票投资判断，请改放到 `../inspiration_on_stock_investing/`

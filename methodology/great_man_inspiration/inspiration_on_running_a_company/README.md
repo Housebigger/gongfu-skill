@@ -9,11 +9,11 @@
 
 ## 当前实际结构
 
-- `organization_design/`：11 篇
+- `organization_design/`：12 篇
 - `leadership_and_talent/`：4 篇
 - `strategy_and_execution/`：40 篇
 
-当前合计：55 篇 article-based 笔记，对应 55 篇毛文来源。
+当前合计：56 篇 article-based 笔记，对应 56 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -26,6 +26,7 @@
 - 组织边界
 - 反馈机制
 - 战略如何被组织化承接
+- 管理判断如何建立在下情而不是二手汇报之上
 
 ### `leadership_and_talent/`
 适合看：

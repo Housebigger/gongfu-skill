@@ -19,10 +19,10 @@
 
 ## 当前实际结构
 
-- `debugging_and_fieldwork/`：2 篇
-  - 面向调试闭环、真机调查、反资料主义
-- `engineering_strategy/`：7 篇
-  - 面向长周期工程、根据地、主战场、阶段判断、总动员
+- `debugging_and_fieldwork/`：3 篇
+  - 面向调试闭环、真机调查、反资料主义，以及一线调查方法
+- `engineering_strategy/`：8 篇
+  - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备与转机判断
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
 - `team_process_and_knowledge/`：21 篇
@@ -30,7 +30,7 @@
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：31 篇 article-based 笔记，对应 31 篇毛文来源。
+当前合计：33 篇 article-based 笔记，对应 33 篇毛文来源。
 
 ## 推荐入口
 
@@ -43,12 +43,14 @@
 适合看：
 - 如何用实践闭环取代纸面判断
 - 如何把“没有调查就没有发言权”落到驱动与现场问题上
+- 如何把“眼睛向下、开调查会”翻译成嵌入式一线取材方法
 
 ### `engineering_strategy/`
 适合看：
 - 长周期工程如何判断阶段
 - 如何建工程根据地
 - 如何识别主战场、组织主力、避免误把暂稳当休息
+- 如何在重创之后既做最坏准备又不提前判死项目
 
 ### `system_analysis_and_architecture/`
 适合看：

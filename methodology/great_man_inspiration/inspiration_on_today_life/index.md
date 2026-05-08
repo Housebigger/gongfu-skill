@@ -45,6 +45,7 @@ Purpose:
 - `judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md`
 - `judgement_and_decision/057-dont-mistake-temporary-easing-for-real-stability-keep-seeing-the-structure-and-pushing-the-situation-better.md`
 - `judgement_and_decision/058-prepare-for-the-worst-without-losing-sight-of-the-main-contradiction-and-better-possibilities.md`
+- `judgement_and_decision/059-real-life-judgements-need-downward-investigation-not-second-hand-stories.md`
 
 Purpose:
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
@@ -58,6 +59,7 @@ Purpose:
 - how to resist single-event emotional judgments in complex situations by distinguishing surface contact from real long-term interest alignment and by keeping self-reliance as the main line when external help shifts
 - how ordinary people recognize that when external pressure shifts from intense attack to prolonged low-level drain, the real threat becomes internal surrender, alliance fragmentation, and standards erosion
 - how ordinary people prepare for the worst without collapsing all possibilities into one doom judgment, and instead keep hold of the main contradiction, classified response, and better openings
+- how ordinary people stop letting second-hand stories, high-position summaries, and surface signals replace real downward investigation before major life judgements
 
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`

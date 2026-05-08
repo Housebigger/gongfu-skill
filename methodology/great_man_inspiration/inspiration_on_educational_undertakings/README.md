@@ -16,10 +16,10 @@
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：5 篇
 - `teacher_growth_and_backbone/`：8 篇
-- `school_governance_and_crisis_response/`：7 篇
-- `school_coordination_and_organization/`：14 篇
+- `school_governance_and_crisis_response/`：8 篇
+- `school_coordination_and_organization/`：15 篇
 
-当前合计：39 篇 article-based 笔记，对应 38 篇毛文来源。
+当前合计：41 篇 article-based 笔记，对应 40 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -60,6 +60,7 @@
 - 教师协作
 - 行政与同事支持面经营
 - 学校治理中的统一、进步、边界与后果结构
+- 学校判断如何建立在班情校情而不是二手汇报之上
 
 ## 使用提醒
 

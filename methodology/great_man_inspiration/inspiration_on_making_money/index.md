@@ -60,6 +60,7 @@ Important boundary:
 - `execution_and_delivery/056-when-a-business-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 - `execution_and_delivery/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-side-hustle-forward.md`
 - `execution_and_delivery/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-side-hustle-turnaround-possibilities.md`
+- `execution_and_delivery/059-dont-build-side-hustle-judgement-on-second-hand-feedback-investigate-real-demand-first.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

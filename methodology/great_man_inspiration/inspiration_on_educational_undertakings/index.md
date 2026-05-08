@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-038篇回顾筛选）
+> 来源：毛泽东选集学习笔记（001-059篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -37,6 +37,7 @@
 - [041 学校治理先看清问题性质，再决定统一战线与主攻方向](school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md)
 - [045 很多班级和学校的局面，不是被一次大冲突搞坏的，而是老师因为怕伤感情、怕投诉、怕激化矛盾，连续“先算了”，最后把规则和权威一起让塌了](school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md)
 - [046 很多老师不是看不见少数问题学生，而是一受伤就扩大化，把本来还能争取的大多数学生、家长和同事也一起推远了，最后把班风、信任和治理空间一起做坏了](school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md)
+- [058 真正成熟的学校危机治理，不是一次重创后就把学校局面提前判死，而是既做最坏准备，又守住主矛盾、分类判断和学校转机](school_governance_and_crisis_response/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-school-turnaround-possibilities.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
@@ -53,6 +54,7 @@
 - [055 真正成熟的教育政策感，不是只会站队或只会硬顶，而是能把联合、斗争、区别对待和分寸感一起用出来](school_coordination_and_organization/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-schools.md)
 - [056 真正成熟的合作观，不是学校核心秩序被公开伤害后还继续装作没事，而是在学校底线被踩穿后，敢于把事实讲明、把责任点名、把修复条件摆清，再决定合作还能不能继续](school_coordination_and_organization/056-when-a-school-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md)
 - [057 不要把暂时缓和误判成真正稳定，要继续看结构矛盾、争取中间力量，并把窗口期过成学校转机](school_coordination_and_organization/057-dont-mistake-temporary-easing-for-real-school-stability-keep-seeing-structure-and-keep-pushing-school-progress.md)
+- [059 不要让学校判断悬在二手汇报上，要把向下调查做成校情班情机制](school_coordination_and_organization/059-dont-let-school-judgement-float-on-second-hand-reports-build-downward-investigation.md)
 
 ---
-统计：36篇笔记 / 5个子主题 / 覆盖001-057中36篇原文
+统计：41篇笔记 / 5个子主题 / 覆盖001-059中40篇原文

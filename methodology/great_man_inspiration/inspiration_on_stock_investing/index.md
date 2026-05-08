@@ -54,6 +54,8 @@ Purpose:
 - `research_and_thesis/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-investment-research.md`
 - `research_and_thesis/056-when-a-research-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 - `research_and_thesis/057-dont-mistake-temporary-easing-for-real-thesis-stability-keep-seeing-structure-and-keep-pushing-the-research-situation-better.md`
+- `research_and_thesis/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-thesis-turnaround-possibilities.md`
+- `research_and_thesis/059-dont-build-thesis-on-second-hand-summaries-go-down-and-verify-firsthand.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking

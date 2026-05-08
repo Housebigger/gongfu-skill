@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—058。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—059。
 - 除了这条顺序主线外，仓库里还有少量“非顺序先写”的拓展条目，例如 `《改造我们的学习》`。
 
 ## 1. 当前覆盖状态总览
@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 59 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 331 |
-| 顺序学习已连续覆盖范围 | 001—058 |
-| 顺序覆盖段标题核对结果 | 58/58 与 marxists.org 标题一致；另有 1 篇非顺序拓展 |
+| 当前已建立原文关联的毛文标题数 | 60 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 341 |
+| 顺序学习已连续覆盖范围 | 001—059 |
+| 顺序覆盖段标题核对结果 | 59/59 与 marxists.org 标题一致；另有 1 篇非顺序拓展 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 059《农村调查》的序言和跋 |
+| 顺序主线的下一篇 | 060《改造我们的学习》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `058《关于打退第二次反共高潮的总结》`。
-- 在 `001—058` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `059《农村调查》的序言和跋`
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `059《农村调查》的序言和跋`。
+- 在 `001—059` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `060《改造我们的学习》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -91,16 +91,16 @@
 | 055 | 《论政策》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19401225.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 056 | 《为皖南事变发表的命令和谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410120.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 057 | 《打退第二次反共高潮后的时局》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410318.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 058 | 《关于打退第二次反共高潮的总结》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 058 | 《关于打退第二次反共高潮的总结》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 059 | 《农村调查》的序言和跋 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—058 顺序主线已建立关联         [##########################################################]
-058 《关于打退第二次反共高潮的总结》   [DONE]
-059 《农村调查》的序言和跋             [NEXT]
-060 改造我们的学习                   [EXTRA] 非顺序拓展
+001—059 顺序主线已建立关联         [###########################################################]
+059 《农村调查》的序言和跋             [DONE]
+060 《改造我们的学习》                 [NEXT/EXTRA] 目前仅有非顺序拓展
 ```
 ## 3. 主题缩写图例
 
@@ -177,7 +177,8 @@
 | 055 | 《论政策》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19401225.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure.md) | [SD](./inspiration_on_software_development/team_process_and_quality/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-software-teams.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-companies.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-investment-research.md) | [MM](./inspiration_on_making_money/execution_and_delivery/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-side-hustles.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/029-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-embedded-teams.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-schools.md) | 7 |
 | 056 | 《为皖南事变发表的命令和谈话》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410120.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/056-when-the-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md) | [SD](./inspiration_on_software_development/team_process_and_quality/056-when-an-engineering-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/056-when-a-company-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/056-when-a-research-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md) | [MM](./inspiration_on_making_money/execution_and_delivery/056-when-a-business-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/030-when-an-embedded-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/056-when-a-school-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md) | 7 |
 | 057 | 《打退第二次反共高潮后的时局》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410318.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/057-dont-mistake-temporary-easing-for-real-stability-keep-seeing-the-structure-and-pushing-the-situation-better.md) | [SD](./inspiration_on_software_development/team_process_and_quality/057-dont-mistake-temporary-easing-for-real-project-stability-keep-seeing-structure-and-keep-pushing-the-turnaround.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-situation-better.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/057-dont-mistake-temporary-easing-for-real-thesis-stability-keep-seeing-structure-and-keep-pushing-the-research-situation-better.md) | [MM](./inspiration_on_making_money/execution_and_delivery/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-side-hustle-forward.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/057-dont-mistake-temporary-easing-for-real-embedded-stability-keep-seeing-structure-and-keep-pushing-the-project-forward.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/057-dont-mistake-temporary-easing-for-real-school-stability-keep-seeing-structure-and-keep-pushing-school-progress.md) | 7 |
-| 058 | 《关于打退第二次反共高潮的总结》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/058-prepare-for-the-worst-without-losing-sight-of-the-main-contradiction-and-better-possibilities.md) | [SD](./inspiration_on_software_development/team_process_and_quality/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-project-turnaround-possibilities.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-business-turnaround-possibilities.md) | — | [MM](./inspiration_on_making_money/execution_and_delivery/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-side-hustle-turnaround-possibilities.md) | — | — | 4 |
+| 058 | 《关于打退第二次反共高潮的总结》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/058-prepare-for-the-worst-without-losing-sight-of-the-main-contradiction-and-better-possibilities.md) | [SD](./inspiration_on_software_development/team_process_and_quality/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-project-turnaround-possibilities.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-business-turnaround-possibilities.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-thesis-turnaround-possibilities.md) | [MM](./inspiration_on_making_money/execution_and_delivery/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-side-hustle-turnaround-possibilities.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-embedded-turnaround-possibilities.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-school-turnaround-possibilities.md) | 7 |
+| 059 | 《农村调查》的序言和跋 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/059-real-life-judgements-need-downward-investigation-not-second-hand-stories.md) | [SD](./inspiration_on_software_development/user_research_and_requirements/059-dont-conclude-on-product-problems-without-frontline-investigation.md) | [RC](./inspiration_on_running_a_company/organization_design/059-dont-let-company-judgement-float-on-second-hand-reports-build-downward-investigation.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/059-dont-build-thesis-on-second-hand-summaries-go-down-and-verify-firsthand.md) | [MM](./inspiration_on_making_money/execution_and_delivery/059-dont-build-side-hustle-judgement-on-second-hand-feedback-investigate-real-demand-first.md) | [EC](./inspiration_on_embedded_coding/debugging_and_fieldwork/059-no-frontline-investigation-no-right-to-conclude-on-embedded-problems.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/059-dont-let-school-judgement-float-on-second-hand-reports-build-downward-investigation.md) | 7 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
@@ -790,11 +791,26 @@
 ### 058《关于打退第二次反共高潮的总结》
 - 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 40 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm
-- 已关联 inspiration 文件数：4
+- 已关联 inspiration 文件数：7
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/058-prepare-for-the-worst-without-losing-sight-of-the-main-contradiction-and-better-possibilities.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-project-turnaround-possibilities.md`
   - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-business-turnaround-possibilities.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-thesis-turnaround-possibilities.md`
   - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-side-hustle-turnaround-possibilities.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-embedded-turnaround-possibilities.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-school-turnaround-possibilities.md`
+
+### 059《农村调查》的序言和跋
+- 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 1 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm
+- 已关联 inspiration 文件数：7
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/059-real-life-judgements-need-downward-investigation-not-second-hand-stories.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/059-dont-conclude-on-product-problems-without-frontline-investigation.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/059-dont-let-company-judgement-float-on-second-hand-reports-build-downward-investigation.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/059-dont-build-thesis-on-second-hand-summaries-go-down-and-verify-firsthand.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/059-dont-build-side-hustle-judgement-on-second-hand-feedback-investigate-real-demand-first.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/059-no-frontline-investigation-no-right-to-conclude-on-embedded-problems.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/059-dont-let-school-judgement-float-on-second-hand-reports-build-downward-investigation.md`
 
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
@@ -805,6 +821,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`059《农村调查》的序言和跋`
+- 如果要从当前边界继续向下推进，下一篇应是：`060《改造我们的学习》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

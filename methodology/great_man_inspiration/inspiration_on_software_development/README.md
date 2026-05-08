@@ -19,13 +19,13 @@
 ## 当前实际结构
 
 - `product_strategy/`：3 篇
-- `user_research_and_requirements/`：4 篇
+- `user_research_and_requirements/`：5 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：7 篇
 - `team_process_and_quality/`：38 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：54 篇 article-based 笔记，对应 54 篇毛文来源。
+当前合计：55 篇 article-based 笔记，对应 55 篇毛文来源。
 
 ## 推荐入口
 
@@ -42,6 +42,7 @@
 - 用户分层
 - 调研先行
 - 研究—构建—验证闭环
+- 如何避免围着二手汇报和 dashboard 对产品问题悬空定性
 
 ### `architecture_and_engineering/`
 适合看：

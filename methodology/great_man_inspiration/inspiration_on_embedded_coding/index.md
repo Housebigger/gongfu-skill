@@ -15,6 +15,7 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/015-dont-just-know-the-right-embedded-direction-build-the-mobilization-system.md`
 - `engineering_strategy/016-key-embedded-battles-need-full-system-mobilization-not-half-measures.md`
 - `engineering_strategy/057-dont-mistake-temporary-easing-for-real-embedded-stability-keep-seeing-structure-and-keep-pushing-the-project-forward.md`
+- `engineering_strategy/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-embedded-turnaround-possibilities.md`
 
 Focus:
 - long-cycle projects
@@ -25,15 +26,18 @@ Focus:
 - holding the main line and preparing structural counterattack in a new stage
 - turning correct direction into an embedded mobilization system
 - full-system mobilization for decisive embedded battles
+- preparing for worst-case scenarios without losing the main contradiction and turnaround possibilities after severe project shocks
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
 - `debugging_and_fieldwork/004-against-book-worship-driver-development.md`
+- `debugging_and_fieldwork/059-no-frontline-investigation-no-right-to-conclude-on-embedded-problems.md`
 
 Focus:
 - debugging loops
 - field investigation
 - resisting documentation-only thinking
+- taking engineering judgments from frontline evidence instead of remote summaries
 
 ### system_analysis_and_architecture
 - `system_analysis_and_architecture/003-on-contradiction-firmware-fault-ordering.md`

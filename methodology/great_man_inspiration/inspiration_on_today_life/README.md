@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：6 篇
-- `judgement_and_decision/`：13 篇
+- `judgement_and_decision/`：14 篇
 - `long_term_growth/`：4 篇
 - `cooperation_and_organization/`：34 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：57 篇 article-based 笔记，对应顺序主线 001—057。
+当前合计：58 篇 article-based 笔记，对应顺序主线 001—058。
 
 ## 推荐入口
 
@@ -47,8 +47,8 @@
 
 ## 当前进度说明
 
-- 顺序主线已推进到：`057《打退第二次反共高潮后的时局》`
-- 如果继续顺序向下写，下一篇应是：`058《关于打退第二次反共高潮的总结》`
+- 顺序主线已推进到：`058《关于打退第二次反共高潮的总结》`
+- 如果继续顺序向下写，下一篇应是：`059《农村调查》的序言和跋`
 
 ## 使用提醒
 

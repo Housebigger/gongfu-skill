@@ -384,8 +384,15 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`057《打退第二次反共高潮后的时局》`
-- 如果继续顺序推进，下一篇应是：`058《关于打退第二次反共高潮的总结》`
+- 当前顺序覆盖已推进到：`058《关于打退第二次反共高潮的总结》`
+- 如果继续顺序推进，下一篇应是：`059《农村调查》的序言和跋`
+
+- 058《关于打退第二次反共高潮的总结》
+  - `judgement_and_decision/058-prepare-for-the-worst-without-losing-sight-of-the-main-contradiction-and-better-possibilities.md`
+  - `../inspiration_on_software_development/team_process_and_quality/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-project-turnaround-possibilities.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-business-turnaround-possibilities.md`
+  - `../inspiration_on_making_money/execution_and_delivery/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-side-hustle-turnaround-possibilities.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / making_money 四个角度；educational_undertakings / stock_investing / embedded_coding 三个角度待判断是否扩散。
 
 - 057《打退第二次反共高潮后的时局》
   - `judgement_and_decision/057-dont-mistake-temporary-easing-for-real-stability-keep-seeing-the-structure-and-pushing-the-situation-better.md`

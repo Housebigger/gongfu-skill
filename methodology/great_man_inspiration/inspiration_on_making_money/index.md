@@ -59,6 +59,7 @@ Important boundary:
 - `execution_and_delivery/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-side-hustles.md`
 - `execution_and_delivery/056-when-a-business-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 - `execution_and_delivery/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-side-hustle-forward.md`
+- `execution_and_delivery/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-side-hustle-turnaround-possibilities.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -89,3 +90,4 @@ Additional focus:
 - how side-hustle builders stop treating real project allies as outsiders, build self-reliant operating order, and defend collaboration boundaries without turning growth preparation into internal friction
 - how side-hustle builders distinguish one-off deals, traffic support, and temporary introductions from real long-term alignment, so they can borrow help without giving up customer control and self-built operating capacity
 - how side-hustle builders stop treating channel alliances and hard delivery execution as separate matters, and instead build the operating core that can organize partners, key fights, and system growth around one monetization mainline
+- how side-hustle builders avoid turning worst-case preparation into side-hustle fatalism by holding the main contradiction, classifying customers and collaborators, and preserving turnaround possibilities after a major shock

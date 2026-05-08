@@ -63,6 +63,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-companies.md`
 - `strategy_and_execution/056-when-a-company-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 - `strategy_and_execution/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-situation-better.md`
+- `strategy_and_execution/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-business-turnaround-possibilities.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 
 ## Focus of the current notes
@@ -105,3 +106,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies stop treating real business allies as outsiders, build organizational self-reliance through internal governance upgrade, and defend boundaries without dissolving cooperation into factional drag
 - how companies distinguish tactical deals and public gestures from real long-term interest alignment, so leadership can use outside resources without surrendering strategic judgement or self-reliance
 - how companies stop treating alliance-building and hard execution as separate capabilities, and instead build the organizational core that can unify partners, decisive battles, and internal construction around one strategic mainline
+- how companies avoid turning worst-case preparation into business fatalism by holding the main contradiction, classifying forces, and preserving turnaround possibilities after a major shock

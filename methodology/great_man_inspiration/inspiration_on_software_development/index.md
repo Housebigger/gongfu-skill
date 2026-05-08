@@ -103,6 +103,7 @@ Purpose:
 - `team_process_and_quality/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-software-teams.md`
 - `team_process_and_quality/056-when-an-engineering-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 - `team_process_and_quality/057-dont-mistake-temporary-easing-for-real-project-stability-keep-seeing-structure-and-keep-pushing-the-turnaround.md`
+- `team_process_and_quality/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-project-turnaround-possibilities.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -129,6 +130,7 @@ Purpose:
 - how software teams stop treating real collaborators as outsiders, build self-reliant internal governance, and defend process boundaries without turning project recovery into internal warfare
 - how software teams distinguish tactical cooperation and external noise from real long-term alignment, so one integration, deal, or message does not rewrite the project mainline judgement or weaken engineering self-reliance
 - how software teams stop treating cross-team alliances and technical hard fights as separate capabilities, and instead build the organizational core that can unify support, decisive execution, and continuous correction around the project mainline
+- how software teams avoid turning worst-case preparation into project fatalism by keeping hold of the main contradiction, classifying stakeholders, and preserving turnaround possibilities after a major shock
 
 ### indexes
 Reserved for future series indexes and overview notes.

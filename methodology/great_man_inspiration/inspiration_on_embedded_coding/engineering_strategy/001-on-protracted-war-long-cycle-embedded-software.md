@@ -2,6 +2,9 @@
 
 日期：2026-04-14
 
+原文对应：
+《论持久战》
+
 原文链接：
 https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm
 

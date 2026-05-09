@@ -70,6 +70,7 @@ Focus:
 - `team_process_and_knowledge/029-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-embedded-teams.md`
 - `team_process_and_knowledge/030-when-an-embedded-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 - `team_process_and_knowledge/061-dont-let-fake-peace-rumors-and-division-break-your-embedded-mainline.md`
+- `team_process_and_knowledge/062-build-the-broadest-real-embedded-united-front-against-the-main-threat.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality

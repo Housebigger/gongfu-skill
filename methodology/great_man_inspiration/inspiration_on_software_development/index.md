@@ -108,6 +108,7 @@ Purpose:
 - `team_process_and_quality/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-project-turnaround-possibilities.md`
 - `team_process_and_quality/060-real-software-learning-means-studying-reality-history-and-turning-theory-into-working-method.md`
 - `team_process_and_quality/061-dont-let-fake-peace-rumors-and-division-break-your-project-mainline.md`
+- `team_process_and_quality/062-build-the-broadest-real-software-united-front-against-the-main-threat.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -137,6 +138,7 @@ Purpose:
 - how software teams avoid turning worst-case preparation into project fatalism by keeping hold of the main contradiction, classifying stakeholders, and preserving turnaround possibilities after a major shock
 - how software teams stop treating learning as framework collection and instead study current reality, decision history, and theory-practice gaps until methods enter real delivery, quality, and collaboration workflows
 - how software teams recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the project mainline or isolate real builders
+- how software teams rapidly re-rank contradictions under a larger common threat, organize the broadest real support surface around the main task, and stop secondary disputes from consuming project survival capacity
 
 ### indexes
 Reserved for future series indexes and overview notes.

@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：43 篇
+- `research_and_thesis/`：44 篇
 - `risk_and_position_management/`：6 篇
 - `trading_and_execution/`：1 篇
 - `indexes/`：当前预留
 
-当前合计：51 篇 article-based 笔记，对应 51 篇毛文来源。
+当前合计：52 篇 article-based 笔记，对应 52 篇毛文来源。
 
 ## 子目录速览
 

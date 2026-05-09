@@ -63,6 +63,7 @@ Important boundary:
 - `execution_and_delivery/059-dont-build-side-hustle-judgement-on-second-hand-feedback-investigate-real-demand-first.md`
 - `execution_and_delivery/060-real-side-hustle-learning-means-studying-demand-history-and-turning-theory-into-usable-method.md`
 - `execution_and_delivery/061-dont-let-fake-peace-rumors-and-division-break-your-side-hustle-mainline.md`
+- `execution_and_delivery/062-build-the-broadest-real-side-hustle-united-front-against-the-main-threat.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

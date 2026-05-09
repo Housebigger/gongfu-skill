@@ -67,6 +67,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-situation-better.md`
 - `strategy_and_execution/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-business-turnaround-possibilities.md`
 - `strategy_and_execution/061-dont-let-fake-peace-rumors-and-division-break-your-company-mainline.md`
+- `strategy_and_execution/062-build-the-broadest-real-company-united-front-against-the-main-threat.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 
 ## Focus of the current notes

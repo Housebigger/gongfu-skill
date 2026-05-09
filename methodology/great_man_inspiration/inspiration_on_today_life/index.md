@@ -113,6 +113,7 @@ Purpose:
 - `cooperation_and_organization/054-unity-that-lasts-needs-fighting-to-the-end-and-cooperating-to-the-end.md`
 - `cooperation_and_organization/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure.md`
 - `cooperation_and_organization/056-when-the-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
+- `cooperation_and_organization/062-against-the-main-threat-build-the-broadest-real-united-front.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change

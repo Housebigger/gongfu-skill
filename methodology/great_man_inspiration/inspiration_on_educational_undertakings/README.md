@@ -17,9 +17,9 @@
 - `classroom_and_teaching_design/`：5 篇
 - `teacher_growth_and_backbone/`：9 篇
 - `school_governance_and_crisis_response/`：8 篇
-- `school_coordination_and_organization/`：16 篇
+- `school_coordination_and_organization/`：17 篇
 
-当前合计：43 篇 article-based 笔记，对应 42 篇毛文来源。
+当前合计：44 篇 article-based 笔记，对应 43 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1

@@ -58,6 +58,7 @@ Purpose:
 - `research_and_thesis/059-dont-build-thesis-on-second-hand-summaries-go-down-and-verify-firsthand.md`
 - `research_and_thesis/060-real-investment-learning-means-studying-reality-history-and-turning-theory-into-usable-thesis-method.md`
 - `research_and_thesis/061-dont-let-fake-peace-rumors-and-division-break-your-thesis-mainline.md`
+- `research_and_thesis/062-build-the-broadest-real-investment-united-front-against-the-main-threat.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking

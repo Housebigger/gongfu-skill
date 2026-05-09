@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-060篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-062篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -57,6 +57,7 @@
 - [057 不要把暂时缓和误判成真正稳定，要继续看结构矛盾、争取中间力量，并把窗口期过成学校转机](school_coordination_and_organization/057-dont-mistake-temporary-easing-for-real-school-stability-keep-seeing-structure-and-keep-pushing-school-progress.md)
 - [059 不要让学校判断悬在二手汇报上，要把向下调查做成校情班情机制](school_coordination_and_organization/059-dont-let-school-judgement-float-on-second-hand-reports-build-downward-investigation.md)
 - [061 很多学校不是被正面冲突直接拖垮，而是在公开硬压不动之后，被假和气、传话、污名和离间慢慢拆掉教育主线](school_coordination_and_organization/061-dont-let-fake-peace-rumors-and-division-break-school-mainline.md)
+- [062 当主要威胁已经压到眼前时，学校要围绕共同主敌组织最广泛的真实教育联盟，不要继续把力量耗在次要分歧上](school_coordination_and_organization/062-build-the-broadest-real-school-united-front-against-the-main-threat.md)
 
 ---
-统计：43篇笔记 / 5个子主题 / 覆盖001-061中42篇原文
+统计：44篇笔记 / 5个子主题 / 覆盖001-062中43篇原文

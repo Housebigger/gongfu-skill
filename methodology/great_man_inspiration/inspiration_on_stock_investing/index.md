@@ -60,6 +60,7 @@ Purpose:
 - `research_and_thesis/061-dont-let-fake-peace-rumors-and-division-break-your-thesis-mainline.md`
 - `research_and_thesis/062-build-the-broadest-real-investment-united-front-against-the-main-threat.md`
 - `research_and_thesis/063-public-research-affairs-are-not-private-property-build-democratic-investment-cooperation.md`
+- `research_and_thesis/064-rectify-investment-research-style-by-fighting-subjectivism-small-circles-and-research-jargon.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -90,6 +91,7 @@ Purpose:
 - how investors stop turning investment learning into concept collection by studying present reality, studying history, and turning theory into usable thesis method
 - how investors recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the thesis mainline or isolate real validators
 - how investors stop treating research public affairs as a few core holders' private property, and instead build democratic investment cooperation by giving real burden-bearers, dissenting views, and non-core validators speaking, participation, and supervision roles
+- how investors rectify research style by fighting subjectivism, small-circle confirmation, and research jargon before they hollow out thesis quality
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

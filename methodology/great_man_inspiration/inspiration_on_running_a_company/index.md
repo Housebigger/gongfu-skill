@@ -26,6 +26,7 @@ This folder focuses on:
 - `organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md`
 - `organization_design/059-dont-let-company-judgement-float-on-second-hand-reports-build-downward-investigation.md`
 - `organization_design/060-real-company-learning-means-studying-reality-history-and-turning-theory-into-usable-management-method.md`
+- `organization_design/064-rectify-company-style-by-fighting-subjectivism-silos-and-empty-management-jargon.md`
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
@@ -118,3 +119,4 @@ This folder focuses on:
 - how companies avoid turning worst-case preparation into business fatalism by holding the main contradiction, classifying forces, and preserving turnaround possibilities after a major shock
 - how companies recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the company mainline or isolate real builders
 - how companies keep operating public affairs from collapsing back into core-circle private property by giving non-core roles real speaking space, democratic cooperation channels, and supervision over shared rules and key decisions
+- how companies rectify style by simultaneously fighting fact-free judgement, silo politics, and empty management jargon so organization design starts reconnecting to real business tasks

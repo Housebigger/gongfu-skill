@@ -72,6 +72,7 @@ Focus:
 - `team_process_and_knowledge/061-dont-let-fake-peace-rumors-and-division-break-your-embedded-mainline.md`
 - `team_process_and_knowledge/062-build-the-broadest-real-embedded-united-front-against-the-main-threat.md`
 - `team_process_and_knowledge/063-embedded-public-affairs-are-not-private-property-build-democratic-engineering-cooperation.md`
+- `team_process_and_knowledge/064-rectify-embedded-team-style-by-fighting-subjectivism-small-circles-and-engineering-jargon.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality
@@ -88,6 +89,7 @@ Focus:
 - building the engineering core that can simultaneously organize external alliance surfaces, decisive version battles, and long-term knowledge/discipline construction around one embedded mainline
 - resisting fake-peace rumor/division tactics that isolate real builders and quietly dissolve the embedded mainline during soft-pressure phases
 - turning engineering public affairs back into true public affairs by giving burden-bearers, non-core roles, and frontline signals real speaking, participation, and supervision channels
+- why embedded teams must fight subjectivism, permission-circle politics, and engineering jargon before process form starts hollowing out real delivery
 
 ## Writing convention
 

@@ -384,9 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`063《在陕甘宁边区参议会的演说》`
-- 如果继续顺序推进，下一篇应是：`064《整顿党的作风》`
+- 当前顺序覆盖已推进到：`064《整顿党的作风》`
+- 如果继续顺序推进，下一篇应是：`065《反对党八股》`
 
+
+- 064《整顿党的作风》
+  - `long_term_growth/064-real-growth-needs-rectifying-subjectivism-small-circle-habits-and-empty-talk.md`
+  - `../inspiration_on_software_development/team_process_and_quality/064-rectify-software-style-by-fighting-subjectivism-silos-and-empty-jargon.md`
+  - `../inspiration_on_running_a_company/organization_design/064-rectify-company-style-by-fighting-subjectivism-silos-and-empty-management-jargon.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/064-rectify-investment-research-style-by-fighting-subjectivism-small-circles-and-research-jargon.md`
+  - `../inspiration_on_making_money/execution_and_delivery/064-rectify-side-hustle-style-by-fighting-subjectivism-small-circles-and-business-jargon.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/064-rectify-embedded-team-style-by-fighting-subjectivism-small-circles-and-engineering-jargon.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/064-rectify-school-style-by-fighting-subjectivism-small-circles-and-empty-school-jargon.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 063《在陕甘宁边区参议会的演说》
   - `cooperation_and_organization/063-public-affairs-are-not-private-property-learn-democratic-cooperation.md`

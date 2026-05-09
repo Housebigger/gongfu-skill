@@ -67,6 +67,7 @@ Important boundary:
 - `execution_and_delivery/061-dont-let-fake-peace-rumors-and-division-break-your-side-hustle-mainline.md`
 - `execution_and_delivery/062-build-the-broadest-real-side-hustle-united-front-against-the-main-threat.md`
 - `execution_and_delivery/063-project-public-affairs-are-not-private-property-build-democratic-side-hustle-cooperation.md`
+- `execution_and_delivery/064-rectify-side-hustle-style-by-fighting-subjectivism-small-circles-and-business-jargon.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -101,3 +102,4 @@ Additional focus:
 - how side-hustle builders stop turning side-hustle learning into concept collection by studying real demand, studying business history, and turning theory into usable monetization method
 - how side-hustle builders recognize when direct pressure has shifted into fake peace, rumors, blame-shifting, and division, and refuse to let soft relationship pressure dissolve the side-hustle mainline or isolate real burden-bearers
 - how side-hustle builders stop treating project public affairs as a core-circle private property, and instead build democratic cooperation by giving real burden-bearers and non-core collaborators speaking, participation, and supervision roles
+- how side-hustle builders rectify business style by fighting subjectivism, small-circle cooperation, and commercial empty talk before they hollow out real earning power

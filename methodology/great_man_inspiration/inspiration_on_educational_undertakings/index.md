@@ -59,6 +59,7 @@
 - [061 很多学校不是被正面冲突直接拖垮，而是在公开硬压不动之后，被假和气、传话、污名和离间慢慢拆掉教育主线](school_coordination_and_organization/061-dont-let-fake-peace-rumors-and-division-break-school-mainline.md)
 - [062 当主要威胁已经压到眼前时，学校要围绕共同主敌组织最广泛的真实教育联盟，不要继续把力量耗在次要分歧上](school_coordination_and_organization/062-build-the-broadest-real-school-united-front-against-the-main-threat.md)
 - [063 学校公共事务不是核心小圈子的私产，真正想把学校带稳，就要给老师说话机会、学会民主合作并接受监督](school_coordination_and_organization/063-school-public-affairs-are-not-private-property-build-democratic-cooperation.md)
+- [064 真正该整的，不只是学校制度样子，而是主观主义、小圈子习气和学校空话；只有把判断接回校情班情、把组织接回共同教育任务，学校才可能真正整出生命力](school_coordination_and_organization/064-rectify-school-style-by-fighting-subjectivism-small-circles-and-empty-school-jargon.md)
 
 ---
-统计：45篇笔记 / 5个子主题 / 覆盖001-063中44篇原文
+统计：46篇笔记 / 5个子主题 / 覆盖001-064中45篇原文

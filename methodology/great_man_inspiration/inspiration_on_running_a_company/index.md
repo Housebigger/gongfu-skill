@@ -1,6 +1,8 @@
 # inspiration_on_running_a_company
 
-Reserved theme for future notes that translate historical texts into practical methods for:
+Theme: translate major historical texts into practical methods for company operation, organizational design, leadership, and strategic execution.
+
+This folder focuses on:
 - organization design
 - leadership and talent use
 - strategy and execution
@@ -68,6 +70,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-business-turnaround-possibilities.md`
 - `strategy_and_execution/061-dont-let-fake-peace-rumors-and-division-break-your-company-mainline.md`
 - `strategy_and_execution/062-build-the-broadest-real-company-united-front-against-the-main-threat.md`
+- `strategy_and_execution/063-company-public-affairs-are-not-core-circle-private-property-build-democratic-cooperation.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 
 ## Focus of the current notes
@@ -114,3 +117,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies stop treating alliance-building and hard execution as separate capabilities, and instead build the organizational core that can unify partners, decisive battles, and internal construction around one strategic mainline
 - how companies avoid turning worst-case preparation into business fatalism by holding the main contradiction, classifying forces, and preserving turnaround possibilities after a major shock
 - how companies recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the company mainline or isolate real builders
+- how companies keep operating public affairs from collapsing back into core-circle private property by giving non-core roles real speaking space, democratic cooperation channels, and supervision over shared rules and key decisions

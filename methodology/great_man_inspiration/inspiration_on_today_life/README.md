@@ -11,11 +11,11 @@
 - `survival_strategy/`：6 篇
 - `judgement_and_decision/`：16 篇
 - `long_term_growth/`：5 篇
-- `cooperation_and_organization/`：35 篇
+- `cooperation_and_organization/`：36 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：62 篇 article-based 笔记，对应顺序主线 001—062。
+当前合计：63 篇 article-based 笔记，对应顺序主线 001—063。
 
 ## 推荐入口
 
@@ -49,8 +49,8 @@
 
 ## 当前进度说明
 
-- 顺序主线已推进到：`062《关于反法西斯的国际统一战线》`
-- 如果继续顺序向下写，下一篇应是：`063《在陕甘宁边区参议会的演说》`
+- 顺序主线已推进到：`063《在陕甘宁边区参议会的演说》`
+- 如果继续顺序向下写，下一篇应是：`064《整顿党的作风》`
 
 ## 使用提醒
 

@@ -114,6 +114,7 @@ Purpose:
 - `cooperation_and_organization/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure.md`
 - `cooperation_and_organization/056-when-the-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 - `cooperation_and_organization/062-against-the-main-threat-build-the-broadest-real-united-front.md`
+- `cooperation_and_organization/063-public-affairs-are-not-private-property-learn-democratic-cooperation.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -142,6 +143,7 @@ Purpose:
 - how ordinary people stop treating real allies as outsiders, build self-reliant internal order, and defend boundaries without letting cooperation decay into mutual depletion
 - how ordinary people stop treating support networks and hard life battles as separate matters, and instead build themselves into the organizing core that can unite allies, fight decisive battles, and keep the mainline stable under long pressure
 - how ordinary people resist fake unity by keeping cooperation tied to progress, open feedback, protection for real doers, room for young/new forces, and cleanup of hidden internal rot instead of sacrificing all of that for surface neatness
+- how ordinary people stop turning public affairs into small-circle private property, and instead learn democratic cooperation by letting more people speak, participate, and supervise the common task
 
 ## Writing convention
 

@@ -109,6 +109,7 @@ Purpose:
 - `team_process_and_quality/060-real-software-learning-means-studying-reality-history-and-turning-theory-into-working-method.md`
 - `team_process_and_quality/061-dont-let-fake-peace-rumors-and-division-break-your-project-mainline.md`
 - `team_process_and_quality/062-build-the-broadest-real-software-united-front-against-the-main-threat.md`
+- `team_process_and_quality/063-engineering-public-affairs-are-not-private-property-build-democratic-cooperation.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -139,6 +140,7 @@ Purpose:
 - how software teams stop treating learning as framework collection and instead study current reality, decision history, and theory-practice gaps until methods enter real delivery, quality, and collaboration workflows
 - how software teams recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the project mainline or isolate real builders
 - how software teams rapidly re-rank contradictions under a larger common threat, organize the broadest real support surface around the main task, and stop secondary disputes from consuming project survival capacity
+- how software teams keep engineering public affairs from collapsing back into core-circle private property by giving non-core roles real speaking space, participation channels, and supervision over shared rules and decisions
 
 ### indexes
 Reserved for future series indexes and overview notes.

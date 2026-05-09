@@ -1,12 +1,14 @@
 # inspiration_on_making_money
 
-Reserved theme for future notes that translate historical texts into practical methods for side-income and副业赚钱, especially:
+Theme: translate major historical texts into practical methods for side-income, active earning systems, and副业赚钱.
+
+This folder especially covers:
 - side-hustle opportunity selection
 - monetization model design
 - execution rhythm for part-time projects
 - income diversification through active earning systems
 - how side-project operators preserve cashflow and delivery capacity instead of stretching themselves across every possible line
-- how to contract secondary projects and concentrate resources on the one most likely to break through
+- how side-project operators contract secondary projects and concentrate resources on the one most likely to break through
 
 Important boundary:
 - this folder is for creating new income through副业、项目、服务、内容或技能变现
@@ -64,6 +66,7 @@ Important boundary:
 - `execution_and_delivery/060-real-side-hustle-learning-means-studying-demand-history-and-turning-theory-into-usable-method.md`
 - `execution_and_delivery/061-dont-let-fake-peace-rumors-and-division-break-your-side-hustle-mainline.md`
 - `execution_and_delivery/062-build-the-broadest-real-side-hustle-united-front-against-the-main-threat.md`
+- `execution_and_delivery/063-project-public-affairs-are-not-private-property-build-democratic-side-hustle-cooperation.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -97,3 +100,4 @@ Additional focus:
 - how side-hustle builders avoid turning worst-case preparation into side-hustle fatalism by holding the main contradiction, classifying customers and collaborators, and preserving turnaround possibilities after a major shock
 - how side-hustle builders stop turning side-hustle learning into concept collection by studying real demand, studying business history, and turning theory into usable monetization method
 - how side-hustle builders recognize when direct pressure has shifted into fake peace, rumors, blame-shifting, and division, and refuse to let soft relationship pressure dissolve the side-hustle mainline or isolate real burden-bearers
+- how side-hustle builders stop treating project public affairs as a core-circle private property, and instead build democratic cooperation by giving real burden-bearers and non-core collaborators speaking, participation, and supervision roles

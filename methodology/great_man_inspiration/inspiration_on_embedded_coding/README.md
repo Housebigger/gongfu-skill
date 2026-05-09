@@ -25,12 +25,12 @@
   - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备与转机判断
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
-- `team_process_and_knowledge/`：23 篇
+- `team_process_and_knowledge/`：24 篇
   - 面向协作边界、知识沉淀、纪律、保护建设者、复杂协作治理
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：35 篇 article-based 笔记，对应 35 篇毛文来源。
+当前合计：36 篇 article-based 笔记，对应 36 篇毛文来源。
 
 ## 推荐入口
 
@@ -62,6 +62,7 @@
 - 嵌入式团队的协作边界、知识复盘、纪律、奖惩与协同治理
 - 为什么“保护建设者 + 让破坏者承担后果”是团队长期稳定的核心
 - 如何在假缓和、传话和离间中保护真正扛事的人与工程主线
+- 如何避免工程公共事务重新滑回少数核心人包办，并把真正承担者组织进形成层
 
 ## 放置原则
 

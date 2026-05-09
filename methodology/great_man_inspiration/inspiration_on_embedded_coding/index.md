@@ -71,6 +71,7 @@ Focus:
 - `team_process_and_knowledge/030-when-an-embedded-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 - `team_process_and_knowledge/061-dont-let-fake-peace-rumors-and-division-break-your-embedded-mainline.md`
 - `team_process_and_knowledge/062-build-the-broadest-real-embedded-united-front-against-the-main-threat.md`
+- `team_process_and_knowledge/063-embedded-public-affairs-are-not-private-property-build-democratic-engineering-cooperation.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality
@@ -86,6 +87,7 @@ Focus:
 - long-term-interest judging in supplier, platform, and joint-debug relations so one support action, transaction, or coordinated move does not get mistaken for permanent engineering alignment
 - building the engineering core that can simultaneously organize external alliance surfaces, decisive version battles, and long-term knowledge/discipline construction around one embedded mainline
 - resisting fake-peace rumor/division tactics that isolate real builders and quietly dissolve the embedded mainline during soft-pressure phases
+- turning engineering public affairs back into true public affairs by giving burden-bearers, non-core roles, and frontline signals real speaking, participation, and supervision channels
 
 ## Writing convention
 

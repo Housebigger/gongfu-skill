@@ -384,8 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`062《关于反法西斯的国际统一战线》`
-- 如果继续顺序推进，下一篇应是：`063《在陕甘宁边区参议会的演说》`
+- 当前顺序覆盖已推进到：`063《在陕甘宁边区参议会的演说》`
+- 如果继续顺序推进，下一篇应是：`064《整顿党的作风》`
+
+
+- 063《在陕甘宁边区参议会的演说》
+  - `cooperation_and_organization/063-public-affairs-are-not-private-property-learn-democratic-cooperation.md`
+  - `../inspiration_on_software_development/team_process_and_quality/063-engineering-public-affairs-are-not-private-property-build-democratic-cooperation.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/063-company-public-affairs-are-not-core-circle-private-property-build-democratic-cooperation.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/063-public-research-affairs-are-not-private-property-build-democratic-investment-cooperation.md`
+  - `../inspiration_on_making_money/execution_and_delivery/063-project-public-affairs-are-not-private-property-build-democratic-side-hustle-cooperation.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/063-embedded-public-affairs-are-not-private-property-build-democratic-engineering-cooperation.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/063-school-public-affairs-are-not-private-property-build-democratic-cooperation.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 062《关于反法西斯的国际统一战线》
   - `cooperation_and_organization/062-against-the-main-threat-build-the-broadest-real-united-front.md`

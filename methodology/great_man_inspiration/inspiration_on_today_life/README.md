@@ -10,12 +10,12 @@
 
 - `survival_strategy/`：6 篇
 - `judgement_and_decision/`：15 篇
-- `long_term_growth/`：4 篇
+- `long_term_growth/`：5 篇
 - `cooperation_and_organization/`：34 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：59 篇 article-based 笔记，对应顺序主线 001—059。
+当前合计：60 篇 article-based 笔记，对应顺序主线 001—060。
 
 ## 推荐入口
 
@@ -38,6 +38,7 @@
 ### `long_term_growth/`
 适合看：
 - 长期成长、阶段推进、理解的反复锻打
+- 如何把学习从背结论改成研究现实、研究历史、把理论变成会用的方法
 
 ### `cooperation_and_organization/`
 适合看：
@@ -47,8 +48,8 @@
 
 ## 当前进度说明
 
-- 顺序主线已推进到：`059《农村调查》的序言和跋`
-- 如果继续顺序向下写，下一篇应是：`060《改造我们的学习》`
+- 顺序主线已推进到：`060《改造我们的学习》`
+- 如果继续顺序向下写，下一篇应是：`061《揭破远东慕尼黑的阴谋》`
 
 ## 使用提醒
 

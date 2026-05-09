@@ -61,6 +61,7 @@ Important boundary:
 - `execution_and_delivery/057-dont-mistake-temporary-easing-for-real-business-stability-keep-seeing-structure-and-keep-pushing-the-side-hustle-forward.md`
 - `execution_and_delivery/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-side-hustle-turnaround-possibilities.md`
 - `execution_and_delivery/059-dont-build-side-hustle-judgement-on-second-hand-feedback-investigate-real-demand-first.md`
+- `execution_and_delivery/060-real-side-hustle-learning-means-studying-demand-history-and-turning-theory-into-usable-method.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -92,3 +93,4 @@ Additional focus:
 - how side-hustle builders distinguish one-off deals, traffic support, and temporary introductions from real long-term alignment, so they can borrow help without giving up customer control and self-built operating capacity
 - how side-hustle builders stop treating channel alliances and hard delivery execution as separate matters, and instead build the operating core that can organize partners, key fights, and system growth around one monetization mainline
 - how side-hustle builders avoid turning worst-case preparation into side-hustle fatalism by holding the main contradiction, classifying customers and collaborators, and preserving turnaround possibilities after a major shock
+- how side-hustle builders stop turning side-hustle learning into concept collection by studying real demand, studying business history, and turning theory into usable monetization method

@@ -15,11 +15,11 @@
 
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：5 篇
-- `teacher_growth_and_backbone/`：8 篇
+- `teacher_growth_and_backbone/`：9 篇
 - `school_governance_and_crisis_response/`：8 篇
 - `school_coordination_and_organization/`：15 篇
 
-当前合计：41 篇 article-based 笔记，对应 40 篇毛文来源。
+当前合计：42 篇 article-based 笔记，对应 41 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -48,6 +48,7 @@
 - 教师成长
 - 骨干精神
 - 持续承压下的专业主线与自我修炼
+- 把教师学习从概念背诵改成校情学情研究、历史补课和方法沉淀
 
 ### `school_governance_and_crisis_response/`
 适合看：

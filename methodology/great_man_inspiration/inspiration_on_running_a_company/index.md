@@ -23,6 +23,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md`
 - `organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md`
 - `organization_design/059-dont-let-company-judgement-float-on-second-hand-reports-build-downward-investigation.md`
+- `organization_design/060-real-company-learning-means-studying-reality-history-and-turning-theory-into-usable-management-method.md`
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
@@ -77,6 +78,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - how leaders avoid both premature despair and premature full-scale expansion
 - how managers investigate reality before issuing structural judgements and interventions
 - how companies stop letting second-hand reports and packaged summaries replace downward investigation before major organizational judgement and intervention
+- how companies stop turning company learning into slogan collection by studying reality, studying history, and turning theory into usable management method
 - how companies build cash, supply, and operating resilience for long pressure cycles
 - how organizations classify people by real function, incentives, and structural role instead of title alone
 - how companies build an operating system that balances production, trade flow, partner structure, finance, and discipline

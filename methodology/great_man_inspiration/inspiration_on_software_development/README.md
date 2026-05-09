@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：5 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：7 篇
-- `team_process_and_quality/`：38 篇
+- `team_process_and_quality/`：39 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：55 篇 article-based 笔记，对应 55 篇毛文来源。
+当前合计：56 篇 article-based 笔记，对应 56 篇毛文来源。
 
 ## 推荐入口
 
@@ -62,6 +62,7 @@
 - 批评反馈机制
 - 跨部门支持面经营
 - 保护建设者、抑制软退与防止伪协同
+- 如何把团队学习从背框架改成研究现状、研究历史、把理论变成会用的方法
 
 ## 使用提醒
 

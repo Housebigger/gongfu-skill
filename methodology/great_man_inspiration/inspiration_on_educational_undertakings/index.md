@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-059篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-060篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -28,6 +28,7 @@
 - [033 不要在压力下放弃教学标准和教育底线](teacher_growth_and_backbone/033-dont-surrender-teaching-standards-under-pressure.md)
 - [039 持续压力期教师的三大隐患：放弃、散伙、滑坡](teacher_growth_and_backbone/039-sustained-pressure-three-dangers-for-teachers.md)
 - [043 真正高水平的老师，不只是完成教学任务，而是对学生、课堂与棘手问题持续保持极端负责与真实热忱](teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md)
+- [060 真正有效的教师学习，不是背更多理念，而是研究校情学情、补上历史、把理论变成会用的方法](teacher_growth_and_backbone/060-real-teacher-learning-means-studying-school-reality-history-and-turning-theory-into-usable-method.md)
 
 ### school_governance_and_crisis_response（学校治理与危机应对）
 - [012 遇到棘手问题，先建立广泛的支持联盟](school_governance_and_crisis_response/012-build-broad-support-alliance-for-tough-school-problems.md)
@@ -57,4 +58,4 @@
 - [059 不要让学校判断悬在二手汇报上，要把向下调查做成校情班情机制](school_coordination_and_organization/059-dont-let-school-judgement-float-on-second-hand-reports-build-downward-investigation.md)
 
 ---
-统计：41篇笔记 / 5个子主题 / 覆盖001-059中40篇原文
+统计：42篇笔记 / 5个子主题 / 覆盖001-060中41篇原文

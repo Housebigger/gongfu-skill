@@ -384,8 +384,18 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`059《农村调查》的序言和跋`
-- 如果继续顺序推进，下一篇应是：`060《改造我们的学习》`
+- 当前顺序覆盖已推进到：`060《改造我们的学习》`
+- 如果继续顺序推进，下一篇应是：`061《揭破远东慕尼黑的阴谋》`
+
+- 060《改造我们的学习》
+  - `long_term_growth/060-real-growth-needs-studying-reality-history-and-turning-theory-into-usable-method.md`
+  - `../inspiration_on_software_development/team_process_and_quality/060-real-software-learning-means-studying-reality-history-and-turning-theory-into-working-method.md`
+  - `../inspiration_on_running_a_company/organization_design/060-real-company-learning-means-studying-reality-history-and-turning-theory-into-usable-management-method.md`
+  - `../inspiration_on_educational_undertakings/teacher_growth_and_backbone/060-real-teacher-learning-means-studying-school-reality-history-and-turning-theory-into-usable-method.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/060-real-investment-learning-means-studying-reality-history-and-turning-theory-into-usable-thesis-method.md`
+  - `../inspiration_on_making_money/execution_and_delivery/060-real-side-hustle-learning-means-studying-demand-history-and-turning-theory-into-usable-method.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money 六个角度；embedded_coding 角度较早已有非顺序拓展。
 
 - 059《农村调查》的序言和跋
   - `judgement_and_decision/059-real-life-judgements-need-downward-investigation-not-second-hand-stories.md`

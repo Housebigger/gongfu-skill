@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：5 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：7 篇
-- `team_process_and_quality/`：43 篇
+- `team_process_and_quality/`：44 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：60 篇 article-based 笔记，对应 60 篇毛文来源。
+当前合计：61 篇 article-based 笔记，对应 61 篇毛文来源。
 
 ## 推荐入口
 
@@ -65,6 +65,7 @@
 - 主要威胁突然升级时，如何重排优先级并把最广泛的真实协作面组织起来
 - 如何把团队学习从背框架改成研究现状、研究历史、把理论变成会用的方法
 - 如何同时反主观主义、反山头主义、反工程八股，把判断、协作和表达一起整回真实问题
+- 如何反对工程文档、评审、汇报和会议里的空话、黑话、吓人话与无对象表达
 
 ## 使用提醒
 

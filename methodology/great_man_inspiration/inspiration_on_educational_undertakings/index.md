@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-063篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-065篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -60,6 +60,7 @@
 - [062 当主要威胁已经压到眼前时，学校要围绕共同主敌组织最广泛的真实教育联盟，不要继续把力量耗在次要分歧上](school_coordination_and_organization/062-build-the-broadest-real-school-united-front-against-the-main-threat.md)
 - [063 学校公共事务不是核心小圈子的私产，真正想把学校带稳，就要给老师说话机会、学会民主合作并接受监督](school_coordination_and_organization/063-school-public-affairs-are-not-private-property-build-democratic-cooperation.md)
 - [064 真正该整的，不只是学校制度样子，而是主观主义、小圈子习气和学校空话；只有把判断接回校情班情、把组织接回共同教育任务，学校才可能真正整出生命力](school_coordination_and_organization/064-rectify-school-style-by-fighting-subjectivism-small-circles-and-empty-school-jargon.md)
+- [065 别让学校材料、会议、汇报、教研发言和管理评审沦为学校八股，真正有用的表达必须回到学生、课堂、教师协作与学校问题](school_coordination_and_organization/065-dont-let-school-writing-meetings-reports-and-reviews-decay-into-empty-jargon.md)
 
 ---
-统计：46篇笔记 / 5个子主题 / 覆盖001-064中45篇原文
+统计：47篇笔记 / 5个子主题 / 覆盖001-065中46篇原文

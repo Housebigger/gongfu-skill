@@ -17,9 +17,9 @@
 - `classroom_and_teaching_design/`：5 篇
 - `teacher_growth_and_backbone/`：9 篇
 - `school_governance_and_crisis_response/`：8 篇
-- `school_coordination_and_organization/`：19 篇
+- `school_coordination_and_organization/`：20 篇
 
-当前合计：46 篇 article-based 笔记，对应 45 篇毛文来源。
+当前合计：47 篇 article-based 笔记，对应 46 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -64,6 +64,7 @@
 - 学校判断如何建立在班情校情而不是二手汇报之上
 - 学校如何在假和气、传话和离间中保护真正扛事的人与教育主线
 - 学校如何整顿主观主义、小圈子习气和学校空话，把判断重新压回校情班情与一线事实
+- 学校如何反对材料、会议、汇报、教研发言和管理评审里的空话、黑话、压人话与无对象表达
 
 ## 使用提醒
 

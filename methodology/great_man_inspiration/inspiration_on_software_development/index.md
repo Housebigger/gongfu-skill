@@ -111,6 +111,7 @@ Purpose:
 - `team_process_and_quality/062-build-the-broadest-real-software-united-front-against-the-main-threat.md`
 - `team_process_and_quality/063-engineering-public-affairs-are-not-private-property-build-democratic-cooperation.md`
 - `team_process_and_quality/064-rectify-software-style-by-fighting-subjectivism-silos-and-empty-jargon.md`
+- `team_process_and_quality/065-dont-let-engineering-writing-meetings-and-reviews-decay-into-empty-jargon.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -143,6 +144,7 @@ Purpose:
 - how software teams rapidly re-rank contradictions under a larger common threat, organize the broadest real support surface around the main task, and stop secondary disputes from consuming project survival capacity
 - how software teams keep engineering public affairs from collapsing back into core-circle private property by giving non-core roles real speaking space, participation channels, and supervision over shared rules and decisions
 - how software teams rectify style by simultaneously fighting subjectivism, siloed localism, and empty engineering jargon so judgement, collaboration, and communication all return to real problems
+- how software teams stop letting docs, reviews, meetings, and reporting decay into empty engineering jargon by writing for real readers, real problems, and real actions
 
 ### indexes
 Reserved for future series indexes and overview notes.

@@ -73,6 +73,7 @@ Focus:
 - `team_process_and_knowledge/062-build-the-broadest-real-embedded-united-front-against-the-main-threat.md`
 - `team_process_and_knowledge/063-embedded-public-affairs-are-not-private-property-build-democratic-engineering-cooperation.md`
 - `team_process_and_knowledge/064-rectify-embedded-team-style-by-fighting-subjectivism-small-circles-and-engineering-jargon.md`
+- `team_process_and_knowledge/065-dont-let-embedded-writing-meetings-and-reviews-decay-into-empty-jargon.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality
@@ -90,6 +91,7 @@ Focus:
 - resisting fake-peace rumor/division tactics that isolate real builders and quietly dissolve the embedded mainline during soft-pressure phases
 - turning engineering public affairs back into true public affairs by giving burden-bearers, non-core roles, and frontline signals real speaking, participation, and supervision channels
 - why embedded teams must fight subjectivism, permission-circle politics, and engineering jargon before process form starts hollowing out real delivery
+- how embedded teams keep reviews, retrospectives, weekly reports, production updates, and issue memos tied to board facts, target audience, and concrete actions instead of empty engineering jargon
 
 ## Writing convention
 

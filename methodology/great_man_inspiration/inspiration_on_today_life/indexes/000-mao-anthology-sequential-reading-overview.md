@@ -384,9 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`064《整顿党的作风》`
-- 如果继续顺序推进，下一篇应是：`065《反对党八股》`
+- 当前顺序覆盖已推进到：`065《反对党八股》`
+- 如果继续顺序推进，下一篇应是：`066《在延安文艺座谈会上的讲话》`
 
+
+- 065《反对党八股》
+  - `long_term_growth/065-dont-let-life-writing-meetings-and-self-review-decay-into-empty-jargon.md`
+  - `../inspiration_on_software_development/team_process_and_quality/065-dont-let-engineering-writing-meetings-and-reviews-decay-into-empty-jargon.md`
+  - `../inspiration_on_running_a_company/organization_design/065-company-management-writing-meetings-and-reviews-must-not-decay-into-empty-jargon.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/065-dont-let-investment-reports-notes-and-thesis-reviews-decay-into-empty-jargon.md`
+  - `../inspiration_on_making_money/execution_and_delivery/065-dont-let-side-hustle-plans-sales-talk-and-reviews-decay-into-empty-jargon.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/065-dont-let-embedded-writing-meetings-and-reviews-decay-into-empty-jargon.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/065-dont-let-school-writing-meetings-reports-and-reviews-decay-into-empty-jargon.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 064《整顿党的作风》
   - `long_term_growth/064-real-growth-needs-rectifying-subjectivism-small-circle-habits-and-empty-talk.md`

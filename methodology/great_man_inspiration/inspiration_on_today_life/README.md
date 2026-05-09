@@ -10,12 +10,12 @@
 
 - `survival_strategy/`：6 篇
 - `judgement_and_decision/`：16 篇
-- `long_term_growth/`：6 篇
+- `long_term_growth/`：7 篇
 - `cooperation_and_organization/`：36 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：64 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—064，顺序总览与实写主线现已同步推进到 064（`064《整顿党的作风》` 先落 `long_term_growth/`）。
+当前合计：65 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—065，顺序总览窗口也推进到 065。
 
 ## 推荐入口
 
@@ -41,6 +41,7 @@
 - 长期成长、阶段推进、理解的反复锻打
 - 如何把学习从背结论改成研究现实、研究历史、把理论变成会用的方法
 - 如何在成长卡顿时定期整顿自己的学习、判断与表达作风，压住主观主义、小圈子成见与空话习气
+- 如何反对复盘、沟通、开会、自我总结和成长表达里的空话、黑话、压人话与无对象表达
 
 ### `cooperation_and_organization/`
 适合看：
@@ -50,8 +51,9 @@
 
 ## 当前进度说明
 
-- 顺序主线已推进到：`064《整顿党的作风》`
-- 如果继续顺序向下写，下一篇应是：`065《反对党八股》`
+- today_life 主题当前实写覆盖到：`065《反对党八股》`
+- 顺序总览窗口当前也推进到：`065《反对党八股》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`066《在延安文艺座谈会上的讲话》`
 
 ## 使用提醒
 

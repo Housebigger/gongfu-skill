@@ -70,6 +70,7 @@ Purpose:
 - `long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md`
 - `long_term_growth/060-real-growth-needs-studying-reality-history-and-turning-theory-into-usable-method.md`
 - `long_term_growth/064-real-growth-needs-rectifying-subjectivism-small-circle-habits-and-empty-talk.md`
+- `long_term_growth/065-dont-let-life-writing-meetings-and-self-review-decay-into-empty-jargon.md`
 
 Purpose:
 - how small but real progress compounds under the right conditions
@@ -79,6 +80,7 @@ Purpose:
 - how ordinary people face major life battles without falling into defeatism or quick-win fantasy, and instead use stage judgment, long positioning, local quick wins, and sustained mobilization to turn weak situations into winnable ones
 - how ordinary people stop mistaking learning for collecting conclusions, and instead study present reality, recover history, and turn theory into usable method that can keep correcting real-life action
 - how ordinary people stop mistaking continued effort for real growth, and instead periodically rectify subjectivism, small-circle bias, and empty self-improvement talk
+- how ordinary people stop letting reviews, communication, meetings, and self-explanations decay into empty jargon, and instead force expression back toward real problems, real audiences, and next actions
 
 ### cooperation_and_organization
 - `cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md`

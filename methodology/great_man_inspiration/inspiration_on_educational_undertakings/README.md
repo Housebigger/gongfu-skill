@@ -14,12 +14,12 @@
 ## 当前实际结构
 
 - `student_understanding_and_guidance/`：5 篇
-- `classroom_and_teaching_design/`：5 篇
+- `classroom_and_teaching_design/`：6 篇
 - `teacher_growth_and_backbone/`：9 篇
 - `school_governance_and_crisis_response/`：8 篇
 - `school_coordination_and_organization/`：20 篇
 
-当前合计：47 篇 article-based 笔记，对应 46 篇毛文来源。
+当前合计：48 篇 article-based 笔记，对应 47 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -42,6 +42,7 @@
 - 调查先行
 - 学生组织化参与
 - 真正承重学生主力的识别
+- 如何进入真实学生、学习学生语言，并从学生基础往上教
 
 ### `teacher_growth_and_backbone/`
 适合看：

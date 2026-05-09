@@ -11,11 +11,11 @@
 - `survival_strategy/`：6 篇
 - `judgement_and_decision/`：16 篇
 - `long_term_growth/`：7 篇
-- `cooperation_and_organization/`：36 篇
+- `cooperation_and_organization/`：37 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：65 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—065，顺序总览窗口也推进到 065。
+当前合计：66 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—066，顺序总览窗口也推进到 066。
 
 ## 推荐入口
 
@@ -48,12 +48,13 @@
 - 如何经营合作
 - 如何组织支持面
 - 如何在统一、斗争、边界、后果结构之间拿捏分寸
+- 如何让表达、帮助和影响真正进入真实多数、真实处境与真实语言
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`065《反对党八股》`
-- 顺序总览窗口当前也推进到：`065《反对党八股》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`066《在延安文艺座谈会上的讲话》`
+- today_life 主题当前实写覆盖到：`066《在延安文艺座谈会上的讲话》`
+- 顺序总览窗口当前也推进到：`066《在延安文艺座谈会上的讲话》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`067《一个极其重要的政策》`
 
 ## 使用提醒
 

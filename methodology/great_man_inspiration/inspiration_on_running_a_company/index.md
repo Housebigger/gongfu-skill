@@ -73,6 +73,7 @@ This folder focuses on:
 - `strategy_and_execution/061-dont-let-fake-peace-rumors-and-division-break-your-company-mainline.md`
 - `strategy_and_execution/062-build-the-broadest-real-company-united-front-against-the-main-threat.md`
 - `strategy_and_execution/063-company-public-affairs-are-not-core-circle-private-property-build-democratic-cooperation.md`
+- `strategy_and_execution/066-serve-real-customers-learn-market-language-and-build-from-the-frontline.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 
 ## Focus of the current notes
@@ -122,3 +123,4 @@ This folder focuses on:
 - how companies keep operating public affairs from collapsing back into core-circle private property by giving non-core roles real speaking space, democratic cooperation channels, and supervision over shared rules and key decisions
 - how companies rectify style by simultaneously fighting fact-free judgement, silo politics, and empty management jargon so organization design starts reconnecting to real business tasks
 - how companies stop letting reports, management writing, meetings, and reviews decay into empty jargon by writing for real readers, real operating problems, and real responsibility actions
+- how companies stop building products, brand, sales, and service around insider self-image and instead learn real customer language and grow from frontline scenarios

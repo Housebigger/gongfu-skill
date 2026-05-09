@@ -62,6 +62,7 @@ Purpose:
 - `research_and_thesis/063-public-research-affairs-are-not-private-property-build-democratic-investment-cooperation.md`
 - `research_and_thesis/064-rectify-investment-research-style-by-fighting-subjectivism-small-circles-and-research-jargon.md`
 - `research_and_thesis/065-dont-let-investment-reports-notes-and-thesis-reviews-decay-into-empty-jargon.md`
+- `research_and_thesis/066-dont-build-investment-thesis-for-your-own-circle-learn-the-language-of-real-demand-and-validate-from-the-ground-up.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -94,6 +95,7 @@ Purpose:
 - how investors stop treating research public affairs as a few core holders' private property, and instead build democratic investment cooperation by giving real burden-bearers, dissenting views, and non-core validators speaking, participation, and supervision roles
 - how investors rectify research style by fighting subjectivism, small-circle confirmation, and research jargon before they hollow out thesis quality
 - how investors stop letting reports, notes, and thesis reviews decay into empty jargon and force research expression back toward facts, audience, and action
+- how investors stop building thesis for positions, peer applause, and research vanity, and instead learn the language of real demand, real industry friction, and real validation so judgement grows upward from actual ground truth
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

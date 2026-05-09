@@ -18,6 +18,7 @@
 - [032 班干部和优等生不等于班级主力军](classroom_and_teaching_design/032-class-cadres-and-top-students-are-not-the-main-force.md)
 - [044 教学内容可以先进，但课堂呈现必须本土化](classroom_and_teaching_design/mao-044-localize-teaching-design.md)
 - [048 很多老师不是没有教学目标，而是一直没把真正承重的学生主力、会带动同伴的骨干、外部教育帮助和反馈循环组织起来](classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md)
+- [066 别只按老师自我表达和少数尖子生的理解来上课，要进入真实学生、学习学生语言，并从他们的真实基础往上教](classroom_and_teaching_design/066-serve-real-students-learn-their-language-and-build-teaching-from-their-basis.md)
 
 ### teacher_growth_and_backbone（教师成长与骨干精神）
 - [015 争取广泛支持但不丢失教学主线](teacher_growth_and_backbone/015-seek-broad-support-without-losing-teaching-mainline.md)
@@ -63,4 +64,4 @@
 - [065 别让学校材料、会议、汇报、教研发言和管理评审沦为学校八股，真正有用的表达必须回到学生、课堂、教师协作与学校问题](school_coordination_and_organization/065-dont-let-school-writing-meetings-reports-and-reviews-decay-into-empty-jargon.md)
 
 ---
-统计：47篇笔记 / 5个子主题 / 覆盖001-065中46篇原文
+统计：48篇笔记 / 5个子主题 / 覆盖001-066中47篇原文

@@ -69,6 +69,7 @@ Important boundary:
 - `execution_and_delivery/063-project-public-affairs-are-not-private-property-build-democratic-side-hustle-cooperation.md`
 - `execution_and_delivery/064-rectify-side-hustle-style-by-fighting-subjectivism-small-circles-and-business-jargon.md`
 - `execution_and_delivery/065-dont-let-side-hustle-plans-sales-talk-and-reviews-decay-into-empty-jargon.md`
+- `execution_and_delivery/066-serve-real-paying-users-learn-their-language-and-build-from-real-demand.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -105,3 +106,4 @@ Additional focus:
 - how side-hustle builders stop treating project public affairs as a core-circle private property, and instead build democratic cooperation by giving real burden-bearers and non-core collaborators speaking, participation, and supervision roles
 - how side-hustle builders rectify business style by fighting subjectivism, small-circle cooperation, and commercial empty talk before they hollow out real earning power
 - how side-hustle builders stop letting plans, sales talk, and project reviews decay into empty jargon and force business expression back toward customers, problems, and action
+- how side-hustle builders stop creating for self-image, peer applause, and platform vanity, and instead learn the language of real paying users so products and offers grow upward from actual demand

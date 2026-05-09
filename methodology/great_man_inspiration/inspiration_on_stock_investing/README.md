@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：47 篇
+- `research_and_thesis/`：48 篇
 - `risk_and_position_management/`：6 篇
 - `trading_and_execution/`：1 篇
 - `indexes/`：当前预留
 
-当前合计：55 篇 article-based 笔记，对应 55 篇毛文来源。
+当前合计：56 篇 article-based 笔记，对应 56 篇毛文来源。
 
 ## 子目录速览
 
@@ -42,6 +42,7 @@
 - 如何避免研究公共事务重新滑回少数持仓者和核心圈包办
 - 如何整顿研究作风里的主观主义、小圈子偏见和研究八股
 - 如何防止纪要、报告、持仓会和 thesis 复盘滑向研究八股
+- 如何避免 thesis 只服务持仓立场和圈内黑话，转而进入真实需求、真实产业语言和真实验证基础
 
 ### `risk_and_position_management/`
 适合看：

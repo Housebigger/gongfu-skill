@@ -384,9 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`065《反对党八股》`
-- 如果继续顺序推进，下一篇应是：`066《在延安文艺座谈会上的讲话》`
+- 当前顺序覆盖已推进到：`066《在延安文艺座谈会上的讲话》`
+- 如果继续顺序推进，下一篇应是：`067《一个极其重要的政策》`
 
+
+- 066《在延安文艺座谈会上的讲话》
+  - `cooperation_and_organization/066-serve-real-people-not-your-self-image-learn-their-language-and-build-from-there.md`
+  - `../inspiration_on_software_development/user_research_and_requirements/066-serve-real-users-learn-their-language-and-build-from-real-workflows.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/066-serve-real-customers-learn-market-language-and-build-from-the-frontline.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/066-dont-build-investment-thesis-for-your-own-circle-learn-the-language-of-real-demand-and-validate-from-the-ground-up.md`
+  - `../inspiration_on_making_money/execution_and_delivery/066-serve-real-paying-users-learn-their-language-and-build-from-real-demand.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/066-serve-real-embedded-builders-learn-frontline-language-and-build-from-real-delivery-basis.md`
+  - `../inspiration_on_educational_undertakings/classroom_and_teaching_design/066-serve-real-students-learn-their-language-and-build-teaching-from-their-basis.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 065《反对党八股》
   - `long_term_growth/065-dont-let-life-writing-meetings-and-self-review-decay-into-empty-jargon.md`

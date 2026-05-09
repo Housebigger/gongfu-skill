@@ -11,9 +11,9 @@
 
 - `organization_design/`：13 篇
 - `leadership_and_talent/`：4 篇
-- `strategy_and_execution/`：40 篇
+- `strategy_and_execution/`：41 篇
 
-当前合计：57 篇 article-based 笔记，对应 57 篇毛文来源。
+当前合计：58 篇 article-based 笔记，对应 58 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -41,6 +41,7 @@
 - 危机治理
 - 统一战线与协作边界
 - 如何把暂时缓和转成结构性转机
+- 如何识别假缓和、谣言离间与软性诱导，避免公司自己拆掉主线
 
 ## 推荐入口
 

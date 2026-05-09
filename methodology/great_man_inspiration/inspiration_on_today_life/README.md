@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：6 篇
-- `judgement_and_decision/`：15 篇
+- `judgement_and_decision/`：16 篇
 - `long_term_growth/`：5 篇
 - `cooperation_and_organization/`：34 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：60 篇 article-based 笔记，对应顺序主线 001—060。
+当前合计：61 篇 article-based 笔记，对应顺序主线 001—061。
 
 ## 推荐入口
 
@@ -34,6 +34,7 @@
 适合看：
 - 识势、识人、识友方与识主矛盾
 - 如何避免被表面动作和短期缓和带偏
+- 如何识破假缓和、软性诱导、谣言与离间
 
 ### `long_term_growth/`
 适合看：
@@ -48,8 +49,8 @@
 
 ## 当前进度说明
 
-- 顺序主线已推进到：`060《改造我们的学习》`
-- 如果继续顺序向下写，下一篇应是：`061《揭破远东慕尼黑的阴谋》`
+- 顺序主线已推进到：`061《揭破远东慕尼黑的阴谋》`
+- 如果继续顺序向下写，下一篇应是：`062《关于反法西斯的国际统一战线》`
 
 ## 使用提醒
 

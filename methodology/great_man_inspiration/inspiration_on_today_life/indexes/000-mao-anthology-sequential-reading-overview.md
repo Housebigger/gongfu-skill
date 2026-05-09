@@ -384,8 +384,18 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`060《改造我们的学习》`
-- 如果继续顺序推进，下一篇应是：`061《揭破远东慕尼黑的阴谋》`
+- 当前顺序覆盖已推进到：`061《揭破远东慕尼黑的阴谋》`
+- 如果继续顺序推进，下一篇应是：`062《关于反法西斯的国际统一战线》`
+
+- 061《揭破远东慕尼黑的阴谋》
+  - `judgement_and_decision/061-dont-let-fake-peace-rumors-and-division-break-your-mainline.md`
+  - `../inspiration_on_software_development/team_process_and_quality/061-dont-let-fake-peace-rumors-and-division-break-your-project-mainline.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/061-dont-let-fake-peace-rumors-and-division-break-your-company-mainline.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/061-dont-let-fake-peace-rumors-and-division-break-your-thesis-mainline.md`
+  - `../inspiration_on_making_money/execution_and_delivery/061-dont-let-fake-peace-rumors-and-division-break-your-side-hustle-mainline.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/061-dont-let-fake-peace-rumors-and-division-break-your-embedded-mainline.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/061-dont-let-fake-peace-rumors-and-division-break-school-mainline.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 060《改造我们的学习》
   - `long_term_growth/060-real-growth-needs-studying-reality-history-and-turning-theory-into-usable-method.md`

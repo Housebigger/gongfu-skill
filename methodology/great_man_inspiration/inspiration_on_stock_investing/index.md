@@ -57,6 +57,7 @@ Purpose:
 - `research_and_thesis/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-thesis-turnaround-possibilities.md`
 - `research_and_thesis/059-dont-build-thesis-on-second-hand-summaries-go-down-and-verify-firsthand.md`
 - `research_and_thesis/060-real-investment-learning-means-studying-reality-history-and-turning-theory-into-usable-thesis-method.md`
+- `research_and_thesis/061-dont-let-fake-peace-rumors-and-division-break-your-thesis-mainline.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -85,6 +86,7 @@ Purpose:
 - how investors separate surface transactions, policy/news signals, and temporary external support from real long-term interest alignment, so one event does not prematurely rewrite the thesis or replace independent research
 - how investors stop treating information alliances and decisive execution as separate skills, and instead build the research core that can organize validation, position-taking, and self-correction around one thesis mainline
 - how investors stop turning investment learning into concept collection by studying present reality, studying history, and turning theory into usable thesis method
+- how investors recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the thesis mainline or isolate real validators
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

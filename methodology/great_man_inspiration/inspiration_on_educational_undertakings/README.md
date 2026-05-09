@@ -17,9 +17,9 @@
 - `classroom_and_teaching_design/`：5 篇
 - `teacher_growth_and_backbone/`：9 篇
 - `school_governance_and_crisis_response/`：8 篇
-- `school_coordination_and_organization/`：15 篇
+- `school_coordination_and_organization/`：16 篇
 
-当前合计：42 篇 article-based 笔记，对应 41 篇毛文来源。
+当前合计：43 篇 article-based 笔记，对应 42 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -62,6 +62,7 @@
 - 行政与同事支持面经营
 - 学校治理中的统一、进步、边界与后果结构
 - 学校判断如何建立在班情校情而不是二手汇报之上
+- 学校如何在假和气、传话和离间中保护真正扛事的人与教育主线
 
 ## 使用提醒
 

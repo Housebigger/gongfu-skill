@@ -56,6 +56,7 @@
 - [056 真正成熟的合作观，不是学校核心秩序被公开伤害后还继续装作没事，而是在学校底线被踩穿后，敢于把事实讲明、把责任点名、把修复条件摆清，再决定合作还能不能继续](school_coordination_and_organization/056-when-a-school-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md)
 - [057 不要把暂时缓和误判成真正稳定，要继续看结构矛盾、争取中间力量，并把窗口期过成学校转机](school_coordination_and_organization/057-dont-mistake-temporary-easing-for-real-school-stability-keep-seeing-structure-and-keep-pushing-school-progress.md)
 - [059 不要让学校判断悬在二手汇报上，要把向下调查做成校情班情机制](school_coordination_and_organization/059-dont-let-school-judgement-float-on-second-hand-reports-build-downward-investigation.md)
+- [061 很多学校不是被正面冲突直接拖垮，而是在公开硬压不动之后，被假和气、传话、污名和离间慢慢拆掉教育主线](school_coordination_and_organization/061-dont-let-fake-peace-rumors-and-division-break-school-mainline.md)
 
 ---
-统计：42篇笔记 / 5个子主题 / 覆盖001-060中41篇原文
+统计：43篇笔记 / 5个子主题 / 覆盖001-061中42篇原文

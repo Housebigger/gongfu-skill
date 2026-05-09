@@ -46,6 +46,7 @@ Purpose:
 - `judgement_and_decision/057-dont-mistake-temporary-easing-for-real-stability-keep-seeing-the-structure-and-pushing-the-situation-better.md`
 - `judgement_and_decision/058-prepare-for-the-worst-without-losing-sight-of-the-main-contradiction-and-better-possibilities.md`
 - `judgement_and_decision/059-real-life-judgements-need-downward-investigation-not-second-hand-stories.md`
+- `judgement_and_decision/061-dont-let-fake-peace-rumors-and-division-break-your-mainline.md`
 
 Purpose:
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
@@ -60,6 +61,7 @@ Purpose:
 - how ordinary people recognize that when external pressure shifts from intense attack to prolonged low-level drain, the real threat becomes internal surrender, alliance fragmentation, and standards erosion
 - how ordinary people prepare for the worst without collapsing all possibilities into one doom judgment, and instead keep hold of the main contradiction, classified response, and better openings
 - how ordinary people stop letting second-hand stories, high-position summaries, and surface signals replace real downward investigation before major life judgements
+- how ordinary people recognize when direct pressure has turned into fake peace, rumor, and division, and refuse to let soft pressure break their mainline judgement
 
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`

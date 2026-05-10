@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-068篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-070篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -43,6 +43,7 @@
 - [067 当学校进入最难的一段路时，别再死撑一个什么都想保的大机器，而要主动缩小摊子、压缩空转，把课堂、班级和核心教师主力保硬](school_governance_and_crisis_response/067-in-hard-times-shrink-the-school-machine-and-keep-the-core-teaching-force-hard.md)
 - [068 不要把学校最后一轮最凶的危机波，误判成长期失地；真正成熟的学校治理，要透过最后一轮最吓人的混乱，看见危机方越来越难把这一下继续打成长期优势](school_governance_and_crisis_response/068-dont-mistake-the-schools-last-fierce-crisis-wave-for-long-term-loss-of-ground.md)
 - [069 当学校翻盘的曙光已经看得见时，最怕的不是还有艰苦，而是把最后阶段的教育力量重新打散](school_governance_and_crisis_response/069-when-school-dawn-is-visible-concentrate-force-on-the-main-education-battle.md)
+- [070 当学校越吃紧的时候，越不能只围着经费和事务压缩打转，而要把课堂、班级、教师主力与家校闭环这些真实教育供给线重新做起来](school_governance_and_crisis_response/070-when-school-is-tight-stop-only-cutting-expenses-rebuild-real-education-supply.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
@@ -67,4 +68,4 @@
 - [065 别让学校材料、会议、汇报、教研发言和管理评审沦为学校八股，真正有用的表达必须回到学生、课堂、教师协作与学校问题](school_coordination_and_organization/065-dont-let-school-writing-meetings-reports-and-reviews-decay-into-empty-jargon.md)
 
 ---
-统计：51篇笔记 / 5个子主题 / 覆盖001-069中50篇原文
+统计：52篇笔记 / 5个子主题 / 覆盖001-070中51篇原文

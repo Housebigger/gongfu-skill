@@ -106,6 +106,7 @@ Purpose:
 - `risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
 - `risk_and_position_management/039-stalemate-market-three-investor-traps.md`
 - `risk_and_position_management/067-in-hard-times-shrink-the-investment-machine-and-keep-the-core-capital-force-hard.md`
+- `risk_and_position_management/070-when-positions-hurt-stop-staring-at-drawdown-rebuild-supply-lines.md`
 
 Purpose:
 - how investors keep cash, resilience, and optionality before making large bets

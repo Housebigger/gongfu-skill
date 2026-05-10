@@ -384,9 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`069《祝十月革命二十五周年》`
-- 如果继续顺序推进，下一篇应是：`070《抗日时期的经济问题和财政问题》`
+- 当前顺序覆盖已推进到：`070《抗日时期的经济问题和财政问题》`
+- 如果继续顺序推进，下一篇应是：`071《关于领导方法的若干问题》`
 
+
+- 070《抗日时期的经济问题和财政问题》
+  - `survival_strategy/070-when-money-is-tight-dont-cut-the-core-build-real-supply.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/070-when-delivery-gets-hard-stop-only-cutting-budget-rebuild-real-supply-lines.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/070-when-cash-is-tight-stop-only-trimming-finance-rebuild-real-business-bloodflow.md`
+  - `../inspiration_on_stock_investing/risk_and_position_management/070-when-positions-hurt-stop-staring-at-drawdown-rebuild-supply-lines.md`
+  - `../inspiration_on_making_money/execution_and_delivery/070-when-income-is-tight-stop-only-cutting-prices-rebuild-real-cashflow.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md`
+  - `../inspiration_on_educational_undertakings/school_governance_and_crisis_response/070-when-school-is-tight-stop-only-cutting-expenses-rebuild-real-education-supply.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 069《祝十月革命二十五周年》
   - `cooperation_and_organization/069-when-victory-dawn-is-visible-concentrate-on-the-final-main-battle.md`

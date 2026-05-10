@@ -73,6 +73,7 @@ Important boundary:
 - `execution_and_delivery/067-in-hard-times-shrink-your-side-hustle-machine-and-keep-the-core-cashflow-force-hard.md`
 - `execution_and_delivery/068-dont-mistake-the-last-fierce-pressure-wave-against-your-side-hustle-for-long-term-defeat.md`
 - `execution_and_delivery/069-when-side-hustle-dawn-is-visible-concentrate-effort-on-the-main-earning-battle.md`
+- `execution_and_delivery/070-when-income-is-tight-stop-only-cutting-prices-rebuild-real-cashflow.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

@@ -19,6 +19,7 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/067-in-hard-times-shrink-the-embedded-machine-and-keep-the-core-delivery-force-hard.md`
 - `engineering_strategy/068-dont-mistake-the-last-fierce-embedded-pressure-wave-for-long-term-project-defeat.md`
 - `engineering_strategy/069-when-embedded-dawn-is-visible-concentrate-force-on-the-main-delivery-battle.md`
+- `engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md`
 
 Focus:
 - long-cycle projects

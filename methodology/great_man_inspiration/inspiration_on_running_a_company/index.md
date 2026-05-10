@@ -77,6 +77,7 @@ This folder focuses on:
 - `strategy_and_execution/067-in-hard-times-shrink-the-company-machine-and-keep-the-core-business-force-hard.md`
 - `strategy_and_execution/068-dont-mistake-the-last-fierce-competitive-push-for-long-term-business-advantage.md`
 - `strategy_and_execution/069-when-business-dawn-is-visible-concentrate-all-force-on-the-main-operating-battle.md`
+- `strategy_and_execution/070-when-cash-is-tight-stop-only-trimming-finance-rebuild-real-business-bloodflow.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 
 ## Focus of the current notes

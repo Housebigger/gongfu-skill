@@ -60,6 +60,7 @@ Purpose:
 - `iteration_and_delivery/067-in-hard-times-shrink-the-engineering-machine-and-keep-the-main-delivery-force-hard.md`
 - `iteration_and_delivery/068-dont-mistake-the-last-fierce-project-pressure-wave-for-long-term-structural-advantage.md`
 - `iteration_and_delivery/069-when-project-dawn-is-visible-concentrate-all-force-on-the-final-bottleneck.md`
+- `iteration_and_delivery/070-when-delivery-gets-hard-stop-only-cutting-budget-rebuild-real-supply-lines.md`
 
 Purpose:
 - how teams build resource flow and supply lines for sustained delivery

@@ -20,6 +20,7 @@ Purpose:
 - `survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md`
 - `survival_strategy/mao-044-stages-cannot-be-skipped.md`
 - `survival_strategy/067-in-hard-times-shrink-your-life-machine-and-keep-the-core-strong.md`
+- `survival_strategy/070-when-money-is-tight-dont-cut-the-core-build-real-supply.md`
 
 Purpose:
 - how ordinary people build footholds
@@ -31,6 +32,7 @@ Purpose:
 - how to retreat, wait for conditions to shift, and concentrate effort on one decisive life battle
 - how ordinary people build a real life base area under long pressure, keep room to move, and gradually grow through active, flexible, planned local wins
 - how ordinary people actively shrink an overgrown life machine in hard times so the core stays strong, mobile, and able to survive the darkest stretch
+- how ordinary people stop treating money pressure as a pure budgeting problem, protect core supply, and rebuild income, self-support, and support lines while living tighter
 
 ### judgement_and_decision
 - `judgement_and_decision/001-dont-misread-allies-by-surface-labels.md`

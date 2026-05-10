@@ -59,6 +59,7 @@ Purpose:
 - `iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md`
 - `iteration_and_delivery/067-in-hard-times-shrink-the-engineering-machine-and-keep-the-main-delivery-force-hard.md`
 - `iteration_and_delivery/068-dont-mistake-the-last-fierce-project-pressure-wave-for-long-term-structural-advantage.md`
+- `iteration_and_delivery/069-when-project-dawn-is-visible-concentrate-all-force-on-the-final-bottleneck.md`
 
 Purpose:
 - how teams build resource flow and supply lines for sustained delivery
@@ -71,6 +72,7 @@ Purpose:
 - how software teams avoid both project defeatism and quick-win fantasy by using stage judgment, long positioning, local fast battles, and sustained mobilization to turn weak projects into winnable ones
 - how software teams stop treating a decisive project battle as one issue among many, and instead identify the true main battlefield, organize engineering main force around it, and make most support work directly or indirectly supply that central line
 - how software teams actively shrink an overgrown engineering machine in hard times, contract secondary fronts, and keep the main delivery force hard enough to cross the darkest stretch
+- how software teams stop scattering product, engineering, testing, and ops effort once project-turnaround dawn is visible, and instead keep all force concentrated on the final decisive bottleneck until the win is secured
 
 ### team_process_and_quality
 - `team_process_and_quality/002-dont-treat-bottom-up-product-change-as-mere-chaos.md`

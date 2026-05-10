@@ -21,7 +21,7 @@
 
 - `debugging_and_fieldwork/`：3 篇
   - 面向调试闭环、真机调查、反资料主义，以及一线调查方法
-- `engineering_strategy/`：10 篇
+- `engineering_strategy/`：11 篇
   - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备、转机判断与困难阶段主动缩编
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
@@ -30,7 +30,7 @@
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：41 篇 article-based 笔记，对应 41 篇毛文来源。
+当前合计：42 篇 article-based 笔记，对应 42 篇毛文来源。
 
 ## 推荐入口
 
@@ -52,6 +52,7 @@
 - 如何识别主战场、组织主力、避免误把暂稳当休息
 - 如何在重创之后既做最坏准备又不提前判死项目
 - 如何在困难阶段主动收小工程机器、保住主版本主板型和主交付主力
+- 如何在项目曙光可见时继续把固件、硬件、测试与现场火力压向主交付战场，避免最后阶段分兵
 
 ### `system_analysis_and_architecture/`
 适合看：

@@ -76,6 +76,7 @@ This folder focuses on:
 - `strategy_and_execution/066-serve-real-customers-learn-market-language-and-build-from-the-frontline.md`
 - `strategy_and_execution/067-in-hard-times-shrink-the-company-machine-and-keep-the-core-business-force-hard.md`
 - `strategy_and_execution/068-dont-mistake-the-last-fierce-competitive-push-for-long-term-business-advantage.md`
+- `strategy_and_execution/069-when-business-dawn-is-visible-concentrate-all-force-on-the-main-operating-battle.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 
 ## Focus of the current notes
@@ -127,3 +128,4 @@ This folder focuses on:
 - how companies stop letting reports, management writing, meetings, and reviews decay into empty jargon by writing for real readers, real operating problems, and real responsibility actions
 - how companies stop building products, brand, sales, and service around insider self-image and instead learn real customer language and grow from frontline scenarios
 - how companies actively shrink an overgrown company machine in hard times, cut virtual organizational mass, and keep the core business force hard enough to survive the darkest stretch
+- how companies stop re-spreading capital, management attention, and organizational energy once business-turnaround dawn is visible, and instead keep everything concentrated on the main operating battle until the reversal is real

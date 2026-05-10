@@ -42,6 +42,7 @@
 - [058 真正成熟的学校危机治理，不是一次重创后就把学校局面提前判死，而是既做最坏准备，又守住主矛盾、分类判断和学校转机](school_governance_and_crisis_response/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-school-turnaround-possibilities.md)
 - [067 当学校进入最难的一段路时，别再死撑一个什么都想保的大机器，而要主动缩小摊子、压缩空转，把课堂、班级和核心教师主力保硬](school_governance_and_crisis_response/067-in-hard-times-shrink-the-school-machine-and-keep-the-core-teaching-force-hard.md)
 - [068 不要把学校最后一轮最凶的危机波，误判成长期失地；真正成熟的学校治理，要透过最后一轮最吓人的混乱，看见危机方越来越难把这一下继续打成长期优势](school_governance_and_crisis_response/068-dont-mistake-the-schools-last-fierce-crisis-wave-for-long-term-loss-of-ground.md)
+- [069 当学校翻盘的曙光已经看得见时，最怕的不是还有艰苦，而是把最后阶段的教育力量重新打散](school_governance_and_crisis_response/069-when-school-dawn-is-visible-concentrate-force-on-the-main-education-battle.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
@@ -66,4 +67,4 @@
 - [065 别让学校材料、会议、汇报、教研发言和管理评审沦为学校八股，真正有用的表达必须回到学生、课堂、教师协作与学校问题](school_coordination_and_organization/065-dont-let-school-writing-meetings-reports-and-reviews-decay-into-empty-jargon.md)
 
 ---
-统计：50篇笔记 / 5个子主题 / 覆盖001-068中49篇原文
+统计：51篇笔记 / 5个子主题 / 覆盖001-069中50篇原文

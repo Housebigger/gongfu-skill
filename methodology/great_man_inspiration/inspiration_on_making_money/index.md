@@ -72,6 +72,7 @@ Important boundary:
 - `execution_and_delivery/066-serve-real-paying-users-learn-their-language-and-build-from-real-demand.md`
 - `execution_and_delivery/067-in-hard-times-shrink-your-side-hustle-machine-and-keep-the-core-cashflow-force-hard.md`
 - `execution_and_delivery/068-dont-mistake-the-last-fierce-pressure-wave-against-your-side-hustle-for-long-term-defeat.md`
+- `execution_and_delivery/069-when-side-hustle-dawn-is-visible-concentrate-effort-on-the-main-earning-battle.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -110,3 +111,4 @@ Additional focus:
 - how side-hustle builders stop letting plans, sales talk, and project reviews decay into empty jargon and force business expression back toward customers, problems, and action
 - how side-hustle builders stop creating for self-image, peer applause, and platform vanity, and instead learn the language of real paying users so products and offers grow upward from actual demand
 - how side-hustle builders actively shrink an overgrown side-hustle machine in hard times, narrow lines and commitments, and keep the core cashflow force hard enough to survive the darkest stretch
+- how side-hustle builders stop re-spreading traffic, time, delivery energy, and collaboration once side-hustle dawn is visible, and instead keep effort concentrated on the main earning battle until income is truly stabilized

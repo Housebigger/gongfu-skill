@@ -18,6 +18,7 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-embedded-turnaround-possibilities.md`
 - `engineering_strategy/067-in-hard-times-shrink-the-embedded-machine-and-keep-the-core-delivery-force-hard.md`
 - `engineering_strategy/068-dont-mistake-the-last-fierce-embedded-pressure-wave-for-long-term-project-defeat.md`
+- `engineering_strategy/069-when-embedded-dawn-is-visible-concentrate-force-on-the-main-delivery-battle.md`
 
 Focus:
 - long-cycle projects
@@ -30,6 +31,7 @@ Focus:
 - full-system mobilization for decisive embedded battles
 - preparing for worst-case scenarios without losing the main contradiction and turnaround possibilities after severe project shocks
 - shrinking the embedded machine in hard times so the main delivery force, main version, and main board line stay hard enough to survive
+- keeping firmware, hardware, test, field, and version firepower concentrated on the main delivery battle once embedded-turnaround dawn is visible, so the final stage is not lost to renewed multi-front distraction
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

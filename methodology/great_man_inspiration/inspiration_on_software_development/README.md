@@ -21,11 +21,11 @@
 - `product_strategy/`：3 篇
 - `user_research_and_requirements/`：6 篇
 - `architecture_and_engineering/`：2 篇
-- `iteration_and_delivery/`：9 篇
+- `iteration_and_delivery/`：10 篇
 - `team_process_and_quality/`：44 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：64 篇 article-based 笔记，对应 64 篇毛文来源。
+当前合计：65 篇 article-based 笔记，对应 65 篇毛文来源。
 
 ## 推荐入口
 
@@ -57,6 +57,7 @@
 - 项目阶段判断
 - 长期承压下的交付推进
 - 如何在困难阶段主动缩小研发机器、收缩并行面并把主交付主力做硬
+- 如何在项目翻盘曙光已现时继续集中工程火力，不让最后阶段被重新分兵拖散
 
 ### `team_process_and_quality/`
 适合看：

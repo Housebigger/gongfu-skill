@@ -11,11 +11,11 @@
 - `survival_strategy/`：7 篇
 - `judgement_and_decision/`：17 篇
 - `long_term_growth/`：7 篇
-- `cooperation_and_organization/`：37 篇
+- `cooperation_and_organization/`：38 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：68 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—068，顺序总览窗口也推进到 068。
+当前合计：69 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—069，顺序总览窗口也推进到 069。
 
 ## 推荐入口
 
@@ -53,9 +53,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`068《第二次世界大战的转折点》`
-- 顺序总览窗口当前也推进到：`068《第二次世界大战的转折点》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`069《祝十月革命二十五周年》`
+- today_life 主题当前实写覆盖到：`069《祝十月革命二十五周年》`
+- 顺序总览窗口当前也推进到：`069《祝十月革命二十五周年》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`070《抗日时期的经济问题和财政问题》`
 
 ## 使用提醒
 

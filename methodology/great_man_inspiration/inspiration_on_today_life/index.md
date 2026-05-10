@@ -124,6 +124,7 @@ Purpose:
 - `cooperation_and_organization/062-against-the-main-threat-build-the-broadest-real-united-front.md`
 - `cooperation_and_organization/063-public-affairs-are-not-private-property-learn-democratic-cooperation.md`
 - `cooperation_and_organization/066-serve-real-people-not-your-self-image-learn-their-language-and-build-from-there.md`
+- `cooperation_and_organization/069-when-victory-dawn-is-visible-concentrate-on-the-final-main-battle.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -154,6 +155,7 @@ Purpose:
 - how ordinary people resist fake unity by keeping cooperation tied to progress, open feedback, protection for real doers, room for young/new forces, and cleanup of hidden internal rot instead of sacrificing all of that for surface neatness
 - how ordinary people stop turning public affairs into small-circle private property, and instead learn democratic cooperation by letting more people speak, participate, and supervise the common task
 - how ordinary people stop letting their expression, advice, help, and influence float above real people, and instead enter real-majority life, learn usable language, and build from the receiver's real basis
+- how ordinary people stop scattering energy once life-turnaround dawn is visible, and instead keep sleep, cash, attention, and cooperation concentrated on the final main battle until victory is truly secured
 
 ## Writing convention
 

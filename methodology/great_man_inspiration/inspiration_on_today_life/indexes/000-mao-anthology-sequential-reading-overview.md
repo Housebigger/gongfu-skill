@@ -384,9 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`068《第二次世界大战的转折点》`
-- 如果继续顺序推进，下一篇应是：`069《祝十月革命二十五周年》`
+- 当前顺序覆盖已推进到：`069《祝十月革命二十五周年》`
+- 如果继续顺序推进，下一篇应是：`070《抗日时期的经济问题和财政问题》`
 
+
+- 069《祝十月革命二十五周年》
+  - `cooperation_and_organization/069-when-victory-dawn-is-visible-concentrate-on-the-final-main-battle.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/069-when-project-dawn-is-visible-concentrate-all-force-on-the-final-bottleneck.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/069-when-business-dawn-is-visible-concentrate-all-force-on-the-main-operating-battle.md`
+  - `../inspiration_on_stock_investing/trading_and_execution/069-when-thesis-dawn-is-visible-concentrate-capital-on-the-main-battle.md`
+  - `../inspiration_on_making_money/execution_and_delivery/069-when-side-hustle-dawn-is-visible-concentrate-effort-on-the-main-earning-battle.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/069-when-embedded-dawn-is-visible-concentrate-force-on-the-main-delivery-battle.md`
+  - `../inspiration_on_educational_undertakings/school_governance_and_crisis_response/069-when-school-dawn-is-visible-concentrate-force-on-the-main-education-battle.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 068《第二次世界大战的转折点》
   - `judgement_and_decision/068-dont-mistake-the-enemys-last-fierce-push-for-long-term-advantage.md`

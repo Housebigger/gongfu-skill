@@ -120,11 +120,13 @@ Purpose:
 
 ### trading_and_execution
 - `trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
+- `trading_and_execution/069-when-thesis-dawn-is-visible-concentrate-capital-on-the-main-battle.md`
 
 Purpose:
 - how investors avoid mistaking small early participation and warming signals for broad-based opportunity confirmation
 - how to shift from passive defensive holding into active concentration on the highest-odds attack points when conditions turn favorable
 - how to preserve execution flexibility instead of turning every position into a rigid defensive line
+- how investors stop scattering capital and research focus once thesis-turnaround dawn is visible, and instead keep both concentrated on the main battle until returns are truly harvested
 
 ## Writing convention
 

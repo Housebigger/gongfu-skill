@@ -20,10 +20,10 @@
 - `market_structure_and_cycles/`：1 篇
 - `research_and_thesis/`：49 篇
 - `risk_and_position_management/`：7 篇
-- `trading_and_execution/`：1 篇
+- `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：58 篇 article-based 笔记，对应 58 篇毛文来源。
+当前合计：59 篇 article-based 笔记，对应 59 篇毛文来源。
 
 ## 子目录速览
 
@@ -54,6 +54,7 @@
 ### `trading_and_execution/`
 适合看：
 - 关键机会的执行主战场判断
+- thesis 曙光出现后如何继续集中资本与注意力，不在兑现前重新打散
 
 ## 推荐入口
 

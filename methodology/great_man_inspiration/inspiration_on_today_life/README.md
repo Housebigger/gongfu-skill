@@ -8,14 +8,14 @@
 
 ## 当前实际结构
 
-- `survival_strategy/`：6 篇
-- `judgement_and_decision/`：16 篇
+- `survival_strategy/`：7 篇
+- `judgement_and_decision/`：17 篇
 - `long_term_growth/`：7 篇
 - `cooperation_and_organization/`：37 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：66 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—066，顺序总览窗口也推进到 066。
+当前合计：68 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—068，顺序总览窗口也推进到 068。
 
 ## 推荐入口
 
@@ -29,6 +29,7 @@
 - 如何保基本盘
 - 如何建根据地
 - 如何在压力下留出生存与反攻空间
+- 如何在困难阶段主动缩编生活机器，让系统更小、更轻、更能打
 
 ### `judgement_and_decision/`
 适合看：
@@ -52,9 +53,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`066《在延安文艺座谈会上的讲话》`
-- 顺序总览窗口当前也推进到：`066《在延安文艺座谈会上的讲话》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`067《一个极其重要的政策》`
+- today_life 主题当前实写覆盖到：`068《第二次世界大战的转折点》`
+- 顺序总览窗口当前也推进到：`068《第二次世界大战的转折点》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`069《祝十月革命二十五周年》`
 
 ## 使用提醒
 

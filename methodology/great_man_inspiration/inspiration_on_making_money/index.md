@@ -70,6 +70,8 @@ Important boundary:
 - `execution_and_delivery/064-rectify-side-hustle-style-by-fighting-subjectivism-small-circles-and-business-jargon.md`
 - `execution_and_delivery/065-dont-let-side-hustle-plans-sales-talk-and-reviews-decay-into-empty-jargon.md`
 - `execution_and_delivery/066-serve-real-paying-users-learn-their-language-and-build-from-real-demand.md`
+- `execution_and_delivery/067-in-hard-times-shrink-your-side-hustle-machine-and-keep-the-core-cashflow-force-hard.md`
+- `execution_and_delivery/068-dont-mistake-the-last-fierce-pressure-wave-against-your-side-hustle-for-long-term-defeat.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -107,3 +109,4 @@ Additional focus:
 - how side-hustle builders rectify business style by fighting subjectivism, small-circle cooperation, and commercial empty talk before they hollow out real earning power
 - how side-hustle builders stop letting plans, sales talk, and project reviews decay into empty jargon and force business expression back toward customers, problems, and action
 - how side-hustle builders stop creating for self-image, peer applause, and platform vanity, and instead learn the language of real paying users so products and offers grow upward from actual demand
+- how side-hustle builders actively shrink an overgrown side-hustle machine in hard times, narrow lines and commitments, and keep the core cashflow force hard enough to survive the darkest stretch

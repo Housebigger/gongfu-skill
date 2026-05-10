@@ -63,6 +63,7 @@ Purpose:
 - `research_and_thesis/064-rectify-investment-research-style-by-fighting-subjectivism-small-circles-and-research-jargon.md`
 - `research_and_thesis/065-dont-let-investment-reports-notes-and-thesis-reviews-decay-into-empty-jargon.md`
 - `research_and_thesis/066-dont-build-investment-thesis-for-your-own-circle-learn-the-language-of-real-demand-and-validate-from-the-ground-up.md`
+- `research_and_thesis/068-dont-mistake-the-markets-last-fierce-bear-push-for-long-term-thesis-defeat.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -104,6 +105,7 @@ Purpose:
 - `risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md`
 - `risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
 - `risk_and_position_management/039-stalemate-market-three-investor-traps.md`
+- `risk_and_position_management/067-in-hard-times-shrink-the-investment-machine-and-keep-the-core-capital-force-hard.md`
 
 Purpose:
 - how investors keep cash, resilience, and optionality before making large bets
@@ -114,6 +116,7 @@ Purpose:
 - how investors protect hard-won research and risk discipline during market repair periods by refusing to let soft bullish signals, external endorsements, or relationship narratives reopen old bad habits
 - how investors build real investment base areas under long pressure, preserve principal and flexibility, and gradually upgrade scattered survival trades into stronger system-level capability
 - how investors avoid both market defeatism and quick-win fantasy by using stage judgment, long positioning, local fast decisions, and continued verification to turn weak situations into winnable ones
+- how investors shrink the investment machine in hard times, protect core capital force, and keep the account small enough to survive and strike again
 
 ### trading_and_execution
 - `trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`

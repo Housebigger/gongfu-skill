@@ -384,9 +384,29 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`066《在延安文艺座谈会上的讲话》`
-- 如果继续顺序推进，下一篇应是：`067《一个极其重要的政策》`
+- 当前顺序覆盖已推进到：`068《第二次世界大战的转折点》`
+- 如果继续顺序推进，下一篇应是：`069《祝十月革命二十五周年》`
 
+
+- 068《第二次世界大战的转折点》
+  - `judgement_and_decision/068-dont-mistake-the-enemys-last-fierce-push-for-long-term-advantage.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/068-dont-mistake-the-last-fierce-project-pressure-wave-for-long-term-structural-advantage.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/068-dont-mistake-the-last-fierce-competitive-push-for-long-term-business-advantage.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/068-dont-mistake-the-markets-last-fierce-bear-push-for-long-term-thesis-defeat.md`
+  - `../inspiration_on_making_money/execution_and_delivery/068-dont-mistake-the-last-fierce-pressure-wave-against-your-side-hustle-for-long-term-defeat.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/068-dont-mistake-the-last-fierce-embedded-pressure-wave-for-long-term-project-defeat.md`
+  - `../inspiration_on_educational_undertakings/school_governance_and_crisis_response/068-dont-mistake-the-schools-last-fierce-crisis-wave-for-long-term-loss-of-ground.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
+
+- 067《一个极其重要的政策》
+  - `survival_strategy/067-in-hard-times-shrink-your-life-machine-and-keep-the-core-strong.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/067-in-hard-times-shrink-the-engineering-machine-and-keep-the-main-delivery-force-hard.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/067-in-hard-times-shrink-the-company-machine-and-keep-the-core-business-force-hard.md`
+  - `../inspiration_on_stock_investing/risk_and_position_management/067-in-hard-times-shrink-the-investment-machine-and-keep-the-core-capital-force-hard.md`
+  - `../inspiration_on_making_money/execution_and_delivery/067-in-hard-times-shrink-your-side-hustle-machine-and-keep-the-core-cashflow-force-hard.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/067-in-hard-times-shrink-the-embedded-machine-and-keep-the-core-delivery-force-hard.md`
+  - `../inspiration_on_educational_undertakings/school_governance_and_crisis_response/067-in-hard-times-shrink-the-school-machine-and-keep-the-core-teaching-force-hard.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 066《在延安文艺座谈会上的讲话》
   - `cooperation_and_organization/066-serve-real-people-not-your-self-image-learn-their-language-and-build-from-there.md`

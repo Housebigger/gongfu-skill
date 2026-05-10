@@ -19,6 +19,7 @@ Purpose:
 - `survival_strategy/013-dont-defend-every-inch-preserve-strength-and-counterattack-when-odds-shift.md`
 - `survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md`
 - `survival_strategy/mao-044-stages-cannot-be-skipped.md`
+- `survival_strategy/067-in-hard-times-shrink-your-life-machine-and-keep-the-core-strong.md`
 
 Purpose:
 - how ordinary people build footholds
@@ -29,6 +30,7 @@ Purpose:
 - how to preserve strength under strong external pressure instead of exhausting yourself defending every front
 - how to retreat, wait for conditions to shift, and concentrate effort on one decisive life battle
 - how ordinary people build a real life base area under long pressure, keep room to move, and gradually grow through active, flexible, planned local wins
+- how ordinary people actively shrink an overgrown life machine in hard times so the core stays strong, mobile, and able to survive the darkest stretch
 
 ### judgement_and_decision
 - `judgement_and_decision/001-dont-misread-allies-by-surface-labels.md`
@@ -47,6 +49,7 @@ Purpose:
 - `judgement_and_decision/058-prepare-for-the-worst-without-losing-sight-of-the-main-contradiction-and-better-possibilities.md`
 - `judgement_and_decision/059-real-life-judgements-need-downward-investigation-not-second-hand-stories.md`
 - `judgement_and_decision/061-dont-let-fake-peace-rumors-and-division-break-your-mainline.md`
+- `judgement_and_decision/068-dont-mistake-the-enemys-last-fierce-push-for-long-term-advantage.md`
 
 Purpose:
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
@@ -62,6 +65,7 @@ Purpose:
 - how ordinary people prepare for the worst without collapsing all possibilities into one doom judgment, and instead keep hold of the main contradiction, classified response, and better openings
 - how ordinary people stop letting second-hand stories, high-position summaries, and surface signals replace real downward investigation before major life judgements
 - how ordinary people recognize when direct pressure has turned into fake peace, rumor, and division, and refuse to let soft pressure break their mainline judgement
+- how ordinary people recognize that the enemy's fiercest final push may signal structural exhaustion, and judge turning points by whether core goals can still be achieved and sustained
 
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`

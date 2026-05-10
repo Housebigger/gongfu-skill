@@ -16,10 +16,10 @@
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：6 篇
 - `teacher_growth_and_backbone/`：9 篇
-- `school_governance_and_crisis_response/`：8 篇
+- `school_governance_and_crisis_response/`：10 篇
 - `school_coordination_and_organization/`：20 篇
 
-当前合计：48 篇 article-based 笔记，对应 47 篇毛文来源。
+当前合计：50 篇 article-based 笔记，对应 49 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -56,6 +56,7 @@
 - 班级主矛盾
 - 学校危机治理
 - 规则、底线与分类处置
+- 如何在困难阶段主动收小学校机器、保住课堂、班级与核心教师主力
 
 ### `school_coordination_and_organization/`
 适合看：

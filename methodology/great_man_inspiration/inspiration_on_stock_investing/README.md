@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：48 篇
-- `risk_and_position_management/`：6 篇
+- `research_and_thesis/`：49 篇
+- `risk_and_position_management/`：7 篇
 - `trading_and_execution/`：1 篇
 - `indexes/`：当前预留
 
-当前合计：56 篇 article-based 笔记，对应 56 篇毛文来源。
+当前合计：58 篇 article-based 笔记，对应 58 篇毛文来源。
 
 ## 子目录速览
 
@@ -49,6 +49,7 @@
 - 现金与 supply line
 - 风险纪律
 - 长周期承压下的仓位与生存问题
+- 如何在困难阶段主动缩小投资机器、保住本金主力与行动自由
 
 ### `trading_and_execution/`
 适合看：

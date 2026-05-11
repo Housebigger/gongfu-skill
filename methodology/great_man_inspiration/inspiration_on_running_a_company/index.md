@@ -78,6 +78,7 @@ This folder focuses on:
 - `strategy_and_execution/068-dont-mistake-the-last-fierce-competitive-push-for-long-term-business-advantage.md`
 - `strategy_and_execution/069-when-business-dawn-is-visible-concentrate-all-force-on-the-main-operating-battle.md`
 - `strategy_and_execution/070-when-cash-is-tight-stop-only-trimming-finance-rebuild-real-business-bloodflow.md`
+- `strategy_and_execution/072-when-a-company-keeps-fighting-inside-ask-who-benefits.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 - `leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md`
 

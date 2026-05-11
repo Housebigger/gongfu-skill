@@ -121,6 +121,7 @@ Purpose:
 - `team_process_and_quality/064-rectify-software-style-by-fighting-subjectivism-silos-and-empty-jargon.md`
 - `team_process_and_quality/065-dont-let-engineering-writing-meetings-and-reviews-decay-into-empty-jargon.md`
 - `team_process_and_quality/071-dont-just-issue-unified-software-plans-build-pilot-breakthroughs-backbone-and-feedback-loops.md`
+- `team_process_and_quality/072-when-a-team-keeps-firing-inward-ask-who-benefits.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos

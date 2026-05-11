@@ -384,9 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`071《关于领导方法的若干问题》`
-- 如果继续顺序推进，下一篇应是：`072《质问国民党》`
+- 当前顺序覆盖已推进到：`072《质问国民党》`
+- 如果继续顺序推进，下一篇应是：`073《开展根据地的减租、生产和拥政爱民运动》`
 
+
+- 072《质问国民党》
+  - `judgement_and_decision/072-when-fire-turns-inward-ask-who-benefits.md`
+  - `../inspiration_on_software_development/team_process_and_quality/072-when-a-team-keeps-firing-inward-ask-who-benefits.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/072-when-a-company-keeps-fighting-inside-ask-who-benefits.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/072-when-management-keeps-fighting-internal-reminders-ask-who-benefits.md`
+  - `../inspiration_on_making_money/execution_and_delivery/072-when-a-side-hustle-keeps-fighting-inside-ask-who-benefits.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/072-when-an-embedded-team-keeps-firing-inward-ask-who-benefits.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/072-when-a-school-keeps-fighting-inside-ask-who-benefits.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 071《关于领导方法的若干问题》
   - `cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md`

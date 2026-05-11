@@ -67,6 +67,7 @@
 - [064 真正该整的，不只是学校制度样子，而是主观主义、小圈子习气和学校空话；只有把判断接回校情班情、把组织接回共同教育任务，学校才可能真正整出生命力](school_coordination_and_organization/064-rectify-school-style-by-fighting-subjectivism-small-circles-and-empty-school-jargon.md)
 - [065 别让学校材料、会议、汇报、教研发言和管理评审沦为学校八股，真正有用的表达必须回到学生、课堂、教师协作与学校问题](school_coordination_and_organization/065-dont-let-school-writing-meetings-reports-and-reviews-decay-into-empty-jargon.md)
 - [071 别只靠校级总要求和统一口号推进学校工作，要先在关键班级、关键年级和关键协作样板上做深，再把骨干教师和一线反馈组织成全校方法](school_coordination_and_organization/071-dont-just-issue-school-wide-orders-build-pilot-breakthroughs-backbone-and-feedback-loops.md)
+- [072 当一个学校嘴上讲稳定和大局、行动上却总把主要火力打向内部教师与提醒者、把真正的学生问题、秩序风险和家校危机留在背后时，管理者必须追问：这到底在帮谁](school_coordination_and_organization/072-when-a-school-keeps-fighting-inside-ask-who-benefits.md)
 
 ---
-统计：53篇笔记 / 5个子主题 / 覆盖001-071中52篇原文
+统计：54篇笔记 / 5个子主题 / 覆盖001-072中53篇原文

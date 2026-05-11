@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：6 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：11 篇
-- `team_process_and_quality/`：45 篇
+- `team_process_and_quality/`：46 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：67 篇 article-based 笔记，对应 67 篇毛文来源。
+当前合计：68 篇 article-based 笔记，对应 68 篇毛文来源。
 
 ## 推荐入口
 

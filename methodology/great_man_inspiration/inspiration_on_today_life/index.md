@@ -52,6 +52,7 @@ Purpose:
 - `judgement_and_decision/059-real-life-judgements-need-downward-investigation-not-second-hand-stories.md`
 - `judgement_and_decision/061-dont-let-fake-peace-rumors-and-division-break-your-mainline.md`
 - `judgement_and_decision/068-dont-mistake-the-enemys-last-fierce-push-for-long-term-advantage.md`
+- `judgement_and_decision/072-when-fire-turns-inward-ask-who-benefits.md`
 
 Purpose:
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture

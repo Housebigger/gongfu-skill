@@ -384,9 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`070《抗日时期的经济问题和财政问题》`
-- 如果继续顺序推进，下一篇应是：`071《关于领导方法的若干问题》`
+- 当前顺序覆盖已推进到：`071《关于领导方法的若干问题》`
+- 如果继续顺序推进，下一篇应是：`072《质问国民党》`
 
+
+- 071《关于领导方法的若干问题》
+  - `cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md`
+  - `../inspiration_on_software_development/team_process_and_quality/071-dont-just-issue-unified-software-plans-build-pilot-breakthroughs-backbone-and-feedback-loops.md`
+  - `../inspiration_on_running_a_company/leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/071-dont-just-issue-investment-theses-validate-key-pilots-and-organize-research-feedback.md`
+  - `../inspiration_on_making_money/execution_and_delivery/071-dont-just-issue-side-hustle-plans-build-pilot-breakthroughs-backbone-and-feedback.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/071-dont-just-issue-school-wide-orders-build-pilot-breakthroughs-backbone-and-feedback-loops.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 
 - 070《抗日时期的经济问题和财政问题》
   - `survival_strategy/070-when-money-is-tight-dont-cut-the-core-build-real-supply.md`

@@ -25,12 +25,12 @@
   - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备、转机判断与困难阶段主动缩编
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
-- `team_process_and_knowledge/`：27 篇
+- `team_process_and_knowledge/`：28 篇
   - 面向协作边界、知识沉淀、纪律、保护建设者、复杂协作治理
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：43 篇 article-based 笔记，对应 43 篇毛文来源。
+当前合计：44 篇 article-based 笔记，对应 44 篇毛文来源。
 
 ## 推荐入口
 

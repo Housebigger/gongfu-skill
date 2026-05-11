@@ -127,6 +127,7 @@ Purpose:
 - `cooperation_and_organization/063-public-affairs-are-not-private-property-learn-democratic-cooperation.md`
 - `cooperation_and_organization/066-serve-real-people-not-your-self-image-learn-their-language-and-build-from-there.md`
 - `cooperation_and_organization/069-when-victory-dawn-is-visible-concentrate-on-the-final-main-battle.md`
+- `cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change

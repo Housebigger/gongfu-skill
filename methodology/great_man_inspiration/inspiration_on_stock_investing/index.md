@@ -64,6 +64,7 @@ Purpose:
 - `research_and_thesis/065-dont-let-investment-reports-notes-and-thesis-reviews-decay-into-empty-jargon.md`
 - `research_and_thesis/066-dont-build-investment-thesis-for-your-own-circle-learn-the-language-of-real-demand-and-validate-from-the-ground-up.md`
 - `research_and_thesis/068-dont-mistake-the-markets-last-fierce-bear-push-for-long-term-thesis-defeat.md`
+- `research_and_thesis/071-dont-just-issue-investment-theses-validate-key-pilots-and-organize-research-feedback.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking

@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—070。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—071。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,21 +15,21 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 70 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 417 |
-| 顺序学习已连续覆盖范围 | 001—070 |
-| 顺序覆盖段标题核对结果 | 70/70 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 71 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 424 |
+| 顺序学习已连续覆盖范围 | 001—071 |
+| 顺序覆盖段标题核对结果 | 71/71 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 071《关于领导方法的若干问题》 |
+| 顺序主线的下一篇 | 072《质问国民党》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `070《抗日时期的经济问题和财政问题》`。
-- 在 `001—070` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- `070《抗日时期的经济问题和财政问题》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `071《关于领导方法的若干问题》`
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `071《关于领导方法的若干问题》`。
+- 在 `001—071` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- `071《关于领导方法的若干问题》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `072《质问国民党》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -106,12 +106,14 @@
 | 069 | 《祝十月革命二十五周年》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421106.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 070 | 《抗日时期的经济问题和财政问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
+| 071 | 《关于领导方法的若干问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—070 顺序主线已建立关联          [######################################################################]
-070 《抗日时期的经济问题和财政问题》     [DONE]
-071 《关于领导方法的若干问题》         [NEXT]
+001—071 顺序主线已建立关联          [#######################################################################]
+071 《关于领导方法的若干问题》         [DONE]
+072 《质问国民党》                   [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -201,6 +203,7 @@
 | 068 | 《第二次世界大战的转折点》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421012.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/068-dont-mistake-the-enemys-last-fierce-push-for-long-term-advantage.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/068-dont-mistake-the-last-fierce-project-pressure-wave-for-long-term-structural-advantage.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/068-dont-mistake-the-last-fierce-competitive-push-for-long-term-business-advantage.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/068-dont-mistake-the-markets-last-fierce-bear-push-for-long-term-thesis-defeat.md) | [MM](./inspiration_on_making_money/execution_and_delivery/068-dont-mistake-the-last-fierce-pressure-wave-against-your-side-hustle-for-long-term-defeat.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/068-dont-mistake-the-last-fierce-embedded-pressure-wave-for-long-term-project-defeat.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/068-dont-mistake-the-schools-last-fierce-crisis-wave-for-long-term-loss-of-ground.md) | 7 |
 | 069 | 《祝十月革命二十五周年》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421106.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/069-when-victory-dawn-is-visible-concentrate-on-the-final-main-battle.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/069-when-project-dawn-is-visible-concentrate-all-force-on-the-final-bottleneck.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/069-when-business-dawn-is-visible-concentrate-all-force-on-the-main-operating-battle.md) | [SI](./inspiration_on_stock_investing/trading_and_execution/069-when-thesis-dawn-is-visible-concentrate-capital-on-the-main-battle.md) | [MM](./inspiration_on_making_money/execution_and_delivery/069-when-side-hustle-dawn-is-visible-concentrate-effort-on-the-main-earning-battle.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/069-when-embedded-dawn-is-visible-concentrate-force-on-the-main-delivery-battle.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/069-when-school-dawn-is-visible-concentrate-force-on-the-main-education-battle.md) | 7 |
 | 070 | 《抗日时期的经济问题和财政问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm) | [TL](./inspiration_on_today_life/survival_strategy/070-when-money-is-tight-dont-cut-the-core-build-real-supply.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/070-when-delivery-gets-hard-stop-only-cutting-budget-rebuild-real-supply-lines.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/070-when-cash-is-tight-stop-only-trimming-finance-rebuild-real-business-bloodflow.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/070-when-positions-hurt-stop-staring-at-drawdown-rebuild-supply-lines.md) | [MM](./inspiration_on_making_money/execution_and_delivery/070-when-income-is-tight-stop-only-cutting-prices-rebuild-real-cashflow.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/070-when-school-is-tight-stop-only-cutting-expenses-rebuild-real-education-supply.md) | 7 |
+| 071 | 《关于领导方法的若干问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md) | [SD](./inspiration_on_software_development/team_process_and_quality/071-dont-just-issue-unified-software-plans-build-pilot-breakthroughs-backbone-and-feedback-loops.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/071-dont-just-issue-investment-theses-validate-key-pilots-and-organize-research-feedback.md) | [MM](./inspiration_on_making_money/execution_and_delivery/071-dont-just-issue-side-hustle-plans-build-pilot-breakthroughs-backbone-and-feedback.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/071-dont-just-issue-school-wide-orders-build-pilot-breakthroughs-backbone-and-feedback-loops.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -965,9 +968,21 @@
   - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/070-when-school-is-tight-stop-only-cutting-expenses-rebuild-real-education-supply.md`
 
+### 071《关于领导方法的若干问题》
+- 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 13 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm
+- 已关联 inspiration 文件数：7
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/071-dont-just-issue-unified-software-plans-build-pilot-breakthroughs-backbone-and-feedback-loops.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/071-dont-just-issue-investment-theses-validate-key-pilots-and-organize-research-feedback.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/071-dont-just-issue-side-hustle-plans-build-pilot-breakthroughs-backbone-and-feedback.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/071-dont-just-issue-school-wide-orders-build-pilot-breakthroughs-backbone-and-feedback-loops.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`071《关于领导方法的若干问题》`
+- 如果要从当前边界继续向下推进，下一篇应是：`072《质问国民党》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

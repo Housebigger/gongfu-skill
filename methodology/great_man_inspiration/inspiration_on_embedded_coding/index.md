@@ -81,6 +81,7 @@ Focus:
 - `team_process_and_knowledge/064-rectify-embedded-team-style-by-fighting-subjectivism-small-circles-and-engineering-jargon.md`
 - `team_process_and_knowledge/065-dont-let-embedded-writing-meetings-and-reviews-decay-into-empty-jargon.md`
 - `team_process_and_knowledge/066-serve-real-embedded-builders-learn-frontline-language-and-build-from-real-delivery-basis.md`
+- `team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality

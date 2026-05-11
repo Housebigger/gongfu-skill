@@ -83,6 +83,7 @@ Focus:
 - `team_process_and_knowledge/066-serve-real-embedded-builders-learn-frontline-language-and-build-from-real-delivery-basis.md`
 - `team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md`
 - `team_process_and_knowledge/072-when-an-embedded-team-keeps-firing-inward-ask-who-benefits.md`
+- `team_process_and_knowledge/074-dont-mistake-reform-talk-for-real-embedded-turnaround.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality
@@ -98,6 +99,7 @@ Focus:
 - long-term-interest judging in supplier, platform, and joint-debug relations so one support action, transaction, or coordinated move does not get mistaken for permanent engineering alignment
 - building the engineering core that can simultaneously organize external alliance surfaces, decisive version battles, and long-term knowledge/discipline construction around one embedded mainline
 - resisting fake-peace rumor/division tactics that isolate real builders and quietly dissolve the embedded mainline during soft-pressure phases
+- how embedded teams stop mistaking management's “we are preparing to rectify” and “we will solve it later” talk for real embedded turnaround, and instead judge whether the project is moving toward internal escalation, drag-it-out maintenance, or real structural repair
 - turning engineering public affairs back into true public affairs by giving burden-bearers, non-core roles, and frontline signals real speaking, participation, and supervision channels
 - why embedded teams must fight subjectivism, permission-circle politics, and engineering jargon before process form starts hollowing out real delivery
 - how embedded teams keep reviews, retrospectives, weekly reports, production updates, and issue memos tied to board facts, target audience, and concrete actions instead of empty engineering jargon

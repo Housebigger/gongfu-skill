@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-071篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-074篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -69,6 +69,7 @@
 - [071 别只靠校级总要求和统一口号推进学校工作，要先在关键班级、关键年级和关键协作样板上做深，再把骨干教师和一线反馈组织成全校方法](school_coordination_and_organization/071-dont-just-issue-school-wide-orders-build-pilot-breakthroughs-backbone-and-feedback-loops.md)
 - [072 当一个学校嘴上讲稳定和大局、行动上却总把主要火力打向内部教师与提醒者、把真正的学生问题、秩序风险和家校危机留在背后时，管理者必须追问：这到底在帮谁](school_coordination_and_organization/072-when-a-school-keeps-fighting-inside-ask-who-benefits.md)
 - [073 别把学校支持做成恩赐，先帮老师和班级恢复真实教育产能，再谈要更多结果](school_coordination_and_organization/073-dont-treat-school-support-as-a-favor-help-teachers-and-classes-rebuild-real-educational-capacity-before-asking-for-more.md)
+- [074 别把学校口中的“准备整改”“准备解决”当成真转向，先判断学校究竟在走压内部、拖字维持，还是实质换轨](school_coordination_and_organization/074-dont-mistake-school-reform-talk-for-real-turnaround.md)
 
 ---
-统计：55篇笔记 / 5个子主题 / 覆盖001-073中54篇原文
+统计：56篇笔记 / 5个子主题 / 覆盖001-074中55篇原文

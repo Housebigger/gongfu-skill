@@ -76,6 +76,7 @@ Important boundary:
 - `execution_and_delivery/070-when-income-is-tight-stop-only-cutting-prices-rebuild-real-cashflow.md`
 - `execution_and_delivery/071-dont-just-issue-side-hustle-plans-build-pilot-breakthroughs-backbone-and-feedback.md`
 - `execution_and_delivery/072-when-a-side-hustle-keeps-fighting-inside-ask-who-benefits.md`
+- `execution_and_delivery/074-dont-mistake-reform-talk-for-real-business-turnaround.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -109,6 +110,7 @@ Additional focus:
 - how side-hustle builders avoid turning worst-case preparation into side-hustle fatalism by holding the main contradiction, classifying customers and collaborators, and preserving turnaround possibilities after a major shock
 - how side-hustle builders stop turning side-hustle learning into concept collection by studying real demand, studying business history, and turning theory into usable monetization method
 - how side-hustle builders recognize when direct pressure has shifted into fake peace, rumors, blame-shifting, and division, and refuse to let soft relationship pressure dissolve the side-hustle mainline or isolate real burden-bearers
+- how side-hustle builders stop mistaking the operator's “we are preparing to adjust” and “we will solve it later” talk for real business turnaround, and instead judge whether the side hustle is moving toward internal escalation, drag-it-out maintenance, or real structural repair
 - how side-hustle builders stop treating project public affairs as a core-circle private property, and instead build democratic cooperation by giving real burden-bearers and non-core collaborators speaking, participation, and supervision roles
 - how side-hustle builders rectify business style by fighting subjectivism, small-circle cooperation, and commercial empty talk before they hollow out real earning power
 - how side-hustle builders stop letting plans, sales talk, and project reviews decay into empty jargon and force business expression back toward customers, problems, and action

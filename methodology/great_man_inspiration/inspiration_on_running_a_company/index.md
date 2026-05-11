@@ -79,6 +79,7 @@ This folder focuses on:
 - `strategy_and_execution/069-when-business-dawn-is-visible-concentrate-all-force-on-the-main-operating-battle.md`
 - `strategy_and_execution/070-when-cash-is-tight-stop-only-trimming-finance-rebuild-real-business-bloodflow.md`
 - `strategy_and_execution/072-when-a-company-keeps-fighting-inside-ask-who-benefits.md`
+- `strategy_and_execution/074-dont-mistake-reform-talk-for-real-company-turnaround.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 - `leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md`
 - `leadership_and_talent/073-dont-treat-company-support-as-a-favor-help-business-teams-rebuild-real-capacity-before-asking-for-more.md`
@@ -127,6 +128,7 @@ This folder focuses on:
 - how companies stop treating alliance-building and hard execution as separate capabilities, and instead build the organizational core that can unify partners, decisive battles, and internal construction around one strategic mainline
 - how companies avoid turning worst-case preparation into business fatalism by holding the main contradiction, classifying forces, and preserving turnaround possibilities after a major shock
 - how companies recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the company mainline or isolate real builders
+- how companies stop mistaking management's “we are preparing to reform” and “we will solve it later” talk for real company turnaround, and instead judge whether the firm is moving toward internal escalation, drag-it-out maintenance, or real structural change
 - how companies keep operating public affairs from collapsing back into core-circle private property by giving non-core roles real speaking space, democratic cooperation channels, and supervision over shared rules and key decisions
 - how companies rectify style by simultaneously fighting fact-free judgement, silo politics, and empty management jargon so organization design starts reconnecting to real business tasks
 - how companies stop letting reports, management writing, meetings, and reviews decay into empty jargon by writing for real readers, real operating problems, and real responsibility actions

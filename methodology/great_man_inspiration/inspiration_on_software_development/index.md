@@ -123,6 +123,7 @@ Purpose:
 - `team_process_and_quality/071-dont-just-issue-unified-software-plans-build-pilot-breakthroughs-backbone-and-feedback-loops.md`
 - `team_process_and_quality/072-when-a-team-keeps-firing-inward-ask-who-benefits.md`
 - `team_process_and_quality/073-dont-treat-software-support-as-a-favor-help-teams-rebuild-real-delivery-capacity-before-asking-for-more.md`
+- `team_process_and_quality/074-dont-mistake-reform-talk-for-real-software-turnaround.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -152,6 +153,7 @@ Purpose:
 - how software teams avoid turning worst-case preparation into project fatalism by keeping hold of the main contradiction, classifying stakeholders, and preserving turnaround possibilities after a major shock
 - how software teams stop treating learning as framework collection and instead study current reality, decision history, and theory-practice gaps until methods enter real delivery, quality, and collaboration workflows
 - how software teams recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the project mainline or isolate real builders
+- how software teams stop mistaking management's “we are preparing to reform” and “we will solve it later” talk for real software turnaround, and instead judge whether the project is moving toward internal escalation, drag-it-out maintenance, or real structural change
 - how software teams rapidly re-rank contradictions under a larger common threat, organize the broadest real support surface around the main task, and stop secondary disputes from consuming project survival capacity
 - how software teams keep engineering public affairs from collapsing back into core-circle private property by giving non-core roles real speaking space, participation channels, and supervision over shared rules and decisions
 - how software teams rectify style by simultaneously fighting subjectivism, siloed localism, and empty engineering jargon so judgement, collaboration, and communication all return to real problems

@@ -384,9 +384,19 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`073《开展根据地的减租、生产和拥政爱民运动》`
-- 如果继续顺序推进，下一篇应是：`074《评国民党十一中全会和三届二次国民参政会》`
+- 当前顺序覆盖已推进到：`074《评国民党十一中全会和三届二次国民参政会》`
+- 如果继续顺序推进，下一篇应是：`075《组织起来》`
 
+
+- 074《评国民党十一中全会和三届二次国民参政会》
+  - `judgement_and_decision/074-dont-mistake-reform-talk-for-real-change-judge-the-direction-of-actions.md`
+  - `../inspiration_on_software_development/team_process_and_quality/074-dont-mistake-reform-talk-for-real-software-turnaround.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/074-dont-mistake-reform-talk-for-real-company-turnaround.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/074-dont-mistake-reform-talk-for-real-thesis-turnaround.md`
+  - `../inspiration_on_making_money/execution_and_delivery/074-dont-mistake-reform-talk-for-real-business-turnaround.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/074-dont-mistake-reform-talk-for-real-embedded-turnaround.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/074-dont-mistake-school-reform-talk-for-real-turnaround.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：同一篇文章一方面落在普通人的识势判断上，提醒人在变局关口别被“准备解决”“以后会改”的漂亮话拿走判断；另一方面也延展到软件团队、公司经营、股票研究、副业经营、嵌入式工程和学校治理六个方向，统一强调不要把主导者口中的“准备改革”“准备调整”“准备整改”“以后解决”误判成真转向，而要用“三方向判断”去分清眼前局面究竟在走内耗升级、拖字维持，还是在付出真实代价改变规则、结构、资源流向与合作秩序。
 
 - 073《开展根据地的减租、生产和拥政爱民运动》
   - `cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md`

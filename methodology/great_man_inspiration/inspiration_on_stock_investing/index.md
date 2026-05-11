@@ -66,6 +66,7 @@ Purpose:
 - `research_and_thesis/068-dont-mistake-the-markets-last-fierce-bear-push-for-long-term-thesis-defeat.md`
 - `research_and_thesis/071-dont-just-issue-investment-theses-validate-key-pilots-and-organize-research-feedback.md`
 - `research_and_thesis/072-when-management-keeps-fighting-internal-reminders-ask-who-benefits.md`
+- `research_and_thesis/074-dont-mistake-reform-talk-for-real-thesis-turnaround.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -95,6 +96,7 @@ Purpose:
 - how investors stop treating information alliances and decisive execution as separate skills, and instead build the research core that can organize validation, position-taking, and self-correction around one thesis mainline
 - how investors stop turning investment learning into concept collection by studying present reality, studying history, and turning theory into usable thesis method
 - how investors recognize when direct pressure has shifted into fake peace, rumor, blame-shifting, and division, and refuse to let soft pressure break the thesis mainline or isolate real validators
+- how investors stop mistaking management's “we are preparing to reform” and “we will solve it later” talk for real thesis turnaround, and instead judge whether the company is moving toward internal deterioration, drag-it-out maintenance, or real structural repair
 - how investors stop treating research public affairs as a few core holders' private property, and instead build democratic investment cooperation by giving real burden-bearers, dissenting views, and non-core validators speaking, participation, and supervision roles
 - how investors rectify research style by fighting subjectivism, small-circle confirmation, and research jargon before they hollow out thesis quality
 - how investors stop letting reports, notes, and thesis reviews decay into empty jargon and force research expression back toward facts, audience, and action

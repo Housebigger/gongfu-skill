@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：51 篇
+- `research_and_thesis/`：52 篇
 - `risk_and_position_management/`：8 篇
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：62 篇 article-based 笔记，对应 62 篇毛文来源。
+当前合计：63 篇 article-based 笔记，对应 63 篇毛文来源。
 
 ## 子目录速览
 
@@ -36,6 +36,7 @@
 - 公司研究
 - thesis 搭建与验证
 - 如何识别真假转折、真假盟友、真假稳定
+- 如何识别管理层口中的“准备改革”“以后解决”究竟是在给 thesis 恶化、拖字维持还是真实修复打掩护
 - thesis 如何避免建立在二手纪要、传闻和层层转述上
 - 投资学习如何从概念收藏改成研究现状、研究历史和方法落地
 - 如何识别假缓和、传闻、甩锅叙事和离间，不让软压力拆掉 thesis 主线

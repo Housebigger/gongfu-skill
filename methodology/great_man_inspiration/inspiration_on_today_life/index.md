@@ -53,6 +53,7 @@ Purpose:
 - `judgement_and_decision/061-dont-let-fake-peace-rumors-and-division-break-your-mainline.md`
 - `judgement_and_decision/068-dont-mistake-the-enemys-last-fierce-push-for-long-term-advantage.md`
 - `judgement_and_decision/072-when-fire-turns-inward-ask-who-benefits.md`
+- `judgement_and_decision/074-dont-mistake-reform-talk-for-real-change-judge-the-direction-of-actions.md`
 
 Purpose:
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
@@ -69,6 +70,7 @@ Purpose:
 - how ordinary people stop letting second-hand stories, high-position summaries, and surface signals replace real downward investigation before major life judgements
 - how ordinary people recognize when direct pressure has turned into fake peace, rumor, and division, and refuse to let soft pressure break their mainline judgement
 - how ordinary people recognize that the enemy's fiercest final push may signal structural exhaustion, and judge turning points by whether core goals can still be achieved and sustained
+- how ordinary people stop mistaking “we are preparing to solve it” and “reform is coming later” talk for real change, and instead judge which of three directions the system is actually taking
 
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`

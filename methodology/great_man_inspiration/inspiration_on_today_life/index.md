@@ -129,6 +129,7 @@ Purpose:
 - `cooperation_and_organization/066-serve-real-people-not-your-self-image-learn-their-language-and-build-from-there.md`
 - `cooperation_and_organization/069-when-victory-dawn-is-visible-concentrate-on-the-final-main-battle.md`
 - `cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md`
+- `cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -160,6 +161,7 @@ Purpose:
 - how ordinary people stop turning public affairs into small-circle private property, and instead learn democratic cooperation by letting more people speak, participate, and supervise the common task
 - how ordinary people stop letting their expression, advice, help, and influence float above real people, and instead enter real-majority life, learn usable language, and build from the receiver's real basis
 - how ordinary people stop scattering energy once life-turnaround dawn is visible, and instead keep sleep, cash, attention, and cooperation concentrated on the final main battle until victory is truly secured
+- how ordinary people stop running strained cooperation as one-sided extraction, and instead help others rebuild real capacity, organize scattered labor and support, and repair relationships by starting with self-criticism rather than attacking the other side
 
 ## Writing convention
 

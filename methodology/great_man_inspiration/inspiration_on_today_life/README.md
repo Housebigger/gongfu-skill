@@ -11,11 +11,11 @@
 - `survival_strategy/`：8 篇
 - `judgement_and_decision/`：18 篇
 - `long_term_growth/`：7 篇
-- `cooperation_and_organization/`：39 篇
+- `cooperation_and_organization/`：40 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：72 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—072，顺序总览窗口也推进到 072。
+当前合计：73 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—073，顺序总览窗口也推进到 073。
 
 ## 推荐入口
 
@@ -53,9 +53,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`072《质问国民党》`
-- 顺序总览窗口当前也推进到：`072《质问国民党》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`073《开展根据地的减租、生产和拥政爱民运动》`
+- today_life 主题当前实写覆盖到：`073《开展根据地的减租、生产和拥政爱民运动》`
+- 顺序总览窗口当前也推进到：`073《开展根据地的减租、生产和拥政爱民运动》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`074《评国民党十一中全会和三届二次国民参政会》`
 
 ## 使用提醒
 

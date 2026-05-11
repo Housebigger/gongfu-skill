@@ -384,9 +384,13 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`072《质问国民党》`
-- 如果继续顺序推进，下一篇应是：`073《开展根据地的减租、生产和拥政爱民运动》`
+- 当前顺序覆盖已推进到：`073《开展根据地的减租、生产和拥政爱民运动》`
+- 如果继续顺序推进，下一篇应是：`074《评国民党十一中全会和三届二次国民参政会》`
 
+
+- 073《开展根据地的减租、生产和拥政爱民运动》
+  - `cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md`
+  - 本轮先完成 today_life 角度：该文最先落在“别把支持做成恩赐、别只向人索取、先帮对方恢复真实产能，并在紧张关系里从自我批评开始修复合作”的问题上；software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 等其余主题待判断。
 
 - 072《质问国民党》
   - `judgement_and_decision/072-when-fire-turns-inward-ask-who-benefits.md`

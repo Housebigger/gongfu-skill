@@ -16,7 +16,7 @@
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
 | 当前已建立原文关联的毛文标题数 | 73 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 433 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 436 |
 | 顺序学习已连续覆盖范围 | 001—073 |
 | 顺序覆盖段标题核对结果 | 73/73 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
@@ -28,7 +28,7 @@
 
 - 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `073《开展根据地的减租、生产和拥政爱民运动》`。
 - 在 `001—073` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life` 一个角度。
+- `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - 当前下一篇尚未纳入顺序主线的是 `074《评国民党十一中全会和三届二次国民参政会》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -207,7 +207,7 @@
 | 070 | 《抗日时期的经济问题和财政问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm) | [TL](./inspiration_on_today_life/survival_strategy/070-when-money-is-tight-dont-cut-the-core-build-real-supply.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/070-when-delivery-gets-hard-stop-only-cutting-budget-rebuild-real-supply-lines.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/070-when-cash-is-tight-stop-only-trimming-finance-rebuild-real-business-bloodflow.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/070-when-positions-hurt-stop-staring-at-drawdown-rebuild-supply-lines.md) | [MM](./inspiration_on_making_money/execution_and_delivery/070-when-income-is-tight-stop-only-cutting-prices-rebuild-real-cashflow.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/070-when-school-is-tight-stop-only-cutting-expenses-rebuild-real-education-supply.md) | 7 |
 | 071 | 《关于领导方法的若干问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md) | [SD](./inspiration_on_software_development/team_process_and_quality/071-dont-just-issue-unified-software-plans-build-pilot-breakthroughs-backbone-and-feedback-loops.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/071-dont-just-issue-investment-theses-validate-key-pilots-and-organize-research-feedback.md) | [MM](./inspiration_on_making_money/execution_and_delivery/071-dont-just-issue-side-hustle-plans-build-pilot-breakthroughs-backbone-and-feedback.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/071-dont-just-issue-school-wide-orders-build-pilot-breakthroughs-backbone-and-feedback-loops.md) | 7 |
 | 072 | 《质问国民党》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/072-when-fire-turns-inward-ask-who-benefits.md) | [SD](./inspiration_on_software_development/team_process_and_quality/072-when-a-team-keeps-firing-inward-ask-who-benefits.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/072-when-a-company-keeps-fighting-inside-ask-who-benefits.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/072-when-management-keeps-fighting-internal-reminders-ask-who-benefits.md) | [MM](./inspiration_on_making_money/execution_and_delivery/072-when-a-side-hustle-keeps-fighting-inside-ask-who-benefits.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/072-when-an-embedded-team-keeps-firing-inward-ask-who-benefits.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/072-when-a-school-keeps-fighting-inside-ask-who-benefits.md) | 7 |
-| 073 | 《开展根据地的减租、生产和拥政爱民运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md) | — | — | — | — | — | — | 1 |
+| 073 | 《开展根据地的减租、生产和拥政爱民运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md) | [SD](./inspiration_on_software_development/team_process_and_quality/073-dont-treat-software-support-as-a-favor-help-teams-rebuild-real-delivery-capacity-before-asking-for-more.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/073-dont-treat-company-support-as-a-favor-help-business-teams-rebuild-real-capacity-before-asking-for-more.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/073-dont-treat-school-support-as-a-favor-help-teachers-and-classes-rebuild-real-educational-capacity-before-asking-for-more.md) | 4 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -999,8 +999,11 @@
 ### 073《开展根据地的减租、生产和拥政爱民运动》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 15 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm
-- 已关联 inspiration 文件数：1
+- 已关联 inspiration 文件数：4
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/073-dont-treat-software-support-as-a-favor-help-teams-rebuild-real-delivery-capacity-before-asking-for-more.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/073-dont-treat-company-support-as-a-favor-help-business-teams-rebuild-real-capacity-before-asking-for-more.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/073-dont-treat-school-support-as-a-favor-help-teachers-and-classes-rebuild-real-educational-capacity-before-asking-for-more.md`
 
 ## 6. 使用建议
 

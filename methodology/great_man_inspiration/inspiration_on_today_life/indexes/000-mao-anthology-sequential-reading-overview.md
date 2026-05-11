@@ -390,7 +390,10 @@
 
 - 073《开展根据地的减租、生产和拥政爱民运动》
   - `cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md`
-  - 本轮先完成 today_life 角度：该文最先落在“别把支持做成恩赐、别只向人索取、先帮对方恢复真实产能，并在紧张关系里从自我批评开始修复合作”的问题上；software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 等其余主题待判断。
+  - `../inspiration_on_software_development/team_process_and_quality/073-dont-treat-software-support-as-a-favor-help-teams-rebuild-real-delivery-capacity-before-asking-for-more.md`
+  - `../inspiration_on_running_a_company/leadership_and_talent/073-dont-treat-company-support-as-a-favor-help-business-teams-rebuild-real-capacity-before-asking-for-more.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/073-dont-treat-school-support-as-a-favor-help-teachers-and-classes-rebuild-real-educational-capacity-before-asking-for-more.md`
+  - 本轮先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度：该文一方面落在“别把支持做成恩赐、别只向人索取、先帮对方恢复真实产能，并在紧张关系里从自我批评开始修复合作”的共同事务问题上；另一方面也分别落在“软件团队别把跨团队支持做成恩赐，要先帮交付链恢复真实产能，再谈更高版本承诺”“领导者别把支持做成恩赐，要先帮业务和一线恢复真实产能，再谈要更多结果”和“学校别把支持做成恩赐，要先帮老师和班级恢复真实教育产能，再谈更高教育结果”的软件协作、公司领导与学校协作问题上；stock_investing / making_money / embedded_coding 等其余主题待判断。
 
 - 072《质问国民党》
   - `judgement_and_decision/072-when-fire-turns-inward-ask-who-benefits.md`

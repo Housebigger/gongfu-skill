@@ -122,6 +122,7 @@ Purpose:
 - `team_process_and_quality/065-dont-let-engineering-writing-meetings-and-reviews-decay-into-empty-jargon.md`
 - `team_process_and_quality/071-dont-just-issue-unified-software-plans-build-pilot-breakthroughs-backbone-and-feedback-loops.md`
 - `team_process_and_quality/072-when-a-team-keeps-firing-inward-ask-who-benefits.md`
+- `team_process_and_quality/073-dont-treat-software-support-as-a-favor-help-teams-rebuild-real-delivery-capacity-before-asking-for-more.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -167,3 +168,4 @@ Reserved for future series indexes and overview notes.
 ## Writing convention
 
 When a future note mainly serves app development, mini program development, or general product software methodology, place it here instead of under embedded coding.
+- how software teams stop treating cross-functional support as a favor, spend most of their energy helping delivery roles rebuild real capacity, organize the real labor chain behind versions and incidents, and repair cooperation by starting with self-criticism

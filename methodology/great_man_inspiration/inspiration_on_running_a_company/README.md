@@ -10,10 +10,10 @@
 ## 当前实际结构
 
 - `organization_design/`：15 篇
-- `leadership_and_talent/`：5 篇
+- `leadership_and_talent/`：6 篇
 - `strategy_and_execution/`：49 篇
 
-当前合计：69 篇 article-based 笔记，对应 69 篇毛文来源。
+当前合计：70 篇 article-based 笔记，对应 70 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -36,6 +36,7 @@
 - 如何赢得跟随
 - 如何辨认真骨干
 - 如何吸纳与使用人才
+- 困难阶段如何做支持式领导：别把资源和支持做成恩赐，先帮业务与一线恢复真实产能，再谈更高要求
 
 ### `strategy_and_execution/`
 适合看：

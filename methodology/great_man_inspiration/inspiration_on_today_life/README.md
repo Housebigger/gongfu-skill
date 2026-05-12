@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：8 篇
-- `judgement_and_decision/`：19 篇
+- `judgement_and_decision/`：20 篇
 - `long_term_growth/`：9 篇
 - `cooperation_and_organization/`：41 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：77 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—077，顺序总览窗口也推进到 077。
+当前合计：78 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—078，顺序总览窗口也推进到 078。
 
 ## 推荐入口
 
@@ -37,6 +37,7 @@
 - 如何避免被表面动作和短期缓和带偏
 - 如何识破假缓和、软性诱导、谣言与离间
 - 如何区分真转向、拖字空话与继续内向升级
+- 如何识别“回避关键问题 + 表演自信 + 污名化批评”背后的真实危险
 
 ### `long_term_growth/`
 适合看：
@@ -56,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`077《为人民服务》`
-- 顺序总览窗口当前也推进到：`077《为人民服务》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`078《评蒋介石在双十节的演说》`
+- today_life 主题当前实写覆盖到：`078《评蒋介石在双十节的演说》`
+- 顺序总览窗口当前也推进到：`078《评蒋介石在双十节的演说》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`079《文化工作中的统一战线》`
 
 ## 使用提醒
 

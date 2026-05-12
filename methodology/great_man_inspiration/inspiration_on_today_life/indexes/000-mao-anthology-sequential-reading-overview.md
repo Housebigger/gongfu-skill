@@ -384,9 +384,13 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`077《为人民服务》`
-- 如果继续顺序推进，下一篇应是：`078《评蒋介石在双十节的演说》`
+- 当前顺序覆盖已推进到：`078《评蒋介石在双十节的演说》`
+- 如果继续顺序推进，下一篇应是：`079《文化工作中的统一战线》`
 
+
+- 078《评蒋介石在双十节的演说》
+  - `judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`
+  - 本轮已先完成 today_life 一个角度：该文首先落在普通人识局判断上，提醒人在关键问题被回避、风险被否认、批评被污名化、空话信心被反复表演时，不要把这种“稳定叙事”误认成局面真的稳了；其余主题待后续判断。
 
 - 075《组织起来》
   - `cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md`

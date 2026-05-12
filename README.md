@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：341 篇
-- 当前已建立原文关联的毛文标题数：60 篇
-  - 顺序主线：001—059
-  - 非顺序拓展：060《改造我们的学习》
-- 顺序主线的下一篇：060《改造我们的学习》
+- 当前已建立 `原文对应` 的主题转译文件：464 篇
+- 当前已建立原文关联的毛文标题数：78 篇
+  - 顺序主线：001—078
+  - 当前最新纳入：078《评蒋介石在双十节的演说》
+- 顺序主线的下一篇：079《文化工作中的统一战线》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -84,7 +84,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 059，下一篇是 060
+2. 当前边界是 078，下一篇是 079
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

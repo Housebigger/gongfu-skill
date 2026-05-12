@@ -77,6 +77,8 @@ Important boundary:
 - `execution_and_delivery/071-dont-just-issue-side-hustle-plans-build-pilot-breakthroughs-backbone-and-feedback.md`
 - `execution_and_delivery/072-when-a-side-hustle-keeps-fighting-inside-ask-who-benefits.md`
 - `execution_and_delivery/074-dont-mistake-reform-talk-for-real-business-turnaround.md`
+- `execution_and_delivery/075-dont-fight-hard-side-hustle-times-with-scattered-heroics-organize-real-earning-main-force.md`
+- `execution_and_delivery/076-real-side-hustle-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

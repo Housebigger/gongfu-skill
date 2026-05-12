@@ -384,9 +384,23 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`074《评国民党十一中全会和三届二次国民参政会》`
-- 如果继续顺序推进，下一篇应是：`075《组织起来》`
+- 当前顺序覆盖已推进到：`076《学习和时局》`
+- 如果继续顺序推进，下一篇应是：`077《为人民服务》`
 
+
+- 075《组织起来》
+  - `cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文一方面落在普通人如何在困难里停止各自散着硬扛、把分散的人、时间、技能和互助关系组织成自愿协作、自我供血、持续改进的互助结构；另一方面也落在软件团队如何别只让 PM、流程、运维和少数骨干散着补窟窿，而要把产品、研发、测试、支持、外援和反馈经验组织成真正交付结构上；同时也落在公司经营如何别只让财务、运营和少数高管硬顶，而要把销售、产品、交付、服务、伙伴、半可用力量和前线经验组织成真正经营主力上；也落在投资研究如何别只让自己和少数研究骨干散着补 thesis，而要把信息、验证面、半可用力量和研究经验组织成真正 thesis 主力上；也落在副业经营如何别只让自己、客服、交付和少数骨干散着补窟窿，而要把需求反馈、协作者、半可用时间、转介绍和赚钱经验组织成真正赚钱主力上；还落在嵌入式团队如何别只让驱动、测试、FAE 和少数骨干散着补窟窿，而要把硬件、固件、产测、现场、供应商接口和半可用力量组织成真正交付主力上；也落在学校如何别只让班主任、德育和少数骨干散着硬扛，而要把任课教师、学生骨干、家校协同、行政支持和半可用力量组织成真正教育主力上。
+
+- 076《学习和时局》
+  - `long_term_growth/076-real-growth-needs-learning-the-situation-dropping-baggage-and-training-your-mind.md`
+  - `../inspiration_on_software_development/team_process_and_quality/076-real-software-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/076-real-company-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/076-real-thesis-upgrade-needs-studying-reality-history-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+  - `../inspiration_on_educational_undertakings/teacher_growth_and_backbone/076-real-teacher-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+  - `../inspiration_on_making_money/execution_and_delivery/076-real-side-hustle-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文一方面落在普通人如何在新阶段来临前把过去经验转成分析能力、把眼前变化转成阶段判断、放下包袱并训练思想机器，从而为更大责任提前做成长升级准备；另一方面也落在软件团队如何在项目旧打法快见顶时，不再只靠少数骨干继续硬扛，而要研究现实变化、复盘关键历史、清理旧胜利与旧失败包袱、训练分析机器，并为更大项目责任提前补上质量、协作与复杂系统能力；同时也落在公司经营如何在旧打法快到边界时，不再只靠老板和少数骨干继续硬扛，而要研究行业形势、清理旧胜利和旧包袱、补上大客户、大渠道与复杂协同能力，并提前为更大经营责任做好组织准备；也落在股票投资如何在旧 thesis、旧行业印象、旧盈利记忆和旧亏损创伤快不够用时，不再只靠少数研究骨干继续硬扛，而要研究现实变化、补上公司与行业历史、放下旧胜利与旧失败包袱、训练研究分析机器，并提前为更大 thesis 责任和更公开市场验证做好准备；也落在教师成长如何在旧课堂经验将见顶时，不再只靠责任感和旧熟练继续硬扛，而要研究校情学情、补上历史、放下旧成绩与旧受挫形成的包袱、训练教学与育人判断机器，并提前为更复杂班级、家校与学校公共责任做好准备；还落在副业经营如何在旧熟客、小单和个人硬扛模式快见顶时，不再只靠主理人和少数骨干继续补位，而要研究需求变化、渠道风向与合作局面，清理旧赚钱经验与旧受挫经历形成的包袱，训练经营判断机器，并提前为更复杂客户、关键渠道与更大收入责任做好准备；也落在嵌入式团队如何在熟板卡、小版本、实验室主场旧打法快见顶时，不再只靠少数固件高手、测试救火者、FAE 和硬件骨干继续补位，而要研究客户、工厂、认证、供应链和现场的新形势，复盘关键工程历史，放下旧经验与旧伤形成的包袱，训练工程分析机器，并提前为更复杂系统责任做好准备。
 
 - 074《评国民党十一中全会和三届二次国民参政会》
   - `judgement_and_decision/074-dont-mistake-reform-talk-for-real-change-judge-the-direction-of-actions.md`

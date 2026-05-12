@@ -10,12 +10,12 @@
 
 - `survival_strategy/`：8 篇
 - `judgement_and_decision/`：19 篇
-- `long_term_growth/`：7 篇
-- `cooperation_and_organization/`：40 篇
+- `long_term_growth/`：8 篇
+- `cooperation_and_organization/`：41 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：74 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—074，顺序总览窗口也推进到 074。
+当前合计：76 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—076，顺序总览窗口也推进到 076。
 
 ## 推荐入口
 
@@ -44,6 +44,7 @@
 - 如何把学习从背结论改成研究现实、研究历史、把理论变成会用的方法
 - 如何在成长卡顿时定期整顿自己的学习、判断与表达作风，压住主观主义、小圈子成见与空话习气
 - 如何反对复盘、沟通、开会、自我总结和成长表达里的空话、黑话、压人话与无对象表达
+- 如何在新阶段来临前学会研究形势、放下包袱、训练分析习惯，并为更大责任提前做思想与能力准备
 
 ### `cooperation_and_organization/`
 适合看：
@@ -54,9 +55,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`074《评国民党十一中全会和三届二次国民参政会》`
-- 顺序总览窗口当前也推进到：`074《评国民党十一中全会和三届二次国民参政会》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`075《组织起来》`
+- today_life 主题当前实写覆盖到：`076《学习和时局》`
+- 顺序总览窗口当前也推进到：`076《学习和时局》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`077《为人民服务》`
 
 ## 使用提醒
 

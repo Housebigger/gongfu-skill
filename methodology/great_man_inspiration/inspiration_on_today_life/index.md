@@ -80,6 +80,7 @@ Purpose:
 - `long_term_growth/060-real-growth-needs-studying-reality-history-and-turning-theory-into-usable-method.md`
 - `long_term_growth/064-real-growth-needs-rectifying-subjectivism-small-circle-habits-and-empty-talk.md`
 - `long_term_growth/065-dont-let-life-writing-meetings-and-self-review-decay-into-empty-jargon.md`
+- `long_term_growth/076-real-growth-needs-learning-the-situation-dropping-baggage-and-training-your-mind.md`
 
 Purpose:
 - how small but real progress compounds under the right conditions
@@ -132,6 +133,7 @@ Purpose:
 - `cooperation_and_organization/069-when-victory-dawn-is-visible-concentrate-on-the-final-main-battle.md`
 - `cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md`
 - `cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md`
+- `cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -164,6 +166,7 @@ Purpose:
 - how ordinary people stop letting their expression, advice, help, and influence float above real people, and instead enter real-majority life, learn usable language, and build from the receiver's real basis
 - how ordinary people stop scattering energy once life-turnaround dawn is visible, and instead keep sleep, cash, attention, and cooperation concentrated on the final main battle until victory is truly secured
 - how ordinary people stop running strained cooperation as one-sided extraction, and instead help others rebuild real capacity, organize scattered labor and support, and repair relationships by starting with self-criticism rather than attacking the other side
+- how ordinary people stop leaving hardship as scattered household-by-household struggle, and instead organize labor, time, skills, and mutual aid into a voluntary structure that can keep producing, self-supporting, and improving
 
 ## Writing convention
 

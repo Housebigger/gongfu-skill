@@ -15,11 +15,11 @@
 
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：6 篇
-- `teacher_growth_and_backbone/`：9 篇
+- `teacher_growth_and_backbone/`：10 篇
 - `school_governance_and_crisis_response/`：12 篇
-- `school_coordination_and_organization/`：24 篇
+- `school_coordination_and_organization/`：25 篇
 
-当前合计：56 篇 article-based 笔记，对应 55 篇毛文来源。
+当前合计：58 篇 article-based 笔记，对应 57 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -50,6 +50,7 @@
 - 骨干精神
 - 持续承压下的专业主线与自我修炼
 - 把教师学习从概念背诵改成校情学情研究、历史补课和方法沉淀
+- 如何在要接更大教学与育人责任前，研究校情学情、放下旧包袱，并把教学判断训练成骨干能力
 
 ### `school_governance_and_crisis_response/`
 适合看：
@@ -70,6 +71,7 @@
 - 学校如何反对材料、会议、汇报、教研发言和管理评审里的空话、黑话、压人话与无对象表达
 - 学校如何不把支持做成恩赐，而是先帮老师和班级恢复真实教育产能，再谈要更多结果
 - 如何识别学校口头整改、民主承诺和“以后会改”究竟是在拖、在压人，还是在真转向
+- 如何在困难阶段别只让班主任、德育和少数骨干散着硬扛，而要把分散教师、学生骨干、家校协同和支持面组织成真正教育主力
 
 ## 使用提醒
 

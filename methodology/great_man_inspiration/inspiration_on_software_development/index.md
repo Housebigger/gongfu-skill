@@ -124,6 +124,8 @@ Purpose:
 - `team_process_and_quality/072-when-a-team-keeps-firing-inward-ask-who-benefits.md`
 - `team_process_and_quality/073-dont-treat-software-support-as-a-favor-help-teams-rebuild-real-delivery-capacity-before-asking-for-more.md`
 - `team_process_and_quality/074-dont-mistake-reform-talk-for-real-software-turnaround.md`
+- `team_process_and_quality/075-dont-fight-hard-software-times-with-scattered-heroics-organize-real-delivery-cooperation.md`
+- `team_process_and_quality/076-real-software-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -158,6 +160,7 @@ Purpose:
 - how software teams keep engineering public affairs from collapsing back into core-circle private property by giving non-core roles real speaking space, participation channels, and supervision over shared rules and decisions
 - how software teams rectify style by simultaneously fighting subjectivism, siloed localism, and empty engineering jargon so judgement, collaboration, and communication all return to real problems
 - how software teams stop letting docs, reviews, meetings, and reporting decay into empty engineering jargon by writing for real readers, real problems, and real actions
+- how software teams stop entering a bigger project stage with old-win baggage, and instead study the changing situation, train real analytical judgement, and prepare delivery, quality, and coordination systems for larger responsibility
 
 ### indexes
 Reserved for future series indexes and overview notes.

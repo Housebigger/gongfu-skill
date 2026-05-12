@@ -84,6 +84,8 @@ Focus:
 - `team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md`
 - `team_process_and_knowledge/072-when-an-embedded-team-keeps-firing-inward-ask-who-benefits.md`
 - `team_process_and_knowledge/074-dont-mistake-reform-talk-for-real-embedded-turnaround.md`
+- `team_process_and_knowledge/075-dont-fight-hard-embedded-times-with-scattered-heroics-organize-real-delivery-main-force.md`
+- `team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality
@@ -104,6 +106,7 @@ Focus:
 - why embedded teams must fight subjectivism, permission-circle politics, and engineering jargon before process form starts hollowing out real delivery
 - how embedded teams keep reviews, retrospectives, weekly reports, production updates, and issue memos tied to board facts, target audience, and concrete actions instead of empty engineering jargon
 - serving real burden-bearers by learning frontline language and growing embedded methods, tools, and process from actual delivery basis
+- how embedded teams study the situation, review real engineering history, drop old baggage, train analysis habits, and prepare in advance for factory, certification, field, and larger-system responsibility
 
 ## Writing convention
 

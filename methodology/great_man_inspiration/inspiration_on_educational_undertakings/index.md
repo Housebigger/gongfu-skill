@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-074篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-076篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -30,6 +30,7 @@
 - [039 持续压力期教师的三大隐患：放弃、散伙、滑坡](teacher_growth_and_backbone/039-sustained-pressure-three-dangers-for-teachers.md)
 - [043 真正高水平的老师，不只是完成教学任务，而是对学生、课堂与棘手问题持续保持极端负责与真实热忱](teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md)
 - [060 真正有效的教师学习，不是背更多理念，而是研究校情学情、补上历史、把理论变成会用的方法](teacher_growth_and_backbone/060-real-teacher-learning-means-studying-school-reality-history-and-turning-theory-into-usable-method.md)
+- [076 真正要接住更大教学与育人责任，不只是继续硬扛，而是学会研究校情学情、放下包袱、提前准备更大责任](teacher_growth_and_backbone/076-real-teacher-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md)
 
 ### school_governance_and_crisis_response（学校治理与危机应对）
 - [012 遇到棘手问题，先建立广泛的支持联盟](school_governance_and_crisis_response/012-build-broad-support-alliance-for-tough-school-problems.md)
@@ -70,6 +71,7 @@
 - [072 当一个学校嘴上讲稳定和大局、行动上却总把主要火力打向内部教师与提醒者、把真正的学生问题、秩序风险和家校危机留在背后时，管理者必须追问：这到底在帮谁](school_coordination_and_organization/072-when-a-school-keeps-fighting-inside-ask-who-benefits.md)
 - [073 别把学校支持做成恩赐，先帮老师和班级恢复真实教育产能，再谈要更多结果](school_coordination_and_organization/073-dont-treat-school-support-as-a-favor-help-teachers-and-classes-rebuild-real-educational-capacity-before-asking-for-more.md)
 - [074 别把学校口中的“准备整改”“准备解决”当成真转向，先判断学校究竟在走压内部、拖字维持，还是实质换轨](school_coordination_and_organization/074-dont-mistake-school-reform-talk-for-real-turnaround.md)
+- [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：56篇笔记 / 5个子主题 / 覆盖001-074中55篇原文
+统计：58篇笔记 / 5个子主题 / 覆盖001-076中57篇原文

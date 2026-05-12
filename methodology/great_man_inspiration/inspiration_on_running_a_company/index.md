@@ -80,6 +80,8 @@ This folder focuses on:
 - `strategy_and_execution/070-when-cash-is-tight-stop-only-trimming-finance-rebuild-real-business-bloodflow.md`
 - `strategy_and_execution/072-when-a-company-keeps-fighting-inside-ask-who-benefits.md`
 - `strategy_and_execution/074-dont-mistake-reform-talk-for-real-company-turnaround.md`
+- `strategy_and_execution/075-dont-fight-hard-company-times-with-scattered-heroics-organize-real-operating-capacity.md`
+- `strategy_and_execution/076-real-company-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 - `leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md`
 - `leadership_and_talent/073-dont-treat-company-support-as-a-favor-help-business-teams-rebuild-real-capacity-before-asking-for-more.md`
@@ -136,3 +138,4 @@ This folder focuses on:
 - how companies actively shrink an overgrown company machine in hard times, cut virtual organizational mass, and keep the core business force hard enough to survive the darkest stretch
 - how companies stop re-spreading capital, management attention, and organizational energy once business-turnaround dawn is visible, and instead keep everything concentrated on the main operating battle until the reversal is real
 - how company leaders stop treating support as a favor, spend most of their energy helping business and frontline teams rebuild real production capacity, organize labor instead of only extracting results, and repair cooperation by starting with self-criticism
+- how companies entering a bigger stage stop relying on old wins and executive grit, study the situation, drop baggage, and prepare the capabilities needed to run larger markets, key channels, and more complex operating systems

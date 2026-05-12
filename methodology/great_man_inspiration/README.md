@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—075。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—076。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -16,7 +16,7 @@
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
 | 当前已建立原文关联的毛文标题数 | 76 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 455 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 457 |
 | 顺序学习已连续覆盖范围 | 001—076 |
 | 顺序覆盖段标题核对结果 | 76/76 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
@@ -31,7 +31,7 @@
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `076《学习和时局》` 当前已完成 `today_life / software_development / running_a_company` 三个角度；其余主题待判断。
+- `076《学习和时局》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - 当前下一篇尚未纳入顺序主线的是 `077《为人民服务》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -108,7 +108,6 @@
 | 068 | 《第二次世界大战的转折点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421012.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 069 | 《祝十月革命二十五周年》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421106.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 070 | 《抗日时期的经济问题和财政问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-
 | 071 | 《关于领导方法的若干问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 072 | 《质问国民党》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 073 | 《开展根据地的减租、生产和拥政爱民运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm) | 已覆盖（顺序主线，4 个主题转译文件） |

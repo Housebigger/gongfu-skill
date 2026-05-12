@@ -81,6 +81,7 @@ Purpose:
 - `long_term_growth/064-real-growth-needs-rectifying-subjectivism-small-circle-habits-and-empty-talk.md`
 - `long_term_growth/065-dont-let-life-writing-meetings-and-self-review-decay-into-empty-jargon.md`
 - `long_term_growth/076-real-growth-needs-learning-the-situation-dropping-baggage-and-training-your-mind.md`
+- `long_term_growth/077-real-growth-means-building-a-life-not-ruled-by-self-interest-and-becoming-useful-to-others.md`
 
 Purpose:
 - how small but real progress compounds under the right conditions
@@ -91,6 +92,7 @@ Purpose:
 - how ordinary people stop mistaking learning for collecting conclusions, and instead study present reality, recover history, and turn theory into usable method that can keep correcting real-life action
 - how ordinary people stop mistaking continued effort for real growth, and instead periodically rectify subjectivism, small-circle bias, and empty self-improvement talk
 - how ordinary people stop letting reviews, communication, meetings, and self-explanations decay into empty jargon, and instead force expression back toward real problems, real audiences, and next actions
+- how ordinary people stop treating growth as smarter self-protection alone, and instead become more useful, more correctable, and more genuinely oriented toward others and the common good
 
 ### cooperation_and_organization
 - `cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md`

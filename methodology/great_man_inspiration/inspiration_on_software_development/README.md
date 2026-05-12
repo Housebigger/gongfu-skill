@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：6 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：11 篇
-- `team_process_and_quality/`：50 篇
+- `team_process_and_quality/`：51 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：72 篇 article-based 笔记，对应 72 篇毛文来源。
+当前合计：73 篇 article-based 笔记，对应 73 篇毛文来源。
 
 ## 推荐入口
 
@@ -72,6 +72,7 @@
 - 如何反对工程文档、评审、汇报和会议里的空话、黑话、吓人话与无对象表达
 - 困难阶段如何不把跨团队支持做成恩赐，而是先帮交付链恢复真实产能，再谈更高版本承诺
 - 如何在项目旧打法快见顶时，研究阶段变化、放下旧胜利包袱、训练团队分析机器，并为更大项目责任提前做组织准备
+- 如何把团队从围着面子、自保和甩锅运转，扳回围着真实建设者、真实批评与真实用户结果运转
 
 ## 使用提醒
 

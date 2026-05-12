@@ -384,13 +384,23 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`076《学习和时局》`
-- 如果继续顺序推进，下一篇应是：`077《为人民服务》`
+- 当前顺序覆盖已推进到：`077《为人民服务》`
+- 如果继续顺序推进，下一篇应是：`078《评蒋介石在双十节的演说》`
 
 
 - 075《组织起来》
   - `cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文一方面落在普通人如何在困难里停止各自散着硬扛、把分散的人、时间、技能和互助关系组织成自愿协作、自我供血、持续改进的互助结构；另一方面也落在软件团队如何别只让 PM、流程、运维和少数骨干散着补窟窿，而要把产品、研发、测试、支持、外援和反馈经验组织成真正交付结构上；同时也落在公司经营如何别只让财务、运营和少数高管硬顶，而要把销售、产品、交付、服务、伙伴、半可用力量和前线经验组织成真正经营主力上；也落在投资研究如何别只让自己和少数研究骨干散着补 thesis，而要把信息、验证面、半可用力量和研究经验组织成真正 thesis 主力上；也落在副业经营如何别只让自己、客服、交付和少数骨干散着补窟窿，而要把需求反馈、协作者、半可用时间、转介绍和赚钱经验组织成真正赚钱主力上；还落在嵌入式团队如何别只让驱动、测试、FAE 和少数骨干散着补窟窿，而要把硬件、固件、产测、现场、供应商接口和半可用力量组织成真正交付主力上；也落在学校如何别只让班主任、德育和少数骨干散着硬扛，而要把任课教师、学生骨干、家校协同、行政支持和半可用力量组织成真正教育主力上。
+
+- 077《为人民服务》
+  - `long_term_growth/077-real-growth-means-building-a-life-not-ruled-by-self-interest-and-becoming-useful-to-others.md`
+  - `../inspiration_on_software_development/team_process_and_quality/077-dont-turn-software-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
+  - `../inspiration_on_running_a_company/leadership_and_talent/077-dont-build-a-company-around-personal-calculation-honor-real-contributors-and-welcome-criticism.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/077-dont-build-investment-research-around-position-defense-put-thesis-truth-and-real-contributors-at-the-center.md`
+  - `../inspiration_on_making_money/execution_and_delivery/077-dont-build-a-side-hustle-around-self-display-put-paying-users-and-real-contributors-at-the-center.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
+  - `../inspiration_on_educational_undertakings/teacher_growth_and_backbone/077-a-teacher-should-not-build-their-work-around-self-protection-but-around-being-useful-to-students-and-school.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文一方面落在普通人如何不再把成长理解成更会保护自己和更会计算得失，而要逐渐把自己从小我盘算中解放出来，成为一个对别人有用、对事情可靠、对批评能修正的人；同时也提醒人要认真看待每一个真正做过有益工作的人，用共同尊重、共同记忆和共同意义把人与人重新团结起来；另一方面也落在软件团队如何别把组织做成管理层面子、角色边界和个人自保的机器，而要把真正对用户、交付和系统健康有益的建设者放到中心，让有根据的批评进入系统，并把团队重新团结到真实服务对象和真实工程标准上；同时也落在公司领导如何别让组织围着老板面子、干部自保和部门算盘运转，而要把真正对客户、前线、交付和组织健康有益的人放到中心，欢迎任何有根据的批评进入机制，并用制度化尊重、共同记忆和共同意义把队伍重新团结起来；也落在股票投资如何别把研究系统做成服务持仓自保、研究面子和小圈子认同的机器，而要把真实 thesis、真正有益的研究贡献者和有根据的批评放到中心，让研究重新围着事实、验证和资金长期结果转；再一方面也落在副业赚钱如何别把生意做成服务自我展示、个人自保和熟人场面的机器，而要把真实付费用户、真实贡献者和真实纠偏机制放到中心，让副业从偶尔赚到钱走向把赚钱系统做健康；也落在嵌入式团队如何别把组织做成维护负责人面子、关键岗位位置和接口自保的机器，而要把真正对产品、交付、现场和系统有益的建设者放到中心，让来自测试、工厂、FAE、硬件与一线工程师的有根据批评进入机制；同时也落在教师成长如何别把成熟活成更会自我保护、切责任和维持体面，而要把自己建设成对学生、同事与学校公共任务更有用的人，并让学校真正尊重、记住那些长期做过有益工作的老师。
 
 - 076《学习和时局》
   - `long_term_growth/076-real-growth-needs-learning-the-situation-dropping-baggage-and-training-your-mind.md`

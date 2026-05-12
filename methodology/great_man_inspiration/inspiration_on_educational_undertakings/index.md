@@ -31,6 +31,7 @@
 - [043 真正高水平的老师，不只是完成教学任务，而是对学生、课堂与棘手问题持续保持极端负责与真实热忱](teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md)
 - [060 真正有效的教师学习，不是背更多理念，而是研究校情学情、补上历史、把理论变成会用的方法](teacher_growth_and_backbone/060-real-teacher-learning-means-studying-school-reality-history-and-turning-theory-into-usable-method.md)
 - [076 真正要接住更大教学与育人责任，不只是继续硬扛，而是学会研究校情学情、放下包袱、提前准备更大责任](teacher_growth_and_backbone/076-real-teacher-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md)
+- [077 真正成熟的老师，不是越来越会自我保护，而是越来越能对学生、同事与学校公共任务有用](teacher_growth_and_backbone/077-a-teacher-should-not-build-their-work-around-self-protection-but-around-being-useful-to-students-and-school.md)
 
 ### school_governance_and_crisis_response（学校治理与危机应对）
 - [012 遇到棘手问题，先建立广泛的支持联盟](school_governance_and_crisis_response/012-build-broad-support-alliance-for-tough-school-problems.md)
@@ -74,4 +75,4 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：58篇笔记 / 5个子主题 / 覆盖001-076中57篇原文
+统计：59篇笔记 / 5个子主题 / 覆盖001-077中58篇原文

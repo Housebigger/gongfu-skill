@@ -126,6 +126,7 @@ Purpose:
 - `team_process_and_quality/074-dont-mistake-reform-talk-for-real-software-turnaround.md`
 - `team_process_and_quality/075-dont-fight-hard-software-times-with-scattered-heroics-organize-real-delivery-cooperation.md`
 - `team_process_and_quality/076-real-software-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+- `team_process_and_quality/077-dont-turn-software-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -161,6 +162,7 @@ Purpose:
 - how software teams rectify style by simultaneously fighting subjectivism, siloed localism, and empty engineering jargon so judgement, collaboration, and communication all return to real problems
 - how software teams stop letting docs, reviews, meetings, and reporting decay into empty engineering jargon by writing for real readers, real problems, and real actions
 - how software teams stop entering a bigger project stage with old-win baggage, and instead study the changing situation, train real analytical judgement, and prepare delivery, quality, and coordination systems for larger responsibility
+- how software teams stop becoming self-protection machines, put real builders and useful work at the center, welcome evidence-based criticism, and unite around user value, delivery health, and system truth
 
 ### indexes
 Reserved for future series indexes and overview notes.

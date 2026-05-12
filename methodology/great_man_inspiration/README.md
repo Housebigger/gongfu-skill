@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—076。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—077。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,24 +15,25 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 76 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 457 |
-| 顺序学习已连续覆盖范围 | 001—076 |
-| 顺序覆盖段标题核对结果 | 76/76 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 77 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 462 |
+| 顺序学习已连续覆盖范围 | 001—077 |
+| 顺序覆盖段标题核对结果 | 77/77 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 077《为人民服务》 |
+| 顺序主线的下一篇 | 078《评蒋介石在双十节的演说》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `076《学习和时局》`。
-- 在 `001—076` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `077《为人民服务》`。
+- 在 `001—077` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `076《学习和时局》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `077《为人民服务》`
+- `077《为人民服务》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `078《评蒋介石在双十节的演说》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -116,9 +117,9 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—076 顺序主线已建立关联          [############################################################################]
-076 《学习和时局》 [DONE]
-077 《为人民服务》 [NEXT]
+001—077 顺序主线已建立关联          [#############################################################################]
+077 《为人民服务》 [IN PROGRESS: 2/7]
+078 《评蒋介石在双十节的演说》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -214,6 +215,7 @@
 | 074 | 《评国民党十一中全会和三届二次国民参政会》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431005.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/074-dont-mistake-reform-talk-for-real-change-judge-the-direction-of-actions.md) | [SD](./inspiration_on_software_development/team_process_and_quality/074-dont-mistake-reform-talk-for-real-software-turnaround.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/074-dont-mistake-reform-talk-for-real-company-turnaround.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/074-dont-mistake-reform-talk-for-real-thesis-turnaround.md) | [MM](./inspiration_on_making_money/execution_and_delivery/074-dont-mistake-reform-talk-for-real-business-turnaround.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/074-dont-mistake-reform-talk-for-real-embedded-turnaround.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/074-dont-mistake-school-reform-talk-for-real-turnaround.md) | 7 |
 | 075 | 《组织起来》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md) | [SD](./inspiration_on_software_development/team_process_and_quality/075-dont-fight-hard-software-times-with-scattered-heroics-organize-real-delivery-cooperation.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/075-dont-fight-hard-company-times-with-scattered-heroics-organize-real-operating-capacity.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/075-dont-fight-hard-investment-times-with-scattered-heroics-organize-real-thesis-main-force.md) | [MM](./inspiration_on_making_money/execution_and_delivery/075-dont-fight-hard-side-hustle-times-with-scattered-heroics-organize-real-earning-main-force.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/075-dont-fight-hard-embedded-times-with-scattered-heroics-organize-real-delivery-main-force.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md) | 7 |
 | 076 | 《学习和时局》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440412.htm) | [TL](./inspiration_on_today_life/long_term_growth/076-real-growth-needs-learning-the-situation-dropping-baggage-and-training-your-mind.md) | [SD](./inspiration_on_software_development/team_process_and_quality/076-real-software-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/076-real-company-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/076-real-thesis-upgrade-needs-studying-reality-history-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [MM](./inspiration_on_making_money/execution_and_delivery/076-real-side-hustle-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/076-real-teacher-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | 7 |
+| 077 | 《为人民服务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440908.htm) | [TL](./inspiration_on_today_life/long_term_growth/077-real-growth-means-building-a-life-not-ruled-by-self-interest-and-becoming-useful-to-others.md) | [SD](./inspiration_on_software_development/team_process_and_quality/077-dont-turn-software-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/077-dont-build-a-company-around-personal-calculation-honor-real-contributors-and-welcome-criticism.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/077-dont-build-investment-research-around-position-defense-put-thesis-truth-and-real-contributors-at-the-center.md) | [MM](./inspiration_on_making_money/execution_and_delivery/077-dont-build-a-side-hustle-around-self-display-put-paying-users-and-real-contributors-at-the-center.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md) | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/077-a-teacher-should-not-build-their-work-around-self-protection-but-around-being-useful-to-students-and-school.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1047,9 +1049,21 @@
   - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/076-real-teacher-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 
+### 077《为人民服务》
+- 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 19 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440908.htm
+- 已关联 inspiration 文件数：7
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/077-real-growth-means-building-a-life-not-ruled-by-self-interest-and-becoming-useful-to-others.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/077-dont-turn-software-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/077-dont-build-a-company-around-personal-calculation-honor-real-contributors-and-welcome-criticism.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/077-dont-build-investment-research-around-position-defense-put-thesis-truth-and-real-contributors-at-the-center.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/077-dont-build-a-side-hustle-around-self-display-put-paying-users-and-real-contributors-at-the-center.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/077-a-teacher-should-not-build-their-work-around-self-protection-but-around-being-useful-to-students-and-school.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`077《为人民服务》`
+- 如果要从当前边界继续向下推进，下一篇应是：`078《评蒋介石在双十节的演说》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

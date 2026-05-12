@@ -85,6 +85,7 @@ This folder focuses on:
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 - `leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md`
 - `leadership_and_talent/073-dont-treat-company-support-as-a-favor-help-business-teams-rebuild-real-capacity-before-asking-for-more.md`
+- `leadership_and_talent/077-dont-build-a-company-around-personal-calculation-honor-real-contributors-and-welcome-criticism.md`
 
 ## Focus of the current notes
 - how companies recognize bottom-up correction, distinguish real structural grievances from noise, and turn frontline pressure into governance upgrade instead of suppressing it as disorder
@@ -138,4 +139,5 @@ This folder focuses on:
 - how companies actively shrink an overgrown company machine in hard times, cut virtual organizational mass, and keep the core business force hard enough to survive the darkest stretch
 - how companies stop re-spreading capital, management attention, and organizational energy once business-turnaround dawn is visible, and instead keep everything concentrated on the main operating battle until the reversal is real
 - how company leaders stop treating support as a favor, spend most of their energy helping business and frontline teams rebuild real production capacity, organize labor instead of only extracting results, and repair cooperation by starting with self-criticism
+- how company leaders stop building the organization around boss image, cadre self-protection, and departmental calculation, and instead honor real contributors, welcome criticism from any valid source, and use shared respect and memory to hold the team together
 - how companies entering a bigger stage stop relying on old wins and executive grit, study the situation, drop baggage, and prepare the capabilities needed to run larger markets, key channels, and more complex operating systems

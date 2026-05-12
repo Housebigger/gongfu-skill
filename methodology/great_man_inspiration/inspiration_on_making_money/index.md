@@ -79,6 +79,7 @@ Important boundary:
 - `execution_and_delivery/074-dont-mistake-reform-talk-for-real-business-turnaround.md`
 - `execution_and_delivery/075-dont-fight-hard-side-hustle-times-with-scattered-heroics-organize-real-earning-main-force.md`
 - `execution_and_delivery/076-real-side-hustle-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+- `execution_and_delivery/077-dont-build-a-side-hustle-around-self-display-put-paying-users-and-real-contributors-at-the-center.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -99,6 +100,7 @@ Additional focus:
 - how side-hustle builders build real operating base areas under long pressure, preserve cashflow and delivery mobility, and gradually turn scattered hustle survival into stronger main-force business capacity
 - how side-hustle builders avoid both early give-up and overnight-takeoff fantasy by using stage judgment, long positioning, local decisive pushes, and sustained support-system building to turn weak positions into winnable ones
 - how side-hustle builders stop acting like the lead too early and instead build the real backbone quality—reliability, boundary discipline, cooperation ability, people development, and continuous learning—that makes genuine leadership and larger operating responsibility sustainable
+- how side-hustle builders stop centering self-display, self-protection, and relationship vanity, and instead put paying users, real contributors, evidence-based criticism, and long-term delivery trust at the center of the business
 - how side-hustle builders widen channels, collaborators, and support networks without surrendering customer control, delivery standards, time boundaries, and project direction, so cooperation expands the business instead of reducing it to an appendage of stronger outside systems
 - how side-hustle builders stop treating a decisive monetization battle as one more side task, and instead identify the main battlefield, organize their operating main force around it, and make most support work serve that central breakthrough line
 - how side-hustle builders recognize that a real new growth stage begins when personal insight leaves the small circle, joins real demand and real customers, and turns scattered approval into organized buying, delivery, and referral power

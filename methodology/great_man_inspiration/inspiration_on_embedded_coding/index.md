@@ -86,6 +86,7 @@ Focus:
 - `team_process_and_knowledge/074-dont-mistake-reform-talk-for-real-embedded-turnaround.md`
 - `team_process_and_knowledge/075-dont-fight-hard-embedded-times-with-scattered-heroics-organize-real-delivery-main-force.md`
 - `team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+- `team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality

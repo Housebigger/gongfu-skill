@@ -15,11 +15,11 @@
 
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：6 篇
-- `teacher_growth_and_backbone/`：10 篇
+- `teacher_growth_and_backbone/`：11 篇
 - `school_governance_and_crisis_response/`：12 篇
 - `school_coordination_and_organization/`：25 篇
 
-当前合计：58 篇 article-based 笔记，对应 57 篇毛文来源。
+当前合计：59 篇 article-based 笔记，对应 58 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -51,6 +51,7 @@
 - 持续承压下的专业主线与自我修炼
 - 把教师学习从概念背诵改成校情学情研究、历史补课和方法沉淀
 - 如何在要接更大教学与育人责任前，研究校情学情、放下旧包袱，并把教学判断训练成骨干能力
+- 如何把教师成长从“更会自保”扳回“更能服务学生、同事与学校公共任务”
 
 ### `school_governance_and_crisis_response/`
 适合看：

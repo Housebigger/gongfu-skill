@@ -384,8 +384,18 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`079《文化工作中的统一战线》`
-- 如果继续顺序推进，下一篇应是：`080《必须学会做经济工作》`
+- 当前顺序覆盖已推进到：`080《必须学会做经济工作》`
+- 如果继续顺序推进，下一篇应是：`081《游击区也能够进行生产》`
+
+- 080《必须学会做经济工作》
+  - `../survival_strategy/080-learn-economic-work-build-your-own-supply-lines-before-big-turning-points.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/080-software-teams-must-learn-economic-work-build-delivery-supply-and-feedback-lines.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/080-companies-must-learn-economic-work-build-supply-profit-and-long-term-operating-basis.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/080-dont-buy-strategic-stories-without-economic-work-supply-profit-and-self-reliance.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/080-side-hustles-must-learn-economic-work-build-supply-cashflow-and-repeatable-delivery.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/080-embedded-teams-must-learn-economic-work-build-supply-chain-test-and-field-self-reliance.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/080-schools-must-learn-economic-work-build-resource-supply-backbones-and-long-term-education-basis.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文一方面落在普通人如何先学会做自己的经济工作，把收入、自给、节约、协作、骨干和长期储备组织成反攻前的真实供给线；另一方面也落在软件团队、公司经营、股票研究、副业经营、嵌入式工程和学校治理六个方向，统一强调大目标、大版本、大战略和教育提升都不能只靠口号，必须从真实环境出发，把供给能力、现金/资源纪律、桥梁骨干、自力更生和长期家底做出来。
 
 - 079《文化工作中的统一战线》
   - `../cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`

@@ -11,9 +11,9 @@
 
 - `organization_design/`：15 篇
 - `leadership_and_talent/`：7 篇
-- `strategy_and_execution/`：54 篇
+- `strategy_and_execution/`：55 篇
 
-当前合计：76 篇 article-based 笔记，对应 76 篇毛文来源。
+当前合计：77 篇 article-based 笔记，对应 77 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。

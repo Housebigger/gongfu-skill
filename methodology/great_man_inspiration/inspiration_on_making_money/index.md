@@ -82,6 +82,7 @@ Important boundary:
 - `execution_and_delivery/077-dont-build-a-side-hustle-around-self-display-put-paying-users-and-real-contributors-at-the-center.md`
 - `execution_and_delivery/078-dont-sell-yourself-confidence-theater-answer-customer-cashflow-and-delivery-problems.md`
 - `execution_and_delivery/079-dont-sell-advanced-solutions-before-customers-feel-the-need-build-from-voluntary-adoption.md`
+- `execution_and_delivery/080-side-hustles-must-learn-economic-work-build-supply-cashflow-and-repeatable-delivery.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

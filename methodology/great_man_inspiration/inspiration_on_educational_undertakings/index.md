@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-079篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-080篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -48,6 +48,7 @@
 - [069 当学校翻盘的曙光已经看得见时，最怕的不是还有艰苦，而是把最后阶段的教育力量重新打散](school_governance_and_crisis_response/069-when-school-dawn-is-visible-concentrate-force-on-the-main-education-battle.md)
 - [070 当学校越吃紧的时候，越不能只围着经费和事务压缩打转，而要把课堂、班级、教师主力与家校闭环这些真实教育供给线重新做起来](school_governance_and_crisis_response/070-when-school-is-tight-stop-only-cutting-expenses-rebuild-real-education-supply.md)
 - [078 别用稳定话术遮住真实校情班情，要回答课堂风险、家校风险和一线反馈](school_governance_and_crisis_response/078-dont-use-stability-talk-to-cover-school-problems-answer-real-classroom-risks-and-let-feedback-enter.md)
+- [080 学校要办好教育，不能只会喊目标，必须学会建设资源供给、教师骨干和长期教育家底](school_governance_and_crisis_response/080-schools-must-learn-economic-work-build-resource-supply-backbones-and-long-term-education-basis.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
@@ -77,4 +78,4 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：61篇笔记 / 5个子主题 / 覆盖001-079中60篇原文
+统计：62篇笔记 / 5个子主题 / 覆盖001-080中61篇原文

@@ -325,15 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 079《文化工作中的统一战线》(1944-10-30)
-- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
-- `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/079-dont-force-users-into-advanced-solutions-build-from-real-needs-and-voluntary-adoption.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/079-build-a-company-united-front-from-real-needs-legacy-capacity-and-voluntary-change.md`
-- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/079-dont-dismiss-legacy-business-assets-study-whether-they-can-be-reformed-into-new-thesis-power.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/079-dont-sell-advanced-solutions-before-customers-feel-the-need-build-from-voluntary-adoption.md`
-- `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/079-dont-replace-field-legacy-all-at-once-reform-old-tools-and-people-into-delivery-capacity.md`
-- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/079-dont-force-advanced-teaching-before-students-are-ready-build-from-real-needs-and-voluntary-learning.md`
-
+### 080《必须学会做经济工作》(1945-01-10)
+- `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/080-learn-economic-work-build-your-own-supply-lines-before-big-turning-points.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/080-software-teams-must-learn-economic-work-build-delivery-supply-and-feedback-lines.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/080-companies-must-learn-economic-work-build-supply-profit-and-long-term-operating-basis.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/080-dont-buy-strategic-stories-without-economic-work-supply-profit-and-self-reliance.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/080-side-hustles-must-learn-economic-work-build-supply-cashflow-and-repeatable-delivery.md`
+- `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/080-embedded-teams-must-learn-economic-work-build-supply-chain-test-and-field-self-reliance.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/080-schools-must-learn-economic-work-build-resource-supply-backbones-and-long-term-education-basis.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

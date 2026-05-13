@@ -73,6 +73,7 @@ Purpose:
 - `research_and_thesis/077-dont-build-investment-research-around-position-defense-put-thesis-truth-and-real-contributors-at-the-center.md`
 - `research_and_thesis/078-dont-mistake-management-confidence-theater-for-thesis-repair-watch-answers-actions-and-risk.md`
 - `research_and_thesis/079-dont-dismiss-legacy-business-assets-study-whether-they-can-be-reformed-into-new-thesis-power.md`
+- `research_and_thesis/080-dont-buy-strategic-stories-without-economic-work-supply-profit-and-self-reliance.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking

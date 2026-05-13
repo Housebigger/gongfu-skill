@@ -21,11 +21,11 @@
 - `product_strategy/`：3 篇
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
-- `iteration_and_delivery/`：11 篇
+- `iteration_and_delivery/`：12 篇
 - `team_process_and_quality/`：52 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：75 篇 article-based 笔记，对应 75 篇毛文来源。
+当前合计：76 篇 article-based 笔记，对应 76 篇毛文来源。
 
 ## 推荐入口
 

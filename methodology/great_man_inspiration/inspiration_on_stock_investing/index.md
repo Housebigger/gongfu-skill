@@ -78,6 +78,7 @@ Purpose:
 - `research_and_thesis/081-dont-dismiss-hard-zone-companies-watch-whether-they-produce-under-constraints.md`
 - `research_and_thesis/082-at-cycle-turning-points-dont-buy-destiny-stories-check-the-bright-road-conditions.md`
 - `research_and_thesis/083-investing-in-turnarounds-check-common-program-governance-base-and-self-correction.md`
+- `research_and_thesis/084-investing-in-hard-turnarounds-look-for-persistent-work-mass-support-and-main-trend.md`
 
 Purpose:
 - how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road

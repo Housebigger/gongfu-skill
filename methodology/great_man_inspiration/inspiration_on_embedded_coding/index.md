@@ -37,6 +37,7 @@ Focus:
 - preparing for worst-case scenarios without losing the main contradiction and turnaround possibilities after severe project shocks
 - shrinking the embedded machine in hard times so the main delivery force, main version, and main board line stay hard enough to survive
 - keeping firmware, hardware, test, field, and version firepower concentrated on the main delivery battle once embedded-turnaround dawn is visible, so the final stage is not lost to renewed multi-front distraction
+- `engineering_strategy/084-move-engineering-mountains-by-incremental-work-team-confidence-and-field-support.md`
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -120,7 +121,7 @@ Focus:
 
 - how embedded teams stop calling field feedback noise, answer real engineering risks, and close the loop through board, firmware, test, factory, and field actions
 
-- `team_process_and_knowledge/083-embedded-cross-functional-work-needs-common-program-field-base-and-self-correction.md`
 ## Writing convention
 
 Future notes in this theme should go directly into the appropriate subfolder with sequence-first filenames.
+- `team_process_and_knowledge/083-embedded-cross-functional-work-needs-common-program-field-base-and-self-correction.md`

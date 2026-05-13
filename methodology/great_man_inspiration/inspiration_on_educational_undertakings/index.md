@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-083篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-084篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -33,6 +33,7 @@
 - [060 真正有效的教师学习，不是背更多理念，而是研究校情学情、补上历史、把理论变成会用的方法](teacher_growth_and_backbone/060-real-teacher-learning-means-studying-school-reality-history-and-turning-theory-into-usable-method.md)
 - [076 真正要接住更大教学与育人责任，不只是继续硬扛，而是学会研究校情学情、放下包袱、提前准备更大责任](teacher_growth_and_backbone/076-real-teacher-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md)
 - [077 真正成熟的老师，不是越来越会自我保护，而是越来越能对学生、同事与学校公共任务有用](teacher_growth_and_backbone/077-a-teacher-should-not-build-their-work-around-self-protection-but-around-being-useful-to-students-and-school.md)
+- [084 教育大山靠教师骨干、学生信心和长期坚持搬走](teacher_growth_and_backbone/084-education-mountains-move-through-teacher-backbone-student-confidence-and-persistent-work.md)
 
 ### school_governance_and_crisis_response（学校治理与危机应对）
 - [012 遇到棘手问题，先建立广泛的支持联盟](school_governance_and_crisis_response/012-build-broad-support-alliance-for-tough-school-problems.md)
@@ -80,5 +81,4 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：65篇笔记 / 5个子主题 / 覆盖001-083中64篇原文
-- [083 学校改进不能靠少数人硬推，要有共同纲领、广泛参与和自我纠错](school_coordination_and_organization/083-school-improvement-needs-common-program-broad-participation-and-self-correction.md)
+统计：66篇笔记 / 5个子主题 / 覆盖001-084中65篇原文

@@ -91,7 +91,9 @@ Purpose:
 - `long_term_growth/076-real-growth-needs-learning-the-situation-dropping-baggage-and-training-your-mind.md`
 - `long_term_growth/077-real-growth-means-building-a-life-not-ruled-by-self-interest-and-becoming-useful-to-others.md`
 
+- `long_term_growth/084-move-life-mountains-by-persistent-work-and-awakened-people.md`
 Purpose:
+- how ordinary people face mountain-sized life problems by choosing a clear route, awakening real support, and making the obstacle shrink a little every day
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - how small but real progress compounds under the right conditions
 - how to resist premature despair during low-visibility growth phases
@@ -146,6 +148,7 @@ Purpose:
 - `cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md`
 - `cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md`
 - `cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
+- `cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -182,7 +185,6 @@ Purpose:
 - how ordinary people stop leaving hardship as scattered household-by-household struggle, and instead organize labor, time, skills, and mutual aid into a voluntary structure that can keep producing, self-supporting, and improving
 - how ordinary people build broad cooperation by starting from real needs, voluntary change, and reformable old forces instead of replacing real people with good intentions
 
-- `cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
 ## Writing convention
 
 Future article-by-article life notes should be filed by practical use:

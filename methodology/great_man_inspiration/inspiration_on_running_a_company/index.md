@@ -148,3 +148,4 @@ This folder focuses on:
 - how companies entering a bigger stage stop relying on old wins and executive grit, study the situation, drop baggage, and prepare the capabilities needed to run larger markets, key channels, and more complex operating systems
 - how companies stop using confidence performances to hide operating crisis, answer key problems, protect evidence-based criticism, and verify stability through real resource and rule changes
 - `organization_design/083-company-new-order-needs-common-program-broad-governance-and-self-correction.md`
+- `strategy_and_execution/084-companies-move-big-mountains-by-clear-route-broad-confidence-and-persistent-work.md`

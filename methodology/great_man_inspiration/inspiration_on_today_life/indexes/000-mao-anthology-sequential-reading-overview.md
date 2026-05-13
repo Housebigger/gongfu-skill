@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`083《论联合政府》`
-- 如果继续顺序推进，下一篇应是：`084《愚公移山》`
+- 当前顺序覆盖已推进到：`084《愚公移山》`
+- 如果继续顺序推进，下一篇应是：`085《论军队生产自给，兼论整风和生产两大运动的重要性》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -406,6 +406,16 @@
   - `../../inspiration_on_embedded_coding/team_process_and_knowledge/083-embedded-cross-functional-work-needs-common-program-field-base-and-self-correction.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/083-school-improvement-needs-common-program-broad-participation-and-self-correction.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“联合政府、共同纲领、两条路线、民主集中制、群众路线和自我批评”转译为现代共同建设方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，在大转折中不能靠单打独斗、小圈子或口号建新秩序，而要形成共同纲领、联合真实力量、建立执行纪律，并用持续自我批评防止脱离现实。
+
+- 084《愚公移山》
+  - `../long_term_growth/084-move-life-mountains-by-persistent-work-and-awakened-people.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/084-move-product-mountains-by-persistent-delivery-and-broad-confidence.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/084-companies-move-big-mountains-by-clear-route-broad-confidence-and-persistent-work.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/084-investing-in-hard-turnarounds-look-for-persistent-work-mass-support-and-main-trend.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/084-side-hustle-mountains-move-through-persistent-delivery-and-real-support.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/084-move-engineering-mountains-by-incremental-work-team-confidence-and-field-support.md`
+  - `../../inspiration_on_educational_undertakings/teacher_growth_and_backbone/084-education-mountains-move-through-teacher-backbone-student-confidence-and-persistent-work.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“愚公移山、先锋队觉悟、群众觉悟、反动逆流终究不是主流”转译为现代长期建设方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，面对大山式难题时不要静态绝望，也不要幻想一次性奇迹，而要找准路线、建立信心、唤醒真实支持面，并用每天可验证的持续做功让障碍一点点减少。
 
 - 081《游击区也能够进行生产》
   - `../survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`

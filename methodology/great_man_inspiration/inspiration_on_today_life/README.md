@@ -10,12 +10,12 @@
 
 - `survival_strategy/`：9 篇
 - `judgement_and_decision/`：20 篇
-- `long_term_growth/`：9 篇
+- `long_term_growth/`：10 篇
 - `cooperation_and_organization/`：42 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：83 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—083，顺序总览窗口也推进到 083。
+当前合计：84 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—084，顺序总览窗口也推进到 084。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`083《论联合政府》`
-- 顺序总览窗口当前也推进到：`083《论联合政府》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`084《愚公移山》`
+- today_life 主题当前实写覆盖到：`084《愚公移山》`
+- 顺序总览窗口当前也推进到：`084《愚公移山》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`085《论军队生产自给，兼论整风和生产两大运动的重要性》`
 
 ## 使用提醒
 
@@ -67,3 +67,4 @@
 - 当一篇毛文最直接服务于普通人如何判断、组织、坚持、协作、守边界时，优先落到这里
 
 - `cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
+- `long_term_growth/084-move-life-mountains-by-persistent-work-and-awakened-people.md`

@@ -23,7 +23,7 @@
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：72 篇 article-based 笔记，对应 71 篇毛文来源。
+当前合计：73 篇 article-based 笔记，对应 72 篇毛文来源。
 
 ## 子目录速览
 
@@ -71,3 +71,4 @@
 - 如果一个方法主要服务于主动赚钱项目，不要混放到这里
 
 - `research_and_thesis/083-investing-in-turnarounds-check-common-program-governance-base-and-self-correction.md`
+- `research_and_thesis/084-investing-in-hard-turnarounds-look-for-persistent-work-mass-support-and-main-trend.md`

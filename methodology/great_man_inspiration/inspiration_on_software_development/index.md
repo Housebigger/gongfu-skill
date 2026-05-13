@@ -70,7 +70,9 @@ Purpose:
 - `iteration_and_delivery/080-software-teams-must-learn-economic-work-build-delivery-supply-and-feedback-lines.md`
 - `iteration_and_delivery/081-even-in-chaotic-project-zones-build-delivery-from-fragments-and-protected-windows.md`
 
+- `iteration_and_delivery/084-move-product-mountains-by-persistent-delivery-and-broad-confidence.md`
 Purpose:
+- how software teams move mountain-sized technical debt and platform problems through clear route choice, broad role confidence, and persistent incremental delivery
 - how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how teams build resource flow and supply lines for sustained delivery
 - how to reduce hidden organizational drain during high-pressure execution
@@ -137,6 +139,7 @@ Purpose:
 - `team_process_and_quality/076-real-software-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 - `team_process_and_quality/077-dont-turn-software-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
 - `team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md`
+- `team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`
 
 Purpose:
 - how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
@@ -187,7 +190,6 @@ Reserved for future series indexes and overview notes.
 - `inspiration_on_embedded_coding/` is for embedded software, firmware, drivers, hardware-coupled debugging, and field constraints.
 - `inspiration_on_software_development/` is for app, web, mini program, and general software product development.
 
-- `team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`
 ## Writing convention
 
 When a future note mainly serves app development, mini program development, or general product software methodology, place it here instead of under embedded coding.

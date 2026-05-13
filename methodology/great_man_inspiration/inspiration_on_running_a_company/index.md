@@ -151,3 +151,4 @@ This folder focuses on:
 - `strategy_and_execution/084-companies-move-big-mountains-by-clear-route-broad-confidence-and-persistent-work.md`
 - `strategy_and_execution/085-companies-under-pressure-need-distributed-self-supply-and-cultural-rectification.md`
 - `strategy_and_execution/086-company-reform-theater-collapses-when-it-refuses-real-power-and-accountability.md`
+- `strategy_and_execution/087-dangerous-strategy-is-supporting-backward-forces-against-real-builders.md`

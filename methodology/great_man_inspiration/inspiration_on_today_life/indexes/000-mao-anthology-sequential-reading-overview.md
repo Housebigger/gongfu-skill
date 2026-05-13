@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`086《赫尔利和蒋介石的双簧已经破产》`
-- 如果继续顺序推进，下一篇应是：`087《评赫尔利政策的危险》`
+- 当前顺序覆盖已推进到：`087《评赫尔利政策的危险》`
+- 如果继续顺序推进，下一篇应是：`088《给福斯特同志的电报》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -436,6 +436,16 @@
   - `../../inspiration_on_embedded_coding/team_process_and_knowledge/086-dont-let-review-theater-replace-real-engineering-feedback-and-accountability.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/086-dont-let-school-consultation-theater-replace-real-classroom-reform.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“赫尔利—蒋介石双簧、程序表演、假咨询、起码民主改革”转译为现代判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要被外部背书、会议热闹和征求意见的话术骗住，而要看真实权力、真实反馈、真实责任和起码改革有没有落地。
+
+- 087《评赫尔利政策的危险》
+  - `../judgement_and_decision/087-see-the-danger-when-external-backing-strengthens-bad-forces.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/087-external-support-that-strengthens-bad-processes-will-create-project-crisis.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/087-dangerous-strategy-is-supporting-backward-forces-against-real-builders.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/087-avoid-companies-where-capital-backs-bad-governance-against-real-stakeholders.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/087-side-hustles-must-avoid-platform-policies-that-back-bad-operators.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/087-external-pressure-that-backs-bad-engineering-decisions-creates-field-crisis.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/087-schools-must-not-let-external-backing-strengthen-harmful-governance.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“赫尔利政策、外部背书、助长反动、内战危机、站到觉醒人民对立面”转译为现代判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要把外部资源与权威背书当作天然利好，而要判断它究竟支持真实建设者，还是壮大坏流程、坏治理和有害力量。
 
 - 081《游击区也能够进行生产》
   - `../survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`

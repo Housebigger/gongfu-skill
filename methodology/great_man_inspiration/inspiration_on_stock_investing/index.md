@@ -81,8 +81,10 @@ Purpose:
 - `research_and_thesis/084-investing-in-hard-turnarounds-look-for-persistent-work-mass-support-and-main-trend.md`
 - `research_and_thesis/085-hard-times-companies-must-prove-self-supply-and-organizational-rectification.md`
 - `research_and_thesis/086-dont-buy-governance-theater-check-real-reform-and-stakeholder-power.md`
+- `research_and_thesis/087-avoid-companies-where-capital-backs-bad-governance-against-real-stakeholders.md`
 
 Purpose:
+- how investors identify when capital, policy, or strategic backing strengthens bad governance instead of real value creation
 - how investors avoid buying governance theater and instead verify real stakeholder power, transparency, and accountability
 - how investors test hard-times companies by checking self-supply, distributed operating discipline, and organizational rectification rather than external rescue stories
 - how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road

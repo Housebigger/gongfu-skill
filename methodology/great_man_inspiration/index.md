@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 086《赫尔利和蒋介石的双簧已经破产》(1945-07-10)
-- `inspiration_on_today_life/judgement_and_decision/086-dont-be-fooled-by-fake-consultation-and-procedure-theater.md`
-- `inspiration_on_software_development/team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md`
-- `inspiration_on_running_a_company/strategy_and_execution/086-company-reform-theater-collapses-when-it-refuses-real-power-and-accountability.md`
-- `inspiration_on_stock_investing/research_and_thesis/086-dont-buy-governance-theater-check-real-reform-and-stakeholder-power.md`
-- `inspiration_on_making_money/execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md`
-- `inspiration_on_embedded_coding/team_process_and_knowledge/086-dont-let-review-theater-replace-real-engineering-feedback-and-accountability.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/086-dont-let-school-consultation-theater-replace-real-classroom-reform.md`
+### 087《评赫尔利政策的危险》(1945-07-12)
+- `inspiration_on_today_life/judgement_and_decision/087-see-the-danger-when-external-backing-strengthens-bad-forces.md`
+- `inspiration_on_software_development/team_process_and_quality/087-external-support-that-strengthens-bad-processes-will-create-project-crisis.md`
+- `inspiration_on_running_a_company/strategy_and_execution/087-dangerous-strategy-is-supporting-backward-forces-against-real-builders.md`
+- `inspiration_on_stock_investing/research_and_thesis/087-avoid-companies-where-capital-backs-bad-governance-against-real-stakeholders.md`
+- `inspiration_on_making_money/execution_and_delivery/087-side-hustles-must-avoid-platform-policies-that-back-bad-operators.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/087-external-pressure-that-backs-bad-engineering-decisions-creates-field-crisis.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/087-schools-must-not-let-external-backing-strengthen-harmful-governance.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

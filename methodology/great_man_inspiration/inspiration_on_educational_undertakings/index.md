@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-086篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-087篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -54,6 +54,7 @@
 - [082 教育转折前，不能只等形势变好，要选择光明路线并建设育人条件](school_governance_and_crisis_response/082-at-school-turning-points-choose-the-bright-road-and-build-education-conditions.md)
 - [085 学校困难时期要建设资源自给和教学整风两条生命线](school_governance_and_crisis_response/085-schools-in-hard-times-need-resource-self-supply-and-teaching-rectification.md)
 - [086 不要让学校咨询表演替代真实课堂改革](school_governance_and_crisis_response/086-dont-let-school-consultation-theater-replace-real-classroom-reform.md)
+- [087 学校不能让外部背书壮大有害治理](school_governance_and_crisis_response/087-schools-must-not-let-external-backing-strengthen-harmful-governance.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
@@ -83,4 +84,4 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：68篇笔记 / 5个子主题 / 覆盖001-086中67篇原文
+统计：69篇笔记 / 5个子主题 / 覆盖001-087中68篇原文

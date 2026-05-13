@@ -131,3 +131,4 @@ Additional focus:
 - how side-hustle builders stop packaging project crisis as confidence theater, and instead answer customer, cashflow, and delivery problems with observable actions
 - `execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md`
 - `execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md`
+- `execution_and_delivery/087-side-hustles-must-avoid-platform-policies-that-back-bad-operators.md`

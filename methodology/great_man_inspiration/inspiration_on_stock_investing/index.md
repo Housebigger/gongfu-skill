@@ -79,8 +79,10 @@ Purpose:
 - `research_and_thesis/082-at-cycle-turning-points-dont-buy-destiny-stories-check-the-bright-road-conditions.md`
 - `research_and_thesis/083-investing-in-turnarounds-check-common-program-governance-base-and-self-correction.md`
 - `research_and_thesis/084-investing-in-hard-turnarounds-look-for-persistent-work-mass-support-and-main-trend.md`
+- `research_and_thesis/085-hard-times-companies-must-prove-self-supply-and-organizational-rectification.md`
 
 Purpose:
+- how investors test hard-times companies by checking self-supply, distributed operating discipline, and organizational rectification rather than external rescue stories
 - how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
 - how investors judge companies by real cashflow dependence, support structure, and who bears risk instead of sector labels and management talk

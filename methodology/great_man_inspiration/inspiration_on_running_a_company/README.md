@@ -11,9 +11,9 @@
 
 - `organization_design/`：15 篇
 - `leadership_and_talent/`：7 篇
-- `strategy_and_execution/`：57 篇
+- `strategy_and_execution/`：58 篇
 
-当前合计：81 篇 article-based 笔记，对应 80 篇毛文来源。
+当前合计：82 篇 article-based 笔记，对应 81 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -66,3 +66,4 @@
 
 - `organization_design/083-company-new-order-needs-common-program-broad-governance-and-self-correction.md`
 - `strategy_and_execution/084-companies-move-big-mountains-by-clear-route-broad-confidence-and-persistent-work.md`
+- `strategy_and_execution/085-companies-under-pressure-need-distributed-self-supply-and-cultural-rectification.md`

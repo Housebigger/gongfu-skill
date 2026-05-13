@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：60 篇
+- `research_and_thesis/`：61 篇
 - `risk_and_position_management/`：8 篇
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：73 篇 article-based 笔记，对应 72 篇毛文来源。
+当前合计：74 篇 article-based 笔记，对应 73 篇毛文来源。
 
 ## 子目录速览
 
@@ -72,3 +72,4 @@
 
 - `research_and_thesis/083-investing-in-turnarounds-check-common-program-governance-base-and-self-correction.md`
 - `research_and_thesis/084-investing-in-hard-turnarounds-look-for-persistent-work-mass-support-and-main-trend.md`
+- `research_and_thesis/085-hard-times-companies-must-prove-self-supply-and-organizational-rectification.md`

@@ -129,3 +129,4 @@ Additional focus:
 - how side-hustle builders actively shrink an overgrown side-hustle machine in hard times, narrow lines and commitments, and keep the core cashflow force hard enough to survive the darkest stretch
 - how side-hustle builders stop re-spreading traffic, time, delivery energy, and collaboration once side-hustle dawn is visible, and instead keep effort concentrated on the main earning battle until income is truly stabilized
 - how side-hustle builders stop packaging project crisis as confidence theater, and instead answer customer, cashflow, and delivery problems with observable actions
+- `execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md`

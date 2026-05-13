@@ -24,8 +24,10 @@ Purpose:
 - `survival_strategy/070-when-money-is-tight-dont-cut-the-core-build-real-supply.md`
 - `survival_strategy/080-learn-economic-work-build-your-own-supply-lines-before-big-turning-points.md`
 - `survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`
+- `survival_strategy/085-build-self-supply-and-self-correction-before-the-big-battle.md`
 
 Purpose:
+- how ordinary people survive hard periods by building self-supply lines and self-correction habits instead of waiting for external rescue
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - how ordinary people build footholds
 - how to preserve a base under pressure

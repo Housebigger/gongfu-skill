@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`084《愚公移山》`
-- 如果继续顺序推进，下一篇应是：`085《论军队生产自给，兼论整风和生产两大运动的重要性》`
+- 当前顺序覆盖已推进到：`085《论军队生产自给，兼论整风和生产两大运动的重要性》`
+- 如果继续顺序推进，下一篇应是：`086《赫尔利和蒋介石的双簧已经破产》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -416,6 +416,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/084-move-engineering-mountains-by-incremental-work-team-confidence-and-field-support.md`
   - `../../inspiration_on_educational_undertakings/teacher_growth_and_backbone/084-education-mountains-move-through-teacher-backbone-student-confidence-and-persistent-work.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“愚公移山、先锋队觉悟、群众觉悟、反动逆流终究不是主流”转译为现代长期建设方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，面对大山式难题时不要静态绝望，也不要幻想一次性奇迹，而要找准路线、建立信心、唤醒真实支持面，并用每天可验证的持续做功让障碍一点点减少。
+
+- 085《论军队生产自给，兼论整风和生产两大运动的重要性》
+  - `../survival_strategy/085-build-self-supply-and-self-correction-before-the-big-battle.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/085-delivery-teams-need-self-supply-and-rectification-to-keep-fighting.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/085-companies-under-pressure-need-distributed-self-supply-and-cultural-rectification.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/085-hard-times-companies-must-prove-self-supply-and-organizational-rectification.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/085-embedded-teams-need-distributed-self-supply-and-engineering-rectification.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/085-schools-in-hard-times-need-resource-self-supply-and-teaching-rectification.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“统一领导、分散经营、生产自给、整风与生产两个环子”转译为现代长期战斗方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，在资源紧张和长期承压时不能只等外部供给或上层兜底，而要建设自我供给线，同时用整风式复盘纠正思想、流程和组织习气。
 
 - 081《游击区也能够进行生产》
   - `../survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`

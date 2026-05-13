@@ -71,7 +71,9 @@ Purpose:
 - `iteration_and_delivery/081-even-in-chaotic-project-zones-build-delivery-from-fragments-and-protected-windows.md`
 
 - `iteration_and_delivery/084-move-product-mountains-by-persistent-delivery-and-broad-confidence.md`
+- `iteration_and_delivery/085-delivery-teams-need-self-supply-and-rectification-to-keep-fighting.md`
 Purpose:
+- how software teams sustain long delivery battles through self-supply in tools/tests/environments and rectification-style retrospectives
 - how software teams move mountain-sized technical debt and platform problems through clear route choice, broad role confidence, and persistent incremental delivery
 - how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how teams build resource flow and supply lines for sustained delivery

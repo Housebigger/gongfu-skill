@@ -149,3 +149,4 @@ This folder focuses on:
 - how companies stop using confidence performances to hide operating crisis, answer key problems, protect evidence-based criticism, and verify stability through real resource and rule changes
 - `organization_design/083-company-new-order-needs-common-program-broad-governance-and-self-correction.md`
 - `strategy_and_execution/084-companies-move-big-mountains-by-clear-route-broad-confidence-and-persistent-work.md`
+- `strategy_and_execution/085-companies-under-pressure-need-distributed-self-supply-and-cultural-rectification.md`

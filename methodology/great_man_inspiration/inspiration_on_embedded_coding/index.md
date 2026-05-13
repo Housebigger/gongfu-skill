@@ -38,6 +38,7 @@ Focus:
 - shrinking the embedded machine in hard times so the main delivery force, main version, and main board line stay hard enough to survive
 - keeping firmware, hardware, test, field, and version firepower concentrated on the main delivery battle once embedded-turnaround dawn is visible, so the final stage is not lost to renewed multi-front distraction
 - `engineering_strategy/084-move-engineering-mountains-by-incremental-work-team-confidence-and-field-support.md`
+- `engineering_strategy/085-embedded-teams-need-distributed-self-supply-and-engineering-rectification.md`
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -45,6 +46,7 @@ Focus:
 - `debugging_and_fieldwork/059-no-frontline-investigation-no-right-to-conclude-on-embedded-problems.md`
 
 Focus:
+- how embedded teams sustain long delivery under resource constraints through distributed engineering self-supply and rectification of non-closed-loop habits
 - choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - debugging loops
 - field investigation

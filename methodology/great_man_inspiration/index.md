@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 082《两个中国之命运》(1945-04-23)
-- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
-- `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/082-at-product-turning-points-choose-the-bright-road-and-build-the-delivery-conditions.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/082-at-company-turning-points-choose-the-bright-road-and-build-the-conditions-for-new-destiny.md`
-- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/082-at-cycle-turning-points-dont-buy-destiny-stories-check-the-bright-road-conditions.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/082-side-hustle-turning-points-choose-the-bright-road-and-build-real-income-conditions.md`
-- `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/082-at-engineering-turning-points-choose-the-bright-road-and-build-delivery-conditions.md`
-- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/082-at-school-turning-points-choose-the-bright-road-and-build-education-conditions.md`
+### 083《论联合政府》(1945-04-24)
+- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/083-company-new-order-needs-common-program-broad-governance-and-self-correction.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/083-investing-in-turnarounds-check-common-program-governance-base-and-self-correction.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/083-side-hustle-cooperation-needs-common-program-delivery-alliance-and-correction.md`
+- `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/083-embedded-cross-functional-work-needs-common-program-field-base-and-self-correction.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/083-school-improvement-needs-common-program-broad-participation-and-self-correction.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

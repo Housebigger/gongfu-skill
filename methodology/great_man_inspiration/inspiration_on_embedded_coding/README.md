@@ -30,7 +30,7 @@
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：54 篇 article-based 笔记，对应 54 篇毛文来源。
+当前合计：55 篇 article-based 笔记，对应 54 篇毛文来源。
 
 ## 推荐入口
 
@@ -79,3 +79,5 @@
 - 先按“工程用途”放置，再按文章顺序命名
 - 同一篇毛文只要能落到嵌入式母题，就可以进入这里
 - 如果内容的主要承载场景是产品软件而不是硬件耦合工程，请改放到 `../inspiration_on_software_development/`
+
+- `team_process_and_knowledge/083-embedded-cross-functional-work-needs-common-program-field-base-and-self-correction.md`

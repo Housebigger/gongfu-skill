@@ -77,6 +77,7 @@ Purpose:
 - `research_and_thesis/080-dont-buy-strategic-stories-without-economic-work-supply-profit-and-self-reliance.md`
 - `research_and_thesis/081-dont-dismiss-hard-zone-companies-watch-whether-they-produce-under-constraints.md`
 - `research_and_thesis/082-at-cycle-turning-points-dont-buy-destiny-stories-check-the-bright-road-conditions.md`
+- `research_and_thesis/083-investing-in-turnarounds-check-common-program-governance-base-and-self-correction.md`
 
 Purpose:
 - how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road

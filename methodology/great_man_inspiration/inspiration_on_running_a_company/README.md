@@ -13,7 +13,7 @@
 - `leadership_and_talent/`：7 篇
 - `strategy_and_execution/`：57 篇
 
-当前合计：79 篇 article-based 笔记，对应 79 篇毛文来源。
+当前合计：80 篇 article-based 笔记，对应 79 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -63,3 +63,5 @@
 
 - 当笔记主要服务于“公司怎么打、怎么组织、怎么守主线并长主力”时，优先放这里
 - 如果更偏个人副业项目，请放 `../inspiration_on_making_money/`
+
+- `organization_design/083-company-new-order-needs-common-program-broad-governance-and-self-correction.md`

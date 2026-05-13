@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：498 篇
-- 当前已建立原文关联的毛文标题数：82 篇
-  - 顺序主线：001—082
-  - 当前最新纳入：082《两个中国之命运》
-- 顺序主线的下一篇：083《论联合政府》
+- 当前已建立 `原文对应` 的主题转译文件：505 篇
+- 当前已建立原文关联的毛文标题数：83 篇
+  - 顺序主线：001—083
+  - 当前最新纳入：083《论联合政府》
+- 顺序主线的下一篇：084《愚公移山》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -84,7 +84,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 080，下一篇是 081
+2. 当前边界是 083，下一篇是 084
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

@@ -15,7 +15,7 @@
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：82 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—082，顺序总览窗口也推进到 082。
+当前合计：83 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—083，顺序总览窗口也推进到 083。
 
 ## 推荐入口
 
@@ -57,11 +57,13 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`082《两个中国之命运》`
-- 顺序总览窗口当前也推进到：`082《两个中国之命运》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`083《论联合政府》`
+- today_life 主题当前实写覆盖到：`083《论联合政府》`
+- 顺序总览窗口当前也推进到：`083《论联合政府》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`084《愚公移山》`
 
 ## 使用提醒
 
 - today_life 不是“杂项目录”，而是顺序主线的现实落地总入口
 - 当一篇毛文最直接服务于普通人如何判断、组织、坚持、协作、守边界时，优先落到这里
+
+- `cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`

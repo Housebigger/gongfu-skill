@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-080篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-083篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -80,4 +80,5 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：62篇笔记 / 5个子主题 / 覆盖001-080中61篇原文
+统计：65篇笔记 / 5个子主题 / 覆盖001-083中64篇原文
+- [083 学校改进不能靠少数人硬推，要有共同纲领、广泛参与和自我纠错](school_coordination_and_organization/083-school-improvement-needs-common-program-broad-participation-and-self-correction.md)

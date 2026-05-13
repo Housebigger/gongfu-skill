@@ -182,6 +182,7 @@ Purpose:
 - how ordinary people stop leaving hardship as scattered household-by-household struggle, and instead organize labor, time, skills, and mutual aid into a voluntary structure that can keep producing, self-supporting, and improving
 - how ordinary people build broad cooperation by starting from real needs, voluntary change, and reformable old forces instead of replacing real people with good intentions
 
+- `cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
 ## Writing convention
 
 Future article-by-article life notes should be filed by practical use:

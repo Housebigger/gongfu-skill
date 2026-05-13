@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`082《两个中国之命运》`
-- 如果继续顺序推进，下一篇应是：`083《论联合政府》`
+- 当前顺序覆盖已推进到：`083《论联合政府》`
+- 如果继续顺序推进，下一篇应是：`084《愚公移山》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -396,6 +396,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/082-at-engineering-turning-points-choose-the-bright-road-and-build-delivery-conditions.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/082-at-school-turning-points-choose-the-bright-road-and-build-education-conditions.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“胜利前夜仍有两个前途”转译为现代关键转折判断，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者不要把外部机会误认为内部胜利，而要主动选择光明路线、发动真实力量、建设实现新命运的条件，并在曙光出现时保持谦虚谨慎。
+
+- 083《论联合政府》
+  - `../cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`
+  - `../../inspiration_on_running_a_company/organization_design/083-company-new-order-needs-common-program-broad-governance-and-self-correction.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/083-investing-in-turnarounds-check-common-program-governance-base-and-self-correction.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/083-side-hustle-cooperation-needs-common-program-delivery-alliance-and-correction.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/083-embedded-cross-functional-work-needs-common-program-field-base-and-self-correction.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/083-school-improvement-needs-common-program-broad-participation-and-self-correction.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“联合政府、共同纲领、两条路线、民主集中制、群众路线和自我批评”转译为现代共同建设方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，在大转折中不能靠单打独斗、小圈子或口号建新秩序，而要形成共同纲领、联合真实力量、建立执行纪律，并用持续自我批评防止脱离现实。
 
 - 081《游击区也能够进行生产》
   - `../survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`

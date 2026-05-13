@@ -187,6 +187,7 @@ Reserved for future series indexes and overview notes.
 - `inspiration_on_embedded_coding/` is for embedded software, firmware, drivers, hardware-coupled debugging, and field constraints.
 - `inspiration_on_software_development/` is for app, web, mini program, and general software product development.
 
+- `team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`
 ## Writing convention
 
 When a future note mainly serves app development, mini program development, or general product software methodology, place it here instead of under embedded coding.

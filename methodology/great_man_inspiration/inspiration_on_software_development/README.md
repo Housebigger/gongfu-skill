@@ -25,7 +25,7 @@
 - `team_process_and_quality/`：52 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：78 篇 article-based 笔记，对应 78 篇毛文来源。
+当前合计：79 篇 article-based 笔记，对应 78 篇毛文来源。
 
 ## 推荐入口
 
@@ -80,3 +80,5 @@
 
 - 当前这个主题已不再是“预留目录”，而是仓库里体量最大的成熟主题之一
 - 如果一个主题主要服务于用户型软件产品，而不是嵌入式硬件现场，就优先放这里
+
+- `team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`

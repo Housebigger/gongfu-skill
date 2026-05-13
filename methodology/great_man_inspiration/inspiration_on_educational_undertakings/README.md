@@ -19,7 +19,7 @@
 - `school_governance_and_crisis_response/`：16 篇
 - `school_coordination_and_organization/`：25 篇
 
-当前合计：64 篇 article-based 笔记，对应 63 篇毛文来源。
+当前合计：65 篇 article-based 笔记，对应 64 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -79,3 +79,5 @@
 
 - 这里不是抽象教育理论区，而是学校实际工作的方法论区
 - 对豪哥当前项目语境来说，这个主题也特别适合服务“初中政治老师”的现实工作场景
+
+- `school_coordination_and_organization/083-school-improvement-needs-common-program-broad-participation-and-self-correction.md`

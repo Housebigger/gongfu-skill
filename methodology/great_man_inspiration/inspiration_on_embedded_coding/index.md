@@ -120,6 +120,7 @@ Focus:
 
 - how embedded teams stop calling field feedback noise, answer real engineering risks, and close the loop through board, firmware, test, factory, and field actions
 
+- `team_process_and_knowledge/083-embedded-cross-functional-work-needs-common-program-field-base-and-self-correction.md`
 ## Writing convention
 
 Future notes in this theme should go directly into the appropriate subfolder with sequence-first filenames.

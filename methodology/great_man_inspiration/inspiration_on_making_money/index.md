@@ -85,6 +85,7 @@ Important boundary:
 - `execution_and_delivery/080-side-hustles-must-learn-economic-work-build-supply-cashflow-and-repeatable-delivery.md`
 - `execution_and_delivery/081-side-hustles-can-produce-in-bad-conditions-use-fragments-protected-windows-and-cooperation.md`
 - `execution_and_delivery/082-side-hustle-turning-points-choose-the-bright-road-and-build-real-income-conditions.md`
+- `execution_and_delivery/083-side-hustle-cooperation-needs-common-program-delivery-alliance-and-correction.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

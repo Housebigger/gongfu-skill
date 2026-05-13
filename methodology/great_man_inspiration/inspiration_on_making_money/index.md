@@ -80,6 +80,7 @@ Important boundary:
 - `execution_and_delivery/075-dont-fight-hard-side-hustle-times-with-scattered-heroics-organize-real-earning-main-force.md`
 - `execution_and_delivery/076-real-side-hustle-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 - `execution_and_delivery/077-dont-build-a-side-hustle-around-self-display-put-paying-users-and-real-contributors-at-the-center.md`
+- `execution_and_delivery/078-dont-sell-yourself-confidence-theater-answer-customer-cashflow-and-delivery-problems.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
@@ -121,3 +122,4 @@ Additional focus:
 - how side-hustle builders stop creating for self-image, peer applause, and platform vanity, and instead learn the language of real paying users so products and offers grow upward from actual demand
 - how side-hustle builders actively shrink an overgrown side-hustle machine in hard times, narrow lines and commitments, and keep the core cashflow force hard enough to survive the darkest stretch
 - how side-hustle builders stop re-spreading traffic, time, delivery energy, and collaboration once side-hustle dawn is visible, and instead keep effort concentrated on the main earning battle until income is truly stabilized
+- how side-hustle builders stop packaging project crisis as confidence theater, and instead answer customer, cashflow, and delivery problems with observable actions

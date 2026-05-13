@@ -87,6 +87,7 @@ Focus:
 - `team_process_and_knowledge/075-dont-fight-hard-embedded-times-with-scattered-heroics-organize-real-delivery-main-force.md`
 - `team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 - `team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
+- `team_process_and_knowledge/078-dont-call-field-feedback-rumors-answer-real-engineering-risks-and-close-the-loop.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality
@@ -108,6 +109,8 @@ Focus:
 - how embedded teams keep reviews, retrospectives, weekly reports, production updates, and issue memos tied to board facts, target audience, and concrete actions instead of empty engineering jargon
 - serving real burden-bearers by learning frontline language and growing embedded methods, tools, and process from actual delivery basis
 - how embedded teams study the situation, review real engineering history, drop old baggage, train analysis habits, and prepare in advance for factory, certification, field, and larger-system responsibility
+
+- how embedded teams stop calling field feedback noise, answer real engineering risks, and close the loop through board, firmware, test, factory, and field actions
 
 ## Writing convention
 

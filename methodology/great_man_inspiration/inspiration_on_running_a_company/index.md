@@ -82,6 +82,7 @@ This folder focuses on:
 - `strategy_and_execution/074-dont-mistake-reform-talk-for-real-company-turnaround.md`
 - `strategy_and_execution/075-dont-fight-hard-company-times-with-scattered-heroics-organize-real-operating-capacity.md`
 - `strategy_and_execution/076-real-company-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+- `strategy_and_execution/078-dont-use-confidence-performances-to-hide-company-crisis-answer-key-problems-and-protect-criticism.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 - `leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md`
 - `leadership_and_talent/073-dont-treat-company-support-as-a-favor-help-business-teams-rebuild-real-capacity-before-asking-for-more.md`
@@ -141,3 +142,4 @@ This folder focuses on:
 - how company leaders stop treating support as a favor, spend most of their energy helping business and frontline teams rebuild real production capacity, organize labor instead of only extracting results, and repair cooperation by starting with self-criticism
 - how company leaders stop building the organization around boss image, cadre self-protection, and departmental calculation, and instead honor real contributors, welcome criticism from any valid source, and use shared respect and memory to hold the team together
 - how companies entering a bigger stage stop relying on old wins and executive grit, study the situation, drop baggage, and prepare the capabilities needed to run larger markets, key channels, and more complex operating systems
+- how companies stop using confidence performances to hide operating crisis, answer key problems, protect evidence-based criticism, and verify stability through real resource and rule changes

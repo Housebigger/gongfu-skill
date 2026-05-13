@@ -323,6 +323,17 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md`
 
+## Latest sequential closeout
+
+### 078《评蒋介石在双十节的演说》(1944-10-11)
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/078-dont-use-confidence-performances-to-hide-company-crisis-answer-key-problems-and-protect-criticism.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/078-dont-mistake-management-confidence-theater-for-thesis-repair-watch-answers-actions-and-risk.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/078-dont-sell-yourself-confidence-theater-answer-customer-cashflow-and-delivery-problems.md`
+- `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/078-dont-call-field-feedback-rumors-answer-real-engineering-risks-and-close-the-loop.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/078-dont-use-stability-talk-to-cover-school-problems-answer-real-classroom-risks-and-let-feedback-enter.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

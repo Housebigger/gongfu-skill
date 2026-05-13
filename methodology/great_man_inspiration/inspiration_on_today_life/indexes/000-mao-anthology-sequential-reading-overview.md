@@ -389,8 +389,14 @@
 
 
 - 078《评蒋介石在双十节的演说》
-  - `judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`
-  - 本轮已先完成 today_life 一个角度：该文首先落在普通人识局判断上，提醒人在关键问题被回避、风险被否认、批评被污名化、空话信心被反复表演时，不要把这种“稳定叙事”误认成局面真的稳了；其余主题待后续判断。
+  - `../judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/078-dont-use-confidence-performances-to-hide-company-crisis-answer-key-problems-and-protect-criticism.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/078-dont-mistake-management-confidence-theater-for-thesis-repair-watch-answers-actions-and-risk.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/078-dont-sell-yourself-confidence-theater-answer-customer-cashflow-and-delivery-problems.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/078-dont-call-field-feedback-rumors-answer-real-engineering-risks-and-close-the-loop.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/078-dont-use-stability-talk-to-cover-school-problems-answer-real-classroom-risks-and-let-feedback-enter.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文一方面落在普通人识局判断上，提醒人在关键问题被回避、风险被否认、批评被污名化、空话信心被反复表演时，不要把这种“稳定叙事”误认成局面真的稳了；另一方面也落在软件团队、公司经营、股票研究、副业经营、嵌入式工程和学校治理六个方向，统一强调不要把信心表演当成真实修复，而要看关键问题是否被回答、批评是否能进入机制、风险是否被承认并由真实动作闭环。
 
 - 075《组织起来》
   - `cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md`

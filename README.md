@@ -53,7 +53,7 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：464 篇
+- 当前已建立 `原文对应` 的主题转译文件：471 篇
 - 当前已建立原文关联的毛文标题数：78 篇
   - 顺序主线：001—078
   - 当前最新纳入：078《评蒋介石在双十节的演说》

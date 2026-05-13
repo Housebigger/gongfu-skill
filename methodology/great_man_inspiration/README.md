@@ -16,7 +16,7 @@
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
 | 当前已建立原文关联的毛文标题数 | 78 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 464 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 471 |
 | 顺序学习已连续覆盖范围 | 001—078 |
 | 顺序覆盖段标题核对结果 | 78/78 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
@@ -33,7 +33,7 @@
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `076《学习和时局》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `077《为人民服务》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `078《评蒋介石在双十节的演说》` 当前已先完成 `today_life` 一个角度；其余主题待判断。
+- `078《评蒋介石在双十节的演说》` 已补完 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
 - 当前下一篇尚未纳入顺序主线的是 `079《文化工作中的统一战线》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -119,7 +119,7 @@
 
 ```text
 001—078 顺序主线已建立关联          [##############################################################################]
-078 《评蒋介石在双十节的演说》 [IN PROGRESS: 1/7]
+078 《评蒋介石在双十节的演说》 [DONE: 7/7]
 079 《文化工作中的统一战线》 [NEXT]
 ```
 ## 3. 主题缩写图例
@@ -217,7 +217,7 @@
 | 075 | 《组织起来》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md) | [SD](./inspiration_on_software_development/team_process_and_quality/075-dont-fight-hard-software-times-with-scattered-heroics-organize-real-delivery-cooperation.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/075-dont-fight-hard-company-times-with-scattered-heroics-organize-real-operating-capacity.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/075-dont-fight-hard-investment-times-with-scattered-heroics-organize-real-thesis-main-force.md) | [MM](./inspiration_on_making_money/execution_and_delivery/075-dont-fight-hard-side-hustle-times-with-scattered-heroics-organize-real-earning-main-force.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/075-dont-fight-hard-embedded-times-with-scattered-heroics-organize-real-delivery-main-force.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md) | 7 |
 | 076 | 《学习和时局》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440412.htm) | [TL](./inspiration_on_today_life/long_term_growth/076-real-growth-needs-learning-the-situation-dropping-baggage-and-training-your-mind.md) | [SD](./inspiration_on_software_development/team_process_and_quality/076-real-software-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/076-real-company-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/076-real-thesis-upgrade-needs-studying-reality-history-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [MM](./inspiration_on_making_money/execution_and_delivery/076-real-side-hustle-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/076-real-teacher-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md) | 7 |
 | 077 | 《为人民服务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440908.htm) | [TL](./inspiration_on_today_life/long_term_growth/077-real-growth-means-building-a-life-not-ruled-by-self-interest-and-becoming-useful-to-others.md) | [SD](./inspiration_on_software_development/team_process_and_quality/077-dont-turn-software-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/077-dont-build-a-company-around-personal-calculation-honor-real-contributors-and-welcome-criticism.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/077-dont-build-investment-research-around-position-defense-put-thesis-truth-and-real-contributors-at-the-center.md) | [MM](./inspiration_on_making_money/execution_and_delivery/077-dont-build-a-side-hustle-around-self-display-put-paying-users-and-real-contributors-at-the-center.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md) | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/077-a-teacher-should-not-build-their-work-around-self-protection-but-around-being-useful-to-students-and-school.md) | 7 |
-| 078 | 《评蒋介石在双十节的演说》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md) | — | — | — | — | — | — | 1 |
+| 078 | 《评蒋介石在双十节的演说》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md) | [SD](./inspiration_on_software_development/team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/078-dont-use-confidence-performances-to-hide-company-crisis-answer-key-problems-and-protect-criticism.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/078-dont-mistake-management-confidence-theater-for-thesis-repair-watch-answers-actions-and-risk.md) | [MM](./inspiration_on_making_money/execution_and_delivery/078-dont-sell-yourself-confidence-theater-answer-customer-cashflow-and-delivery-problems.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/078-dont-call-field-feedback-rumors-answer-real-engineering-risks-and-close-the-loop.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/078-dont-use-stability-talk-to-cover-school-problems-answer-real-classroom-risks-and-let-feedback-enter.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1066,8 +1066,14 @@
 ### 078《评蒋介石在双十节的演说》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 20 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm
-- 已关联 inspiration 文件数：1
+- 已关联 inspiration 文件数：7
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/078-dont-use-confidence-performances-to-hide-company-crisis-answer-key-problems-and-protect-criticism.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/078-dont-mistake-management-confidence-theater-for-thesis-repair-watch-answers-actions-and-risk.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/078-dont-sell-yourself-confidence-theater-answer-customer-cashflow-and-delivery-problems.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/078-dont-call-field-feedback-rumors-answer-real-engineering-risks-and-close-the-loop.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/078-dont-use-stability-talk-to-cover-school-problems-answer-real-classroom-risks-and-let-feedback-enter.md`
 
 ## 6. 使用建议
 

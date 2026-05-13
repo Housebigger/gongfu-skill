@@ -127,6 +127,7 @@ Purpose:
 - `team_process_and_quality/075-dont-fight-hard-software-times-with-scattered-heroics-organize-real-delivery-cooperation.md`
 - `team_process_and_quality/076-real-software-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 - `team_process_and_quality/077-dont-turn-software-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
+- `team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -164,6 +165,10 @@ Purpose:
 - how software teams stop entering a bigger project stage with old-win baggage, and instead study the changing situation, train real analytical judgement, and prepare delivery, quality, and coordination systems for larger responsibility
 - how software teams stop becoming self-protection machines, put real builders and useful work at the center, welcome evidence-based criticism, and unite around user value, delivery health, and system truth
 
+- how software teams stop treating cross-functional support as a favor, spend most of their energy helping delivery roles rebuild real capacity, organize the real labor chain behind versions and incidents, and repair cooperation by starting with self-criticism
+
+- how software teams stop turning project crises into confidence meetings, answer real risks, let criticism enter the system, and verify stability through changed actions instead of morale theater
+
 ### indexes
 Reserved for future series indexes and overview notes.
 
@@ -175,4 +180,3 @@ Reserved for future series indexes and overview notes.
 ## Writing convention
 
 When a future note mainly serves app development, mini program development, or general product software methodology, place it here instead of under embedded coding.
-- how software teams stop treating cross-functional support as a favor, spend most of their energy helping delivery roles rebuild real capacity, organize the real labor chain behind versions and incidents, and repair cooperation by starting with self-criticism

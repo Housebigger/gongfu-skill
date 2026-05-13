@@ -70,6 +70,7 @@ Purpose:
 - `research_and_thesis/075-dont-fight-hard-investment-times-with-scattered-heroics-organize-real-thesis-main-force.md`
 - `research_and_thesis/076-real-thesis-upgrade-needs-studying-reality-history-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 - `research_and_thesis/077-dont-build-investment-research-around-position-defense-put-thesis-truth-and-real-contributors-at-the-center.md`
+- `research_and_thesis/078-dont-mistake-management-confidence-theater-for-thesis-repair-watch-answers-actions-and-risk.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -106,6 +107,8 @@ Purpose:
 - how investors stop building thesis for positions, peer applause, and research vanity, and instead learn the language of real demand, real industry friction, and real validation so judgement grows upward from actual ground truth
 - how investors stop carrying bigger thesis responsibility with old wins, old scars, and a few exhausted researchers, and instead study reality, study history, drop baggage, train the research machine, and prepare for more demanding public-market judgment
 - how investors stop turning research into a machine serving position defense, face, and small-circle identity, and instead put thesis truth, useful contributors, and evidence-based criticism at the center
+
+- how investors avoid mistaking management confidence theater for thesis repair by watching key answers, costly actions, and whether risks are actually reduced
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：14 篇
-- `team_process_and_quality/`：52 篇
+- `team_process_and_quality/`：53 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：81 篇 article-based 笔记，对应 80 篇毛文来源。
+当前合计：82 篇 article-based 笔记，对应 81 篇毛文来源。
 
 ## 推荐入口
 
@@ -84,3 +84,4 @@
 - `team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`
 - `iteration_and_delivery/084-move-product-mountains-by-persistent-delivery-and-broad-confidence.md`
 - `iteration_and_delivery/085-delivery-teams-need-self-supply-and-rectification-to-keep-fighting.md`
+- `team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md`

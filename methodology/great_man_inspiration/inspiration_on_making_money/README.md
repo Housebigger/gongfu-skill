@@ -17,9 +17,9 @@
 ## 当前实际结构
 
 - `monetization_models/`：2 篇
-- `execution_and_delivery/`：69 篇
+- `execution_and_delivery/`：70 篇
 
-当前合计：73 篇 article-based 笔记，对应 72 篇毛文来源。
+当前合计：74 篇 article-based 笔记，对应 73 篇毛文来源。
 
 说明：
 - 早期文档里曾把这里当作“reserved theme”描述，但当前仓库里它已经是一个内容相当完整的成熟主题，不再只是预留目录。
@@ -66,3 +66,4 @@
 - `execution_and_delivery/083-side-hustle-cooperation-needs-common-program-delivery-alliance-and-correction.md`
 - `execution_and_delivery/084-side-hustle-mountains-move-through-persistent-delivery-and-real-support.md`
 - `execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md`
+- `execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md`

@@ -62,8 +62,10 @@ Purpose:
 - `judgement_and_decision/074-dont-mistake-reform-talk-for-real-change-judge-the-direction-of-actions.md`
 - `judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
 - `judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`
+- `judgement_and_decision/086-dont-be-fooled-by-fake-consultation-and-procedure-theater.md`
 
 Purpose:
+- how ordinary people distinguish real reform from fake consultation, procedure theater, and coordinated double acts
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
 - how to distinguish tools from goals

@@ -130,3 +130,4 @@ Additional focus:
 - how side-hustle builders stop re-spreading traffic, time, delivery energy, and collaboration once side-hustle dawn is visible, and instead keep effort concentrated on the main earning battle until income is truly stabilized
 - how side-hustle builders stop packaging project crisis as confidence theater, and instead answer customer, cashflow, and delivery problems with observable actions
 - `execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md`
+- `execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md`

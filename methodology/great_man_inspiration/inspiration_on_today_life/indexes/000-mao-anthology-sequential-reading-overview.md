@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`085《论军队生产自给，兼论整风和生产两大运动的重要性》`
-- 如果继续顺序推进，下一篇应是：`086《赫尔利和蒋介石的双簧已经破产》`
+- 当前顺序覆盖已推进到：`086《赫尔利和蒋介石的双簧已经破产》`
+- 如果继续顺序推进，下一篇应是：`087《评赫尔利政策的危险》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -426,6 +426,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/085-embedded-teams-need-distributed-self-supply-and-engineering-rectification.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/085-schools-in-hard-times-need-resource-self-supply-and-teaching-rectification.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“统一领导、分散经营、生产自给、整风与生产两个环子”转译为现代长期战斗方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，在资源紧张和长期承压时不能只等外部供给或上层兜底，而要建设自我供给线，同时用整风式复盘纠正思想、流程和组织习气。
+
+- 086《赫尔利和蒋介石的双簧已经破产》
+  - `../judgement_and_decision/086-dont-be-fooled-by-fake-consultation-and-procedure-theater.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/086-company-reform-theater-collapses-when-it-refuses-real-power-and-accountability.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/086-dont-buy-governance-theater-check-real-reform-and-stakeholder-power.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/086-dont-let-review-theater-replace-real-engineering-feedback-and-accountability.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/086-dont-let-school-consultation-theater-replace-real-classroom-reform.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“赫尔利—蒋介石双簧、程序表演、假咨询、起码民主改革”转译为现代判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要被外部背书、会议热闹和征求意见的话术骗住，而要看真实权力、真实反馈、真实责任和起码改革有没有落地。
 
 - 081《游击区也能够进行生产》
   - `../survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`

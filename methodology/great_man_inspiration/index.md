@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 085《论军队生产自给，兼论整风和生产两大运动的重要性》(1945-04-27)
-- `inspiration_on_today_life/survival_strategy/085-build-self-supply-and-self-correction-before-the-big-battle.md`
-- `inspiration_on_software_development/iteration_and_delivery/085-delivery-teams-need-self-supply-and-rectification-to-keep-fighting.md`
-- `inspiration_on_running_a_company/strategy_and_execution/085-companies-under-pressure-need-distributed-self-supply-and-cultural-rectification.md`
-- `inspiration_on_stock_investing/research_and_thesis/085-hard-times-companies-must-prove-self-supply-and-organizational-rectification.md`
-- `inspiration_on_making_money/execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md`
-- `inspiration_on_embedded_coding/engineering_strategy/085-embedded-teams-need-distributed-self-supply-and-engineering-rectification.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/085-schools-in-hard-times-need-resource-self-supply-and-teaching-rectification.md`
+### 086《赫尔利和蒋介石的双簧已经破产》(1945-07-10)
+- `inspiration_on_today_life/judgement_and_decision/086-dont-be-fooled-by-fake-consultation-and-procedure-theater.md`
+- `inspiration_on_software_development/team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md`
+- `inspiration_on_running_a_company/strategy_and_execution/086-company-reform-theater-collapses-when-it-refuses-real-power-and-accountability.md`
+- `inspiration_on_stock_investing/research_and_thesis/086-dont-buy-governance-theater-check-real-reform-and-stakeholder-power.md`
+- `inspiration_on_making_money/execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/086-dont-let-review-theater-replace-real-engineering-feedback-and-accountability.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/086-dont-let-school-consultation-theater-replace-real-classroom-reform.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

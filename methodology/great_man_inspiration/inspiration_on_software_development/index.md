@@ -142,8 +142,10 @@ Purpose:
 - `team_process_and_quality/077-dont-turn-software-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
 - `team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md`
 - `team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`
+- `team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md`
 
 Purpose:
+- how software teams prevent governance theater from replacing real team power, feedback rights, and quality accountability
 - how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
 - how software teams keep goals, discussion, and execution aligned

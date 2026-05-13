@@ -14,8 +14,10 @@ This folder is for software product development beyond embedded coding, especial
 - `product_strategy/006-small-spark-product-wedge-and-wave-expansion.md`
 - `product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
 - `product_strategy/018-find-the-main-product-contradiction-before-escalating-everything.md`
+- `product_strategy/082-at-product-turning-points-choose-the-bright-road-and-build-the-delivery-conditions.md`
 
 Purpose:
+- how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how to identify a real product wedge before large-scale expansion
 - how to protect small but high-potential demand signals from premature abandonment
 - how to expand by waves instead of spreading thin across too many fronts
@@ -32,6 +34,7 @@ Purpose:
 - `user_research_and_requirements/079-dont-force-users-into-advanced-solutions-build-from-real-needs-and-voluntary-adoption.md`
 
 Purpose:
+- how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how product teams segment users, buyers, blockers, and internal roles by real incentive, power, and workflow position instead of surface title
 - how product teams investigate before asserting what users need
 - how product teams build adoption from real needs, old workflows, and voluntary migration instead of forcing users into advanced solutions
@@ -47,6 +50,7 @@ Purpose:
 - `architecture_and_engineering/041-系统分析框架从现状到路线图.md`
 
 Purpose:
+- how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how teams identify and protect first-priority core capacity in system building
 - how to balance self-built capabilities, external integrations, and ecosystem cooperation
 - how to keep complexity expansion tied to real delivery and maintenance capacity
@@ -67,6 +71,7 @@ Purpose:
 - `iteration_and_delivery/081-even-in-chaotic-project-zones-build-delivery-from-fragments-and-protected-windows.md`
 
 Purpose:
+- how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how teams build resource flow and supply lines for sustained delivery
 - how to reduce hidden organizational drain during high-pressure execution
 - how to balance current delivery with the systems that keep delivery possible
@@ -134,6 +139,7 @@ Purpose:
 - `team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md`
 
 Purpose:
+- how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
 - how software teams keep goals, discussion, and execution aligned
 - how to turn criticism into structured feedback instead of private resentment

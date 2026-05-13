@@ -22,8 +22,10 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md`
 - `engineering_strategy/080-embedded-teams-must-learn-economic-work-build-supply-chain-test-and-field-self-reliance.md`
 - `engineering_strategy/081-embedded-teams-can-deliver-in-field-guerrilla-zones-by-using-fragments-protection-and-local-tools.md`
+- `engineering_strategy/082-at-engineering-turning-points-choose-the-bright-road-and-build-delivery-conditions.md`
 
 Focus:
+- choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - long-cycle projects
 - phased progress
 - endurance versus panic and rashness
@@ -42,6 +44,7 @@ Focus:
 - `debugging_and_fieldwork/059-no-frontline-investigation-no-right-to-conclude-on-embedded-problems.md`
 
 Focus:
+- choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - debugging loops
 - field investigation
 - resisting documentation-only thinking
@@ -51,6 +54,7 @@ Focus:
 - `system_analysis_and_architecture/003-on-contradiction-firmware-fault-ordering.md`
 
 Focus:
+- choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - main versus secondary contradictions
 - fault prioritization
 - architecture-aware diagnosis
@@ -92,6 +96,7 @@ Focus:
 - `team_process_and_knowledge/078-dont-call-field-feedback-rumors-answer-real-engineering-risks-and-close-the-loop.md`
 - `team_process_and_knowledge/079-dont-replace-field-legacy-all-at-once-reform-old-tools-and-people-into-delivery-capacity.md`
 Focus:
+- choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - knowledge sedimentation
 - retrospective quality
 - turning incidents into reusable team assets

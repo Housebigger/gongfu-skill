@@ -384,8 +384,18 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`081《游击区也能够进行生产》`
-- 如果继续顺序推进，下一篇应是：`082《两个中国之命运》`
+- 当前顺序覆盖已推进到：`082《两个中国之命运》`
+- 如果继续顺序推进，下一篇应是：`083《论联合政府》`
+
+- 082《两个中国之命运》
+  - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
+  - `../../inspiration_on_software_development/product_strategy/082-at-product-turning-points-choose-the-bright-road-and-build-the-delivery-conditions.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/082-at-company-turning-points-choose-the-bright-road-and-build-the-conditions-for-new-destiny.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/082-at-cycle-turning-points-dont-buy-destiny-stories-check-the-bright-road-conditions.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/082-side-hustle-turning-points-choose-the-bright-road-and-build-real-income-conditions.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/082-at-engineering-turning-points-choose-the-bright-road-and-build-delivery-conditions.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/082-at-school-turning-points-choose-the-bright-road-and-build-education-conditions.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“胜利前夜仍有两个前途”转译为现代关键转折判断，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者不要把外部机会误认为内部胜利，而要主动选择光明路线、发动真实力量、建设实现新命运的条件，并在曙光出现时保持谦虚谨慎。
 
 - 081《游击区也能够进行生产》
   - `../survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`

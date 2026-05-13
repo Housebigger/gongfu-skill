@@ -50,6 +50,7 @@
 - [078 别用稳定话术遮住真实校情班情，要回答课堂风险、家校风险和一线反馈](school_governance_and_crisis_response/078-dont-use-stability-talk-to-cover-school-problems-answer-real-classroom-risks-and-let-feedback-enter.md)
 - [080 学校要办好教育，不能只会喊目标，必须学会建设资源供给、教师骨干和长期教育家底](school_governance_and_crisis_response/080-schools-must-learn-economic-work-build-resource-supply-backbones-and-long-term-education-basis.md)
 - [081 条件差的班级和学校也能改进，关键是用碎片资源、保护窗口和本土办法做出教育供给](school_governance_and_crisis_response/081-schools-can-improve-under-hard-conditions-use-fragments-protection-and-local-invention.md)
+- [082 教育转折前，不能只等形势变好，要选择光明路线并建设育人条件](school_governance_and_crisis_response/082-at-school-turning-points-choose-the-bright-road-and-build-education-conditions.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)

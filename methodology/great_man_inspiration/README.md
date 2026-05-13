@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 81 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 491 |
-| 顺序学习已连续覆盖范围 | 001—081 |
-| 顺序覆盖段标题核对结果 | 81/81 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 82 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 498 |
+| 顺序学习已连续覆盖范围 | 001—082 |
+| 顺序覆盖段标题核对结果 | 82/82 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 082《两个中国之命运》 |
+| 顺序主线的下一篇 | 083《论联合政府》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `081《游击区也能够进行生产》`。
-- 在 `001—081` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `082《两个中国之命运》`。
+- 在 `001—082` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
@@ -37,7 +37,8 @@
 - `079《文化工作中的统一战线》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `080《必须学会做经济工作》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `081《游击区也能够进行生产》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `082《两个中国之命运》`
+- `082《两个中国之命运》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `083《论联合政府》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -124,13 +125,14 @@
 | 079 | 《文化工作中的统一战线》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 080 | 《必须学会做经济工作》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450110.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 081 | 《游击区也能够进行生产》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450131.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 082 | 《两个中国之命运》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—081 顺序主线已建立关联          [#################################################################################]
-081 《游击区也能够进行生产》 [DONE: 7/7]
-082 《两个中国之命运》 [NEXT]
+001—082 顺序主线已建立关联          [##################################################################################]
+082 《两个中国之命运》 [DONE: 7/7]
+083 《论联合政府》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -231,6 +233,7 @@
 | 079 | 《文化工作中的统一战线》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md) | [SD](./inspiration_on_software_development/user_research_and_requirements/079-dont-force-users-into-advanced-solutions-build-from-real-needs-and-voluntary-adoption.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/079-build-a-company-united-front-from-real-needs-legacy-capacity-and-voluntary-change.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/079-dont-dismiss-legacy-business-assets-study-whether-they-can-be-reformed-into-new-thesis-power.md) | [MM](./inspiration_on_making_money/execution_and_delivery/079-dont-sell-advanced-solutions-before-customers-feel-the-need-build-from-voluntary-adoption.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/079-dont-replace-field-legacy-all-at-once-reform-old-tools-and-people-into-delivery-capacity.md) | [ED](./inspiration_on_educational_undertakings/classroom_and_teaching_design/079-dont-force-advanced-teaching-before-students-are-ready-build-from-real-needs-and-voluntary-learning.md) | 7 |
 | 080 | 《必须学会做经济工作》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450110.htm) | [TL](./inspiration_on_today_life/survival_strategy/080-learn-economic-work-build-your-own-supply-lines-before-big-turning-points.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/080-software-teams-must-learn-economic-work-build-delivery-supply-and-feedback-lines.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/080-companies-must-learn-economic-work-build-supply-profit-and-long-term-operating-basis.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/080-dont-buy-strategic-stories-without-economic-work-supply-profit-and-self-reliance.md) | [MM](./inspiration_on_making_money/execution_and_delivery/080-side-hustles-must-learn-economic-work-build-supply-cashflow-and-repeatable-delivery.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/080-embedded-teams-must-learn-economic-work-build-supply-chain-test-and-field-self-reliance.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/080-schools-must-learn-economic-work-build-resource-supply-backbones-and-long-term-education-basis.md) | 7 |
 | 081 | 《游击区也能够进行生产》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450131.htm) | [TL](./inspiration_on_today_life/survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/081-even-in-chaotic-project-zones-build-delivery-from-fragments-and-protected-windows.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/081-even-in-contested-markets-build-production-from-fragments-protection-and-local-invention.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/081-dont-dismiss-hard-zone-companies-watch-whether-they-produce-under-constraints.md) | [MM](./inspiration_on_making_money/execution_and_delivery/081-side-hustles-can-produce-in-bad-conditions-use-fragments-protected-windows-and-cooperation.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/081-embedded-teams-can-deliver-in-field-guerrilla-zones-by-using-fragments-protection-and-local-tools.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/081-schools-can-improve-under-hard-conditions-use-fragments-protection-and-local-invention.md) | 7 |
+| 082 | 《两个中国之命运》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md) | [SD](./inspiration_on_software_development/product_strategy/082-at-product-turning-points-choose-the-bright-road-and-build-the-delivery-conditions.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/082-at-company-turning-points-choose-the-bright-road-and-build-the-conditions-for-new-destiny.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/082-at-cycle-turning-points-dont-buy-destiny-stories-check-the-bright-road-conditions.md) | [MM](./inspiration_on_making_money/execution_and_delivery/082-side-hustle-turning-points-choose-the-bright-road-and-build-real-income-conditions.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/082-at-engineering-turning-points-choose-the-bright-road-and-build-delivery-conditions.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/082-at-school-turning-points-choose-the-bright-road-and-build-education-conditions.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1124,9 +1127,21 @@
   - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/081-embedded-teams-can-deliver-in-field-guerrilla-zones-by-using-fragments-protection-and-local-tools.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/081-schools-can-improve-under-hard-conditions-use-fragments-protection-and-local-invention.md`
 
+### 082《两个中国之命运》
+- 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 24 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm
+- 已关联 inspiration 文件数：7
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/082-at-product-turning-points-choose-the-bright-road-and-build-the-delivery-conditions.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/082-at-company-turning-points-choose-the-bright-road-and-build-the-conditions-for-new-destiny.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/082-at-cycle-turning-points-dont-buy-destiny-stories-check-the-bright-road-conditions.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/082-side-hustle-turning-points-choose-the-bright-road-and-build-real-income-conditions.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/082-at-engineering-turning-points-choose-the-bright-road-and-build-delivery-conditions.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/082-at-school-turning-points-choose-the-bright-road-and-build-education-conditions.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`082《两个中国之命运》`
+- 如果要从当前边界继续向下推进，下一篇应是：`083《论联合政府》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

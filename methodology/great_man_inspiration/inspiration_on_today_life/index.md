@@ -8,6 +8,7 @@ Theme: extract practical lessons for ordinary people living in an era of major c
 - `indexes/000-mao-anthology-sequential-reading-overview.md`
 
 Purpose:
+- how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - corpus-level overview
 - evolution line across many texts
 - synthesis of major recurring lessons
@@ -25,6 +26,7 @@ Purpose:
 - `survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`
 
 Purpose:
+- how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - how ordinary people build footholds
 - how to preserve a base under pressure
 - how to avoid overextension
@@ -56,9 +58,11 @@ Purpose:
 - `judgement_and_decision/068-dont-mistake-the-enemys-last-fierce-push-for-long-term-advantage.md`
 - `judgement_and_decision/072-when-fire-turns-inward-ask-who-benefits.md`
 - `judgement_and_decision/074-dont-mistake-reform-talk-for-real-change-judge-the-direction-of-actions.md`
+- `judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
 - `judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`
 
 Purpose:
+- how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
 - how to distinguish tools from goals
 - how to reduce internal cognitive noise before major decisions
@@ -88,6 +92,7 @@ Purpose:
 - `long_term_growth/077-real-growth-means-building-a-life-not-ruled-by-self-interest-and-becoming-useful-to-others.md`
 
 Purpose:
+- how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - how small but real progress compounds under the right conditions
 - how to resist premature despair during low-visibility growth phases
 - how to understand long-term growth as wave-like expansion rather than straight-line acceleration
@@ -143,6 +148,7 @@ Purpose:
 - `cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
 
 Purpose:
+- how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
 - how to build a core zone under pressure
 - how to reduce internal fragmentation and overextension

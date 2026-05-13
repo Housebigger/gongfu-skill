@@ -11,6 +11,7 @@ Reserved for future series indexes and overview notes.
 - `market_structure_and_cycles/010-real-production-before-policy-premium.md`
 
 Purpose:
+- how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road
 - how investors judge policy themes by real production recovery, circulation repair, and economic carrying capacity
 - how investors judge whether legacy business assets can be reformed into real thesis support instead of treating old assets as either automatic moats or pure burdens
 - how to separate durable policy benefit from liquidity-only excitement
@@ -75,8 +76,10 @@ Purpose:
 - `research_and_thesis/079-dont-dismiss-legacy-business-assets-study-whether-they-can-be-reformed-into-new-thesis-power.md`
 - `research_and_thesis/080-dont-buy-strategic-stories-without-economic-work-supply-profit-and-self-reliance.md`
 - `research_and_thesis/081-dont-dismiss-hard-zone-companies-watch-whether-they-produce-under-constraints.md`
+- `research_and_thesis/082-at-cycle-turning-points-dont-buy-destiny-stories-check-the-bright-road-conditions.md`
 
 Purpose:
+- how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
 - how investors judge companies by real cashflow dependence, support structure, and who bears risk instead of sector labels and management talk
 - how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
@@ -125,6 +128,7 @@ Purpose:
 - `risk_and_position_management/070-when-positions-hurt-stop-staring-at-drawdown-rebuild-supply-lines.md`
 
 Purpose:
+- how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road
 - how investors keep cash, resilience, and optionality before making large bets
 - how to avoid being forced out by broken supply lines, leverage, or emotional overextension
 - how to treat position management as survival first, return second
@@ -140,6 +144,7 @@ Purpose:
 - `trading_and_execution/069-when-thesis-dawn-is-visible-concentrate-capital-on-the-main-battle.md`
 
 Purpose:
+- how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road
 - how investors avoid mistaking small early participation and warming signals for broad-based opportunity confirmation
 - how to shift from passive defensive holding into active concentration on the highest-odds attack points when conditions turn favorable
 - how to preserve execution flexibility instead of turning every position into a rigid defensive line

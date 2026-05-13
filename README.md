@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：491 篇
-- 当前已建立原文关联的毛文标题数：81 篇
-  - 顺序主线：001—081
-  - 当前最新纳入：081《游击区也能够进行生产》
-- 顺序主线的下一篇：082《两个中国之命运》
+- 当前已建立 `原文对应` 的主题转译文件：498 篇
+- 当前已建立原文关联的毛文标题数：82 篇
+  - 顺序主线：001—082
+  - 当前最新纳入：082《两个中国之命运》
+- 顺序主线的下一篇：083《论联合政府》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

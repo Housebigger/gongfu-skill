@@ -138,6 +138,7 @@ Purpose:
 - `cooperation_and_organization/071-dont-run-shared-affairs-by-big-principles-alone-start-from-small-breakthroughs-and-real-feedback.md`
 - `cooperation_and_organization/073-dont-ask-for-more-before-helping-others-rebuild-real-capacity.md`
 - `cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md`
+- `cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -171,6 +172,7 @@ Purpose:
 - how ordinary people stop scattering energy once life-turnaround dawn is visible, and instead keep sleep, cash, attention, and cooperation concentrated on the final main battle until victory is truly secured
 - how ordinary people stop running strained cooperation as one-sided extraction, and instead help others rebuild real capacity, organize scattered labor and support, and repair relationships by starting with self-criticism rather than attacking the other side
 - how ordinary people stop leaving hardship as scattered household-by-household struggle, and instead organize labor, time, skills, and mutual aid into a voluntary structure that can keep producing, self-supporting, and improving
+- how ordinary people build broad cooperation by starting from real needs, voluntary change, and reformable old forces instead of replacing real people with good intentions
 
 ## Writing convention
 

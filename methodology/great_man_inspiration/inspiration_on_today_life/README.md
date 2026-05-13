@@ -11,11 +11,11 @@
 - `survival_strategy/`：8 篇
 - `judgement_and_decision/`：20 篇
 - `long_term_growth/`：9 篇
-- `cooperation_and_organization/`：41 篇
+- `cooperation_and_organization/`：42 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：78 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—078，顺序总览窗口也推进到 078。
+当前合计：79 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—079，顺序总览窗口也推进到 079。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`078《评蒋介石在双十节的演说》`
-- 顺序总览窗口当前也推进到：`078《评蒋介石在双十节的演说》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`079《文化工作中的统一战线》`
+- today_life 主题当前实写覆盖到：`079《文化工作中的统一战线》`
+- 顺序总览窗口当前也推进到：`079《文化工作中的统一战线》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`080《必须学会做经济工作》`
 
 ## 使用提醒
 

@@ -83,6 +83,7 @@ This folder focuses on:
 - `strategy_and_execution/075-dont-fight-hard-company-times-with-scattered-heroics-organize-real-operating-capacity.md`
 - `strategy_and_execution/076-real-company-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 - `strategy_and_execution/078-dont-use-confidence-performances-to-hide-company-crisis-answer-key-problems-and-protect-criticism.md`
+- `strategy_and_execution/079-build-a-company-united-front-from-real-needs-legacy-capacity-and-voluntary-change.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 - `leadership_and_talent/071-dont-just-issue-company-strategy-slogans-build-pilot-breakthroughs-backbone-and-frontline-feedback.md`
 - `leadership_and_talent/073-dont-treat-company-support-as-a-favor-help-business-teams-rebuild-real-capacity-before-asking-for-more.md`

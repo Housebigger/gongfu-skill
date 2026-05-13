@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-078篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-079篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -19,6 +19,7 @@
 - [044 教学内容可以先进，但课堂呈现必须本土化](classroom_and_teaching_design/mao-044-localize-teaching-design.md)
 - [048 很多老师不是没有教学目标，而是一直没把真正承重的学生主力、会带动同伴的骨干、外部教育帮助和反馈循环组织起来](classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md)
 - [066 别只按老师自我表达和少数尖子生的理解来上课，要进入真实学生、学习学生语言，并从他们的真实基础往上教](classroom_and_teaching_design/066-serve-real-students-learn-their-language-and-build-teaching-from-their-basis.md)
+- [079 别在学生还没自愿前强推高级教学，要从真实需要、旧基础和可接受入口里建立教育统一战线](classroom_and_teaching_design/079-dont-force-advanced-teaching-before-students-are-ready-build-from-real-needs-and-voluntary-learning.md)
 
 ### teacher_growth_and_backbone（教师成长与骨干精神）
 - [015 争取广泛支持但不丢失教学主线](teacher_growth_and_backbone/015-seek-broad-support-without-losing-teaching-mainline.md)
@@ -76,4 +77,4 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：60篇笔记 / 5个子主题 / 覆盖001-078中59篇原文
+统计：61篇笔记 / 5个子主题 / 覆盖001-079中60篇原文

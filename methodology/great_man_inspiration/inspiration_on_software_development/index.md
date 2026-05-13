@@ -29,10 +29,12 @@ Purpose:
 - `user_research_and_requirements/017-product-understanding-grows-from-research-build-verify-repeat.md`
 - `user_research_and_requirements/059-dont-conclude-on-product-problems-without-frontline-investigation.md`
 - `user_research_and_requirements/066-serve-real-users-learn-their-language-and-build-from-real-workflows.md`
+- `user_research_and_requirements/079-dont-force-users-into-advanced-solutions-build-from-real-needs-and-voluntary-adoption.md`
 
 Purpose:
 - how product teams segment users, buyers, blockers, and internal roles by real incentive, power, and workflow position instead of surface title
 - how product teams investigate before asserting what users need
+- how product teams build adoption from real needs, old workflows, and voluntary migration instead of forcing users into advanced solutions
 - how to treat discovery as problem-definition work rather than ceremony
 - how to avoid replacing field evidence with templates, opinions, or meeting energy
 - how to segment users by real behavior, incentives, and workflow position instead of surface identity

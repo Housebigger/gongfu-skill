@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 078《评蒋介石在双十节的演说》(1944-10-11)
-- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`
-- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/078-dont-treat-project-crisis-as-a-confidence-meeting-answer-real-problems-and-let-criticism-enter.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/078-dont-use-confidence-performances-to-hide-company-crisis-answer-key-problems-and-protect-criticism.md`
-- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/078-dont-mistake-management-confidence-theater-for-thesis-repair-watch-answers-actions-and-risk.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/078-dont-sell-yourself-confidence-theater-answer-customer-cashflow-and-delivery-problems.md`
-- `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/078-dont-call-field-feedback-rumors-answer-real-engineering-risks-and-close-the-loop.md`
-- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/078-dont-use-stability-talk-to-cover-school-problems-answer-real-classroom-risks-and-let-feedback-enter.md`
+### 079《文化工作中的统一战线》(1944-10-30)
+- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/079-dont-force-users-into-advanced-solutions-build-from-real-needs-and-voluntary-adoption.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/079-build-a-company-united-front-from-real-needs-legacy-capacity-and-voluntary-change.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/079-dont-dismiss-legacy-business-assets-study-whether-they-can-be-reformed-into-new-thesis-power.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/079-dont-sell-advanced-solutions-before-customers-feel-the-need-build-from-voluntary-adoption.md`
+- `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/079-dont-replace-field-legacy-all-at-once-reform-old-tools-and-people-into-delivery-capacity.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/079-dont-force-advanced-teaching-before-students-are-ready-build-from-real-needs-and-voluntary-learning.md`
 
 ## Naming convention
 

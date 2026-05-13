@@ -384,9 +384,18 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`078《评蒋介石在双十节的演说》`
-- 如果继续顺序推进，下一篇应是：`079《文化工作中的统一战线》`
+- 当前顺序覆盖已推进到：`079《文化工作中的统一战线》`
+- 如果继续顺序推进，下一篇应是：`080《必须学会做经济工作》`
 
+- 079《文化工作中的统一战线》
+  - `../cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
+  - `../../inspiration_on_software_development/user_research_and_requirements/079-dont-force-users-into-advanced-solutions-build-from-real-needs-and-voluntary-adoption.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/079-build-a-company-united-front-from-real-needs-legacy-capacity-and-voluntary-change.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/079-dont-dismiss-legacy-business-assets-study-whether-they-can-be-reformed-into-new-thesis-power.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/079-dont-sell-advanced-solutions-before-customers-feel-the-need-build-from-voluntary-adoption.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/079-dont-replace-field-legacy-all-at-once-reform-old-tools-and-people-into-delivery-capacity.md`
+  - `../../inspiration_on_educational_undertakings/classroom_and_teaching_design/079-dont-force-advanced-teaching-before-students-are-ready-build-from-real-needs-and-voluntary-learning.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文一方面落在普通人如何从真实需要、自觉自愿和可改造旧力量出发建立广泛合作，避免用少数先进者的良好愿望替别人决定；另一方面也落在软件产品、公司经营、股票研究、副业经营、嵌入式工程和教育工作六个方向，统一强调新方法、新系统和新目标不能靠简单替换旧基础落地，而要团结可用旧力量，在批评、教育、训练和改造中，让真实用户、真实客户、真实团队、真实学生和真实现场自愿进入新结构。
 
 - 078《评蒋介石在双十节的演说》
   - `../judgement_and_decision/078-dont-mistake-empty-confidence-performances-and-attacks-on-critics-for-real-stability.md`

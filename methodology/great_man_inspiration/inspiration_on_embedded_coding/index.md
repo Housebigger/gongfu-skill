@@ -129,3 +129,4 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/083-embedded-cross-functional-work-needs-common-program-field-base-and-self-correction.md`
 - `team_process_and_knowledge/086-dont-let-review-theater-replace-real-engineering-feedback-and-accountability.md`
 - `team_process_and_knowledge/087-external-pressure-that-backs-bad-engineering-decisions-creates-field-crisis.md`
+- `team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md`

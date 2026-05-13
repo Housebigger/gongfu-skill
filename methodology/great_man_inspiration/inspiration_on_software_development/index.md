@@ -144,8 +144,10 @@ Purpose:
 - `team_process_and_quality/083-product-turnarounds-need-a-common-program-broad-participation-and-correction-mechanisms.md`
 - `team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md`
 - `team_process_and_quality/087-external-support-that-strengthens-bad-processes-will-create-project-crisis.md`
+- `team_process_and_quality/088-teams-must-reject-surrender-thinking-that-dissolves-quality-and-technical-leadership.md`
 
 Purpose:
+- how software teams reject surrender thinking that dissolves quality, technical judgment, and engineering leadership under external pressure
 - how software teams keep external support from strengthening bad processes and creating project crisis
 - how software teams prevent governance theater from replacing real team power, feedback rights, and quality accountability
 - how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia

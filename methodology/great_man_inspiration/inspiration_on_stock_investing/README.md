@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：63 篇
+- `research_and_thesis/`：64 篇
 - `risk_and_position_management/`：8 篇
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：76 篇 article-based 笔记，对应 75 篇毛文来源。
+当前合计：77 篇 article-based 笔记，对应 76 篇毛文来源。
 
 ## 子目录速览
 
@@ -75,3 +75,4 @@
 - `research_and_thesis/085-hard-times-companies-must-prove-self-supply-and-organizational-rectification.md`
 - `research_and_thesis/086-dont-buy-governance-theater-check-real-reform-and-stakeholder-power.md`
 - `research_and_thesis/087-avoid-companies-where-capital-backs-bad-governance-against-real-stakeholders.md`
+- `research_and_thesis/088-investors-should-detect-companies-that-surrender-their-thesis-to-capital-and-policy-narratives.md`

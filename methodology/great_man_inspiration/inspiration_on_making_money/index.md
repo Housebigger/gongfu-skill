@@ -128,7 +128,9 @@ Additional focus:
 - how side-hustle builders stop creating for self-image, peer applause, and platform vanity, and instead learn the language of real paying users so products and offers grow upward from actual demand
 - how side-hustle builders actively shrink an overgrown side-hustle machine in hard times, narrow lines and commitments, and keep the core cashflow force hard enough to survive the darkest stretch
 - how side-hustle builders stop re-spreading traffic, time, delivery energy, and collaboration once side-hustle dawn is visible, and instead keep effort concentrated on the main earning battle until income is truly stabilized
+- how side-hustle builders refuse to surrender delivery judgment to platform, capital, traffic, and course-selling narratives
 - how side-hustle builders stop packaging project crisis as confidence theater, and instead answer customer, cashflow, and delivery problems with observable actions
 - `execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md`
 - `execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md`
 - `execution_and_delivery/087-side-hustles-must-avoid-platform-policies-that-back-bad-operators.md`
+- `execution_and_delivery/088-side-hustles-must-not-surrender-delivery-judgement-to-platform-and-capital-narratives.md`

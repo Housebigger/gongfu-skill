@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：533 篇
-- 当前已建立原文关联的毛文标题数：87 篇
-  - 顺序主线：001—087
-  - 当前最新纳入：087《评赫尔利政策的危险》
-- 顺序主线的下一篇：088《给福斯特同志的电报》
+- 当前已建立 `原文对应` 的主题转译文件：540 篇
+- 当前已建立原文关联的毛文标题数：88 篇
+  - 顺序主线：001—088
+  - 当前最新纳入：088《给福斯特同志的电报》
+- 顺序主线的下一篇：089《对日寇的最后一战》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -84,7 +84,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 087，下一篇是 088
+2. 当前边界是 088，下一篇是 089
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

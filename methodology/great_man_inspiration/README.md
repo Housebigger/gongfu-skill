@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 87 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 533 |
-| 顺序学习已连续覆盖范围 | 001—087 |
-| 顺序覆盖段标题核对结果 | 87/87 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 88 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 540 |
+| 顺序学习已连续覆盖范围 | 001—088 |
+| 顺序覆盖段标题核对结果 | 88/88 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 088《给福斯特同志的电报》 |
+| 顺序主线的下一篇 | 089《对日寇的最后一战》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `087《评赫尔利政策的危险》`。
-- 在 `001—087` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `088《给福斯特同志的电报》`。
+- 在 `001—088` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
@@ -43,7 +43,8 @@
 - `085《论军队生产自给，兼论整风和生产两大运动的重要性》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `086《赫尔利和蒋介石的双簧已经破产》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `087《评赫尔利政策的危险》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `088《给福斯特同志的电报》`
+- `088《给福斯特同志的电报》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `089《对日寇的最后一战》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -136,13 +137,14 @@
 | 085 | 《论军队生产自给，兼论整风和生产两大运动的重要性》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450427.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 086 | 《赫尔利和蒋介石的双簧已经破产》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 087 | 《评赫尔利政策的危险》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450712.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 088 | 《给福斯特同志的电报》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450729.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—087 顺序主线已建立关联          [###################################################################################]
-087 《评赫尔利政策的危险》 [DONE: 7/7]
-088 《给福斯特同志的电报》 [NEXT]
+001—088 顺序主线已建立关联          [####################################################################################]
+088 《给福斯特同志的电报》 [DONE: 7/7]
+089 《对日寇的最后一战》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -249,6 +251,7 @@
 | 085 | 《论军队生产自给，兼论整风和生产两大运动的重要性》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450427.htm) | [TL](./inspiration_on_today_life/survival_strategy/085-build-self-supply-and-self-correction-before-the-big-battle.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/085-delivery-teams-need-self-supply-and-rectification-to-keep-fighting.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/085-companies-under-pressure-need-distributed-self-supply-and-cultural-rectification.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/085-hard-times-companies-must-prove-self-supply-and-organizational-rectification.md) | [MM](./inspiration_on_making_money/execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/085-embedded-teams-need-distributed-self-supply-and-engineering-rectification.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/085-schools-in-hard-times-need-resource-self-supply-and-teaching-rectification.md) | 7 |
 | 086 | 《赫尔利和蒋介石的双簧已经破产》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/086-dont-be-fooled-by-fake-consultation-and-procedure-theater.md) | [SD](./inspiration_on_software_development/team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/086-company-reform-theater-collapses-when-it-refuses-real-power-and-accountability.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/086-dont-buy-governance-theater-check-real-reform-and-stakeholder-power.md) | [MM](./inspiration_on_making_money/execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/086-dont-let-review-theater-replace-real-engineering-feedback-and-accountability.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/086-dont-let-school-consultation-theater-replace-real-classroom-reform.md) | 7 |
 | 087 | 《评赫尔利政策的危险》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450712.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/087-see-the-danger-when-external-backing-strengthens-bad-forces.md) | [SD](./inspiration_on_software_development/team_process_and_quality/087-external-support-that-strengthens-bad-processes-will-create-project-crisis.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/087-dangerous-strategy-is-supporting-backward-forces-against-real-builders.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/087-avoid-companies-where-capital-backs-bad-governance-against-real-stakeholders.md) | [MM](./inspiration_on_making_money/execution_and_delivery/087-side-hustles-must-avoid-platform-policies-that-back-bad-operators.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/087-external-pressure-that-backs-bad-engineering-decisions-creates-field-crisis.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/087-schools-must-not-let-external-backing-strengthen-harmful-governance.md) | 7 |
+| 088 | 《给福斯特同志的电报》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450729.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md) | [SD](./inspiration_on_software_development/team_process_and_quality/088-teams-must-reject-surrender-thinking-that-dissolves-quality-and-technical-leadership.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/088-companies-must-reject-strategy-that-surrenders-to-strong-external-capital-narratives.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/088-investors-should-detect-companies-that-surrender-their-thesis-to-capital-and-policy-narratives.md) | [MM](./inspiration_on_making_money/execution_and_delivery/088-side-hustles-must-not-surrender-delivery-judgement-to-platform-and-capital-narratives.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/088-schools-must-reject-surrender-thinking-that-gives-up-educational-principles.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1216,10 +1219,23 @@
   - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/087-external-pressure-that-backs-bad-engineering-decisions-creates-field-crisis.md`
   - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/087-schools-must-not-let-external-backing-strengthen-harmful-governance.md`
 
+
+### 088《给福斯特同志的电报》
+- 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 30 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450729.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/088-teams-must-reject-surrender-thinking-that-dissolves-quality-and-technical-leadership.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/088-companies-must-reject-strategy-that-surrenders-to-strong-external-capital-narratives.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/088-investors-should-detect-companies-that-surrender-their-thesis-to-capital-and-policy-narratives.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/088-side-hustles-must-not-surrender-delivery-judgement-to-platform-and-capital-narratives.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/088-schools-must-reject-surrender-thinking-that-gives-up-educational-principles.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`088《给福斯特同志的电报》`
+- 如果要从当前边界继续向下推进，下一篇应是：`089《对日寇的最后一战》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

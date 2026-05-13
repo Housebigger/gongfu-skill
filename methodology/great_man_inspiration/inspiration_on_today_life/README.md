@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：10 篇
-- `judgement_and_decision/`：22 篇
+- `judgement_and_decision/`：23 篇
 - `long_term_growth/`：10 篇
 - `cooperation_and_organization/`：42 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：87 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—087，顺序总览窗口也推进到 087。
+当前合计：88 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—088，顺序总览窗口也推进到 088。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`087《评赫尔利政策的危险》`
-- 顺序总览窗口当前也推进到：`087《评赫尔利政策的危险》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`088《给福斯特同志的电报》`
+- today_life 主题当前实写覆盖到：`088《给福斯特同志的电报》`
+- 顺序总览窗口当前也推进到：`088《给福斯特同志的电报》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`089《对日寇的最后一战》`
 
 ## 使用提醒
 
@@ -71,3 +71,4 @@
 - `survival_strategy/085-build-self-supply-and-self-correction-before-the-big-battle.md`
 - `judgement_and_decision/086-dont-be-fooled-by-fake-consultation-and-procedure-theater.md`
 - `judgement_and_decision/087-see-the-danger-when-external-backing-strengthens-bad-forces.md`
+- `judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md`

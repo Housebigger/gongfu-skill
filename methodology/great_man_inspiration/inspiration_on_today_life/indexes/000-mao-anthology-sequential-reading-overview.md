@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`087《评赫尔利政策的危险》`
-- 如果继续顺序推进，下一篇应是：`088《给福斯特同志的电报》`
+- 当前顺序覆盖已推进到：`088《给福斯特同志的电报》`
+- 如果继续顺序推进，下一篇应是：`089《对日寇的最后一战》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -446,6 +446,16 @@
   - `../../inspiration_on_embedded_coding/team_process_and_knowledge/087-external-pressure-that-backs-bad-engineering-decisions-creates-field-crisis.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/087-schools-must-not-let-external-backing-strengthen-harmful-governance.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“赫尔利政策、外部背书、助长反动、内战危机、站到觉醒人民对立面”转译为现代判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要把外部资源与权威背书当作天然利好，而要判断它究竟支持真实建设者，还是壮大坏流程、坏治理和有害力量。
+
+- 088《给福斯特同志的电报》
+  - `../judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/088-teams-must-reject-surrender-thinking-that-dissolves-quality-and-technical-leadership.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/088-companies-must-reject-strategy-that-surrenders-to-strong-external-capital-narratives.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/088-investors-should-detect-companies-that-surrender-their-thesis-to-capital-and-policy-narratives.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/088-side-hustles-must-not-surrender-delivery-judgement-to-platform-and-capital-narratives.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/088-schools-must-reject-surrender-thinking-that-gives-up-educational-principles.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“批判白劳德修正主义—投降主义、重新确立领导、恢复组织、识别反动资本集团影响”转译为现代判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要把向强势外部叙事让渡原则包装成成熟务实；一旦发现路线被资本、平台、客户、指标或形式主义改写，就要及时纠偏，恢复真实利益、真实交付、真实组织和长期原则。
 
 - 081《游击区也能够进行生产》
   - `../survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`

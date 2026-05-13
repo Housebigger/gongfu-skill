@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：58 篇
+- `research_and_thesis/`：59 篇
 - `risk_and_position_management/`：8 篇
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：69 篇 article-based 笔记，对应 69 篇毛文来源。
+当前合计：70 篇 article-based 笔记，对应 70 篇毛文来源。
 
 ## 子目录速览
 
@@ -47,6 +47,7 @@
 - 如何在困难阶段别只让你自己和少数研究骨干散着补 thesis，而要把分散的信息、验证面、半可用时间和研究经验组织成真正研究主力
 - 如何在 thesis 责任升级时，不再只靠旧经验和少数骨干硬扛，而要研究现实、补上历史、放下包袱并训练研究机器
 - 如何别把管理层信心表演误认为 thesis 修复，而要看关键回答、真实动作与风险是否真正变化
+- 如何研究困难区域里的公司是否能在约束下真实生产，而不是简单否定或盲目买困境故事
 
 ### `risk_and_position_management/`
 适合看：

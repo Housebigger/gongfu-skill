@@ -21,6 +21,7 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/069-when-embedded-dawn-is-visible-concentrate-force-on-the-main-delivery-battle.md`
 - `engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md`
 - `engineering_strategy/080-embedded-teams-must-learn-economic-work-build-supply-chain-test-and-field-self-reliance.md`
+- `engineering_strategy/081-embedded-teams-can-deliver-in-field-guerrilla-zones-by-using-fragments-protection-and-local-tools.md`
 
 Focus:
 - long-cycle projects

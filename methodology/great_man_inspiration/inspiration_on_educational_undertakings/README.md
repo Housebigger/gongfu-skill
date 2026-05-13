@@ -16,10 +16,10 @@
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：7 篇
 - `teacher_growth_and_backbone/`：11 篇
-- `school_governance_and_crisis_response/`：14 篇
+- `school_governance_and_crisis_response/`：15 篇
 - `school_coordination_and_organization/`：25 篇
 
-当前合计：62 篇 article-based 笔记，对应 61 篇毛文来源。
+当前合计：63 篇 article-based 笔记，对应 62 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -60,6 +60,7 @@
 - 规则、底线与分类处置
 - 如何在困难阶段主动收小学校机器、保住课堂、班级与核心教师主力
 - 如何在学校曙光已现时继续把教师主力、规则执行与支持面集中到主教育战场，不在最后阶段重新分神
+- 如何在基础薄、资源少、干扰多的教育游击区里用小块时间、小块学生力量和本土办法做出教育供给
 
 ### `school_coordination_and_organization/`
 适合看：

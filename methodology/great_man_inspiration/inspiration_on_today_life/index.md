@@ -22,6 +22,7 @@ Purpose:
 - `survival_strategy/067-in-hard-times-shrink-your-life-machine-and-keep-the-core-strong.md`
 - `survival_strategy/070-when-money-is-tight-dont-cut-the-core-build-real-supply.md`
 - `survival_strategy/080-learn-economic-work-build-your-own-supply-lines-before-big-turning-points.md`
+- `survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`
 
 Purpose:
 - how ordinary people build footholds

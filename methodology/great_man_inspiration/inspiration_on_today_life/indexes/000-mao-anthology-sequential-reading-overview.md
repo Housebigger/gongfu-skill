@@ -384,8 +384,18 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`080《必须学会做经济工作》`
-- 如果继续顺序推进，下一篇应是：`081《游击区也能够进行生产》`
+- 当前顺序覆盖已推进到：`081《游击区也能够进行生产》`
+- 如果继续顺序推进，下一篇应是：`082《两个中国之命运》`
+
+- 081《游击区也能够进行生产》
+  - `../survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/081-even-in-chaotic-project-zones-build-delivery-from-fragments-and-protected-windows.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/081-even-in-contested-markets-build-production-from-fragments-protection-and-local-invention.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/081-dont-dismiss-hard-zone-companies-watch-whether-they-produce-under-constraints.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/081-side-hustles-can-produce-in-bad-conditions-use-fragments-protected-windows-and-cooperation.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/081-embedded-teams-can-deliver-in-field-guerrilla-zones-by-using-fragments-protection-and-local-tools.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/081-schools-can-improve-under-hard-conditions-use-fragments-protection-and-local-invention.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文一方面落在普通人如何在条件破碎、资源稀缺和干扰频繁时仍然从小块土地、保护窗口和互助关系里做出生产能力；另一方面也落在软件团队、公司经营、股票研究、副业经营、嵌入式工程和学校治理六个方向，统一强调不要等完美根据地，越是在“游击区”环境里，越要用实事求是的新创造建设供给、交付、现金流、工程证据和教育支持面。
 
 - 080《必须学会做经济工作》
   - `../survival_strategy/080-learn-economic-work-build-your-own-supply-lines-before-big-turning-points.md`

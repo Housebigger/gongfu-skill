@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 080《必须学会做经济工作》(1945-01-10)
-- `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/080-learn-economic-work-build-your-own-supply-lines-before-big-turning-points.md`
-- `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/080-software-teams-must-learn-economic-work-build-delivery-supply-and-feedback-lines.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/080-companies-must-learn-economic-work-build-supply-profit-and-long-term-operating-basis.md`
-- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/080-dont-buy-strategic-stories-without-economic-work-supply-profit-and-self-reliance.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/080-side-hustles-must-learn-economic-work-build-supply-cashflow-and-repeatable-delivery.md`
-- `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/080-embedded-teams-must-learn-economic-work-build-supply-chain-test-and-field-self-reliance.md`
-- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/080-schools-must-learn-economic-work-build-resource-supply-backbones-and-long-term-education-basis.md`
+### 081《游击区也能够进行生产》(1945-01-31)
+- `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/081-even-in-chaotic-project-zones-build-delivery-from-fragments-and-protected-windows.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/081-even-in-contested-markets-build-production-from-fragments-protection-and-local-invention.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/081-dont-dismiss-hard-zone-companies-watch-whether-they-produce-under-constraints.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/081-side-hustles-can-produce-in-bad-conditions-use-fragments-protected-windows-and-cooperation.md`
+- `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/081-embedded-teams-can-deliver-in-field-guerrilla-zones-by-using-fragments-protection-and-local-tools.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/081-schools-can-improve-under-hard-conditions-use-fragments-protection-and-local-invention.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

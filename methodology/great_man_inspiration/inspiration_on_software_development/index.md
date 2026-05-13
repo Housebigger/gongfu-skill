@@ -64,6 +64,7 @@ Purpose:
 - `iteration_and_delivery/069-when-project-dawn-is-visible-concentrate-all-force-on-the-final-bottleneck.md`
 - `iteration_and_delivery/070-when-delivery-gets-hard-stop-only-cutting-budget-rebuild-real-supply-lines.md`
 - `iteration_and_delivery/080-software-teams-must-learn-economic-work-build-delivery-supply-and-feedback-lines.md`
+- `iteration_and_delivery/081-even-in-chaotic-project-zones-build-delivery-from-fragments-and-protected-windows.md`
 
 Purpose:
 - how teams build resource flow and supply lines for sustained delivery

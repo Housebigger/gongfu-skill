@@ -74,6 +74,7 @@ Purpose:
 - `research_and_thesis/078-dont-mistake-management-confidence-theater-for-thesis-repair-watch-answers-actions-and-risk.md`
 - `research_and_thesis/079-dont-dismiss-legacy-business-assets-study-whether-they-can-be-reformed-into-new-thesis-power.md`
 - `research_and_thesis/080-dont-buy-strategic-stories-without-economic-work-supply-profit-and-self-reliance.md`
+- `research_and_thesis/081-dont-dismiss-hard-zone-companies-watch-whether-they-produce-under-constraints.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking

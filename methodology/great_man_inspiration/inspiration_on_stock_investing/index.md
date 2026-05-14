@@ -89,7 +89,9 @@ Purpose:
 - `research_and_thesis/091-when-management-uses-compliance-talk-to-reallocate-fruits-watch-governance-civil-war.md`
 - `research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md`
 - `research_and_thesis/093-investors-should-discount-control-party-narratives-that-label-contributors-as-risks.md`
+- `research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md`
 Purpose:
+- how investors read negotiation windows through strength, bottom lines, and two scenarios instead of headline optimism
 - how investors discount control-party narratives that label value contributors as risks while reallocating fruits
 - how investors judge claim rights and fruit distribution when strong actors try to monopolize post-catalyst gains
 - how investors detect governance civil war when management uses compliance talk to move fruits away from real value creators and shareholders

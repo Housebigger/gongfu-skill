@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 093《评蒋介石发言人谈话》(1945-08-16)
-- `inspiration_on_today_life/judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md`
-- `inspiration_on_software_development/team_process_and_quality/093-when-management-labels-responders-as-blockers-counter-with-history-user-interest-and-self-defense.md`
-- `inspiration_on_running_a_company/strategy_and_execution/093-counter-spokesperson-narratives-that-brand-value-creators-as-enemies.md`
-- `inspiration_on_stock_investing/research_and_thesis/093-investors-should-discount-control-party-narratives-that-label-contributors-as-risks.md`
-- `inspiration_on_making_money/execution_and_delivery/093-when-platforms-call-deliverers-rule-breakers-protect-customers-cashflow-and-proof.md`
-- `inspiration_on_embedded_coding/team_process_and_knowledge/093-when-field-engineers-are-called-disobedient-preserve-logs-failure-history-and-self-defense-boundaries.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/093-when-teachers-are-called-disobedient-protect-student-facts-history-and-professional-boundaries.md`
+### 094《中共中央关于同国民党进行和平谈判的通知》(1945-08-26)
+- `inspiration_on_today_life/judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`
+- `inspiration_on_software_development/team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
+- `inspiration_on_running_a_company/strategy_and_execution/094-negotiate-cooperation-while-keeping-strength-bottom-line-and-two-outcome-plans.md`
+- `inspiration_on_stock_investing/research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md`
+- `inspiration_on_making_money/execution_and_delivery/094-side-hustlers-can-negotiate-but-must-keep-customers-cashflow-and-fallbacks.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/094-field-teams-should-negotiate-acceptance-while-keeping-tests-logs-and-fallbacks.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

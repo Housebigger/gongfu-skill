@@ -161,3 +161,4 @@ This folder focuses on:
 - `strategy_and_execution/091-when-legalistic-management-starts-company-civil-war-protect-real-builders-and-fruits.md`
 - `strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md`
 - `strategy_and_execution/093-counter-spokesperson-narratives-that-brand-value-creators-as-enemies.md`
+- `strategy_and_execution/094-negotiate-cooperation-while-keeping-strength-bottom-line-and-two-outcome-plans.md`

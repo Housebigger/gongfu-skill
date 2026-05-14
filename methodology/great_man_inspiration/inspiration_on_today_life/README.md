@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：11 篇
-- `judgement_and_decision/`：28 篇
+- `judgement_and_decision/`：29 篇
 - `long_term_growth/`：10 篇
 - `cooperation_and_organization/`：44 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：93 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—093，顺序总览窗口也推进到 093。
+当前合计：94 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—094，顺序总览窗口也推进到 094。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`093《评蒋介石发言人谈话》`
-- 顺序总览窗口当前也推进到：`093《评蒋介石发言人谈话》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`094《中共中央关于同国民党进行和平谈判的通知》`
+- today_life 主题当前实写覆盖到：`094《中共中央关于同国民党进行和平谈判的通知》`
+- 顺序总览窗口当前也推进到：`094《中共中央关于同国民党进行和平谈判的通知》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`095《关于重庆谈判》`
 
 ## 使用提醒
 
@@ -77,3 +77,4 @@
 - `judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md`
 - `judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md`
 - `judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md`
+- `judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`

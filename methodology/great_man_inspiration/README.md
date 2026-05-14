@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—093。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—094。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 93 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 575 |
-| 顺序学习已连续覆盖范围 | 001—093 |
-| 顺序覆盖段标题核对结果 | 93/93 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 94 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 582 |
+| 顺序学习已连续覆盖范围 | 001—094 |
+| 顺序覆盖段标题核对结果 | 94/94 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 094《中共中央关于同国民党进行和平谈判的通知》 |
+| 顺序主线的下一篇 | 095《关于重庆谈判》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `093《评蒋介石发言人谈话》`。
-- 在 `001—093` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `094《中共中央关于同国民党进行和平谈判的通知》`。
+- 在 `001—094` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
@@ -47,8 +47,8 @@
 - `089《对日寇的最后一战》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `090《抗日战争胜利后的时局和我们的方针》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `091《蒋介石在挑动内战》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `093《评蒋介石发言人谈话》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `094《中共中央关于同国民党进行和平谈判的通知》`
+- `094《中共中央关于同国民党进行和平谈判的通知》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `095《关于重庆谈判》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -147,13 +147,14 @@
 | 091 | 《蒋介石在挑动内战》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450813b.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 092 | 《第十八集团军总司令给蒋介石的两个电报》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194508.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 093 | 《评蒋介石发言人谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450816.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 094 | 《中共中央关于同国民党进行和平谈判的通知》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450826.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—093 顺序主线已建立关联          [#####################################################################################]
-093 《评蒋介石发言人谈话》 [DONE: 7/7]
-094 《中共中央关于同国民党进行和平谈判的通知》 [NEXT]
+001—094 顺序主线已建立关联          [#####################################################################################]
+094 《中共中央关于同国民党进行和平谈判的通知》 [DONE: 7/7]
+095 《关于重庆谈判》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -266,6 +267,7 @@
 | 091 | 《蒋介石在挑动内战》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450813b.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md) | [SD](./inspiration_on_software_development/team_process_and_quality/091-when-process-talk-starts-internal-war-check-who-reverses-bugs-and-builders.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/091-when-legalistic-management-starts-company-civil-war-protect-real-builders-and-fruits.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/091-when-management-uses-compliance-talk-to-reallocate-fruits-watch-governance-civil-war.md) | [MM](./inspiration_on_making_money/execution_and_delivery/091-when-platform-or-partner-calls-your-delivery-illegal-watch-for-side-hustle-civil-war.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/091-when-school-authority-calls-real-education-action-illegal-stop-governance-civil-war.md) | 7 |
 | 092 | 《第十八集团军总司令给蒋介石的两个电报》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194508.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md) | [SD](./inspiration_on_software_development/team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md) | [MM](./inspiration_on_making_money/execution_and_delivery/092-side-hustlers-should-answer-wrong-commands-with-delivery-facts-rights-and-clear-terms.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/092-teachers-should-answer-wrong-school-orders-with-student-facts-rights-and-governance-terms.md) | 7 |
 | 093 | 《评蒋介石发言人谈话》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450816.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md) | [SD](./inspiration_on_software_development/team_process_and_quality/093-when-management-labels-responders-as-blockers-counter-with-history-user-interest-and-self-defense.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/093-counter-spokesperson-narratives-that-brand-value-creators-as-enemies.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/093-investors-should-discount-control-party-narratives-that-label-contributors-as-risks.md) | [MM](./inspiration_on_making_money/execution_and_delivery/093-when-platforms-call-deliverers-rule-breakers-protect-customers-cashflow-and-proof.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/093-when-field-engineers-are-called-disobedient-preserve-logs-failure-history-and-self-defense-boundaries.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/093-when-teachers-are-called-disobedient-protect-student-facts-history-and-professional-boundaries.md) | 7 |
+| 094 | 《中共中央关于同国民党进行和平谈判的通知》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450826.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md) | [SD](./inspiration_on_software_development/team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/094-negotiate-cooperation-while-keeping-strength-bottom-line-and-two-outcome-plans.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md) | [MM](./inspiration_on_making_money/execution_and_delivery/094-side-hustlers-can-negotiate-but-must-keep-customers-cashflow-and-fallbacks.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/094-field-teams-should-negotiate-acceptance-while-keeping-tests-logs-and-fallbacks.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1306,10 +1308,22 @@
   - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/093-when-field-engineers-are-called-disobedient-preserve-logs-failure-history-and-self-defense-boundaries.md`
   - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/093-when-teachers-are-called-disobedient-protect-student-facts-history-and-professional-boundaries.md`
 
+### 094《中共中央关于同国民党进行和平谈判的通知》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 5 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450826.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/094-negotiate-cooperation-while-keeping-strength-bottom-line-and-two-outcome-plans.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/094-side-hustlers-can-negotiate-but-must-keep-customers-cashflow-and-fallbacks.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/094-field-teams-should-negotiate-acceptance-while-keeping-tests-logs-and-fallbacks.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`094《中共中央关于同国民党进行和平谈判的通知》`
+- 如果要从当前边界继续向下推进，下一篇应是：`095《关于重庆谈判》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

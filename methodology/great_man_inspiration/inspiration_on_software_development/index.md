@@ -152,7 +152,9 @@ Purpose:
 - `team_process_and_quality/091-when-process-talk-starts-internal-war-check-who-reverses-bugs-and-builders.md`
 - `team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md`
 - `team_process_and_quality/093-when-management-labels-responders-as-blockers-counter-with-history-user-interest-and-self-defense.md`
+- `team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
 Purpose:
+- how software teams negotiate stakeholder peace without pausing delivery, risk evidence, and fallback preparation
 - how software teams answer management narratives that call incident responders blockers by using user interest, failure history, and self-defense boundaries
 - how software teams reject wrong engineering orders with system facts, user interest, operational boundaries, and concrete incident terms
 - how software teams detect process talk that protects bugs and bad processes while disarming real builders and starting internal war

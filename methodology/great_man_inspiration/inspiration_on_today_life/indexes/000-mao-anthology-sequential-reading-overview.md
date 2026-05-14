@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`093《评蒋介石发言人谈话》`
-- 如果继续顺序推进，下一篇应是：`094《中共中央关于同国民党进行和平谈判的通知》`
+- 当前顺序覆盖已推进到：`094《中共中央关于同国民党进行和平谈判的通知》`
+- 如果继续顺序推进，下一篇应是：`095《关于重庆谈判》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 094《中共中央关于同国民党进行和平谈判的通知》
+  - `../judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/094-negotiate-cooperation-while-keeping-strength-bottom-line-and-two-outcome-plans.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/094-side-hustlers-can-negotiate-but-must-keep-customers-cashflow-and-fallbacks.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/094-field-teams-should-negotiate-acceptance-while-keeping-tests-logs-and-fallbacks.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“尽一切可能争取和平谈判、必要但有限度让步、继续扩大现实筹码、准备谈成与谈崩两种结果、不要依赖对方善心、又团结又斗争”转译为现代行动方法：无论普通生活、软件团队、公司经营、投资研究、副业、嵌入式现场还是学校治理，谈判都不是停下准备，而是在守住根本利益和自力能力的前提下争取更有利的合作局面。
 
 - 093《评蒋介石发言人谈话》
   - `../judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md`

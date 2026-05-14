@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：11 篇
-- `judgement_and_decision/`：25 篇
+- `judgement_and_decision/`：26 篇
 - `long_term_growth/`：10 篇
 - `cooperation_and_organization/`：44 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：90 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—090，顺序总览窗口也推进到 090。
+当前合计：91 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—091，顺序总览窗口也推进到 091。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`090《抗日战争胜利后的时局和我们的方针》`
-- 顺序总览窗口当前也推进到：`090《抗日战争胜利后的时局和我们的方针》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`091《蒋介石在挑动内战》`
+- today_life 主题当前实写覆盖到：`091《蒋介石在挑动内战》`
+- 顺序总览窗口当前也推进到：`091《蒋介石在挑动内战》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`092《第十八集团军总司令给蒋介石的两个电报》`
 
 ## 使用提醒
 
@@ -74,3 +74,4 @@
 - `judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md`
 - `cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md`
 - `judgement_and_decision/090-after-victory-judge-new-situation-without-illusions-and-prepare-to-defend-your-fruits.md`
+- `judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md`

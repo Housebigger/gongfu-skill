@@ -149,7 +149,9 @@ Purpose:
 - `team_process_and_quality/088-teams-must-reject-surrender-thinking-that-dissolves-quality-and-technical-leadership.md`
 - `team_process_and_quality/090-after-release-victory-dont-let-strong-stakeholders-steal-the-fruits-and-dissolve-team-principles.md`
 
+- `team_process_and_quality/091-when-process-talk-starts-internal-war-check-who-reverses-bugs-and-builders.md`
 Purpose:
+- how software teams detect process talk that protects bugs and bad processes while disarming real builders and starting internal war
 - how software teams protect release fruits, quality gates, and engineering weapons after major delivery wins when strong stakeholders try to rewrite ownership
 - how software teams reject surrender thinking that dissolves quality, technical judgment, and engineering leadership under external pressure
 - how software teams keep external support from strengthening bad processes and creating project crisis
@@ -193,7 +195,6 @@ Purpose:
 - how software teams stop treating cross-functional support as a favor, spend most of their energy helping delivery roles rebuild real capacity, organize the real labor chain behind versions and incidents, and repair cooperation by starting with self-criticism
 
 - how software teams stop turning project crises into confidence meetings, answer real risks, let criticism enter the system, and verify stability through changed actions instead of morale theater
-
 ### indexes
 Reserved for future series indexes and overview notes.
 

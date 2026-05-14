@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 090《抗日战争胜利后的时局和我们的方针》(1945-08-13)
-- `inspiration_on_today_life/judgement_and_decision/090-after-victory-judge-new-situation-without-illusions-and-prepare-to-defend-your-fruits.md`
-- `inspiration_on_software_development/team_process_and_quality/090-after-release-victory-dont-let-strong-stakeholders-steal-the-fruits-and-dissolve-team-principles.md`
-- `inspiration_on_running_a_company/strategy_and_execution/090-after-market-victory-protect-the-fruits-from-powerful-claimants-and-build-self-reliant-strategy.md`
-- `inspiration_on_stock_investing/research_and_thesis/090-after-catalyst-victory-check-who-gets-the-fruits-and-whether-self-reliant-power-exists.md`
-- `inspiration_on_making_money/execution_and_delivery/090-after-side-hustle-breakthrough-protect-income-fruits-and-dont-surrender-your-operating-weapons.md`
-- `inspiration_on_embedded_coding/team_process_and_knowledge/090-after-engineering-victory-protect-field-fruits-and-keep-self-reliant-engineering-weapons.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/090-after-school-turnaround-protect-educational-fruits-and-prepare-for-new-governance-struggles.md`
+### 091《蒋介石在挑动内战》(1945-08-13)
+- `inspiration_on_today_life/judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md`
+- `inspiration_on_software_development/team_process_and_quality/091-when-process-talk-starts-internal-war-check-who-reverses-bugs-and-builders.md`
+- `inspiration_on_running_a_company/strategy_and_execution/091-when-legalistic-management-starts-company-civil-war-protect-real-builders-and-fruits.md`
+- `inspiration_on_stock_investing/research_and_thesis/091-when-management-uses-compliance-talk-to-reallocate-fruits-watch-governance-civil-war.md`
+- `inspiration_on_making_money/execution_and_delivery/091-when-platform-or-partner-calls-your-delivery-illegal-watch-for-side-hustle-civil-war.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/091-when-school-authority-calls-real-education-action-illegal-stop-governance-civil-war.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

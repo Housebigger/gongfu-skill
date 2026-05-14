@@ -68,7 +68,9 @@ Purpose:
 - `judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md`
 - `judgement_and_decision/090-after-victory-judge-new-situation-without-illusions-and-prepare-to-defend-your-fruits.md`
 
+- `judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md`
 Purpose:
+- how ordinary people detect conflict provoked through legality talk, enemy-friend reversal, and demands that real problem-solvers stand down
 - how ordinary people judge post-victory situations without illusions, protect fruits from powerful claimants, and prepare self-defense while still seeking cooperation
 - how ordinary people recognize and correct surrender thinking before external strong narratives dissolve their own judgment and principles
 - how ordinary people recognize danger when external backing strengthens bad actors and pushes a situation toward conflict
@@ -90,7 +92,6 @@ Purpose:
 - how ordinary people recognize that the enemy's fiercest final push may signal structural exhaustion, and judge turning points by whether core goals can still be achieved and sustained
 - how ordinary people stop mistaking “we are preparing to solve it” and “reform is coming later” talk for real change, and instead judge which of three directions the system is actually taking
 - how ordinary people recognize that when leaders answer no key questions, perform confidence, and treat criticism as hostile rumor, the situation is usually worsening rather than stabilizing
-
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`

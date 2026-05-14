@@ -158,3 +158,4 @@ This folder focuses on:
 
 ### strategy_and_execution
 - `strategy_and_execution/090-after-market-victory-protect-the-fruits-from-powerful-claimants-and-build-self-reliant-strategy.md`
+- `strategy_and_execution/091-when-legalistic-management-starts-company-civil-war-protect-real-builders-and-fruits.md`

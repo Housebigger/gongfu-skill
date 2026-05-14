@@ -102,7 +102,9 @@ Focus:
 - `team_process_and_knowledge/079-dont-replace-field-legacy-all-at-once-reform-old-tools-and-people-into-delivery-capacity.md`
 - `team_process_and_knowledge/090-after-engineering-victory-protect-field-fruits-and-keep-self-reliant-engineering-weapons.md`
 
+- `team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md`
 Focus:
+- how embedded teams protect field facts, logs, versions, and repair authority when central authority calls real fixes illegal
 - how embedded teams protect field fruits, version/test discipline, logs, and engineering weapons after hardware or production breakthroughs
 - choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - knowledge sedimentation

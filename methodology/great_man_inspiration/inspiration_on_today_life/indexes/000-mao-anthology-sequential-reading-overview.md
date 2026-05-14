@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`090《抗日战争胜利后的时局和我们的方针》`
-- 如果继续顺序推进，下一篇应是：`091《蒋介石在挑动内战》`
+- 当前顺序覆盖已推进到：`091《蒋介石在挑动内战》`
+- 如果继续顺序推进，下一篇应是：`092《第十八集团军总司令给蒋介石的两个电报》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 091《蒋介石在挑动内战》
+  - `../judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/091-when-process-talk-starts-internal-war-check-who-reverses-bugs-and-builders.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/091-when-legalistic-management-starts-company-civil-war-protect-real-builders-and-fruits.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/091-when-management-uses-compliance-talk-to-reallocate-fruits-watch-governance-civil-war.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/091-when-platform-or-partner-calls-your-delivery-illegal-watch-for-side-hustle-civil-war.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/091-when-school-authority-calls-real-education-action-illegal-stop-governance-civil-war.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“用合法性话术挑动内战、敌友倒置、要求真正作战力量原地待命、借口抢夺胜利果实、追问谁有权接收成果”转译为现代治理判断：无论普通生活、软件团队、公司经营、投资研究、副业、嵌入式现场还是学校治理，都要识别谁在用规则话术保护破坏者、缴械建设者，并用事实、证据、公开见证和真实贡献来制止内耗、保卫果实。
 
 - 090《抗日战争胜利后的时局和我们的方针》
   - `../judgement_and_decision/090-after-victory-judge-new-situation-without-illusions-and-prepare-to-defend-your-fruits.md`

@@ -86,7 +86,9 @@ Purpose:
 - `research_and_thesis/089-at-final-catalyst-windows-check-execution-capacity-and-post-victory-risk.md`
 - `research_and_thesis/090-after-catalyst-victory-check-who-gets-the-fruits-and-whether-self-reliant-power-exists.md`
 
+- `research_and_thesis/091-when-management-uses-compliance-talk-to-reallocate-fruits-watch-governance-civil-war.md`
 Purpose:
+- how investors detect governance civil war when management uses compliance talk to move fruits away from real value creators and shareholders
 - how investors research post-catalyst fruit distribution, governance risk, and whether the company has self-reliant operating power
 - how investors study final-catalyst windows by checking execution capacity, hidden operating power, basic financial discipline, and post-victory governance risk
 - how investors detect companies that surrender real operating logic to capital, policy, and market narratives
@@ -130,7 +132,6 @@ Purpose:
 - how investors stop turning research into a machine serving position defense, face, and small-circle identity, and instead put thesis truth, useful contributors, and evidence-based criticism at the center
 
 - how investors avoid mistaking management confidence theater for thesis repair by watching key answers, costly actions, and whether risks are actually reduced
-
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
 - `risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`

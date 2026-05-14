@@ -104,7 +104,9 @@ Focus:
 
 - `team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md`
 - `team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md`
+- `team_process_and_knowledge/093-when-field-engineers-are-called-disobedient-preserve-logs-failure-history-and-self-defense-boundaries.md`
 Focus:
+- how embedded field engineers preserve logs, failure history, and safety boundaries when they are called disobedient
 - how embedded field teams refuse wrong standby orders with logs, versions, test evidence, faulty parts, and acceptance rights
 - how embedded teams protect field facts, logs, versions, and repair authority when central authority calls real fixes illegal
 - how embedded teams protect field fruits, version/test discipline, logs, and engineering weapons after hardware or production breakthroughs

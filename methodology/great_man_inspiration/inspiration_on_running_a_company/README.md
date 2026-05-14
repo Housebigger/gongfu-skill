@@ -11,9 +11,9 @@
 
 - `organization_design/`：16 篇
 - `leadership_and_talent/`：7 篇
-- `strategy_and_execution/`：66 篇
+- `strategy_and_execution/`：67 篇
 
-当前合计：89 篇 article-based 笔记，对应 88 篇毛文来源。
+当前合计：90 篇 article-based 笔记，对应 89 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -74,3 +74,4 @@
 - `strategy_and_execution/090-after-market-victory-protect-the-fruits-from-powerful-claimants-and-build-self-reliant-strategy.md`
 - `strategy_and_execution/091-when-legalistic-management-starts-company-civil-war-protect-real-builders-and-fruits.md`
 - `strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md`
+- `strategy_and_execution/093-counter-spokesperson-narratives-that-brand-value-creators-as-enemies.md`

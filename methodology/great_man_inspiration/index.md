@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 092《第十八集团军总司令给蒋介石的两个电报》(1945-08)
-- `inspiration_on_today_life/judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md`
-- `inspiration_on_software_development/team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md`
-- `inspiration_on_running_a_company/strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md`
-- `inspiration_on_stock_investing/research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md`
-- `inspiration_on_making_money/execution_and_delivery/092-side-hustlers-should-answer-wrong-commands-with-delivery-facts-rights-and-clear-terms.md`
-- `inspiration_on_embedded_coding/team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/092-teachers-should-answer-wrong-school-orders-with-student-facts-rights-and-governance-terms.md`
+### 093《评蒋介石发言人谈话》(1945-08-16)
+- `inspiration_on_today_life/judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md`
+- `inspiration_on_software_development/team_process_and_quality/093-when-management-labels-responders-as-blockers-counter-with-history-user-interest-and-self-defense.md`
+- `inspiration_on_running_a_company/strategy_and_execution/093-counter-spokesperson-narratives-that-brand-value-creators-as-enemies.md`
+- `inspiration_on_stock_investing/research_and_thesis/093-investors-should-discount-control-party-narratives-that-label-contributors-as-risks.md`
+- `inspiration_on_making_money/execution_and_delivery/093-when-platforms-call-deliverers-rule-breakers-protect-customers-cashflow-and-proof.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/093-when-field-engineers-are-called-disobedient-preserve-logs-failure-history-and-self-defense-boundaries.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/093-when-teachers-are-called-disobedient-protect-student-facts-history-and-professional-boundaries.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

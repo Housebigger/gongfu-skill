@@ -160,3 +160,4 @@ This folder focuses on:
 - `strategy_and_execution/090-after-market-victory-protect-the-fruits-from-powerful-claimants-and-build-self-reliant-strategy.md`
 - `strategy_and_execution/091-when-legalistic-management-starts-company-civil-war-protect-real-builders-and-fruits.md`
 - `strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md`
+- `strategy_and_execution/093-counter-spokesperson-narratives-that-brand-value-creators-as-enemies.md`

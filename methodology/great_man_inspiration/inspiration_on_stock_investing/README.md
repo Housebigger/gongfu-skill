@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：70 篇
+- `research_and_thesis/`：71 篇
 - `risk_and_position_management/`：8 篇
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：81 篇 article-based 笔记，对应 80 篇毛文来源。
+当前合计：82 篇 article-based 笔记，对应 81 篇毛文来源。
 
 ## 子目录速览
 
@@ -80,3 +80,4 @@
 - `research_and_thesis/090-after-catalyst-victory-check-who-gets-the-fruits-and-whether-self-reliant-power-exists.md`
 - `research_and_thesis/091-when-management-uses-compliance-talk-to-reallocate-fruits-watch-governance-civil-war.md`
 - `research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md`
+- `research_and_thesis/093-investors-should-discount-control-party-narratives-that-label-contributors-as-risks.md`

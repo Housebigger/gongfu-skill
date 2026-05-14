@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`092《第十八集团军总司令给蒋介石的两个电报》`
-- 如果继续顺序推进，下一篇应是：`093《评蒋介石发言人谈话》`
+- 当前顺序覆盖已推进到：`093《评蒋介石发言人谈话》`
+- 如果继续顺序推进，下一篇应是：`094《中共中央关于同国民党进行和平谈判的通知》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 093《评蒋介石发言人谈话》
+  - `../judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/093-when-management-labels-responders-as-blockers-counter-with-history-user-interest-and-self-defense.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/093-counter-spokesperson-narratives-that-brand-value-creators-as-enemies.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/093-investors-should-discount-control-party-narratives-that-label-contributors-as-risks.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/093-when-platforms-call-deliverers-rule-breakers-protect-customers-cashflow-and-proof.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/093-when-field-engineers-are-called-disobedient-preserve-logs-failure-history-and-self-defense-boundaries.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/093-when-teachers-are-called-disobedient-protect-student-facts-history-and-professional-boundaries.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“发言人污名化、责任倒置、内战信号、历史账核对、和平必须建立在人民力量和严正自卫上”转译为现代判断方法：无论普通生活、软件团队、公司经营、投资研究、副业、嵌入式现场还是学校治理，遇到强势者把真实建设者贴成敌人/违规者/不服从者时，都要回到事实链、历史记录、贡献来源、用户或学生利益，并同步壮大自保力量与制度边界。
 
 - 092《第十八集团军总司令给蒋介石的两个电报》
   - `../judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md`

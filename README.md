@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：568 篇
-- 当前已建立原文关联的毛文标题数：92 篇
-  - 顺序主线：001—092
-  - 当前最新纳入：092《第十八集团军总司令给蒋介石的两个电报》
-- 顺序主线的下一篇：093《评蒋介石发言人谈话》
+- 当前已建立 `原文对应` 的主题转译文件：575 篇
+- 当前已建立原文关联的毛文标题数：93 篇
+  - 顺序主线：001—093
+  - 当前最新纳入：093《评蒋介石发言人谈话》
+- 顺序主线的下一篇：094《中共中央关于同国民党进行和平谈判的通知》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -85,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 092，下一篇是 093
+2. 当前边界是 093，下一篇是 094
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

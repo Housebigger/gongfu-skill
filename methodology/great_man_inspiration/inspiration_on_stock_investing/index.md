@@ -83,8 +83,10 @@ Purpose:
 - `research_and_thesis/086-dont-buy-governance-theater-check-real-reform-and-stakeholder-power.md`
 - `research_and_thesis/087-avoid-companies-where-capital-backs-bad-governance-against-real-stakeholders.md`
 - `research_and_thesis/088-investors-should-detect-companies-that-surrender-their-thesis-to-capital-and-policy-narratives.md`
+- `research_and_thesis/089-at-final-catalyst-windows-check-execution-capacity-and-post-victory-risk.md`
 
 Purpose:
+- how investors study final-catalyst windows by checking execution capacity, hidden operating power, basic financial discipline, and post-victory governance risk
 - how investors detect companies that surrender real operating logic to capital, policy, and market narratives
 - how investors identify when capital, policy, or strategic backing strengthens bad governance instead of real value creation
 - how investors avoid buying governance theater and instead verify real stakeholder power, transparency, and accountability

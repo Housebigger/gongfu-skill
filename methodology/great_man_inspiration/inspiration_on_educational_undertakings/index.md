@@ -56,6 +56,7 @@
 - [086 不要让学校咨询表演替代真实课堂改革](school_governance_and_crisis_response/086-dont-let-school-consultation-theater-replace-real-classroom-reform.md)
 - [087 学校不能让外部背书壮大有害治理](school_governance_and_crisis_response/087-schools-must-not-let-external-backing-strengthen-harmful-governance.md)
 - [088 学校不能把教育原则投降给强势外部叙事](school_governance_and_crisis_response/088-schools-must-reject-surrender-thinking-that-gives-up-educational-principles.md)
+- [089 学校要把关键窗口组织成最后推进和下一阶段秩序](school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
@@ -85,4 +86,4 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：70篇笔记 / 5个子主题 / 覆盖001-088中69篇原文
+统计：71篇笔记 / 5个子主题 / 覆盖001-089中70篇原文

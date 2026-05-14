@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 088《给福斯特同志的电报》(1945-07-29)
-- `inspiration_on_today_life/judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md`
-- `inspiration_on_software_development/team_process_and_quality/088-teams-must-reject-surrender-thinking-that-dissolves-quality-and-technical-leadership.md`
-- `inspiration_on_running_a_company/strategy_and_execution/088-companies-must-reject-strategy-that-surrenders-to-strong-external-capital-narratives.md`
-- `inspiration_on_stock_investing/research_and_thesis/088-investors-should-detect-companies-that-surrender-their-thesis-to-capital-and-policy-narratives.md`
-- `inspiration_on_making_money/execution_and_delivery/088-side-hustles-must-not-surrender-delivery-judgement-to-platform-and-capital-narratives.md`
-- `inspiration_on_embedded_coding/team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/088-schools-must-reject-surrender-thinking-that-gives-up-educational-principles.md`
+### 089《对日寇的最后一战》(1945-08-09)
+- `inspiration_on_today_life/cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md`
+- `inspiration_on_software_development/iteration_and_delivery/089-when-release-victory-window-opens-concentrate-delivery-and-prepare-next-stage-order.md`
+- `inspiration_on_running_a_company/strategy_and_execution/089-companies-must-use-decisive-windows-to-concentrate-attack-and-prepare-post-victory-order.md`
+- `inspiration_on_stock_investing/research_and_thesis/089-at-final-catalyst-windows-check-execution-capacity-and-post-victory-risk.md`
+- `inspiration_on_making_money/execution_and_delivery/089-side-hustles-must-use-decisive-windows-to-deliver-and-secure-next-stage-order.md`
+- `inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

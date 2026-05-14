@@ -21,11 +21,11 @@
 - `product_strategy/`：4 篇
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
-- `iteration_and_delivery/`：14 篇
+- `iteration_and_delivery/`：15 篇
 - `team_process_and_quality/`：55 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：84 篇 article-based 笔记，对应 83 篇毛文来源。
+当前合计：85 篇 article-based 笔记，对应 84 篇毛文来源。
 
 ## 推荐入口
 
@@ -87,3 +87,4 @@
 - `team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md`
 - `team_process_and_quality/087-external-support-that-strengthens-bad-processes-will-create-project-crisis.md`
 - `team_process_and_quality/088-teams-must-reject-surrender-thinking-that-dissolves-quality-and-technical-leadership.md`
+- `iteration_and_delivery/089-when-release-victory-window-opens-concentrate-delivery-and-prepare-next-stage-order.md`

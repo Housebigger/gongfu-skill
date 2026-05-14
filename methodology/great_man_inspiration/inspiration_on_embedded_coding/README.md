@@ -21,7 +21,7 @@
 
 - `debugging_and_fieldwork/`：3 篇
   - 面向调试闭环、真机调查、反资料主义，以及一线调查方法
-- `engineering_strategy/`：16 篇
+- `engineering_strategy/`：17 篇
   - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备、转机判断与困难阶段主动缩编
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
@@ -30,7 +30,7 @@
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：60 篇 article-based 笔记，对应 59 篇毛文来源。
+当前合计：61 篇 article-based 笔记，对应 60 篇毛文来源。
 
 ## 推荐入口
 
@@ -86,3 +86,4 @@
 - `team_process_and_knowledge/086-dont-let-review-theater-replace-real-engineering-feedback-and-accountability.md`
 - `team_process_and_knowledge/087-external-pressure-that-backs-bad-engineering-decisions-creates-field-crisis.md`
 - `team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md`
+- `engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`

@@ -8,6 +8,7 @@ Theme: extract practical lessons for ordinary people living in an era of major c
 - `indexes/000-mao-anthology-sequential-reading-overview.md`
 
 Purpose:
+- how ordinary people organize final victory windows by concentrating action, mobilizing hidden support, protecting the base, and preparing next-stage order
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - corpus-level overview
 - evolution line across many texts
@@ -157,6 +158,7 @@ Purpose:
 - `cooperation_and_organization/075-hard-times-need-organized-mutual-aid-not-scattered-individual-struggle.md`
 - `cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
 - `cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
+- `cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md`
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

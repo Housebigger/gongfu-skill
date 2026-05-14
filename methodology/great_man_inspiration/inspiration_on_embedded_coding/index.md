@@ -25,6 +25,7 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/082-at-engineering-turning-points-choose-the-bright-road-and-build-delivery-conditions.md`
 
 Focus:
+- how embedded teams use final field windows to concentrate validation, clear hidden site issues, preserve version/test discipline, and prepare stabilization order
 - choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - long-cycle projects
 - phased progress
@@ -39,6 +40,7 @@ Focus:
 - keeping firmware, hardware, test, field, and version firepower concentrated on the main delivery battle once embedded-turnaround dawn is visible, so the final stage is not lost to renewed multi-front distraction
 - `engineering_strategy/084-move-engineering-mountains-by-incremental-work-team-confidence-and-field-support.md`
 - `engineering_strategy/085-embedded-teams-need-distributed-self-supply-and-engineering-rectification.md`
+- `engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

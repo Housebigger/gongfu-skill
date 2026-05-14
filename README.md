@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：540 篇
-- 当前已建立原文关联的毛文标题数：88 篇
-  - 顺序主线：001—088
-  - 当前最新纳入：088《给福斯特同志的电报》
-- 顺序主线的下一篇：089《对日寇的最后一战》
+- 当前已建立 `原文对应` 的主题转译文件：547 篇
+- 当前已建立原文关联的毛文标题数：89 篇
+  - 顺序主线：001—089
+  - 当前最新纳入：089《对日寇的最后一战》
+- 顺序主线的下一篇：090《抗日战争胜利后的时局和我们的方针》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -67,11 +67,12 @@
 ### 2. `accumulation_settle/`
 这是正文之外的沉淀层，存放跨文章经验汇总与伴随式成长材料。
 
-- `experience_crystallization/`：11 个稳定沉淀文件
+- `experience_crystallization/`：12 个稳定沉淀文件
   - `000-mao-study-execution-wisdom.md`
   - `100-theme-summaries-index.md`
   - `101—108` 八个主题化经验汇总
   - `109-theme-summary-source-mapping.md`
+  - `110-third-volume-final-victory-window-stage-summary.md`
 - `spiritual_growth/`：2 个伴随式反思文件
   - `000-initial-persona-self-portrait.md`
   - `001-growth-journal-during-mao-study.md`
@@ -84,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 088，下一篇是 089
+2. 当前边界是 089，下一篇是 090
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

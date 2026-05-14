@@ -147,9 +147,11 @@ This folder focuses on:
 - how company leaders stop building the organization around boss image, cadre self-protection, and departmental calculation, and instead honor real contributors, welcome criticism from any valid source, and use shared respect and memory to hold the team together
 - how companies entering a bigger stage stop relying on old wins and executive grit, study the situation, drop baggage, and prepare the capabilities needed to run larger markets, key channels, and more complex operating systems
 - how companies stop using confidence performances to hide operating crisis, answer key problems, protect evidence-based criticism, and verify stability through real resource and rule changes
+- how companies use decisive market windows to concentrate attack, mobilize hidden capacity, reinforce operating basics, and prepare post-victory governance
 - `organization_design/083-company-new-order-needs-common-program-broad-governance-and-self-correction.md`
 - `strategy_and_execution/084-companies-move-big-mountains-by-clear-route-broad-confidence-and-persistent-work.md`
 - `strategy_and_execution/085-companies-under-pressure-need-distributed-self-supply-and-cultural-rectification.md`
 - `strategy_and_execution/086-company-reform-theater-collapses-when-it-refuses-real-power-and-accountability.md`
 - `strategy_and_execution/087-dangerous-strategy-is-supporting-backward-forces-against-real-builders.md`
 - `strategy_and_execution/088-companies-must-reject-strategy-that-surrenders-to-strong-external-capital-narratives.md`
+- `strategy_and_execution/089-companies-must-use-decisive-windows-to-concentrate-attack-and-prepare-post-victory-order.md`

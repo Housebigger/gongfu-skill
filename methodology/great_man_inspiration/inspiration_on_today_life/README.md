@@ -11,11 +11,11 @@
 - `survival_strategy/`：10 篇
 - `judgement_and_decision/`：23 篇
 - `long_term_growth/`：10 篇
-- `cooperation_and_organization/`：42 篇
+- `cooperation_and_organization/`：43 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：88 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—088，顺序总览窗口也推进到 088。
+当前合计：89 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—089，顺序总览窗口也推进到 089。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`088《给福斯特同志的电报》`
-- 顺序总览窗口当前也推进到：`088《给福斯特同志的电报》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`089《对日寇的最后一战》`
+- today_life 主题当前实写覆盖到：`089《对日寇的最后一战》`
+- 顺序总览窗口当前也推进到：`089《对日寇的最后一战》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`090《抗日战争胜利后的时局和我们的方针》`
 
 ## 使用提醒
 
@@ -72,3 +72,4 @@
 - `judgement_and_decision/086-dont-be-fooled-by-fake-consultation-and-procedure-theater.md`
 - `judgement_and_decision/087-see-the-danger-when-external-backing-strengthens-bad-forces.md`
 - `judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md`
+- `cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md`

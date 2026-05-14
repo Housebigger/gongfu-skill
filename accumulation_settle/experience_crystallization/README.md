@@ -28,9 +28,13 @@
 - `109-theme-summary-source-mapping.md`
   - 说明主题化汇总与历史来源之间的对应关系
 
+### E. 阶段收束文件
+- `110-third-volume-final-victory-window-stage-summary.md`
+  - 收束第三卷后段从经济工作、生产自给、联合政府、反假协商到最后胜利窗口的组织方法
+
 ## 当前状态说明
 
-- 这个 `gongfu-skill` 仓库里，当前保留的是“已经可直接使用的稳定主题层”
+- 这个 `gongfu-skill` 仓库里，当前保留的是“已经可直接使用的稳定主题层”和阶段收束材料
 - 原迁移工作流里提到过的一些过程型 tracker（例如 `A01 / A02 / A03`）并没有随这次迁移一起保留到当前仓库
 - 因此本 README 只描述当前 repo 真正存在的文件，不再假设那些过程型文件仍然可用
 
@@ -39,6 +43,7 @@
 ### 如果你想先抓大图景
 1. 读 `100-theme-summaries-index.md`
 2. 再按下面顺序进入：`101 -> 102 -> 108`
+3. 如果想看第三卷后段收束，读 `110-third-volume-final-victory-window-stage-summary.md`
 
 ### 如果你想补“组织怎么长出来”
 1. 读：`103 -> 104 -> 107`

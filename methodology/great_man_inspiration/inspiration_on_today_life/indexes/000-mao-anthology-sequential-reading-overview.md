@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`095《关于重庆谈判》`
-- 如果继续顺序推进，下一篇应是：`096《国民党进攻的真相》`
+- 当前顺序覆盖已推进到：`096《国民党进攻的真相》`
+- 如果继续顺序推进，下一篇应是：`097《减租和生产是保卫解放区的两件大事》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 096《国民党进攻的真相》
+  - `../judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/096-dont-let-management-call-an-expansion-just-restoring-flow-check-movements-rights-and-logs.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/096-when-a-powerful-partner-says-defensive-check-expansion-routes-and-hidden-war-goals.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/096-investors-should-test-defensive-narratives-against-capital-movement-deployments-and-real-targets.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/096-when-platforms-say-they-are-just-restoring-order-check-who-is-moving-in-and-who-loses-control.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/096-when-vendors-say-they-are-just-restoring-operations-check-logs-access-paths-and-attack-surface.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/096-when-school-authority-says-it-is-just-restoring-order-check-who-is-pressuring-whom.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“拆穿守势宣传、用兵力调动/文件/证词核对真相、警惕以恢复交通之名扩大进攻、先解决根问题再打开关键通道、动员更广支持制止内战”转译为现代判断方法：无论普通生活、软件团队、公司经营、投资研究、副业、嵌入式现场还是学校治理，遇到强势方把扩张包装成“恢复正常”“恢复秩序”或“只是防守”时，都要回到行动轨迹、证据链、控制权与利益归属，先卡关键通道，再决定哪些合作条件能打开。
 
 - 095《关于重庆谈判》
   - `../judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md`

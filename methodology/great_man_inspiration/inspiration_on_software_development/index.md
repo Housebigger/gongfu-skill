@@ -17,6 +17,7 @@ This folder is for software product development beyond embedded coding, especial
 - `product_strategy/082-at-product-turning-points-choose-the-bright-road-and-build-the-delivery-conditions.md`
 
 Purpose:
+- how software teams detect takeover-by-flow-restoration narratives by checking permission movement, logs, ownership, and unresolved root problems
 - how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia
 - how to identify a real product wedge before large-scale expansion
 - how to protect small but high-potential demand signals from premature abandonment
@@ -154,6 +155,7 @@ Purpose:
 - `team_process_and_quality/093-when-management-labels-responders-as-blockers-counter-with-history-user-interest-and-self-defense.md`
 - `team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
 - `team_process_and_quality/095-after-alignment-meetings-turn-paper-agreements-into-operational-reality.md`
+- `team_process_and_quality/096-dont-let-management-call-an-expansion-just-restoring-flow-check-movements-rights-and-logs.md`
 Purpose:
 - how software teams turn alignment-meeting paper agreements into operational reality through code, monitoring, owners, and fallback paths
 - how software teams negotiate stakeholder peace without pausing delivery, risk evidence, and fallback preparation

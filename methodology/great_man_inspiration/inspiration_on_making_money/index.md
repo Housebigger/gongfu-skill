@@ -144,3 +144,4 @@ Additional focus:
 - `execution_and_delivery/093-when-platforms-call-deliverers-rule-breakers-protect-customers-cashflow-and-proof.md`
 - `execution_and_delivery/094-side-hustlers-can-negotiate-but-must-keep-customers-cashflow-and-fallbacks.md`
 - `execution_and_delivery/095-after-deals-side-hustlers-must-convert-promises-into-delivery-cashflow-and-proof.md`
+- `execution_and_delivery/096-when-platforms-say-they-are-just-restoring-order-check-who-is-moving-in-and-who-loses-control.md`

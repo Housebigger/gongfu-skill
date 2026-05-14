@@ -17,9 +17,9 @@
 ## 当前实际结构
 
 - `monetization_models/`：2 篇
-- `execution_and_delivery/`：81 篇
+- `execution_and_delivery/`：82 篇
 
-当前合计：83 篇 article-based 笔记，对应 82 篇毛文来源。
+当前合计：84 篇 article-based 笔记，对应 83 篇毛文来源。
 
 说明：
 - 早期文档里曾把这里当作“reserved theme”描述，但当前仓库里它已经是一个内容相当完整的成熟主题，不再只是预留目录。
@@ -76,3 +76,4 @@
 - `execution_and_delivery/093-when-platforms-call-deliverers-rule-breakers-protect-customers-cashflow-and-proof.md`
 - `execution_and_delivery/094-side-hustlers-can-negotiate-but-must-keep-customers-cashflow-and-fallbacks.md`
 - `execution_and_delivery/095-after-deals-side-hustlers-must-convert-promises-into-delivery-cashflow-and-proof.md`
+- `execution_and_delivery/096-when-platforms-say-they-are-just-restoring-order-check-who-is-moving-in-and-who-loses-control.md`

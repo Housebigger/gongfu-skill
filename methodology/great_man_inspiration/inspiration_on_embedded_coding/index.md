@@ -25,6 +25,7 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/082-at-engineering-turning-points-choose-the-bright-road-and-build-delivery-conditions.md`
 
 Focus:
+- how embedded field teams treat “restore operations” requests as possible expansion by checking access paths, logs, attack surface, and unresolved safety prerequisites
 - how embedded teams use final field windows to concentrate validation, clear hidden site issues, preserve version/test discipline, and prepare stabilization order
 - choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - long-cycle projects
@@ -107,6 +108,7 @@ Focus:
 - `team_process_and_knowledge/093-when-field-engineers-are-called-disobedient-preserve-logs-failure-history-and-self-defense-boundaries.md`
 - `team_process_and_knowledge/094-field-teams-should-negotiate-acceptance-while-keeping-tests-logs-and-fallbacks.md`
 - `team_process_and_knowledge/095-after-acceptance-documents-field-teams-must-convert-paper-closure-into-real-stability.md`
+- `team_process_and_knowledge/096-when-vendors-say-they-are-just-restoring-operations-check-logs-access-paths-and-attack-surface.md`
 Focus:
 - how embedded field teams convert acceptance documents into real stability through logs, testing, versions, and onsite problem-solving
 - how embedded field teams negotiate acceptance while keeping tests, logs, versions, and fallback paths

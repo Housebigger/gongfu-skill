@@ -11,6 +11,7 @@ Reserved for future series indexes and overview notes.
 - `market_structure_and_cycles/010-real-production-before-policy-premium.md`
 
 Purpose:
+- how investors test defensive or stabilization narratives against real capital movement, deployment, control paths, and unresolved root risks
 - how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road
 - how investors judge policy themes by real production recovery, circulation repair, and economic carrying capacity
 - how investors judge whether legacy business assets can be reformed into real thesis support instead of treating old assets as either automatic moats or pure burdens
@@ -91,6 +92,7 @@ Purpose:
 - `research_and_thesis/093-investors-should-discount-control-party-narratives-that-label-contributors-as-risks.md`
 - `research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md`
 - `research_and_thesis/095-investors-should-test-agreement-announcements-against-execution-power-and-hidden-conflict.md`
+- `research_and_thesis/096-investors-should-test-defensive-narratives-against-capital-movement-deployments-and-real-targets.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors read negotiation windows through strength, bottom lines, and two scenarios instead of headline optimism

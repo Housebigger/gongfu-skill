@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 095《关于重庆谈判》(1945-10-17)
-- `inspiration_on_today_life/judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md`
-- `inspiration_on_software_development/team_process_and_quality/095-after-alignment-meetings-turn-paper-agreements-into-operational-reality.md`
-- `inspiration_on_running_a_company/strategy_and_execution/095-after-strategic-negotiation-execute-agreements-while-keeping-strength-and-hard-work.md`
-- `inspiration_on_stock_investing/research_and_thesis/095-investors-should-test-agreement-announcements-against-execution-power-and-hidden-conflict.md`
-- `inspiration_on_making_money/execution_and_delivery/095-after-deals-side-hustlers-must-convert-promises-into-delivery-cashflow-and-proof.md`
-- `inspiration_on_embedded_coding/team_process_and_knowledge/095-after-acceptance-documents-field-teams-must-convert-paper-closure-into-real-stability.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/095-after-school-mediation-turn-written-agreements-into-real-student-protection.md`
+### 096《国民党进攻的真相》(1945-11-05)
+- `inspiration_on_today_life/judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md`
+- `inspiration_on_software_development/team_process_and_quality/096-dont-let-management-call-an-expansion-just-restoring-flow-check-movements-rights-and-logs.md`
+- `inspiration_on_running_a_company/strategy_and_execution/096-when-a-powerful-partner-says-defensive-check-expansion-routes-and-hidden-war-goals.md`
+- `inspiration_on_stock_investing/research_and_thesis/096-investors-should-test-defensive-narratives-against-capital-movement-deployments-and-real-targets.md`
+- `inspiration_on_making_money/execution_and_delivery/096-when-platforms-say-they-are-just-restoring-order-check-who-is-moving-in-and-who-loses-control.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/096-when-vendors-say-they-are-just-restoring-operations-check-logs-access-paths-and-attack-surface.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/096-when-school-authority-says-it-is-just-restoring-order-check-who-is-pressuring-whom.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

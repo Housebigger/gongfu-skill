@@ -8,6 +8,7 @@ Theme: extract practical lessons for ordinary people living in an era of major c
 - `indexes/000-mao-anthology-sequential-reading-overview.md`
 
 Purpose:
+- how ordinary people detect expansion disguised as defense by checking movement, documents, key channels, and real beneficiaries
 - how ordinary people organize final victory windows by concentrating action, mobilizing hidden support, protecting the base, and preparing next-stage order
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - corpus-level overview
@@ -73,6 +74,7 @@ Purpose:
 - `judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md`
 - `judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`
 - `judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md`
+- `judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md`
 Purpose:
 - how ordinary people test paper agreements against reality, keep working, and carry heavy responsibilities after negotiation
 - how ordinary people negotiate for peace without stopping self-reliant preparation, bottom-line protection, and two-outcome planning

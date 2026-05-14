@@ -16,10 +16,10 @@
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：7 篇
 - `teacher_growth_and_backbone/`：12 篇
-- `school_governance_and_crisis_response/`：27 篇
+- `school_governance_and_crisis_response/`：28 篇
 - `school_coordination_and_organization/`：26 篇
 
-当前合计：77 篇 article-based 笔记，对应 76 篇毛文来源。
+当前合计：78 篇 article-based 笔记，对应 77 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -93,3 +93,4 @@
 - `school_governance_and_crisis_response/093-when-teachers-are-called-disobedient-protect-student-facts-history-and-professional-boundaries.md`
 - `school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md`
 - `school_governance_and_crisis_response/095-after-school-mediation-turn-written-agreements-into-real-student-protection.md`
+- `school_governance_and_crisis_response/096-when-school-authority-says-it-is-just-restoring-order-check-who-is-pressuring-whom.md`

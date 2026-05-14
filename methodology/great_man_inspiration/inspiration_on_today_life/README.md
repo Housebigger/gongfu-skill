@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：11 篇
-- `judgement_and_decision/`：30 篇
+- `judgement_and_decision/`：31 篇
 - `long_term_growth/`：10 篇
 - `cooperation_and_organization/`：44 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：95 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—095，顺序总览窗口也推进到 095。
+当前合计：96 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—096，顺序总览窗口也推进到 096。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`095《关于重庆谈判》`
-- 顺序总览窗口当前也推进到：`095《关于重庆谈判》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`096《国民党进攻的真相》`
+- today_life 主题当前实写覆盖到：`096《国民党进攻的真相》`
+- 顺序总览窗口当前也推进到：`096《国民党进攻的真相》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`097《减租和生产是保卫解放区的两件大事》`
 
 ## 使用提醒
 
@@ -79,3 +79,4 @@
 - `judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md`
 - `judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`
 - `judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md`
+- `judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md`

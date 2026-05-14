@@ -69,7 +69,9 @@ Purpose:
 - `judgement_and_decision/090-after-victory-judge-new-situation-without-illusions-and-prepare-to-defend-your-fruits.md`
 
 - `judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md`
+- `judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md`
 Purpose:
+- how ordinary people reject wrong orders by publicly stating facts, contribution, rights, boundaries, and workable conflict-prevention terms
 - how ordinary people detect conflict provoked through legality talk, enemy-friend reversal, and demands that real problem-solvers stand down
 - how ordinary people judge post-victory situations without illusions, protect fruits from powerful claimants, and prepare self-defense while still seeking cooperation
 - how ordinary people recognize and correct surrender thinking before external strong narratives dissolve their own judgment and principles

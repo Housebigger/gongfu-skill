@@ -25,12 +25,12 @@
   - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备、转机判断与困难阶段主动缩编
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
-- `team_process_and_knowledge/`：41 篇
+- `team_process_and_knowledge/`：42 篇
   - 面向协作边界、知识沉淀、纪律、保护建设者、复杂协作治理
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：63 篇 article-based 笔记，对应 62 篇毛文来源。
+当前合计：64 篇 article-based 笔记，对应 63 篇毛文来源。
 
 ## 推荐入口
 
@@ -89,3 +89,4 @@
 - `engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
 - `team_process_and_knowledge/090-after-engineering-victory-protect-field-fruits-and-keep-self-reliant-engineering-weapons.md`
 - `team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md`
+- `team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md`

@@ -150,7 +150,9 @@ Purpose:
 - `team_process_and_quality/090-after-release-victory-dont-let-strong-stakeholders-steal-the-fruits-and-dissolve-team-principles.md`
 
 - `team_process_and_quality/091-when-process-talk-starts-internal-war-check-who-reverses-bugs-and-builders.md`
+- `team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md`
 Purpose:
+- how software teams reject wrong engineering orders with system facts, user interest, operational boundaries, and concrete incident terms
 - how software teams detect process talk that protects bugs and bad processes while disarming real builders and starting internal war
 - how software teams protect release fruits, quality gates, and engineering weapons after major delivery wins when strong stakeholders try to rewrite ownership
 - how software teams reject surrender thinking that dissolves quality, technical judgment, and engineering leadership under external pressure

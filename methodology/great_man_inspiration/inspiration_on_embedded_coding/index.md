@@ -103,7 +103,9 @@ Focus:
 - `team_process_and_knowledge/090-after-engineering-victory-protect-field-fruits-and-keep-self-reliant-engineering-weapons.md`
 
 - `team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md`
+- `team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md`
 Focus:
+- how embedded field teams refuse wrong standby orders with logs, versions, test evidence, faulty parts, and acceptance rights
 - how embedded teams protect field facts, logs, versions, and repair authority when central authority calls real fixes illegal
 - how embedded teams protect field fruits, version/test discipline, logs, and engineering weapons after hardware or production breakthroughs
 - choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success

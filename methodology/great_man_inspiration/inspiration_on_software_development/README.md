@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：16 篇
-- `team_process_and_quality/`：58 篇
+- `team_process_and_quality/`：59 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：87 篇 article-based 笔记，对应 86 篇毛文来源。
+当前合计：88 篇 article-based 笔记，对应 87 篇毛文来源。
 
 ## 推荐入口
 
@@ -90,3 +90,4 @@
 - `iteration_and_delivery/089-when-release-victory-window-opens-concentrate-delivery-and-prepare-next-stage-order.md`
 - `team_process_and_quality/090-after-release-victory-dont-let-strong-stakeholders-steal-the-fruits-and-dissolve-team-principles.md`
 - `team_process_and_quality/091-when-process-talk-starts-internal-war-check-who-reverses-bugs-and-builders.md`
+- `team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md`

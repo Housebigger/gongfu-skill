@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—091。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—092。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 91 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 561 |
-| 顺序学习已连续覆盖范围 | 001—091 |
-| 顺序覆盖段标题核对结果 | 91/91 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 92 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 568 |
+| 顺序学习已连续覆盖范围 | 001—092 |
+| 顺序覆盖段标题核对结果 | 92/92 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 092《第十八集团军总司令给蒋介石的两个电报》 |
+| 顺序主线的下一篇 | 093《评蒋介石发言人谈话》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `091《蒋介石在挑动内战》`。
-- 在 `001—091` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `092《第十八集团军总司令给蒋介石的两个电报》`。
+- 在 `001—092` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
@@ -47,7 +47,8 @@
 - `089《对日寇的最后一战》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `090《抗日战争胜利后的时局和我们的方针》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `091《蒋介石在挑动内战》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `092《第十八集团军总司令给蒋介石的两个电报》`
+- `092《第十八集团军总司令给蒋介石的两个电报》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `093《评蒋介石发言人谈话》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -144,13 +145,14 @@
 | 089 | 《对日寇的最后一战》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450809.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 090 | 《抗日战争胜利后的时局和我们的方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450813.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 091 | 《蒋介石在挑动内战》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450813b.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 092 | 《第十八集团军总司令给蒋介石的两个电报》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194508.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—091 顺序主线已建立关联          [#####################################################################################]
-091 《蒋介石在挑动内战》 [DONE: 7/7]
-092 《第十八集团军总司令给蒋介石的两个电报》 [NEXT]
+001—092 顺序主线已建立关联          [#####################################################################################]
+092 《第十八集团军总司令给蒋介石的两个电报》 [DONE: 7/7]
+093 《评蒋介石发言人谈话》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -261,6 +263,7 @@
 | 089 | 《对日寇的最后一战》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450809.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/089-when-release-victory-window-opens-concentrate-delivery-and-prepare-next-stage-order.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/089-companies-must-use-decisive-windows-to-concentrate-attack-and-prepare-post-victory-order.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/089-at-final-catalyst-windows-check-execution-capacity-and-post-victory-risk.md) | [MM](./inspiration_on_making_money/execution_and_delivery/089-side-hustles-must-use-decisive-windows-to-deliver-and-secure-next-stage-order.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md) | 7 |
 | 090 | 《抗日战争胜利后的时局和我们的方针》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450813.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/090-after-victory-judge-new-situation-without-illusions-and-prepare-to-defend-your-fruits.md) | [SD](./inspiration_on_software_development/team_process_and_quality/090-after-release-victory-dont-let-strong-stakeholders-steal-the-fruits-and-dissolve-team-principles.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/090-after-market-victory-protect-the-fruits-from-powerful-claimants-and-build-self-reliant-strategy.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/090-after-catalyst-victory-check-who-gets-the-fruits-and-whether-self-reliant-power-exists.md) | [MM](./inspiration_on_making_money/execution_and_delivery/090-after-side-hustle-breakthrough-protect-income-fruits-and-dont-surrender-your-operating-weapons.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/090-after-engineering-victory-protect-field-fruits-and-keep-self-reliant-engineering-weapons.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/090-after-school-turnaround-protect-educational-fruits-and-prepare-for-new-governance-struggles.md) | 7 |
 | 091 | 《蒋介石在挑动内战》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450813b.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md) | [SD](./inspiration_on_software_development/team_process_and_quality/091-when-process-talk-starts-internal-war-check-who-reverses-bugs-and-builders.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/091-when-legalistic-management-starts-company-civil-war-protect-real-builders-and-fruits.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/091-when-management-uses-compliance-talk-to-reallocate-fruits-watch-governance-civil-war.md) | [MM](./inspiration_on_making_money/execution_and_delivery/091-when-platform-or-partner-calls-your-delivery-illegal-watch-for-side-hustle-civil-war.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/091-when-school-authority-calls-real-education-action-illegal-stop-governance-civil-war.md) | 7 |
+| 092 | 《第十八集团军总司令给蒋介石的两个电报》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194508.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md) | [SD](./inspiration_on_software_development/team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md) | [MM](./inspiration_on_making_money/execution_and_delivery/092-side-hustlers-should-answer-wrong-commands-with-delivery-facts-rights-and-clear-terms.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/092-teachers-should-answer-wrong-school-orders-with-student-facts-rights-and-governance-terms.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1277,10 +1280,22 @@
   - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/091-when-authority-calls-field-fixes-illegal-protect-engineering-facts-from-internal-war.md`
   - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/091-when-school-authority-calls-real-education-action-illegal-stop-governance-civil-war.md`
 
+### 092《第十八集团军总司令给蒋介石的两个电报》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 3 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194508.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/092-side-hustlers-should-answer-wrong-commands-with-delivery-facts-rights-and-clear-terms.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/092-teachers-should-answer-wrong-school-orders-with-student-facts-rights-and-governance-terms.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`092《第十八集团军总司令给蒋介石的两个电报》`
+- 如果要从当前边界继续向下推进，下一篇应是：`093《评蒋介石发言人谈话》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

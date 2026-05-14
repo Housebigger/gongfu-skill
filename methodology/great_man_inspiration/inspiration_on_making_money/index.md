@@ -140,3 +140,4 @@ Additional focus:
 ### execution_and_delivery
 - `execution_and_delivery/090-after-side-hustle-breakthrough-protect-income-fruits-and-dont-surrender-your-operating-weapons.md`
 - `execution_and_delivery/091-when-platform-or-partner-calls-your-delivery-illegal-watch-for-side-hustle-civil-war.md`
+- `execution_and_delivery/092-side-hustlers-should-answer-wrong-commands-with-delivery-facts-rights-and-clear-terms.md`

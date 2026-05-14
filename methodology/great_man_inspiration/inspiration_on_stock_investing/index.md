@@ -87,7 +87,9 @@ Purpose:
 - `research_and_thesis/090-after-catalyst-victory-check-who-gets-the-fruits-and-whether-self-reliant-power-exists.md`
 
 - `research_and_thesis/091-when-management-uses-compliance-talk-to-reallocate-fruits-watch-governance-civil-war.md`
+- `research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md`
 Purpose:
+- how investors judge claim rights and fruit distribution when strong actors try to monopolize post-catalyst gains
 - how investors detect governance civil war when management uses compliance talk to move fruits away from real value creators and shareholders
 - how investors research post-catalyst fruit distribution, governance risk, and whether the company has self-reliant operating power
 - how investors study final-catalyst windows by checking execution capacity, hidden operating power, basic financial discipline, and post-victory governance risk

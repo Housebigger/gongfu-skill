@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`091《蒋介石在挑动内战》`
-- 如果继续顺序推进，下一篇应是：`092《第十八集团军总司令给蒋介石的两个电报》`
+- 当前顺序覆盖已推进到：`092《第十八集团军总司令给蒋介石的两个电报》`
+- 如果继续顺序推进，下一篇应是：`093《评蒋介石发言人谈话》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 092《第十八集团军总司令给蒋介石的两个电报》
+  - `../judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/092-side-hustlers-should-answer-wrong-commands-with-delivery-facts-rights-and-clear-terms.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/092-teachers-should-answer-wrong-school-orders-with-student-facts-rights-and-governance-terms.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“拒绝错误命令、指出双标矛盾、以事实贡献证明主张权、提出清单式要求、用边界方案避免内战”转译为现代治理方法：无论普通生活、软件团队、公司经营、投资研究、副业、嵌入式现场还是学校治理，面对让真实建设者原地待命、让强势摘桃者接收果实的命令，都要用事实、权利、贡献、条件和可执行分工公开回应。
 
 - 091《蒋介石在挑动内战》
   - `../judgement_and_decision/091-when-someone-uses-legality-talk-to-start-conflict-see-who-reverses-enemy-and-friend.md`

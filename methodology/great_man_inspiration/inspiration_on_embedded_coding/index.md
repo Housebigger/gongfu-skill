@@ -106,7 +106,9 @@ Focus:
 - `team_process_and_knowledge/092-field-teams-should-refuse-wrong-standby-orders-with-logs-versions-and-acceptance-rights.md`
 - `team_process_and_knowledge/093-when-field-engineers-are-called-disobedient-preserve-logs-failure-history-and-self-defense-boundaries.md`
 - `team_process_and_knowledge/094-field-teams-should-negotiate-acceptance-while-keeping-tests-logs-and-fallbacks.md`
+- `team_process_and_knowledge/095-after-acceptance-documents-field-teams-must-convert-paper-closure-into-real-stability.md`
 Focus:
+- how embedded field teams convert acceptance documents into real stability through logs, testing, versions, and onsite problem-solving
 - how embedded field teams negotiate acceptance while keeping tests, logs, versions, and fallback paths
 - how embedded field engineers preserve logs, failure history, and safety boundaries when they are called disobedient
 - how embedded field teams refuse wrong standby orders with logs, versions, test evidence, faulty parts, and acceptance rights

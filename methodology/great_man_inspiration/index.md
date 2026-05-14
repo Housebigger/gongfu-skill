@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 094《中共中央关于同国民党进行和平谈判的通知》(1945-08-26)
-- `inspiration_on_today_life/judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`
-- `inspiration_on_software_development/team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
-- `inspiration_on_running_a_company/strategy_and_execution/094-negotiate-cooperation-while-keeping-strength-bottom-line-and-two-outcome-plans.md`
-- `inspiration_on_stock_investing/research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md`
-- `inspiration_on_making_money/execution_and_delivery/094-side-hustlers-can-negotiate-but-must-keep-customers-cashflow-and-fallbacks.md`
-- `inspiration_on_embedded_coding/team_process_and_knowledge/094-field-teams-should-negotiate-acceptance-while-keeping-tests-logs-and-fallbacks.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md`
+### 095《关于重庆谈判》(1945-10-17)
+- `inspiration_on_today_life/judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md`
+- `inspiration_on_software_development/team_process_and_quality/095-after-alignment-meetings-turn-paper-agreements-into-operational-reality.md`
+- `inspiration_on_running_a_company/strategy_and_execution/095-after-strategic-negotiation-execute-agreements-while-keeping-strength-and-hard-work.md`
+- `inspiration_on_stock_investing/research_and_thesis/095-investors-should-test-agreement-announcements-against-execution-power-and-hidden-conflict.md`
+- `inspiration_on_making_money/execution_and_delivery/095-after-deals-side-hustlers-must-convert-promises-into-delivery-cashflow-and-proof.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/095-after-acceptance-documents-field-teams-must-convert-paper-closure-into-real-stability.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/095-after-school-mediation-turn-written-agreements-into-real-student-protection.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

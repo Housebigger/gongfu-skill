@@ -72,7 +72,9 @@ Purpose:
 - `judgement_and_decision/092-when-you-reject-a-wrong-order-state-facts-rights-and-boundaries-publicly.md`
 - `judgement_and_decision/093-when-power-calls-builders-public-enemies-trace-facts-history-and-strength.md`
 - `judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`
+- `judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md`
 Purpose:
+- how ordinary people test paper agreements against reality, keep working, and carry heavy responsibilities after negotiation
 - how ordinary people negotiate for peace without stopping self-reliant preparation, bottom-line protection, and two-outcome planning
 - how ordinary people respond when power labels builders as public enemies by tracing facts, history, interests, and self-defense strength
 - how ordinary people reject wrong orders by publicly stating facts, contribution, rights, boundaries, and workable conflict-prevention terms

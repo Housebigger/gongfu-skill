@@ -162,3 +162,4 @@ This folder focuses on:
 - `strategy_and_execution/092-when-facing-wrong-executive-orders-state-contribution-rights-and-negotiation-conditions.md`
 - `strategy_and_execution/093-counter-spokesperson-narratives-that-brand-value-creators-as-enemies.md`
 - `strategy_and_execution/094-negotiate-cooperation-while-keeping-strength-bottom-line-and-two-outcome-plans.md`
+- `strategy_and_execution/095-after-strategic-negotiation-execute-agreements-while-keeping-strength-and-hard-work.md`

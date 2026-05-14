@@ -90,7 +90,9 @@ Purpose:
 - `research_and_thesis/092-investors-should-watch-who-has-claim-rights-when-strong-actors-try-to-monopolize-fruits.md`
 - `research_and_thesis/093-investors-should-discount-control-party-narratives-that-label-contributors-as-risks.md`
 - `research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md`
+- `research_and_thesis/095-investors-should-test-agreement-announcements-against-execution-power-and-hidden-conflict.md`
 Purpose:
+- how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors read negotiation windows through strength, bottom lines, and two scenarios instead of headline optimism
 - how investors discount control-party narratives that label value contributors as risks while reallocating fruits
 - how investors judge claim rights and fruit distribution when strong actors try to monopolize post-catalyst gains

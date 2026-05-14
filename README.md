@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：582 篇
-- 当前已建立原文关联的毛文标题数：94 篇
-  - 顺序主线：001—094
-  - 当前最新纳入：094《中共中央关于同国民党进行和平谈判的通知》
-- 顺序主线的下一篇：095《关于重庆谈判》
+- 当前已建立 `原文对应` 的主题转译文件：589 篇
+- 当前已建立原文关联的毛文标题数：95 篇
+  - 顺序主线：001—095
+  - 当前最新纳入：095《关于重庆谈判》
+- 顺序主线的下一篇：096《国民党进攻的真相》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -85,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 094，下一篇是 095
+2. 当前边界是 095，下一篇是 096
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

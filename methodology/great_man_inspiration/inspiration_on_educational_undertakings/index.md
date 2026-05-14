@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-094篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-095篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -62,6 +62,7 @@
 - `school_governance_and_crisis_response/092-teachers-should-answer-wrong-school-orders-with-student-facts-rights-and-governance-terms.md`
 - `school_governance_and_crisis_response/093-when-teachers-are-called-disobedient-protect-student-facts-history-and-professional-boundaries.md`
 - `school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md`
+- `school_governance_and_crisis_response/095-after-school-mediation-turn-written-agreements-into-real-student-protection.md`
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
 - [021 教师团队不能用面子代替原则](school_coordination_and_organization/021-dont-trade-face-for-principles-in-teacher-teams.md)

@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：16 篇
-- `team_process_and_quality/`：61 篇
+- `team_process_and_quality/`：62 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：90 篇 article-based 笔记，对应 89 篇毛文来源。
+当前合计：91 篇 article-based 笔记，对应 90 篇毛文来源。
 
 ## 推荐入口
 
@@ -93,3 +93,4 @@
 - `team_process_and_quality/092-reject-wrong-engineering-orders-with-facts-rights-and-operational-boundaries.md`
 - `team_process_and_quality/093-when-management-labels-responders-as-blockers-counter-with-history-user-interest-and-self-defense.md`
 - `team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
+- `team_process_and_quality/095-after-alignment-meetings-turn-paper-agreements-into-operational-reality.md`

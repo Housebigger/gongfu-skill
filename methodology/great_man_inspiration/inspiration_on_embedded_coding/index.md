@@ -100,7 +100,10 @@ Focus:
 - `team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
 - `team_process_and_knowledge/078-dont-call-field-feedback-rumors-answer-real-engineering-risks-and-close-the-loop.md`
 - `team_process_and_knowledge/079-dont-replace-field-legacy-all-at-once-reform-old-tools-and-people-into-delivery-capacity.md`
+- `team_process_and_knowledge/090-after-engineering-victory-protect-field-fruits-and-keep-self-reliant-engineering-weapons.md`
+
 Focus:
+- how embedded teams protect field fruits, version/test discipline, logs, and engineering weapons after hardware or production breakthroughs
 - choosing reliable delivery at embedded project turning points instead of mistaking new boards, new parts, or customer windows for automatic success
 - knowledge sedimentation
 - retrospective quality

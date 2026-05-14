@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 089《对日寇的最后一战》(1945-08-09)
-- `inspiration_on_today_life/cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md`
-- `inspiration_on_software_development/iteration_and_delivery/089-when-release-victory-window-opens-concentrate-delivery-and-prepare-next-stage-order.md`
-- `inspiration_on_running_a_company/strategy_and_execution/089-companies-must-use-decisive-windows-to-concentrate-attack-and-prepare-post-victory-order.md`
-- `inspiration_on_stock_investing/research_and_thesis/089-at-final-catalyst-windows-check-execution-capacity-and-post-victory-risk.md`
-- `inspiration_on_making_money/execution_and_delivery/089-side-hustles-must-use-decisive-windows-to-deliver-and-secure-next-stage-order.md`
-- `inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
+### 090《抗日战争胜利后的时局和我们的方针》(1945-08-13)
+- `inspiration_on_today_life/judgement_and_decision/090-after-victory-judge-new-situation-without-illusions-and-prepare-to-defend-your-fruits.md`
+- `inspiration_on_software_development/team_process_and_quality/090-after-release-victory-dont-let-strong-stakeholders-steal-the-fruits-and-dissolve-team-principles.md`
+- `inspiration_on_running_a_company/strategy_and_execution/090-after-market-victory-protect-the-fruits-from-powerful-claimants-and-build-self-reliant-strategy.md`
+- `inspiration_on_stock_investing/research_and_thesis/090-after-catalyst-victory-check-who-gets-the-fruits-and-whether-self-reliant-power-exists.md`
+- `inspiration_on_making_money/execution_and_delivery/090-after-side-hustle-breakthrough-protect-income-fruits-and-dont-surrender-your-operating-weapons.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/090-after-engineering-victory-protect-field-fruits-and-keep-self-reliant-engineering-weapons.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/090-after-school-turnaround-protect-educational-fruits-and-prepare-for-new-governance-struggles.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

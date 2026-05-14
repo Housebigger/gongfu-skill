@@ -66,8 +66,10 @@ Purpose:
 - `judgement_and_decision/086-dont-be-fooled-by-fake-consultation-and-procedure-theater.md`
 - `judgement_and_decision/087-see-the-danger-when-external-backing-strengthens-bad-forces.md`
 - `judgement_and_decision/088-recognize-and-correct-surrender-thinking-before-it-dissolves-your-organization.md`
+- `judgement_and_decision/090-after-victory-judge-new-situation-without-illusions-and-prepare-to-defend-your-fruits.md`
 
 Purpose:
+- how ordinary people judge post-victory situations without illusions, protect fruits from powerful claimants, and prepare self-defense while still seeking cooperation
 - how ordinary people recognize and correct surrender thinking before external strong narratives dissolve their own judgment and principles
 - how ordinary people recognize danger when external backing strengthens bad actors and pushes a situation toward conflict
 - how ordinary people distinguish real reform from fake consultation, procedure theater, and coordinated double acts

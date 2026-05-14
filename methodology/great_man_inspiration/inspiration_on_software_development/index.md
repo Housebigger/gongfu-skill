@@ -147,8 +147,10 @@ Purpose:
 - `team_process_and_quality/086-dont-use-governance-theater-to-replace-real-team-power-and-feedback.md`
 - `team_process_and_quality/087-external-support-that-strengthens-bad-processes-will-create-project-crisis.md`
 - `team_process_and_quality/088-teams-must-reject-surrender-thinking-that-dissolves-quality-and-technical-leadership.md`
+- `team_process_and_quality/090-after-release-victory-dont-let-strong-stakeholders-steal-the-fruits-and-dissolve-team-principles.md`
 
 Purpose:
+- how software teams protect release fruits, quality gates, and engineering weapons after major delivery wins when strong stakeholders try to rewrite ownership
 - how software teams reject surrender thinking that dissolves quality, technical judgment, and engineering leadership under external pressure
 - how software teams keep external support from strengthening bad processes and creating project crisis
 - how software teams prevent governance theater from replacing real team power, feedback rights, and quality accountability

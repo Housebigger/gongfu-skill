@@ -9,11 +9,11 @@
 
 ## 当前实际结构
 
-- `organization_design/`：15 篇
+- `organization_design/`：16 篇
 - `leadership_and_talent/`：7 篇
-- `strategy_and_execution/`：62 篇
+- `strategy_and_execution/`：64 篇
 
-当前合计：86 篇 article-based 笔记，对应 85 篇毛文来源。
+当前合计：87 篇 article-based 笔记，对应 86 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -71,3 +71,4 @@
 - `strategy_and_execution/087-dangerous-strategy-is-supporting-backward-forces-against-real-builders.md`
 - `strategy_and_execution/088-companies-must-reject-strategy-that-surrenders-to-strong-external-capital-narratives.md`
 - `strategy_and_execution/089-companies-must-use-decisive-windows-to-concentrate-attack-and-prepare-post-victory-order.md`
+- `strategy_and_execution/090-after-market-victory-protect-the-fruits-from-powerful-claimants-and-build-self-reliant-strategy.md`

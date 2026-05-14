@@ -84,8 +84,10 @@ Purpose:
 - `research_and_thesis/087-avoid-companies-where-capital-backs-bad-governance-against-real-stakeholders.md`
 - `research_and_thesis/088-investors-should-detect-companies-that-surrender-their-thesis-to-capital-and-policy-narratives.md`
 - `research_and_thesis/089-at-final-catalyst-windows-check-execution-capacity-and-post-victory-risk.md`
+- `research_and_thesis/090-after-catalyst-victory-check-who-gets-the-fruits-and-whether-self-reliant-power-exists.md`
 
 Purpose:
+- how investors research post-catalyst fruit distribution, governance risk, and whether the company has self-reliant operating power
 - how investors study final-catalyst windows by checking execution capacity, hidden operating power, basic financial discipline, and post-victory governance risk
 - how investors detect companies that surrender real operating logic to capital, policy, and market narratives
 - how investors identify when capital, policy, or strategic backing strengthens bad governance instead of real value creation

@@ -16,10 +16,10 @@
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：7 篇
 - `teacher_growth_and_backbone/`：12 篇
-- `school_governance_and_crisis_response/`：21 篇
-- `school_coordination_and_organization/`：25 篇
+- `school_governance_and_crisis_response/`：22 篇
+- `school_coordination_and_organization/`：26 篇
 
-当前合计：71 篇 article-based 笔记，对应 70 篇毛文来源。
+当前合计：72 篇 article-based 笔记，对应 71 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -87,3 +87,4 @@
 - `school_governance_and_crisis_response/087-schools-must-not-let-external-backing-strengthen-harmful-governance.md`
 - `school_governance_and_crisis_response/088-schools-must-reject-surrender-thinking-that-gives-up-educational-principles.md`
 - `school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
+- `school_governance_and_crisis_response/090-after-school-turnaround-protect-educational-fruits-and-prepare-for-new-governance-struggles.md`

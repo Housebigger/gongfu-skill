@@ -136,3 +136,6 @@ Additional focus:
 - `execution_and_delivery/087-side-hustles-must-avoid-platform-policies-that-back-bad-operators.md`
 - `execution_and_delivery/088-side-hustles-must-not-surrender-delivery-judgement-to-platform-and-capital-narratives.md`
 - `execution_and_delivery/089-side-hustles-must-use-decisive-windows-to-deliver-and-secure-next-stage-order.md`
+
+### execution_and_delivery
+- `execution_and_delivery/090-after-side-hustle-breakthrough-protect-income-fruits-and-dont-surrender-your-operating-weapons.md`

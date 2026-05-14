@@ -155,3 +155,6 @@ This folder focuses on:
 - `strategy_and_execution/087-dangerous-strategy-is-supporting-backward-forces-against-real-builders.md`
 - `strategy_and_execution/088-companies-must-reject-strategy-that-surrenders-to-strong-external-capital-narratives.md`
 - `strategy_and_execution/089-companies-must-use-decisive-windows-to-concentrate-attack-and-prepare-post-victory-order.md`
+
+### strategy_and_execution
+- `strategy_and_execution/090-after-market-victory-protect-the-fruits-from-powerful-claimants-and-build-self-reliant-strategy.md`

@@ -100,6 +100,7 @@ Purpose:
 - `research_and_thesis/101-investors-should-separate-temporary-retreats-from-final-defeat-under-full-scale-attack.md`
 - `research_and_thesis/102-investors-should-look-through-paper-tigers-and-super-weapons-to-real-strength.md`
 - `research_and_thesis/104-investors-must-look-through-mediation-theater-and-check-who-really-controls-the-companys-future.md`
+- `research_and_thesis/105-investors-should-judge-stage-progress-by-facts-structure-and-next-key-milestones.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

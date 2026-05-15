@@ -11,9 +11,9 @@
 
 - `organization_design/`：16 篇
 - `leadership_and_talent/`：7 篇
-- `strategy_and_execution/`：78 篇
+- `strategy_and_execution/`：79 篇
 
-当前合计：101 篇 article-based 笔记，对应 101 篇毛文来源。
+当前合计：102 篇 article-based 笔记，对应 102 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -86,3 +86,4 @@
 - `strategy_and_execution/102-companies-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
 - `strategy_and_execution/103-companies-must-stop-fighting-on-all-fronts-and-concentrate-on-one-decisive-market-breakthrough.md`
 - `strategy_and_execution/104-companies-must-see-through-neutral-mediation-theater-and-protect-the-right-to-decide-their-future.md`
+- `strategy_and_execution/105-company-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-battles.md`

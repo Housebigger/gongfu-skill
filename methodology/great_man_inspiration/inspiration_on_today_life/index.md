@@ -30,11 +30,6 @@ Purpose:
 - `survival_strategy/085-build-self-supply-and-self-correction-before-the-big-battle.md`
 - `survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
 - `survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`
-- `judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md`
-- `judgement_and_decision/101-when-under-full-scale-attack-dont-confuse-temporary-losses-with-final-defeat.md`
-- `judgement_and_decision/102-dont-let-paper-tigers-and-scary-weapons-overrule-your-judgement.md`
-- `judgement_and_decision/103-dont-fight-every-problem-at-once-concentrate-on-the-key-breakthrough.md`
-- `judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`
 
 Purpose:
 - how ordinary people survive hard periods by building self-supply lines and self-correction habits instead of waiting for external rescue
@@ -83,6 +78,13 @@ Purpose:
 - `judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md`
 - `judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md`
 - `judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md`
+- `judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md`
+- `judgement_and_decision/101-when-under-full-scale-attack-dont-confuse-temporary-losses-with-final-defeat.md`
+- `judgement_and_decision/102-dont-let-paper-tigers-and-scary-weapons-overrule-your-judgement.md`
+- `judgement_and_decision/103-dont-fight-every-problem-at-once-concentrate-on-the-key-breakthrough.md`
+- `judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`
+- `judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md`
+
 Purpose:
 - how ordinary people test paper agreements against reality, keep working, and carry heavy responsibilities after negotiation
 - how ordinary people negotiate for peace without stopping self-reliant preparation, bottom-line protection, and two-outcome planning

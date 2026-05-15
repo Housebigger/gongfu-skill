@@ -17,9 +17,9 @@
 ## 当前实际结构
 
 - `monetization_models/`：2 篇
-- `execution_and_delivery/`：90 篇
+- `execution_and_delivery/`：91 篇
 
-当前合计：92 篇 article-based 笔记，对应 92 篇毛文来源。
+当前合计：93 篇 article-based 笔记，对应 93 篇毛文来源。
 
 说明：
 - 早期文档里曾把这里当作“reserved theme”描述，但当前仓库里它已经是一个内容相当完整的成熟主题，不再只是预留目录。
@@ -85,3 +85,4 @@
 - `execution_and_delivery/102-side-hustlers-must-see-through-paper-tigers-and-super-weapons-to-real-demand.md`
 - `execution_and_delivery/103-side-hustlers-should-stop-spreading-across-every-front-and-concentrate-on-one-winning-offer.md`
 - `execution_and_delivery/104-side-hustlers-must-look-through-mediation-talk-and-protect-the-right-to-decide-their-own-future.md`
+- `execution_and_delivery/105-side-hustle-reviews-must-validate-confidence-with-facts-structure-and-next-key-goals.md`

@@ -389,6 +389,15 @@ Current contents:
 - `inspiration_on_embedded_coding/team_process_and_knowledge/104-embedded-teams-must-look-through-mediation-theater-and-protect-the-right-to-decide-engineering-facts.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/104-schools-must-look-through-mediation-theater-and-protect-the-right-to-decide-educational-facts-and-future.md`
 
+### 105《三个月总结》(1946-10)
+- `inspiration_on_today_life/judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md`
+- `inspiration_on_software_development/iteration_and_delivery/105-software-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-metrics.md`
+- `inspiration_on_running_a_company/strategy_and_execution/105-company-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-battles.md`
+- `inspiration_on_stock_investing/research_and_thesis/105-investors-should-judge-stage-progress-by-facts-structure-and-next-key-milestones.md`
+- `inspiration_on_making_money/execution_and_delivery/105-side-hustle-reviews-must-validate-confidence-with-facts-structure-and-next-key-goals.md`
+- `inspiration_on_embedded_coding/engineering_strategy/105-embedded-stage-reviews-must-validate-confidence-with-facts-structure-and-next-main-targets.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/105-school-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-tasks.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

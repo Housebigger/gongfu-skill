@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：13 篇
-- `judgement_and_decision/`：36 篇
+- `judgement_and_decision/`：37 篇
 - `long_term_growth/`：11 篇
 - `cooperation_and_organization/`：44 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：104 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—104，顺序总览窗口也推进到 104。
+当前合计：105 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—105，顺序总览窗口也推进到 105。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`104《美国“调解”真相和中国内战前途》`
-- 顺序总览窗口当前也推进到：`104《美国“调解”真相和中国内战前途》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`105《三个月总结》`
+- today_life 主题当前实写覆盖到：`105《三个月总结》`
+- 顺序总览窗口当前也推进到：`105《三个月总结》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`106《迎接中国革命的新高潮》`
 
 ## 使用提醒
 
@@ -88,3 +88,4 @@
 - `judgement_and_decision/102-dont-let-paper-tigers-and-scary-weapons-overrule-your-judgement.md`
 - `judgement_and_decision/103-dont-fight-every-problem-at-once-concentrate-on-the-key-breakthrough.md`
 - `judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`
+- `judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md`

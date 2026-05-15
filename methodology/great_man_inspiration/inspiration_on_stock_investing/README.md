@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：81 篇
+- `research_and_thesis/`：82 篇
 - `risk_and_position_management/`：8 篇
 - `trading_and_execution/`：3 篇
 - `indexes/`：当前预留
 
-当前合计：93 篇 article-based 笔记，对应 93 篇毛文来源。
+当前合计：94 篇 article-based 笔记，对应 94 篇毛文来源。
 
 ## 子目录速览
 
@@ -91,4 +91,5 @@
 - `research_and_thesis/101-investors-should-separate-temporary-retreats-from-final-defeat-under-full-scale-attack.md`
 - `research_and_thesis/102-investors-should-look-through-paper-tigers-and-super-weapons-to-real-strength.md`
 - `research_and_thesis/104-investors-must-look-through-mediation-theater-and-check-who-really-controls-the-companys-future.md`
+- `research_and_thesis/105-investors-should-judge-stage-progress-by-facts-structure-and-next-key-milestones.md`
 - `trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`

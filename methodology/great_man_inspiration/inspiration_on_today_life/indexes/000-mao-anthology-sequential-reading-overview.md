@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`104《美国“调解”真相和中国内战前途》`
-- 如果继续顺序推进，下一篇应是：`105《三个月总结》`
+- 当前顺序覆盖已推进到：`105《三个月总结》`
+- 如果继续顺序推进，下一篇应是：`106《迎接中国革命的新高潮》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -468,6 +468,16 @@
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
 
+
+- 105《三个月总结》
+  - `../judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/105-software-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-metrics.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/105-company-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-battles.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/105-investors-should-judge-stage-progress-by-facts-structure-and-next-key-milestones.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/105-side-hustle-reviews-must-validate-confidence-with-facts-structure-and-next-key-goals.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/105-embedded-stage-reviews-must-validate-confidence-with-facts-structure-and-next-main-targets.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/105-school-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-tasks.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“阶段复盘要用事实校验信心、用敌我结构判断前途、围绕下一步关键目标重组资源、承认损失但不把暂时失地看成终局，并把训练、生产、财政、土地改革、地方武装与群众工作统成一套整体推进”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：做阶段总结不能只安慰自己，而要用硬事实校验方向，用结构重新判断局势，再把下一阶段力量真正压到能改写全局的关键任务上。
 
 - 104《美国“调解”真相和中国内战前途》
   - `../judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`

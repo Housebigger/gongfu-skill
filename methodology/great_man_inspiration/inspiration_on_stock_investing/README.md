@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：76 篇
+- `research_and_thesis/`：77 篇
 - `risk_and_position_management/`：8 篇
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：87 篇 article-based 笔记，对应 86 篇毛文来源。
+当前合计：88 篇 article-based 笔记，对应 88 篇毛文来源。
 
 ## 子目录速览
 
@@ -86,3 +86,4 @@
 - `research_and_thesis/096-investors-should-test-defensive-narratives-against-capital-movement-deployments-and-real-targets.md`
 - `research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
 - `research_and_thesis/098-investors-should-favor-companies-that-keep-main-task-local-backbone-and-long-term-discipline.md`
+- `research_and_thesis/099-investors-should-watch-whether-companies-build-real-base-areas-before-center-expansion.md`

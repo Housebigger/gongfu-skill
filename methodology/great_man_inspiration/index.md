@@ -334,6 +334,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/098-embedded-teams-in-hard-years-need-main-battle-plans-local-backbone-and-long-support.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/098-schools-in-hard-years-must-focus-on-main-work-build-local-backbone-and-plan-long.md`
 
+### 099《建立巩固的东北根据地》(1945-12-28)
+- `inspiration_on_today_life/survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`
+- `inspiration_on_software_development/iteration_and_delivery/099-build-stable-project-base-areas-before-fighting-for-platform-centers.md`
+- `inspiration_on_running_a_company/strategy_and_execution/099-companies-must-build-stable-base-areas-before-competing-for-central-markets.md`
+- `inspiration_on_stock_investing/research_and_thesis/099-investors-should-watch-whether-companies-build-real-base-areas-before-center-expansion.md`
+- `inspiration_on_making_money/execution_and_delivery/099-side-hustles-need-stable-base-areas-before-chasing-central-platforms.md`
+- `inspiration_on_embedded_coding/engineering_strategy/099-embedded-teams-need-stable-field-base-areas-before-central-platform-battles.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/099-schools-need-stable-education-base-areas-before-chasing-central-recognition.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

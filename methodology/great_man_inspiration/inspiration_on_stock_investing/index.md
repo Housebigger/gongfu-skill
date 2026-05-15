@@ -95,6 +95,7 @@ Purpose:
 - `research_and_thesis/096-investors-should-test-defensive-narratives-against-capital-movement-deployments-and-real-targets.md`
 - `research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
 - `research_and_thesis/098-investors-should-favor-companies-that-keep-main-task-local-backbone-and-long-term-discipline.md`
+- `research_and_thesis/099-investors-should-watch-whether-companies-build-real-base-areas-before-center-expansion.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors read negotiation windows through strength, bottom lines, and two scenarios instead of headline optimism

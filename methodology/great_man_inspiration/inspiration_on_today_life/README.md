@@ -8,14 +8,14 @@
 
 ## 当前实际结构
 
-- `survival_strategy/`：12 篇
+- `survival_strategy/`：13 篇
 - `judgement_and_decision/`：31 篇
 - `long_term_growth/`：11 篇
 - `cooperation_and_organization/`：44 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：98 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—098，顺序总览窗口也推进到 098。
+当前合计：99 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—099，顺序总览窗口也推进到 099。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`098《一九四六年解放区工作的方针》`
-- 顺序总览窗口当前也推进到：`098《一九四六年解放区工作的方针》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`099《建立巩固的东北根据地》`
+- today_life 主题当前实写覆盖到：`099《建立巩固的东北根据地》`
+- 顺序总览窗口当前也推进到：`099《建立巩固的东北根据地》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`100《关于目前国际形势的几点估计》`
 
 ## 使用提醒
 
@@ -81,4 +81,5 @@
 - `judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md`
 - `judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md`
 - `survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
+- `survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`
 - `long_term_growth/098-in-hard-years-focus-on-main-task-build-local-backbone-and-plan-long.md`

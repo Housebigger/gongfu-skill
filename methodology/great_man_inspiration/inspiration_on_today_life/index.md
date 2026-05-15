@@ -28,6 +28,7 @@ Purpose:
 - `survival_strategy/081-even-in-guerrilla-zones-build-production-from-fragments-and-protected-windows.md`
 - `survival_strategy/085-build-self-supply-and-self-correction-before-the-big-battle.md`
 - `survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
+- `survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`
 
 Purpose:
 - how ordinary people survive hard periods by building self-supply lines and self-correction habits instead of waiting for external rescue

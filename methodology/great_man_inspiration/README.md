@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—103。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—104。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 103 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 645 |
-| 顺序学习已连续覆盖范围 | 001—103 |
-| 顺序覆盖段标题核对结果 | 103/103 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 104 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 652 |
+| 顺序学习已连续覆盖范围 | 001—104 |
+| 顺序覆盖段标题核对结果 | 104/104 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 104《美国“调解”真相和中国内战前途》 |
+| 顺序主线的下一篇 | 105《三个月总结》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `103《集中优势兵力，各个歼灭敌人》`。
-- 在 `001—103` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `104《美国“调解”真相和中国内战前途》`。
+- 在 `001—104` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
@@ -59,7 +59,8 @@
 - `101《以自卫战争粉碎蒋介石的进攻》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `102《和美国记者安娜·刘易斯·斯特朗的谈话》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `103《集中优势兵力，各个歼灭敌人》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `104《美国“调解”真相和中国内战前途》`
+- `104《美国“调解”真相和中国内战前途》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `105《三个月总结》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -169,13 +170,14 @@
 | 101 | 《以自卫战争粉碎蒋介石的进攻》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460720.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 102 | 《和美国记者安娜·刘易斯·斯特朗的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 103 | 《集中优势兵力，各个歼灭敌人》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460916.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 104 | 《美国“调解”真相和中国内战前途》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460929.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—103 顺序主线已建立关联        [#######################################################################################################]
-103 《集中优势兵力，各个歼灭敌人》 [DONE: 7/7]
-104 《美国“调解”真相和中国内战前途》 [NEXT]
+001—104 顺序主线已建立关联        [########################################################################################################]
+104 《美国“调解”真相和中国内战前途》 [DONE: 7/7]
+105 《三个月总结》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -1458,10 +1460,23 @@
   - EC: `inspiration_on_embedded_coding/engineering_strategy/103-embedded-teams-should-stop-fighting-every-bug-at-once-and-concentrate-on-one-decisive-field-breakthrough.md`
   - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/103-schools-should-stop-fighting-every-problem-at-once-and-concentrate-on-one-decisive-education-breakthrough.md`
 
+
+## 104 《美国“调解”真相和中国内战前途》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 15 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460929.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/104-software-teams-must-look-through-neutral-mediation-talk-and-check-who-controls-the-project-future.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/104-companies-must-see-through-neutral-mediation-theater-and-protect-the-right-to-decide-their-future.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/104-investors-must-look-through-mediation-theater-and-check-who-really-controls-the-companys-future.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/104-side-hustlers-must-look-through-mediation-talk-and-protect-the-right-to-decide-their-own-future.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/104-embedded-teams-must-look-through-mediation-theater-and-protect-the-right-to-decide-engineering-facts.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/104-schools-must-look-through-mediation-theater-and-protect-the-right-to-decide-educational-facts-and-future.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`104《美国“调解”真相和中国内战前途》`
+- 如果要从当前边界继续向下推进，下一篇应是：`105《三个月总结》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

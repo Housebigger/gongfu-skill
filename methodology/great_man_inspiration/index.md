@@ -379,6 +379,16 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/103-embedded-teams-should-stop-fighting-every-bug-at-once-and-concentrate-on-one-decisive-field-breakthrough.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/103-schools-should-stop-fighting-every-problem-at-once-and-concentrate-on-one-decisive-education-breakthrough.md`
 
+
+### 104《美国“调解”真相和中国内战前途》(1946-09)
+- `inspiration_on_today_life/judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`
+- `inspiration_on_software_development/team_process_and_quality/104-software-teams-must-look-through-neutral-mediation-talk-and-check-who-controls-the-project-future.md`
+- `inspiration_on_running_a_company/strategy_and_execution/104-companies-must-see-through-neutral-mediation-theater-and-protect-the-right-to-decide-their-future.md`
+- `inspiration_on_stock_investing/research_and_thesis/104-investors-must-look-through-mediation-theater-and-check-who-really-controls-the-companys-future.md`
+- `inspiration_on_making_money/execution_and_delivery/104-side-hustlers-must-look-through-mediation-talk-and-protect-the-right-to-decide-their-own-future.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/104-embedded-teams-must-look-through-mediation-theater-and-protect-the-right-to-decide-engineering-facts.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/104-schools-must-look-through-mediation-theater-and-protect-the-right-to-decide-educational-facts-and-future.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

@@ -171,3 +171,4 @@ This folder focuses on:
 - `strategy_and_execution/101-companies-under-full-scale-attack-must-trade-space-for-time-and-preserve-core-strength.md`
 - `strategy_and_execution/102-companies-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
 - `strategy_and_execution/103-companies-must-stop-fighting-on-all-fronts-and-concentrate-on-one-decisive-market-breakthrough.md`
+- `strategy_and_execution/104-companies-must-see-through-neutral-mediation-theater-and-protect-the-right-to-decide-their-future.md`

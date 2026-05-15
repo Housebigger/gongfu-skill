@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：645 篇
-- 当前已建立原文关联的毛文标题数：103 篇
-  - 顺序主线：001—103
-  - 当前最新纳入：103《集中优势兵力，各个歼灭敌人》
-- 顺序主线的下一篇：`104《美国“调解”真相和中国内战前途》`
+- 当前已建立 `原文对应` 的主题转译文件：652 篇
+- 当前已建立原文关联的毛文标题数：104 篇
+  - 顺序主线：001—104
+  - 当前最新纳入：104《美国“调解”真相和中国内战前途》
+- 顺序主线的下一篇：`105《三个月总结》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

@@ -34,6 +34,7 @@ Purpose:
 - `judgement_and_decision/101-when-under-full-scale-attack-dont-confuse-temporary-losses-with-final-defeat.md`
 - `judgement_and_decision/102-dont-let-paper-tigers-and-scary-weapons-overrule-your-judgement.md`
 - `judgement_and_decision/103-dont-fight-every-problem-at-once-concentrate-on-the-key-breakthrough.md`
+- `judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`
 
 Purpose:
 - how ordinary people survive hard periods by building self-supply lines and self-correction habits instead of waiting for external rescue

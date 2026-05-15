@@ -152,3 +152,4 @@ Additional focus:
 - `execution_and_delivery/101-side-hustlers-under-full-scale-attack-must-preserve-core-income-capacity.md`
 - `execution_and_delivery/102-side-hustlers-must-see-through-paper-tigers-and-super-weapons-to-real-demand.md`
 - `execution_and_delivery/103-side-hustlers-should-stop-spreading-across-every-front-and-concentrate-on-one-winning-offer.md`
+- `execution_and_delivery/104-side-hustlers-must-look-through-mediation-talk-and-protect-the-right-to-decide-their-own-future.md`

@@ -370,6 +370,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/102-embedded-teams-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/102-schools-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
 
+### 103《集中优势兵力，各个歼灭敌人》(1946-09)
+- `inspiration_on_today_life/judgement_and_decision/103-dont-fight-every-problem-at-once-concentrate-on-the-key-breakthrough.md`
+- `inspiration_on_software_development/iteration_and_delivery/103-software-teams-should-stop-fighting-every-ticket-and-concentrate-on-one-decisive-breakthrough.md`
+- `inspiration_on_running_a_company/strategy_and_execution/103-companies-must-stop-fighting-on-all-fronts-and-concentrate-on-one-decisive-market-breakthrough.md`
+- `inspiration_on_stock_investing/trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`
+- `inspiration_on_making_money/execution_and_delivery/103-side-hustlers-should-stop-spreading-across-every-front-and-concentrate-on-one-winning-offer.md`
+- `inspiration_on_embedded_coding/engineering_strategy/103-embedded-teams-should-stop-fighting-every-bug-at-once-and-concentrate-on-one-decisive-field-breakthrough.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/103-schools-should-stop-fighting-every-problem-at-once-and-concentrate-on-one-decisive-education-breakthrough.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

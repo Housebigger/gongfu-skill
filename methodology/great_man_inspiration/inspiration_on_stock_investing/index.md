@@ -174,6 +174,7 @@ Purpose:
 ### trading_and_execution
 - `trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
 - `trading_and_execution/069-when-thesis-dawn-is-visible-concentrate-capital-on-the-main-battle.md`
+- `trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`
 
 Purpose:
 - how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road

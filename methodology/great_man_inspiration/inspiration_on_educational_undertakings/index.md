@@ -70,6 +70,7 @@
 - `school_governance_and_crisis_response/100-schools-must-not-let-bad-times-panic-or-strong-power-fear-dissolve-educational-fight.md`
 - `school_governance_and_crisis_response/101-schools-under-full-scale-pressure-must-preserve-core-education-strength.md`
 - `school_governance_and_crisis_response/102-schools-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
+- `school_governance_and_crisis_response/103-schools-should-stop-fighting-every-problem-at-once-and-concentrate-on-one-decisive-education-breakthrough.md`
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
 - [021 教师团队不能用面子代替原则](school_coordination_and_organization/021-dont-trade-face-for-principles-in-teacher-teams.md)

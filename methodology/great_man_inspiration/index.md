@@ -361,6 +361,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/101-embedded-teams-under-full-scale-attack-must-preserve-core-delivery-and-field-strength.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/101-schools-under-full-scale-pressure-must-preserve-core-education-strength.md`
 
+### 102《和美国记者安娜·刘易斯·斯特朗的谈话》(1946-08)
+- `inspiration_on_today_life/judgement_and_decision/102-dont-let-paper-tigers-and-scary-weapons-overrule-your-judgement.md`
+- `inspiration_on_software_development/team_process_and_quality/102-dont-let-platform-paper-tigers-or-super-weapons-break-engineering-confidence.md`
+- `inspiration_on_running_a_company/strategy_and_execution/102-companies-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
+- `inspiration_on_stock_investing/research_and_thesis/102-investors-should-look-through-paper-tigers-and-super-weapons-to-real-strength.md`
+- `inspiration_on_making_money/execution_and_delivery/102-side-hustlers-must-see-through-paper-tigers-and-super-weapons-to-real-demand.md`
+- `inspiration_on_embedded_coding/engineering_strategy/102-embedded-teams-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/102-schools-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

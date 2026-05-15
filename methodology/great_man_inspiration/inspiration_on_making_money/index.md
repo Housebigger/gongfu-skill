@@ -150,3 +150,4 @@ Additional focus:
 - `execution_and_delivery/099-side-hustles-need-stable-base-areas-before-chasing-central-platforms.md`
 - `execution_and_delivery/100-side-hustlers-must-not-let-big-platform-fear-or-bad-times-panic-stop-their-fight.md`
 - `execution_and_delivery/101-side-hustlers-under-full-scale-attack-must-preserve-core-income-capacity.md`
+- `execution_and_delivery/102-side-hustlers-must-see-through-paper-tigers-and-super-weapons-to-real-demand.md`

@@ -25,7 +25,7 @@
 - `team_process_and_quality/`：64 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：97 篇 article-based 笔记，对应 97 篇毛文来源。
+当前合计：98 篇 article-based 笔记，对应 98 篇毛文来源。
 
 ## 推荐入口
 
@@ -100,3 +100,4 @@
 - `iteration_and_delivery/099-build-stable-project-base-areas-before-fighting-for-platform-centers.md`
 - `team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md`
 - `iteration_and_delivery/101-when-software-projects-face-full-scale-attack-dont-confuse-retreat-with-defeat.md`
+- `team_process_and_quality/102-dont-let-platform-paper-tigers-or-super-weapons-break-engineering-confidence.md`

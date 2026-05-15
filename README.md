@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：631 篇
-- 当前已建立原文关联的毛文标题数：101 篇
-  - 顺序主线：001—101
-  - 当前最新纳入：101《以自卫战争粉碎蒋介石的进攻》
-- 顺序主线的下一篇：102《和美国记者安娜·刘易斯·斯特朗的谈话》
+- 当前已建立 `原文对应` 的主题转译文件：638 篇
+- 当前已建立原文关联的毛文标题数：102 篇
+  - 顺序主线：001—102
+  - 当前最新纳入：102《和美国记者安娜·刘易斯·斯特朗的谈话》
+- 顺序主线的下一篇：103《集中优势兵力，各个歼灭敌人》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -85,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 099，下一篇是 100
+2. 当前边界是 102，下一篇是 103
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

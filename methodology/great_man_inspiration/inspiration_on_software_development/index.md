@@ -79,6 +79,7 @@ Purpose:
 - `iteration_and_delivery/099-build-stable-project-base-areas-before-fighting-for-platform-centers.md`
 - `team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md`
 - `iteration_and_delivery/101-when-software-projects-face-full-scale-attack-dont-confuse-retreat-with-defeat.md`
+- `team_process_and_quality/102-dont-let-platform-paper-tigers-or-super-weapons-break-engineering-confidence.md`
 Purpose:
 - how software teams use release victory windows to concentrate engineering force, clear hidden dependencies, protect release discipline, and prepare post-launch order
 - how software teams avoid letting macro panic and platform fear dissolve quality discipline, user service, and internal fight

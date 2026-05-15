@@ -23,7 +23,7 @@
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：90 篇 article-based 笔记，对应 90 篇毛文来源。
+当前合计：91 篇 article-based 笔记，对应 91 篇毛文来源。
 
 ## 子目录速览
 
@@ -89,3 +89,4 @@
 - `research_and_thesis/099-investors-should-watch-whether-companies-build-real-base-areas-before-center-expansion.md`
 - `research_and_thesis/100-investors-must-not-let-war-panic-or-big-power-fear-replace-reality-analysis.md`
 - `research_and_thesis/101-investors-should-separate-temporary-retreats-from-final-defeat-under-full-scale-attack.md`
+- `research_and_thesis/102-investors-should-look-through-paper-tigers-and-super-weapons-to-real-strength.md`

@@ -46,6 +46,7 @@ Focus:
 - `engineering_strategy/098-embedded-teams-in-hard-years-need-main-battle-plans-local-backbone-and-long-support.md`
 - `engineering_strategy/099-embedded-teams-need-stable-field-base-areas-before-central-platform-battles.md`
 - `team_process_and_knowledge/100-embedded-teams-must-not-let-big-customer-or-war-panic-dissolve-field-fight.md`
+- `engineering_strategy/101-embedded-teams-under-full-scale-attack-must-preserve-core-delivery-and-field-strength.md`
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

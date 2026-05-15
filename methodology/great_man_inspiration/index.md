@@ -334,7 +334,7 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/098-embedded-teams-in-hard-years-need-main-battle-plans-local-backbone-and-long-support.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/098-schools-in-hard-years-must-focus-on-main-work-build-local-backbone-and-plan-long.md`
 
-### 099《建立巩固的东北根据地》(1945-12-28)
+### 099《建立巩固的东北根据地》(1945-12)
 - `inspiration_on_today_life/survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`
 - `inspiration_on_software_development/iteration_and_delivery/099-build-stable-project-base-areas-before-fighting-for-platform-centers.md`
 - `inspiration_on_running_a_company/strategy_and_execution/099-companies-must-build-stable-base-areas-before-competing-for-central-markets.md`
@@ -351,6 +351,15 @@ Current contents:
 - `inspiration_on_making_money/execution_and_delivery/100-side-hustlers-must-not-let-big-platform-fear-or-bad-times-panic-stop-their-fight.md`
 - `inspiration_on_embedded_coding/team_process_and_knowledge/100-embedded-teams-must-not-let-big-customer-or-war-panic-dissolve-field-fight.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/100-schools-must-not-let-bad-times-panic-or-strong-power-fear-dissolve-educational-fight.md`
+
+### 101《以自卫战争粉碎蒋介石的进攻》(1946-07)
+- `inspiration_on_today_life/judgement_and_decision/101-when-under-full-scale-attack-dont-confuse-temporary-losses-with-final-defeat.md`
+- `inspiration_on_software_development/iteration_and_delivery/101-when-software-projects-face-full-scale-attack-dont-confuse-retreat-with-defeat.md`
+- `inspiration_on_running_a_company/strategy_and_execution/101-companies-under-full-scale-attack-must-trade-space-for-time-and-preserve-core-strength.md`
+- `inspiration_on_stock_investing/research_and_thesis/101-investors-should-separate-temporary-retreats-from-final-defeat-under-full-scale-attack.md`
+- `inspiration_on_making_money/execution_and_delivery/101-side-hustlers-under-full-scale-attack-must-preserve-core-income-capacity.md`
+- `inspiration_on_embedded_coding/engineering_strategy/101-embedded-teams-under-full-scale-attack-must-preserve-core-delivery-and-field-strength.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/101-schools-under-full-scale-pressure-must-preserve-core-education-strength.md`
 
 ## Naming convention
 

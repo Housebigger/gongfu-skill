@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`100《关于目前国际形势的几点估计》`
-- 如果继续顺序推进，下一篇应是：`101《以自卫战争粉碎蒋介石的进攻》`
+- 当前顺序覆盖已推进到：`101《以自卫战争粉碎蒋介石的进攻》`
+- 如果继续顺序推进，下一篇应是：`102《和美国记者安娜·刘易斯·斯特朗的谈话》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 101《以自卫战争粉碎蒋介石的进攻》
+  - `../judgement_and_decision/101-when-under-full-scale-attack-dont-confuse-temporary-losses-with-final-defeat.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/101-when-software-projects-face-full-scale-attack-dont-confuse-retreat-with-defeat.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/101-companies-under-full-scale-attack-must-trade-space-for-time-and-preserve-core-strength.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/101-investors-should-separate-temporary-retreats-from-final-defeat-under-full-scale-attack.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/101-side-hustlers-under-full-scale-attack-must-preserve-core-income-capacity.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/101-embedded-teams-under-full-scale-attack-must-preserve-core-delivery-and-field-strength.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/101-schools-under-full-scale-pressure-must-preserve-core-education-strength.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“只有在自卫战争中粉碎全面进攻后才能恢复和平、建立必胜信心、若干地方和城市的暂时放弃是为了最后胜利、必须依靠群众并作持久打算、自力更生与军民兼顾”转译为现代危机战法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：全面受压时不要把局部失守误判成终局，而要保主力、保支持面、保生产供给，并以空间换时间争取最后反攻。
 
 - 100《关于目前国际形势的几点估计》
   - `../judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md`

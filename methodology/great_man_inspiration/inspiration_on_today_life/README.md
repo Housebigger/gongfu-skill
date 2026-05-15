@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：13 篇
-- `judgement_and_decision/`：31 篇
+- `judgement_and_decision/`：33 篇
 - `long_term_growth/`：11 篇
 - `cooperation_and_organization/`：44 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：100 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—100，顺序总览窗口也推进到 100。
+当前合计：101 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—101，顺序总览窗口也推进到 101。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`100《关于目前国际形势的几点估计》`
-- 顺序总览窗口当前也推进到：`100《关于目前国际形势的几点估计》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`101《以自卫战争粉碎蒋介石的进攻》`
+- today_life 主题当前实写覆盖到：`101《以自卫战争粉碎蒋介石的进攻》`
+- 顺序总览窗口当前也推进到：`101《以自卫战争粉碎蒋介石的进攻》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`102《和美国记者安娜·刘易斯·斯特朗的谈话》`
 
 ## 使用提醒
 
@@ -84,3 +84,4 @@
 - `long_term_growth/098-in-hard-years-focus-on-main-task-build-local-backbone-and-plan-long.md`
 - `survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`
 - `judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md`
+- `judgement_and_decision/101-when-under-full-scale-attack-dont-confuse-temporary-losses-with-final-defeat.md`

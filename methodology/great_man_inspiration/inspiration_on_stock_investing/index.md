@@ -97,6 +97,7 @@ Purpose:
 - `research_and_thesis/098-investors-should-favor-companies-that-keep-main-task-local-backbone-and-long-term-discipline.md`
 - `research_and_thesis/099-investors-should-watch-whether-companies-build-real-base-areas-before-center-expansion.md`
 - `research_and_thesis/100-investors-must-not-let-war-panic-or-big-power-fear-replace-reality-analysis.md`
+- `research_and_thesis/101-investors-should-separate-temporary-retreats-from-final-defeat-under-full-scale-attack.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

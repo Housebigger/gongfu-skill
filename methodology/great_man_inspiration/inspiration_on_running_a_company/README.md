@@ -11,9 +11,9 @@
 
 - `organization_design/`：16 篇
 - `leadership_and_talent/`：7 篇
-- `strategy_and_execution/`：73 篇
+- `strategy_and_execution/`：75 篇
 
-当前合计：97 篇 article-based 笔记，对应 97 篇毛文来源。
+当前合计：98 篇 article-based 笔记，对应 98 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -82,3 +82,4 @@
 - `strategy_and_execution/098-companies-in-hard-years-must-focus-on-main-task-build-local-backbone-and-plan-long.md`
 - `strategy_and_execution/099-companies-must-build-stable-base-areas-before-competing-for-central-markets.md`
 - `strategy_and_execution/100-companies-must-not-let-big-power-fear-dissolve-their-strategic-fight.md`
+- `strategy_and_execution/101-companies-under-full-scale-attack-must-trade-space-for-time-and-preserve-core-strength.md`

@@ -31,6 +31,7 @@ Purpose:
 - `survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
 - `survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`
 - `judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md`
+- `judgement_and_decision/101-when-under-full-scale-attack-dont-confuse-temporary-losses-with-final-defeat.md`
 
 Purpose:
 - how ordinary people survive hard periods by building self-supply lines and self-correction habits instead of waiting for external rescue

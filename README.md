@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：624 篇
-- 当前已建立原文关联的毛文标题数：100 篇
-  - 顺序主线：001—100
-  - 当前最新纳入：100《关于目前国际形势的几点估计》
-- 顺序主线的下一篇：101《以自卫战争粉碎蒋介石的进攻》
+- 当前已建立 `原文对应` 的主题转译文件：631 篇
+- 当前已建立原文关联的毛文标题数：101 篇
+  - 顺序主线：001—101
+  - 当前最新纳入：101《以自卫战争粉碎蒋介石的进攻》
+- 顺序主线的下一篇：102《和美国记者安娜·刘易斯·斯特朗的谈话》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

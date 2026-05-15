@@ -21,11 +21,11 @@
 - `product_strategy/`：4 篇
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
-- `iteration_and_delivery/`：19 篇
-- `team_process_and_quality/`：63 篇
+- `iteration_and_delivery/`：20 篇
+- `team_process_and_quality/`：64 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：96 篇 article-based 笔记，对应 96 篇毛文来源。
+当前合计：97 篇 article-based 笔记，对应 97 篇毛文来源。
 
 ## 推荐入口
 
@@ -99,3 +99,4 @@
 - `iteration_and_delivery/098-software-teams-in-hard-years-need-one-main-task-real-training-and-long-plans.md`
 - `iteration_and_delivery/099-build-stable-project-base-areas-before-fighting-for-platform-centers.md`
 - `team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md`
+- `iteration_and_delivery/101-when-software-projects-face-full-scale-attack-dont-confuse-retreat-with-defeat.md`

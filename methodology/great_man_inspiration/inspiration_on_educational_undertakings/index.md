@@ -68,6 +68,7 @@
 - `school_governance_and_crisis_response/098-schools-in-hard-years-must-focus-on-main-work-build-local-backbone-and-plan-long.md`
 - `school_governance_and_crisis_response/099-schools-need-stable-education-base-areas-before-chasing-central-recognition.md`
 - `school_governance_and_crisis_response/100-schools-must-not-let-bad-times-panic-or-strong-power-fear-dissolve-educational-fight.md`
+- `school_governance_and_crisis_response/101-schools-under-full-scale-pressure-must-preserve-core-education-strength.md`
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
 - [021 教师团队不能用面子代替原则](school_coordination_and_organization/021-dont-trade-face-for-principles-in-teacher-teams.md)

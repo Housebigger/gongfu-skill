@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-096篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-097篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -64,6 +64,7 @@
 - `school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md`
 - `school_governance_and_crisis_response/095-after-school-mediation-turn-written-agreements-into-real-student-protection.md`
 - `school_governance_and_crisis_response/096-when-school-authority-says-it-is-just-restoring-order-check-who-is-pressuring-whom.md`
+- `school_governance_and_crisis_response/097-schools-in-hard-times-must-protect-real-teacher-student-benefits-and-education-supply.md`
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
 - [021 教师团队不能用面子代替原则](school_coordination_and_organization/021-dont-trade-face-for-principles-in-teacher-teams.md)
@@ -92,4 +93,4 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：78篇笔记 / 5个子主题 / 覆盖001-096中77篇原文
+统计：79篇笔记 / 5个子主题 / 覆盖001-097中78篇原文

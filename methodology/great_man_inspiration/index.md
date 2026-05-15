@@ -325,14 +325,14 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 096《国民党进攻的真相》(1945-11-05)
-- `inspiration_on_today_life/judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md`
-- `inspiration_on_software_development/team_process_and_quality/096-dont-let-management-call-an-expansion-just-restoring-flow-check-movements-rights-and-logs.md`
-- `inspiration_on_running_a_company/strategy_and_execution/096-when-a-powerful-partner-says-defensive-check-expansion-routes-and-hidden-war-goals.md`
-- `inspiration_on_stock_investing/research_and_thesis/096-investors-should-test-defensive-narratives-against-capital-movement-deployments-and-real-targets.md`
-- `inspiration_on_making_money/execution_and_delivery/096-when-platforms-say-they-are-just-restoring-order-check-who-is-moving-in-and-who-loses-control.md`
-- `inspiration_on_embedded_coding/team_process_and_knowledge/096-when-vendors-say-they-are-just-restoring-operations-check-logs-access-paths-and-attack-surface.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/096-when-school-authority-says-it-is-just-restoring-order-check-who-is-pressuring-whom.md`
+### 097《减租和生产是保卫解放区的两件大事》(1945-11-07)
+- `inspiration_on_today_life/survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
+- `inspiration_on_software_development/iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md`
+- `inspiration_on_running_a_company/strategy_and_execution/097-companies-under-pressure-must-protect-real-stakeholder-gains-and-productive-capacity.md`
+- `inspiration_on_stock_investing/research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
+- `inspiration_on_making_money/execution_and_delivery/097-side-hustlers-must-protect-real-user-benefits-and-repeatable-production-in-hard-times.md`
+- `inspiration_on_embedded_coding/engineering_strategy/097-embedded-teams-in-hard-times-must-protect-real-frontline-benefits-and-production-capacity.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/097-schools-in-hard-times-must-protect-real-teacher-student-benefits-and-education-supply.md`
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

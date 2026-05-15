@@ -21,11 +21,11 @@
 - `product_strategy/`：4 篇
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
-- `iteration_and_delivery/`：16 篇
+- `iteration_and_delivery/`：17 篇
 - `team_process_and_quality/`：63 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：92 篇 article-based 笔记，对应 91 篇毛文来源。
+当前合计：93 篇 article-based 笔记，对应 92 篇毛文来源。
 
 ## 推荐入口
 
@@ -95,3 +95,4 @@
 - `team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
 - `team_process_and_quality/095-after-alignment-meetings-turn-paper-agreements-into-operational-reality.md`
 - `team_process_and_quality/096-dont-let-management-call-an-expansion-just-restoring-flow-check-movements-rights-and-logs.md`
+- `iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md`

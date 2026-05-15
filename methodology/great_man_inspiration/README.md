@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 96 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 596 |
-| 顺序学习已连续覆盖范围 | 001—096 |
-| 顺序覆盖段标题核对结果 | 96/96 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 97 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 603 |
+| 顺序学习已连续覆盖范围 | 001—097 |
+| 顺序覆盖段标题核对结果 | 97/97 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 097《减租和生产是保卫解放区的两件大事》 |
+| 顺序主线的下一篇 | 098《一九四六年解放区工作的方针》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `096《国民党进攻的真相》`。
-- 在 `001—096` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `097《减租和生产是保卫解放区的两件大事》`。
+- 在 `001—097` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
@@ -52,7 +52,8 @@
 - `094《中共中央关于同国民党进行和平谈判的通知》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `095《关于重庆谈判》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `096《国民党进攻的真相》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `097《减租和生产是保卫解放区的两件大事》`
+- `097《减租和生产是保卫解放区的两件大事》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `098《一九四六年解放区工作的方针》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -154,13 +155,14 @@
 | 094 | 《中共中央关于同国民党进行和平谈判的通知》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450826.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 095 | 《关于重庆谈判》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451017.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 096 | 《国民党进攻的真相》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451105.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 097 | 《减租和生产是保卫解放区的两件大事》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451107.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—096 顺序主线已建立关联          [############################################################################################]
-096 《国民党进攻的真相》 [DONE: 7/7]
-097 《减租和生产是保卫解放区的两件大事》 [NEXT]
+001—097 顺序主线已建立关联          [#############################################################################################]
+097 《减租和生产是保卫解放区的两件大事》 [DONE: 7/7]
+098 《一九四六年解放区工作的方针》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -276,6 +278,7 @@
 | 094 | 《中共中央关于同国民党进行和平谈判的通知》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450826.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/094-negotiate-for-peace-without-stopping-self-reliant-preparation.md) | [SD](./inspiration_on_software_development/team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/094-negotiate-cooperation-while-keeping-strength-bottom-line-and-two-outcome-plans.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md) | [MM](./inspiration_on_making_money/execution_and_delivery/094-side-hustlers-can-negotiate-but-must-keep-customers-cashflow-and-fallbacks.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/094-field-teams-should-negotiate-acceptance-while-keeping-tests-logs-and-fallbacks.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/094-schools-should-negotiate-crises-without-dropping-student-facts-and-professional-bottom-lines.md) | 7 |
 | 095 | 《关于重庆谈判》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451017.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/095-after-negotiation-read-paper-agreements-through-reality-and-keep-working.md) | [SD](./inspiration_on_software_development/team_process_and_quality/095-after-alignment-meetings-turn-paper-agreements-into-operational-reality.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/095-after-strategic-negotiation-execute-agreements-while-keeping-strength-and-hard-work.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/095-investors-should-test-agreement-announcements-against-execution-power-and-hidden-conflict.md) | [MM](./inspiration_on_making_money/execution_and_delivery/095-after-deals-side-hustlers-must-convert-promises-into-delivery-cashflow-and-proof.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/095-after-acceptance-documents-field-teams-must-convert-paper-closure-into-real-stability.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/095-after-school-mediation-turn-written-agreements-into-real-student-protection.md) | 7 |
 | 096 | 《国民党进攻的真相》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451105.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md) | [SD](./inspiration_on_software_development/team_process_and_quality/096-dont-let-management-call-an-expansion-just-restoring-flow-check-movements-rights-and-logs.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/096-when-a-powerful-partner-says-defensive-check-expansion-routes-and-hidden-war-goals.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/096-investors-should-test-defensive-narratives-against-capital-movement-deployments-and-real-targets.md) | [MM](./inspiration_on_making_money/execution_and_delivery/096-when-platforms-say-they-are-just-restoring-order-check-who-is-moving-in-and-who-loses-control.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/096-when-vendors-say-they-are-just-restoring-operations-check-logs-access-paths-and-attack-surface.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/096-when-school-authority-says-it-is-just-restoring-order-check-who-is-pressuring-whom.md) | 7 |
+| 097 | 《减租和生产是保卫解放区的两件大事》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451107.htm) | [TL](./inspiration_on_today_life/survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/097-companies-under-pressure-must-protect-real-stakeholder-gains-and-productive-capacity.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md) | [MM](./inspiration_on_making_money/execution_and_delivery/097-side-hustlers-must-protect-real-user-benefits-and-repeatable-production-in-hard-times.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/097-embedded-teams-in-hard-times-must-protect-real-frontline-benefits-and-production-capacity.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/097-schools-in-hard-times-must-protect-real-teacher-student-benefits-and-education-supply.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1352,10 +1355,22 @@
   - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/096-when-vendors-say-they-are-just-restoring-operations-check-logs-access-paths-and-attack-surface.md`
   - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/096-when-school-authority-says-it-is-just-restoring-order-check-who-is-pressuring-whom.md`
 
+### 097《减租和生产是保卫解放区的两件大事》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 8 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451107.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/097-companies-under-pressure-must-protect-real-stakeholder-gains-and-productive-capacity.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/097-side-hustlers-must-protect-real-user-benefits-and-repeatable-production-in-hard-times.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/097-embedded-teams-in-hard-times-must-protect-real-frontline-benefits-and-production-capacity.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/097-schools-in-hard-times-must-protect-real-teacher-student-benefits-and-education-supply.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`097《减租和生产是保卫解放区的两件大事》`
+- 如果要从当前边界继续向下推进，下一篇应是：`098《一九四六年解放区工作的方针》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

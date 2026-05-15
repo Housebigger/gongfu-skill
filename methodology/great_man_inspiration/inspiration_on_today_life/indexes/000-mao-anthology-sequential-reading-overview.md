@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`096《国民党进攻的真相》`
-- 如果继续顺序推进，下一篇应是：`097《减租和生产是保卫解放区的两件大事》`
+- 当前顺序覆盖已推进到：`097《减租和生产是保卫解放区的两件大事》`
+- 如果继续顺序推进，下一篇应是：`098《一九四六年解放区工作的方针》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 097《减租和生产是保卫解放区的两件大事》
+  - `../survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/097-companies-under-pressure-must-protect-real-stakeholder-gains-and-productive-capacity.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/097-side-hustlers-must-protect-real-user-benefits-and-repeatable-production-in-hard-times.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/097-embedded-teams-in-hard-times-must-protect-real-frontline-benefits-and-production-capacity.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/097-schools-in-hard-times-must-protect-real-teacher-student-benefits-and-education-supply.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“战争越大越不能只顾前线、要让劳动者先得到现实利益、把生产与互助组织起来、实行前后方分工、爱惜人力物力并作长期打算”转译为现代行动方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，越在高压和困难时期，越要先保住关键承担者的真实收益、持续生产能力与长期支持条件。
 
 - 096《国民党进攻的真相》
   - `../judgement_and_decision/096-when-someone-says-they-are-defensive-check-movements-documents-and-what-they-want-opened.md`

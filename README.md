@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：596 篇
-- 当前已建立原文关联的毛文标题数：96 篇
-  - 顺序主线：001—096
-  - 当前最新纳入：096《国民党进攻的真相》
-- 顺序主线的下一篇：097《减租和生产是保卫解放区的两件大事》
+- 当前已建立 `原文对应` 的主题转译文件：603 篇
+- 当前已建立原文关联的毛文标题数：97 篇
+  - 顺序主线：001—097
+  - 当前最新纳入：097《减租和生产是保卫解放区的两件大事》
+- 顺序主线的下一篇：098《一九四六年解放区工作的方针》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -85,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 096，下一篇是 097
+2. 当前边界是 097，下一篇是 098
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

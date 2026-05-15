@@ -93,6 +93,7 @@ Purpose:
 - `research_and_thesis/094-investors-should-read-negotiation-windows-by-strength-bottom-line-and-two-scenarios.md`
 - `research_and_thesis/095-investors-should-test-agreement-announcements-against-execution-power-and-hidden-conflict.md`
 - `research_and_thesis/096-investors-should-test-defensive-narratives-against-capital-movement-deployments-and-real-targets.md`
+- `research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors read negotiation windows through strength, bottom lines, and two scenarios instead of headline optimism

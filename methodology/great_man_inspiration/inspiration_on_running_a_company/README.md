@@ -11,9 +11,9 @@
 
 - `organization_design/`：16 篇
 - `leadership_and_talent/`：7 篇
-- `strategy_and_execution/`：71 篇
+- `strategy_and_execution/`：72 篇
 
-当前合计：94 篇 article-based 笔记，对应 93 篇毛文来源。
+当前合计：95 篇 article-based 笔记，对应 94 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -79,3 +79,4 @@
 - `strategy_and_execution/095-after-strategic-negotiation-execute-agreements-while-keeping-strength-and-hard-work.md`
 - `strategy_and_execution/096-when-a-powerful-partner-says-defensive-check-expansion-routes-and-hidden-war-goals.md`
 - `strategy_and_execution/097-companies-under-pressure-must-protect-real-stakeholder-gains-and-productive-capacity.md`
+- `strategy_and_execution/098-companies-in-hard-years-must-focus-on-main-task-build-local-backbone-and-plan-long.md`

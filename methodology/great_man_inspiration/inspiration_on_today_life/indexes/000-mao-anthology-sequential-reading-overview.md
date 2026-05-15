@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`097《减租和生产是保卫解放区的两件大事》`
-- 如果继续顺序推进，下一篇应是：`098《一九四六年解放区工作的方针》`
+- 当前顺序覆盖已推进到：`098《一九四六年解放区工作的方针》`
+- 如果继续顺序推进，下一篇应是：`099《建立巩固的东北根据地》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 098《一九四六年解放区工作的方针》
+  - `../long_term_growth/098-in-hard-years-focus-on-main-task-build-local-backbone-and-plan-long.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/098-software-teams-in-hard-years-need-one-main-task-real-training-and-long-plans.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/098-companies-in-hard-years-must-focus-on-main-task-build-local-backbone-and-plan-long.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/098-investors-should-favor-companies-that-keep-main-task-local-backbone-and-long-term-discipline.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/098-side-hustlers-in-hard-years-need-one-main-task-repeatable-delivery-and-long-runway.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/098-embedded-teams-in-hard-years-need-main-battle-plans-local-backbone-and-long-support.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/098-schools-in-hard-years-must-focus-on-main-work-build-local-backbone-and-plan-long.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“中心任务、练兵、减轻负担、恢复生产、财政正常化、救济弱处、爱护本地干部和一切作持久打算”转译为现代难年经营方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，在高压年份里不要四面乱抓，而要围绕主任务组织训练、供给、骨干和长期节奏。
 
 - 097《减租和生产是保卫解放区的两件大事》
   - `../survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`

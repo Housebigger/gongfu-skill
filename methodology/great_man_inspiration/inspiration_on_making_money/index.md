@@ -146,3 +146,4 @@ Additional focus:
 - `execution_and_delivery/095-after-deals-side-hustlers-must-convert-promises-into-delivery-cashflow-and-proof.md`
 - `execution_and_delivery/096-when-platforms-say-they-are-just-restoring-order-check-who-is-moving-in-and-who-loses-control.md`
 - `execution_and_delivery/097-side-hustlers-must-protect-real-user-benefits-and-repeatable-production-in-hard-times.md`
+- `execution_and_delivery/098-side-hustlers-in-hard-years-need-one-main-task-repeatable-delivery-and-long-runway.md`

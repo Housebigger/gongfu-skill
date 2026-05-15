@@ -325,14 +325,15 @@ Current contents:
 
 ## Latest sequential closeout
 
-### 097《减租和生产是保卫解放区的两件大事》(1945-11-07)
-- `inspiration_on_today_life/survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
-- `inspiration_on_software_development/iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md`
-- `inspiration_on_running_a_company/strategy_and_execution/097-companies-under-pressure-must-protect-real-stakeholder-gains-and-productive-capacity.md`
-- `inspiration_on_stock_investing/research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
-- `inspiration_on_making_money/execution_and_delivery/097-side-hustlers-must-protect-real-user-benefits-and-repeatable-production-in-hard-times.md`
-- `inspiration_on_embedded_coding/engineering_strategy/097-embedded-teams-in-hard-times-must-protect-real-frontline-benefits-and-production-capacity.md`
-- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/097-schools-in-hard-times-must-protect-real-teacher-student-benefits-and-education-supply.md`
+### 098《一九四六年解放区工作的方针》(1945-12-15)
+- `inspiration_on_today_life/long_term_growth/098-in-hard-years-focus-on-main-task-build-local-backbone-and-plan-long.md`
+- `inspiration_on_software_development/iteration_and_delivery/098-software-teams-in-hard-years-need-one-main-task-real-training-and-long-plans.md`
+- `inspiration_on_running_a_company/strategy_and_execution/098-companies-in-hard-years-must-focus-on-main-task-build-local-backbone-and-plan-long.md`
+- `inspiration_on_stock_investing/research_and_thesis/098-investors-should-favor-companies-that-keep-main-task-local-backbone-and-long-term-discipline.md`
+- `inspiration_on_making_money/execution_and_delivery/098-side-hustlers-in-hard-years-need-one-main-task-repeatable-delivery-and-long-runway.md`
+- `inspiration_on_embedded_coding/engineering_strategy/098-embedded-teams-in-hard-years-need-main-battle-plans-local-backbone-and-long-support.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/098-schools-in-hard-years-must-focus-on-main-work-build-local-backbone-and-plan-long.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

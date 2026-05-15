@@ -115,6 +115,7 @@ Purpose:
 - `long_term_growth/077-real-growth-means-building-a-life-not-ruled-by-self-interest-and-becoming-useful-to-others.md`
 
 - `long_term_growth/084-move-life-mountains-by-persistent-work-and-awakened-people.md`
+- `long_term_growth/098-in-hard-years-focus-on-main-task-build-local-backbone-and-plan-long.md`
 Purpose:
 - how ordinary people face mountain-sized life problems by choosing a clear route, awakening real support, and making the obstacle shrink a little every day
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

@@ -75,6 +75,7 @@ Purpose:
 - `iteration_and_delivery/085-delivery-teams-need-self-supply-and-rectification-to-keep-fighting.md`
 - `iteration_and_delivery/089-when-release-victory-window-opens-concentrate-delivery-and-prepare-next-stage-order.md`
 - `iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md`
+- `iteration_and_delivery/098-software-teams-in-hard-years-need-one-main-task-real-training-and-long-plans.md`
 Purpose:
 - how software teams use release victory windows to concentrate engineering force, clear hidden dependencies, protect release discipline, and prepare post-launch order
 - how software teams sustain long delivery battles through self-supply in tools/tests/environments and rectification-style retrospectives

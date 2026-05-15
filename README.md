@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：617 篇
-- 当前已建立原文关联的毛文标题数：99 篇
-  - 顺序主线：001—099
-  - 当前最新纳入：099《建立巩固的东北根据地》
-- 顺序主线的下一篇：100《关于目前国际形势的几点估计》
+- 当前已建立 `原文对应` 的主题转译文件：624 篇
+- 当前已建立原文关联的毛文标题数：100 篇
+  - 顺序主线：001—100
+  - 当前最新纳入：100《关于目前国际形势的几点估计》
+- 顺序主线的下一篇：101《以自卫战争粉碎蒋介石的进攻》
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

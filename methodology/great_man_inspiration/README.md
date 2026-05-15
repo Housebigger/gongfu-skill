@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—099。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—100。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 99 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 617 |
-| 顺序学习已连续覆盖范围 | 001—099 |
-| 顺序覆盖段标题核对结果 | 99/99 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 100 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 624 |
+| 顺序学习已连续覆盖范围 | 001—100 |
+| 顺序覆盖段标题核对结果 | 100/100 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 100《关于目前国际形势的几点估计》 |
+| 顺序主线的下一篇 | 101《以自卫战争粉碎蒋介石的进攻》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `099《建立巩固的东北根据地》`。
-- 在 `001—099` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `100《关于目前国际形势的几点估计》`。
+- 在 `001—100` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
 - `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
@@ -55,7 +55,8 @@
 - `097《减租和生产是保卫解放区的两件大事》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `098《一九四六年解放区工作的方针》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
 - `099《建立巩固的东北根据地》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `100《关于目前国际形势的几点估计》`
+- `100《关于目前国际形势的几点估计》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
+- 当前下一篇尚未纳入顺序主线的是 `101《以自卫战争粉碎蒋介石的进攻》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -164,9 +165,9 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—099 顺序主线已建立关联          [###############################################################################################]
-099 《建立巩固的东北根据地》 [DONE: 7/7]
-100 《关于目前国际形势的几点估计》 [NEXT]
+001—100 顺序主线已建立关联         [####################################################################################################]
+100 《关于目前国际形势的几点估计》 [DONE: 7/7]
+101 《以自卫战争粉碎蒋介石的进攻》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -285,6 +286,7 @@
 | 097 | 《减租和生产是保卫解放区的两件大事》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451107.htm) | [TL](./inspiration_on_today_life/survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/097-companies-under-pressure-must-protect-real-stakeholder-gains-and-productive-capacity.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md) | [MM](./inspiration_on_making_money/execution_and_delivery/097-side-hustlers-must-protect-real-user-benefits-and-repeatable-production-in-hard-times.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/097-embedded-teams-in-hard-times-must-protect-real-frontline-benefits-and-production-capacity.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/097-schools-in-hard-times-must-protect-real-teacher-student-benefits-and-education-supply.md) | 7 |
 | 098 | 《一九四六年解放区工作的方针》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm) | [TL](./inspiration_on_today_life/long_term_growth/098-in-hard-years-focus-on-main-task-build-local-backbone-and-plan-long.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/098-software-teams-in-hard-years-need-one-main-task-real-training-and-long-plans.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/098-companies-in-hard-years-must-focus-on-main-task-build-local-backbone-and-plan-long.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/098-investors-should-favor-companies-that-keep-main-task-local-backbone-and-long-term-discipline.md) | [MM](./inspiration_on_making_money/execution_and_delivery/098-side-hustlers-in-hard-years-need-one-main-task-repeatable-delivery-and-long-runway.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/098-embedded-teams-in-hard-years-need-main-battle-plans-local-backbone-and-long-support.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/098-schools-in-hard-years-must-focus-on-main-work-build-local-backbone-and-plan-long.md) | 7 |
 | 099 | 《建立巩固的东北根据地》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm) | [TL](./inspiration_on_today_life/survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/099-build-stable-project-base-areas-before-fighting-for-platform-centers.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/099-companies-must-build-stable-base-areas-before-competing-for-central-markets.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/099-investors-should-watch-whether-companies-build-real-base-areas-before-center-expansion.md) | [MM](./inspiration_on_making_money/execution_and_delivery/099-side-hustles-need-stable-base-areas-before-chasing-central-platforms.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/099-embedded-teams-need-stable-field-base-areas-before-central-platform-battles.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/099-schools-need-stable-education-base-areas-before-chasing-central-recognition.md) | 7 |
+| 100 | 《关于目前国际形势的几点估计》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194604.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md) | [SD](./inspiration_on_software_development/team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/100-companies-must-not-let-big-power-fear-dissolve-their-strategic-fight.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/100-investors-must-not-let-war-panic-or-big-power-fear-replace-reality-analysis.md) | [MM](./inspiration_on_making_money/execution_and_delivery/100-side-hustlers-must-not-let-big-platform-fear-or-bad-times-panic-stop-their-fight.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/100-embedded-teams-must-not-let-big-customer-or-war-panic-dissolve-field-fight.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/100-schools-must-not-let-bad-times-panic-or-strong-power-fear-dissolve-educational-fight.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1397,10 +1399,22 @@
   - EC: `inspiration_on_embedded_coding/engineering_strategy/099-embedded-teams-need-stable-field-base-areas-before-central-platform-battles.md`
   - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/099-schools-need-stable-education-base-areas-before-chasing-central-recognition.md`
 
+### 100《关于目前国际形势的几点估计》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 11 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194604.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/100-companies-must-not-let-big-power-fear-dissolve-their-strategic-fight.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/100-investors-must-not-let-war-panic-or-big-power-fear-replace-reality-analysis.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/100-side-hustlers-must-not-let-big-platform-fear-or-bad-times-panic-stop-their-fight.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/100-embedded-teams-must-not-let-big-customer-or-war-panic-dissolve-field-fight.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/100-schools-must-not-let-bad-times-panic-or-strong-power-fear-dissolve-educational-fight.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`100《关于目前国际形势的几点估计》`
+- 如果要从当前边界继续向下推进，下一篇应是：`101《以自卫战争粉碎蒋介石的进攻》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

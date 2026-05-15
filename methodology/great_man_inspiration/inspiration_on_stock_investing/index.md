@@ -96,8 +96,10 @@ Purpose:
 - `research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
 - `research_and_thesis/098-investors-should-favor-companies-that-keep-main-task-local-backbone-and-long-term-discipline.md`
 - `research_and_thesis/099-investors-should-watch-whether-companies-build-real-base-areas-before-center-expansion.md`
+- `research_and_thesis/100-investors-must-not-let-war-panic-or-big-power-fear-replace-reality-analysis.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
+- how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism
 - how investors read negotiation windows through strength, bottom lines, and two scenarios instead of headline optimism
 - how investors discount control-party narratives that label value contributors as risks while reallocating fruits
 - how investors judge claim rights and fruit distribution when strong actors try to monopolize post-catalyst gains

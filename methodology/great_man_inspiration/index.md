@@ -343,6 +343,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/099-embedded-teams-need-stable-field-base-areas-before-central-platform-battles.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/099-schools-need-stable-education-base-areas-before-chasing-central-recognition.md`
 
+### 100《关于目前国际形势的几点估计》(1946-04)
+- `inspiration_on_today_life/judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md`
+- `inspiration_on_software_development/team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md`
+- `inspiration_on_running_a_company/strategy_and_execution/100-companies-must-not-let-big-power-fear-dissolve-their-strategic-fight.md`
+- `inspiration_on_stock_investing/research_and_thesis/100-investors-must-not-let-war-panic-or-big-power-fear-replace-reality-analysis.md`
+- `inspiration_on_making_money/execution_and_delivery/100-side-hustlers-must-not-let-big-platform-fear-or-bad-times-panic-stop-their-fight.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/100-embedded-teams-must-not-let-big-customer-or-war-panic-dissolve-field-fight.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/100-schools-must-not-let-bad-times-panic-or-strong-power-fear-dissolve-educational-fight.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

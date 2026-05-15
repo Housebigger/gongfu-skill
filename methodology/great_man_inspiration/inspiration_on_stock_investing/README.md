@@ -23,7 +23,7 @@
 - `trading_and_execution/`：2 篇
 - `indexes/`：当前预留
 
-当前合计：88 篇 article-based 笔记，对应 88 篇毛文来源。
+当前合计：89 篇 article-based 笔记，对应 89 篇毛文来源。
 
 ## 子目录速览
 
@@ -87,3 +87,4 @@
 - `research_and_thesis/097-investors-should-favor-companies-that-protect-real-benefits-and-productive-capacity-in-hard-times.md`
 - `research_and_thesis/098-investors-should-favor-companies-that-keep-main-task-local-backbone-and-long-term-discipline.md`
 - `research_and_thesis/099-investors-should-watch-whether-companies-build-real-base-areas-before-center-expansion.md`
+- `research_and_thesis/100-investors-must-not-let-war-panic-or-big-power-fear-replace-reality-analysis.md`

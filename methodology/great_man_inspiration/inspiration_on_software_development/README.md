@@ -25,7 +25,7 @@
 - `team_process_and_quality/`：63 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：95 篇 article-based 笔记，对应 95 篇毛文来源。
+当前合计：96 篇 article-based 笔记，对应 96 篇毛文来源。
 
 ## 推荐入口
 
@@ -98,3 +98,4 @@
 - `iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md`
 - `iteration_and_delivery/098-software-teams-in-hard-years-need-one-main-task-real-training-and-long-plans.md`
 - `iteration_and_delivery/099-build-stable-project-base-areas-before-fighting-for-platform-centers.md`
+- `team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md`

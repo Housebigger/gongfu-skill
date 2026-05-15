@@ -148,3 +148,4 @@ Additional focus:
 - `execution_and_delivery/097-side-hustlers-must-protect-real-user-benefits-and-repeatable-production-in-hard-times.md`
 - `execution_and_delivery/098-side-hustlers-in-hard-years-need-one-main-task-repeatable-delivery-and-long-runway.md`
 - `execution_and_delivery/099-side-hustles-need-stable-base-areas-before-chasing-central-platforms.md`
+- `execution_and_delivery/100-side-hustlers-must-not-let-big-platform-fear-or-bad-times-panic-stop-their-fight.md`

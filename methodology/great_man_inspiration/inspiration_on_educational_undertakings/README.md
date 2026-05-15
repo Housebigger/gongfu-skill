@@ -19,7 +19,7 @@
 - `school_governance_and_crisis_response/`：31 篇
 - `school_coordination_and_organization/`：26 篇
 
-当前合计：81 篇 article-based 笔记，对应 80 篇毛文来源。
+当前合计：82 篇 article-based 笔记，对应 81 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -97,3 +97,4 @@
 - `school_governance_and_crisis_response/097-schools-in-hard-times-must-protect-real-teacher-student-benefits-and-education-supply.md`
 - `school_governance_and_crisis_response/098-schools-in-hard-years-must-focus-on-main-work-build-local-backbone-and-plan-long.md`
 - `school_governance_and_crisis_response/099-schools-need-stable-education-base-areas-before-chasing-central-recognition.md`
+- `school_governance_and_crisis_response/100-schools-must-not-let-bad-times-panic-or-strong-power-fear-dissolve-educational-fight.md`

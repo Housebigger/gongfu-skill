@@ -30,7 +30,7 @@
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：71 篇 article-based 笔记，对应 71 篇毛文来源。
+当前合计：72 篇 article-based 笔记，对应 72 篇毛文来源。
 
 ## 推荐入口
 
@@ -97,3 +97,4 @@
 - `engineering_strategy/097-embedded-teams-in-hard-times-must-protect-real-frontline-benefits-and-production-capacity.md`
 - `engineering_strategy/098-embedded-teams-in-hard-years-need-main-battle-plans-local-backbone-and-long-support.md`
 - `engineering_strategy/099-embedded-teams-need-stable-field-base-areas-before-central-platform-battles.md`
+- `team_process_and_knowledge/100-embedded-teams-must-not-let-big-customer-or-war-panic-dissolve-field-fight.md`

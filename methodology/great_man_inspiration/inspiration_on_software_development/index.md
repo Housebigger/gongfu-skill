@@ -77,8 +77,10 @@ Purpose:
 - `iteration_and_delivery/097-in-hard-times-software-teams-must-protect-real-team-benefits-and-productive-capacity.md`
 - `iteration_and_delivery/098-software-teams-in-hard-years-need-one-main-task-real-training-and-long-plans.md`
 - `iteration_and_delivery/099-build-stable-project-base-areas-before-fighting-for-platform-centers.md`
+- `team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md`
 Purpose:
 - how software teams use release victory windows to concentrate engineering force, clear hidden dependencies, protect release discipline, and prepare post-launch order
+- how software teams avoid letting macro panic and platform fear dissolve quality discipline, user service, and internal fight
 - how software teams sustain long delivery battles through self-supply in tools/tests/environments and rectification-style retrospectives
 - how software teams move mountain-sized technical debt and platform problems through clear route choice, broad role confidence, and persistent incremental delivery
 - how product teams at major version turning points choose the user-value and delivery-capacity road instead of sliding back into old-system inertia

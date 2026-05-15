@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`099《建立巩固的东北根据地》`
-- 如果继续顺序推进，下一篇应是：`100《关于目前国际形势的几点估计》`
+- 当前顺序覆盖已推进到：`100《关于目前国际形势的几点估计》`
+- 如果继续顺序推进，下一篇应是：`101《以自卫战争粉碎蒋介石的进攻》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -467,6 +467,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
+
+- 100《关于目前国际形势的几点估计》
+  - `../judgement_and_decision/100-dont-let-war-panic-and-big-power-fear-dissolve-your-judgement-and-fight.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/100-software-teams-must-not-let-big-platform-fear-or-war-panic-dissolve-their-fight.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/100-companies-must-not-let-big-power-fear-dissolve-their-strategic-fight.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/100-investors-must-not-let-war-panic-or-big-power-fear-replace-reality-analysis.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/100-side-hustlers-must-not-let-big-platform-fear-or-bad-times-panic-stop-their-fight.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/100-embedded-teams-must-not-let-big-customer-or-war-panic-dissolve-field-fight.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/100-schools-must-not-let-bad-times-panic-or-strong-power-fear-dissolve-educational-fight.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“承认大战危险存在、反对高估帝国主义与低估人民力量、指出局部国际妥协可能出现但各国人民仍须继续不同斗争、强调要靠坚决有效斗争克服危险”转译为现代判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要被强权叙事、宏大恐慌和悲观宿命论先吓到；越在坏局里，越要回到真实力量对比、真实支持面与持续行动。
 
 - 099《建立巩固的东北根据地》
   - `../survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`

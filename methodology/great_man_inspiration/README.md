@@ -28,41 +28,6 @@
 
 - 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `106《迎接中国革命的新高潮》`。
 - 在 `001—106` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- `073《开展根据地的减租、生产和拥政爱民运动》` 当前已完成 `today_life / software_development / running_a_company / educational_undertakings` 四个角度。
-- `074《评国民党十一中全会和三届二次国民参政会》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `075《组织起来》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `076《学习和时局》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `077《为人民服务》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `078《评蒋介石在双十节的演说》` 已补完 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度。
-- `079《文化工作中的统一战线》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `080《必须学会做经济工作》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `081《游击区也能够进行生产》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `082《两个中国之命运》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `083《论联合政府》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `084《愚公移山》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `085《论军队生产自给，兼论整风和生产两大运动的重要性》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `086《赫尔利和蒋介石的双簧已经破产》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `087《评赫尔利政策的危险》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `088《给福斯特同志的电报》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `089《对日寇的最后一战》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `090《抗日战争胜利后的时局和我们的方针》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `091《蒋介石在挑动内战》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `092《第十八集团军总司令给蒋介石的两个电报》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `093《评蒋介石发言人谈话》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `094《中共中央关于同国民党进行和平谈判的通知》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `095《关于重庆谈判》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `096《国民党进攻的真相》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `097《减租和生产是保卫解放区的两件大事》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `098《一九四六年解放区工作的方针》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `099《建立巩固的东北根据地》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `100《关于目前国际形势的几点估计》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `101《以自卫战争粉碎蒋介石的进攻》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `102《和美国记者安娜·刘易斯·斯特朗的谈话》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `103《集中优势兵力，各个歼灭敌人》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `104《美国“调解”真相和中国内战前途》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `105《三个月总结》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- `106《迎接中国革命的新高潮》` 当前已完成 `today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings` 七个角度。
-- 当前下一篇尚未纳入顺序主线的是 `107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -168,7 +133,6 @@
 | 098 | 《一九四六年解放区工作的方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 099 | 《建立巩固的东北根据地》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 100 | 《关于目前国际形势的几点估计》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194604.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-
 | 101 | 《以自卫战争粉碎蒋介石的进攻》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460720.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 102 | 《和美国记者安娜·刘易斯·斯特朗的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 103 | 《集中优势兵力，各个歼灭敌人》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460916.htm) | 已覆盖（顺序主线，7 个主题转译文件） |

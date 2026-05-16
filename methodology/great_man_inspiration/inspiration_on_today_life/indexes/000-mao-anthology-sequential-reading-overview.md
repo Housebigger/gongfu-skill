@@ -912,14 +912,14 @@
 
 ## 主题化经验汇总入口
 
-- 主题化经验汇总总索引：`../../../../supportive_materials/experience_crystallization/100-theme-summaries-index.md`
+- 主题化经验汇总总索引：`../../../../supportive_materials/experience_crystallization/excr002-theme-summaries-index.md`
 - 目录导航与迁移说明：`../../../../supportive_materials/experience_crystallization/README.md`
 
 ## 阶段补充小结（自动追加）
 
-- 012—033 对应的早期方法线阶段补充（旧 `001—018 stage-summary`）已完成吸收并退役；迁移进度见 `../../../../supportive_materials/experience_crystallization/A01-stage-summary-extraction-and-retirement-tracker.md`，主题入口见 `../../../../supportive_materials/experience_crystallization/100-theme-summaries-index.md`
-- 033—040 对应的中段方法线阶段补充（旧 `019—025 stage-summary`）已完成吸收并退役；迁移进度见 `../../../../supportive_materials/experience_crystallization/A01-stage-summary-extraction-and-retirement-tracker.md`，主题入口见 `../../../../supportive_materials/experience_crystallization/100-theme-summaries-index.md`
-- 040—046 对应的后段方法线阶段补充（旧 `026—031 stage-summary`）已完成吸收并退役；迁移进度见 `../../../../supportive_materials/experience_crystallization/A01-stage-summary-extraction-and-retirement-tracker.md`，主题入口见 `../../../../supportive_materials/experience_crystallization/100-theme-summaries-index.md`
+- 012—033 对应的早期方法线阶段补充（旧 `001—018 stage-summary`）已完成吸收并退役；迁移进度见 `../../../../supportive_materials/experience_crystallization/A01-stage-summary-extraction-and-retirement-tracker.md`，主题入口见 `../../../../supportive_materials/experience_crystallization/excr002-theme-summaries-index.md`
+- 033—040 对应的中段方法线阶段补充（旧 `019—025 stage-summary`）已完成吸收并退役；迁移进度见 `../../../../supportive_materials/experience_crystallization/A01-stage-summary-extraction-and-retirement-tracker.md`，主题入口见 `../../../../supportive_materials/experience_crystallization/excr002-theme-summaries-index.md`
+- 040—046 对应的后段方法线阶段补充（旧 `026—031 stage-summary`）已完成吸收并退役；迁移进度见 `../../../../supportive_materials/experience_crystallization/A01-stage-summary-extraction-and-retirement-tracker.md`，主题入口见 `../../../../supportive_materials/experience_crystallization/excr002-theme-summaries-index.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

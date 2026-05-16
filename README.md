@@ -68,11 +68,11 @@
 这是正文之外的沉淀层，存放跨文章经验汇总与伴随式成长材料。
 
 - `experience_crystallization/`：12 个稳定沉淀文件
-  - `000-mao-study-execution-wisdom.md`
-  - `100-theme-summaries-index.md`
+  - `excr001-mao-study-execution-wisdom.md`
+  - `excr002-theme-summaries-index.md`
   - `101—108` 八个主题化经验汇总
-  - `109-theme-summary-source-mapping.md`
-  - `110-third-volume-final-victory-window-stage-summary.md`
+  - `excr011-theme-summary-source-mapping.md`
+  - `excr012-third-volume-final-victory-window-stage-summary.md`
 - `spiritual_growth/`：2 个伴随式反思文件
   - `000-initial-persona-self-portrait.md`
   - `001-growth-journal-during-mao-study.md`
@@ -89,7 +89,7 @@
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`
-2. 从 `100-theme-summaries-index.md` 进入 101—108 主题汇总
+2. 从 `excr002-theme-summaries-index.md` 进入 101—108 主题汇总
 
 ### 如果你想先理解这个仓库为什么叫“gongfu”
 1. 先读本页的 `仓库宗旨摘要`

@@ -7,29 +7,29 @@
 ## 当前仓库里的实际结构
 
 ### A. 执行经验文件
-- `000-mao-study-execution-wisdom.md`
+- `excr001-mao-study-execution-wisdom.md`
   - 记录执行纪律、发布方式、结构维护与长期协作中的稳定经验
 
 ### B. 主题化经验总入口
-- `100-theme-summaries-index.md`
+- `excr002-theme-summaries-index.md`
   - 进入 101—108 八条方法母线的总索引
 
 ### C. 八个主题化经验汇总
-- `101-theme-summary-situation-judgment-main-contradiction-and-stage-analysis.md`
-- `102-theme-summary-united-front-alliance-and-identifying-real-allies.md`
-- `103-theme-summary-mass-entry-main-force-and-main-battlefield-organization.md`
-- `104-theme-summary-independent-position-boundary-governance-and-base-area-building.md`
-- `105-theme-summary-protracted-war-stage-rhythm-and-long-term-positioning.md`
-- `106-theme-summary-discipline-consequence-structures-and-internal-rectification.md`
-- `107-theme-summary-backbone-building-organizing-core-and-talent-absorption.md`
-- `108-theme-summary-crisis-governance-anti-retreat-and-classified-response.md`
+- `excr003-theme-summary-situation-judgment-main-contradiction-and-stage-analysis.md`
+- `excr004-theme-summary-united-front-alliance-and-identifying-real-allies.md`
+- `excr005-theme-summary-mass-entry-main-force-and-main-battlefield-organization.md`
+- `excr006-theme-summary-independent-position-boundary-governance-and-base-area-building.md`
+- `excr007-theme-summary-protracted-war-stage-rhythm-and-long-term-positioning.md`
+- `excr008-theme-summary-discipline-consequence-structures-and-internal-rectification.md`
+- `excr009-theme-summary-backbone-building-organizing-core-and-talent-absorption.md`
+- `excr010-theme-summary-crisis-governance-anti-retreat-and-classified-response.md`
 
 ### D. 历史映射文件
-- `109-theme-summary-source-mapping.md`
+- `excr011-theme-summary-source-mapping.md`
   - 说明主题化汇总与历史来源之间的对应关系
 
 ### E. 阶段收束文件
-- `110-third-volume-final-victory-window-stage-summary.md`
+- `excr012-third-volume-final-victory-window-stage-summary.md`
   - 收束第三卷后段从经济工作、生产自给、联合政府、反假协商到最后胜利窗口的组织方法
 
 ## 当前状态说明
@@ -41,9 +41,9 @@
 ## 推荐阅读顺序
 
 ### 如果你想先抓大图景
-1. 读 `100-theme-summaries-index.md`
+1. 读 `excr002-theme-summaries-index.md`
 2. 再按下面顺序进入：`101 -> 102 -> 108`
-3. 如果想看第三卷后段收束，读 `110-third-volume-final-victory-window-stage-summary.md`
+3. 如果想看第三卷后段收束，读 `excr012-third-volume-final-victory-window-stage-summary.md`
 
 ### 如果你想补“组织怎么长出来”
 1. 读：`103 -> 104 -> 107`
@@ -52,7 +52,7 @@
 1. 读：`105 -> 106`
 
 ### 如果你想看执行层经验
-1. 读 `000-mao-study-execution-wisdom.md`
+1. 读 `excr001-mao-study-execution-wisdom.md`
 
 ## 使用原则
 

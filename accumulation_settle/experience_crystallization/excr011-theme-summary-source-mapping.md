@@ -65,7 +65,6 @@
 
 ## 四、后续使用方式
 
-- 想看批次退役过程：读 `A01-stage-summary-extraction-and-retirement-tracker.md`
-- 想看原文覆盖缺口：读 `A02-source-article-coverage-audit-001-057.md`
-- 想看新主题是否要开：读 `A03-theme-gap-and-new-summary-decisions.md`
-- 想看正式知识正文：回到 `100-theme-summaries-index.md` 与 `101—108`
+- 想看历史 stage-summary 的主次归属、退役去向与方法承接：直接使用本文件。
+- 想看正式知识正文：回到 `excr002-theme-summaries-index.md` 与 `101—108`。
+- 想看 089—106 之后的新吸收方向：优先查看各 theme summary 的“原文索引”“历史 stage_summary 回链”与“当前阶段结论”更新。

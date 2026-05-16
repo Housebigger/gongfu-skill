@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`105《三个月总结》`
-- 如果继续顺序推进，下一篇应是：`106《迎接中国革命的新高潮》`
+- 当前顺序覆盖已推进到：`106《迎接中国革命的新高潮》`
+- 如果继续顺序推进，下一篇应是：`107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -468,6 +468,16 @@
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
 
+
+- 106《迎接中国革命的新高潮》
+  - `../judgement_and_decision/106-when-signs-point-to-a-new-upsurge-stop-living-by-old-defensive-psychology.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/106-when-business-upsurge-signs-appear-stop-managing-like-only-survival-matters.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/106-when-a-company-may-be-entering-a-new-upsurge-dont-confuse-bounce-with-structure.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/106-when-a-side-hustle-is-near-a-new-upsurge-stop-running-it-like-a-survival-project.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/106-when-an-embedded-project-nears-a-new-upsurge-build-the-engineering-arms-and-supply-lines.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/106-when-a-school-nears-a-new-upsurge-stop-running-only-defensive-governance.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“新高潮前夜要靠事实判断形势、巩固和发展极广泛统一战线、继续完成耕者有其田并填平补齐、加强炮兵工兵等关键能力、长期打算努力生产厉行节约”转译为现代起势方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当上升信号已经出现时，不要再按纯防守心理和保命逻辑运转，而要主动组织更广支持面，补硬关键能力，并把供给线做成能承接更大胜利的新阶段骨架。
 
 - 105《三个月总结》
   - `../judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md`

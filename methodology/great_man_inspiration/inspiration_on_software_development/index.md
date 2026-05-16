@@ -83,7 +83,9 @@ Purpose:
 - `iteration_and_delivery/103-software-teams-should-stop-fighting-every-ticket-and-concentrate-on-one-decisive-breakthrough.md`
 - `team_process_and_quality/104-software-teams-must-look-through-neutral-mediation-talk-and-check-who-controls-the-project-future.md`
 - `iteration_and_delivery/105-software-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-metrics.md`
+- `iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`
 Purpose:
+- how software teams recognize when a project is nearing a new upsurge and stop running it like pure defense by widening real support, upgrading key engineering arms, and hardening supply lines for the next stage
 - how software teams use release victory windows to concentrate engineering force, clear hidden dependencies, protect release discipline, and prepare post-launch order
 - how software teams avoid letting macro panic and platform fear dissolve quality discipline, user service, and internal fight
 - how software teams sustain long delivery battles through self-supply in tools/tests/environments and rectification-style retrospectives

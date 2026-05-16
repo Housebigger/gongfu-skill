@@ -398,6 +398,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/105-embedded-stage-reviews-must-validate-confidence-with-facts-structure-and-next-main-targets.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/105-school-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-tasks.md`
 
+### 106《迎接中国革命的新高潮》(1947-02)
+- `inspiration_on_today_life/judgement_and_decision/106-when-signs-point-to-a-new-upsurge-stop-living-by-old-defensive-psychology.md`
+- `inspiration_on_software_development/iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`
+- `inspiration_on_running_a_company/strategy_and_execution/106-when-business-upsurge-signs-appear-stop-managing-like-only-survival-matters.md`
+- `inspiration_on_stock_investing/research_and_thesis/106-when-a-company-may-be-entering-a-new-upsurge-dont-confuse-bounce-with-structure.md`
+- `inspiration_on_making_money/execution_and_delivery/106-when-a-side-hustle-is-near-a-new-upsurge-stop-running-it-like-a-survival-project.md`
+- `inspiration_on_embedded_coding/engineering_strategy/106-when-an-embedded-project-nears-a-new-upsurge-build-the-engineering-arms-and-supply-lines.md`
+- `inspiration_on_educational_undertakings/school_governance_and_crisis_response/106-when-a-school-nears-a-new-upsurge-stop-running-only-defensive-governance.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

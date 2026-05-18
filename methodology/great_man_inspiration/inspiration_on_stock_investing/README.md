@@ -96,5 +96,6 @@
 - `research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md`
 - `research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
 - `research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+- `research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md`
 - `risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
 - `trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`

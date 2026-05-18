@@ -163,3 +163,4 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md`
 - `team_process_and_knowledge/104-embedded-teams-must-look-through-mediation-theater-and-protect-the-right-to-decide-engineering-facts.md`
 - `team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`
+- `team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`

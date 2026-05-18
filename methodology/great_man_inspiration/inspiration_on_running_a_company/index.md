@@ -28,6 +28,7 @@ This folder focuses on:
 - `organization_design/060-real-company-learning-means-studying-reality-history-and-turning-theory-into-usable-management-method.md`
 - `organization_design/064-rectify-company-style-by-fighting-subjectivism-silos-and-empty-management-jargon.md`
 - `organization_design/065-company-management-writing-meetings-and-reviews-must-not-decay-into-empty-jargon.md`
+- `organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md`
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`

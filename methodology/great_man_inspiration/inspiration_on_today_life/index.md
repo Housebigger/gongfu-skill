@@ -190,6 +190,7 @@ Purpose:
 - `cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
 - `cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
 - `cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md`
+- `cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md`
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

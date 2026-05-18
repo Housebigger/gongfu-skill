@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`110《目前形势和我们的任务》`
-- 如果继续顺序推进，下一篇应是：`111《关于建立报告制度》`
+- 当前顺序覆盖已推进到：`111《关于建立报告制度》`
+- 如果继续顺序推进，下一篇应是：`112《关于目前党的政策中的几个重要问题》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -488,6 +488,15 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人虽已相当疲劳缺粮但尚未到最虚的时候、不要顺着敌人预设路线转向更不利地区、要继续周旋一个时期用‘蘑菇’战术把敌磨得精疲力竭、并准备袭击运输线切断粮运”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当更强压力持续追着你跑时，不要急着钻进对手预设路线或提前决战，而要保住机动空间，继续周旋、拖疲对手、切其补给线，等时机真正成熟再打一场能改局的关键一击。
+- 111《关于建立报告制度》
+  - `../cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md`
+  - `../../inspiration_on_running_a_company/organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-regular-direct-problem-focused-operating-reports.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“负责人要自己动手写综合报告、经常按固定节奏上报动态问题倾向和处理办法、文字要简练并指出问题或争论所在、平时综合报告与临时请示都不能停”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：系统一旦进入更大规模和更高复杂度的新阶段，就不能再靠临时传话、碎片状态和层层润色维持判断；真正成熟的协作，必须让真正负责的人亲自按固定节奏把关键动态、问题、风险与分歧直接压成可上达、可纠偏、可追责的综合报告机制。
 - 110《目前形势和我们的任务》
   - `../judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
   - `../../inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`

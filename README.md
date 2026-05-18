@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：694 篇
-- 当前已建立原文关联的毛文标题数：110 篇
-  - 顺序主线：001—110
-  - 当前最新纳入：110《目前形势和我们的任务》
-- 顺序主线的下一篇：`111《关于建立报告制度》`
+- 当前已建立 `原文对应` 的主题转译文件：701 篇
+- 当前已建立原文关联的毛文标题数：111 篇
+  - 顺序主线：001—111
+  - 当前最新纳入：111《关于建立报告制度》
+- 顺序主线的下一篇：`112《关于目前党的政策中的几个重要问题》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

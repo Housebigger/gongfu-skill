@@ -17,9 +17,9 @@
 ## 当前实际结构
 
 - `monetization_models/`：2 篇
-- `execution_and_delivery/`：96 篇
+- `execution_and_delivery/`：97 篇
 
-当前合计：98 篇 article-based 笔记，对应 98 篇毛文来源。
+当前合计：99 篇 article-based 笔记，对应 99 篇毛文来源。
 
 说明：
 - 早期文档里曾把这里当作“reserved theme”描述，但当前仓库里它已经是一个内容相当完整的成熟主题，不再只是预留目录。

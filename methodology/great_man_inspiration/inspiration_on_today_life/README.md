@@ -11,11 +11,11 @@
 - `survival_strategy/`：15 篇
 - `judgement_and_decision/`：40 篇
 - `long_term_growth/`：11 篇
-- `cooperation_and_organization/`：44 篇
+- `cooperation_and_organization/`：45 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：110 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—110，顺序总览窗口也推进到 110。
+当前合计：111 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—111，顺序总览窗口也推进到 111。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`110《目前形势和我们的任务》`
-- 顺序总览窗口当前也推进到：`110《目前形势和我们的任务》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`111《关于建立报告制度》`
+- today_life 主题当前实写覆盖到：`111《关于建立报告制度》`
+- 顺序总览窗口当前也推进到：`111《关于建立报告制度》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`112《关于目前党的政策中的几个重要问题》`
 
 ## 使用提醒
 

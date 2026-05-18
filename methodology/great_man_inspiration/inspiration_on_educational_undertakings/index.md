@@ -105,6 +105,7 @@
 - [073 别把学校支持做成恩赐，先帮老师和班级恢复真实教育产能，再谈要更多结果](school_coordination_and_organization/073-dont-treat-school-support-as-a-favor-help-teachers-and-classes-rebuild-real-educational-capacity-before-asking-for-more.md)
 - [074 别把学校口中的“准备整改”“准备解决”当成真转向，先判断学校究竟在走压内部、拖字维持，还是实质换轨](school_coordination_and_organization/074-dont-mistake-school-reform-talk-for-real-turnaround.md)
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
+- [111 学校协作别只在出事后临时补材料，要建立负责人亲自写、定期综合、问题直达的校情报告制度](school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md)
 
 ---
-统计：92篇笔记 / 5个子主题 / 覆盖001-110中91篇原文
+统计：93篇笔记 / 5个子主题 / 覆盖001-111中92篇原文

@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-105篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-110篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -73,6 +73,11 @@
 - `school_governance_and_crisis_response/103-schools-should-stop-fighting-every-problem-at-once-and-concentrate-on-one-decisive-education-breakthrough.md`
 - `school_governance_and_crisis_response/104-schools-must-look-through-mediation-theater-and-protect-the-right-to-decide-educational-facts-and-future.md`
 - `school_governance_and_crisis_response/105-school-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-tasks.md`
+- `school_governance_and_crisis_response/106-when-a-school-nears-a-new-upsurge-stop-running-only-defensive-governance.md`
+- `school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md`
+- `school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
+- [109 当旧治理秩序在课堂、家校与教师人心上同时失势时，别把表面强压误认成真正稳定](school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md)
+- [110 当学校已经跨过纯防守阶段进入真正转折点时，别再拿昨天的防守地图治理今天的新阶段](school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
@@ -102,4 +107,4 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 
 ---
-统计：87篇笔记 / 5个子主题 / 覆盖001-105中86篇原文
+统计：92篇笔记 / 5个子主题 / 覆盖001-110中91篇原文

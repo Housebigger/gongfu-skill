@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`106《迎接中国革命的新高潮》`
-- 如果继续顺序推进，下一篇应是：`107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》`
+- 当前顺序覆盖已推进到：`110《目前形势和我们的任务》`
+- 如果继续顺序推进，下一篇应是：`111《关于建立报告制度》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -469,6 +469,43 @@
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
 
 
+- 107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》
+  - `../survival_strategy/107-dont-tie-your-whole-system-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/107-dont-tie-a-side-hustles-whole-income-system-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人企图用打延安制造政治与心理打击、暂时放弃延安并不伤全局、中央继续留在陕甘宁边区因为地形险要群众条件好回旋地区大、并另组中工委分担一部分工作”转译为现代系统保全方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当外部重点攻击你最显眼的中心时，不要把整套系统绑死在一个象征门面上，而要保住主心骨、支持面、回旋空间、分工中枢和持续运转能力。
+
+- 108《关于西北战场的作战方针》
+  - `../survival_strategy/108-in-hard-pursuit-dont-rush-into-the-enemy-plan-keep-turning-to-exhaust-them-and-cut-their-supply.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/108-under-hard-business-pursuit-dont-rush-into-the-competitors-route-keep-maneuvering-and-cut-their-supply-lines.md`
+  - `../../inspiration_on_stock_investing/risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/108-under-hard-side-hustle-pressure-dont-rush-into-the-platforms-scripted-route-keep-maneuvering-and-rebuild-your-own-cashflow.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人虽已相当疲劳缺粮但尚未到最虚的时候、不要顺着敌人预设路线转向更不利地区、要继续周旋一个时期用‘蘑菇’战术把敌磨得精疲力竭、并准备袭击运输线切断粮运”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当更强压力持续追着你跑时，不要急着钻进对手预设路线或提前决战，而要保住机动空间，继续周旋、拖疲对手、切其补给线，等时机真正成熟再打一场能改局的关键一击。
+- 110《目前形势和我们的任务》
+  - `../judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“人民解放军已经打退大规模进攻并由战略防御转入全国规模的进攻、局势达到历史转折点后必须立刻重排任务、彻底推进土地改革、整编队伍、区分该没收与该保护的经济力量，并以发展生产、繁荣经济、公私兼顾、劳资两利作为新阶段总目标”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：真正的转折点不是一句形势变好，而是旧防守地图必须立刻让位于新阶段任务；你要重新判断主任务、后方整顿、对象分类和供给系统，否则已经到来的转机仍可能被旧阶段的方法拖回去。
+- 109《蒋介石政府已处在全民的包围中》
+  - `../judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“反动政府在军事战线和政治战线上同时被包围、学生运动构成第二条战线、财政经济政策把越来越多社会力量逼到反对面、表面强硬其实已经外强中干、中国事变的发展会比许多人预料得更快”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：别把表面高压、强硬口径和一时镇压误认成真正稳固；当一个旧系统在前线、后方、经济、协作与人心上同时失势时，它往往已经处在越来越广的包围之中，你要尽快认清这一点，并为下一阶段的真实秩序准备必要条件。
 - 106《迎接中国革命的新高潮》
   - `../judgement_and_decision/106-when-signs-point-to-a-new-upsurge-stop-living-by-old-defensive-psychology.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`

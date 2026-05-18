@@ -16,10 +16,10 @@
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：7 篇
 - `teacher_growth_and_backbone/`：12 篇
-- `school_governance_and_crisis_response/`：38 篇
+- `school_governance_and_crisis_response/`：42 篇
 - `school_coordination_and_organization/`：26 篇
 
-当前合计：88 篇 article-based 笔记，对应 87 篇毛文来源。
+当前合计：92 篇 article-based 笔记，对应 91 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -60,6 +60,7 @@
 - 规则、底线与分类处置
 - 如何在困难阶段主动收小学校机器、保住课堂、班级与核心教师主力
 - 如何在学校曙光已现时继续把教师主力、规则执行与支持面集中到主教育战场，不在最后阶段重新分神
+- 如何在学校已经跨过纯防守阶段时，重判主任务、整顿后方治理并按新阶段要求重排力量
 - 如何在基础薄、资源少、干扰多的教育游击区里用小块时间、小块学生力量和本土办法做出教育供给
 
 ### `school_coordination_and_organization/`
@@ -104,3 +105,7 @@
 - `school_governance_and_crisis_response/104-schools-must-look-through-mediation-theater-and-protect-the-right-to-decide-educational-facts-and-future.md`
 - `school_governance_and_crisis_response/105-school-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-tasks.md`
 - `school_governance_and_crisis_response/106-when-a-school-nears-a-new-upsurge-stop-running-only-defensive-governance.md`
+- `school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md`
+- `school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
+- `school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+- `school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`

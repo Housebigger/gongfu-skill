@@ -39,6 +39,7 @@ Focus:
 - preparing for worst-case scenarios without losing the main contradiction and turnaround possibilities after severe project shocks
 - shrinking the embedded machine in hard times so the main delivery force, main version, and main board line stay hard enough to survive
 - keeping firmware, hardware, test, field, and version firepower concentrated on the main delivery battle once embedded-turnaround dawn is visible, so the final stage is not lost to renewed multi-front distraction
+- how embedded teams stop using yesterday's defensive map when a real project turning point arrives, and instead switch the main task, rear-area rectification, and engineering supply system to the new stage
 - `engineering_strategy/084-move-engineering-mountains-by-incremental-work-team-confidence-and-field-support.md`
 - `engineering_strategy/085-embedded-teams-need-distributed-self-supply-and-engineering-rectification.md`
 - `engineering_strategy/089-embedded-teams-must-use-final-field-windows-to-concentrate-test-delivery-and-stabilization.md`
@@ -50,6 +51,10 @@ Focus:
 - `engineering_strategy/102-embedded-teams-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
 - `engineering_strategy/103-embedded-teams-should-stop-fighting-every-bug-at-once-and-concentrate-on-one-decisive-field-breakthrough.md`
 - `engineering_strategy/105-embedded-stage-reviews-must-validate-confidence-with-facts-structure-and-next-main-targets.md`
+- `engineering_strategy/106-when-an-embedded-project-nears-a-new-upsurge-build-the-engineering-arms-and-supply-lines.md`
+- `engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md`
+- `engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
+- `engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -157,3 +162,4 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/087-external-pressure-that-backs-bad-engineering-decisions-creates-field-crisis.md`
 - `team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md`
 - `team_process_and_knowledge/104-embedded-teams-must-look-through-mediation-theater-and-protect-the-right-to-decide-engineering-facts.md`
+- `team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`

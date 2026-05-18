@@ -148,6 +148,7 @@ This folder focuses on:
 - how companies entering a bigger stage stop relying on old wins and executive grit, study the situation, drop baggage, and prepare the capabilities needed to run larger markets, key channels, and more complex operating systems
 - how companies stop using confidence performances to hide operating crisis, answer key problems, protect evidence-based criticism, and verify stability through real resource and rule changes
 - how companies use decisive market windows to concentrate attack, mobilize hidden capacity, reinforce operating basics, and prepare post-victory governance
+- how companies stop running a real business turning point with yesterday's defensive map, and instead re-rank tasks, clean up internal drag, reorganize support surfaces, and prepare the operating conditions needed for the next stage
 - `organization_design/083-company-new-order-needs-common-program-broad-governance-and-self-correction.md`
 - `strategy_and_execution/084-companies-move-big-mountains-by-clear-route-broad-confidence-and-persistent-work.md`
 - `strategy_and_execution/085-companies-under-pressure-need-distributed-self-supply-and-cultural-rectification.md`
@@ -173,3 +174,8 @@ This folder focuses on:
 - `strategy_and_execution/103-companies-must-stop-fighting-on-all-fronts-and-concentrate-on-one-decisive-market-breakthrough.md`
 - `strategy_and_execution/104-companies-must-see-through-neutral-mediation-theater-and-protect-the-right-to-decide-their-future.md`
 - `strategy_and_execution/105-company-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-battles.md`
+- `strategy_and_execution/106-when-business-upsurge-signs-appear-stop-managing-like-only-survival-matters.md`
+- `strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md`
+- `strategy_and_execution/108-under-hard-business-pursuit-dont-rush-into-the-competitors-route-keep-maneuvering-and-cut-their-supply-lines.md`
+- `strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
+- `strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`

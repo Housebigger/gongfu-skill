@@ -21,16 +21,16 @@
 
 - `debugging_and_fieldwork/`：3 篇
   - 面向调试闭环、真机调查、反资料主义，以及一线调查方法
-- `engineering_strategy/`：26 篇
+- `engineering_strategy/`：28 篇
   - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备、转机判断与困难阶段主动缩编
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
-- `team_process_and_knowledge/`：48 篇
+- `team_process_and_knowledge/`：49 篇
   - 面向协作边界、知识沉淀、纪律、保护建设者、复杂协作治理
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：78 篇 article-based 笔记，对应 78 篇毛文来源。
+当前合计：82 篇 article-based 笔记，对应 82 篇毛文来源。
 
 ## 推荐入口
 
@@ -71,6 +71,7 @@
 - 如何让平台、流程、日志和工具真正服务真实承担者，并从现场语言与交付基础往上提高
 - 如何在困难阶段别只让驱动、测试、FAE 和少数骨干散着补窟窿，而要把分散承担者、半可用力量和现场经验组织成真正交付主力
 - 如何在项目旧打法快见顶时，研究现实形势、复盘关键历史、放下旧包袱、训练分析机器，并提前为工厂、认证、现场与更复杂系统责任做好准备
+- 如何在项目到了真正转折点时，不再拿昨天的防守地图组织今天的新阶段，而是把主任务、后方整顿与工程供给系统一起切换
 - 如何别把嵌入式组织做成自保机器，而要把真正对交付、现场和系统有益的建设者放到中心，并让有根据的批评进入机制
 - 如何别把现场反馈说成杂音，而要回答真实工程风险并把问题闭环到板卡、固件、测试和现场动作
 
@@ -98,8 +99,12 @@
 - `engineering_strategy/098-embedded-teams-in-hard-years-need-main-battle-plans-local-backbone-and-long-support.md`
 - `engineering_strategy/099-embedded-teams-need-stable-field-base-areas-before-central-platform-battles.md`
 - `team_process_and_knowledge/100-embedded-teams-must-not-let-big-customer-or-war-panic-dissolve-field-fight.md`
+- `team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`
 - `engineering_strategy/101-embedded-teams-under-full-scale-attack-must-preserve-core-delivery-and-field-strength.md`
 - `engineering_strategy/102-embedded-teams-must-see-through-paper-tigers-and-super-weapons-to-real-strength.md`
 - `engineering_strategy/103-embedded-teams-should-stop-fighting-every-bug-at-once-and-concentrate-on-one-decisive-field-breakthrough.md`
 - `engineering_strategy/105-embedded-stage-reviews-must-validate-confidence-with-facts-structure-and-next-main-targets.md`
 - `engineering_strategy/106-when-an-embedded-project-nears-a-new-upsurge-build-the-engineering-arms-and-supply-lines.md`
+- `engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md`
+- `engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
+- `engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`

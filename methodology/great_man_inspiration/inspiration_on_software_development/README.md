@@ -21,11 +21,11 @@
 - `product_strategy/`：4 篇
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
-- `iteration_and_delivery/`：23 篇
-- `team_process_and_quality/`：66 篇
+- `iteration_and_delivery/`：25 篇
+- `team_process_and_quality/`：68 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：102 篇 article-based 笔记，对应 102 篇毛文来源。
+当前合计：106 篇 article-based 笔记，对应 106 篇毛文来源。
 
 ## 推荐入口
 
@@ -75,6 +75,7 @@
 - 如何在项目旧打法快见顶时，研究阶段变化、放下旧胜利包袱、训练团队分析机器，并为更大项目责任提前做组织准备
 - 如何把团队从围着面子、自保和甩锅运转，扳回围着真实建设者、真实批评与真实用户结果运转
 - 如何在项目危机中不把真实问题开成信心会，而是回答风险、接住批评并用动作修正系统
+- 如何在项目已经跨过纯防守阶段进入真正转折点时，不再按旧防守地图运转新阶段，而是重排主任务、整顿后方流程、分类支持面并为更大责任提前建好过程与质量机器
 
 ## 使用提醒
 
@@ -103,5 +104,9 @@
 - `team_process_and_quality/102-dont-let-platform-paper-tigers-or-super-weapons-break-engineering-confidence.md`
 - `iteration_and_delivery/103-software-teams-should-stop-fighting-every-ticket-and-concentrate-on-one-decisive-breakthrough.md`
 - `team_process_and_quality/104-software-teams-must-look-through-neutral-mediation-talk-and-check-who-controls-the-project-future.md`
+- `team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md`
+- `team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 - `iteration_and_delivery/105-software-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-metrics.md`
 - `iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`
+- `iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
+- `iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`

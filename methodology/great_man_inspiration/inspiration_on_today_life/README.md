@@ -8,14 +8,14 @@
 
 ## 当前实际结构
 
-- `survival_strategy/`：13 篇
-- `judgement_and_decision/`：38 篇
+- `survival_strategy/`：15 篇
+- `judgement_and_decision/`：40 篇
 - `long_term_growth/`：11 篇
 - `cooperation_and_organization/`：44 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：106 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—106，顺序总览窗口也推进到 106。
+当前合计：110 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—110，顺序总览窗口也推进到 110。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`106《迎接中国革命的新高潮》`
-- 顺序总览窗口当前也推进到：`106《迎接中国革命的新高潮》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》`
+- today_life 主题当前实写覆盖到：`110《目前形势和我们的任务》`
+- 顺序总览窗口当前也推进到：`110《目前形势和我们的任务》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`111《关于建立报告制度》`
 
 ## 使用提醒
 
@@ -90,3 +90,7 @@
 - `judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`
 - `judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md`
 - `judgement_and_decision/106-when-signs-point-to-a-new-upsurge-stop-living-by-old-defensive-psychology.md`
+- `survival_strategy/107-dont-tie-your-whole-system-to-one-symbolic-center-under-heavy-attack.md`
+- `survival_strategy/108-in-hard-pursuit-dont-rush-into-the-enemy-plan-keep-turning-to-exhaust-them-and-cut-their-supply.md`
+- `judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md`
+- `judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`

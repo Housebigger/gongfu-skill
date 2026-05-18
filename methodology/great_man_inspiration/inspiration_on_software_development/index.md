@@ -84,6 +84,8 @@ Purpose:
 - `team_process_and_quality/104-software-teams-must-look-through-neutral-mediation-talk-and-check-who-controls-the-project-future.md`
 - `iteration_and_delivery/105-software-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-metrics.md`
 - `iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`
+- `iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
+- `iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
 Purpose:
 - how software teams recognize when a project is nearing a new upsurge and stop running it like pure defense by widening real support, upgrading key engineering arms, and hardening supply lines for the next stage
 - how software teams use release victory windows to concentrate engineering force, clear hidden dependencies, protect release discipline, and prepare post-launch order
@@ -168,6 +170,8 @@ Purpose:
 - `team_process_and_quality/094-negotiate-stakeholder-peace-without-pausing-delivery-and-risk-preparation.md`
 - `team_process_and_quality/095-after-alignment-meetings-turn-paper-agreements-into-operational-reality.md`
 - `team_process_and_quality/096-dont-let-management-call-an-expansion-just-restoring-flow-check-movements-rights-and-logs.md`
+- `team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md`
+- `team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 Purpose:
 - how software teams turn alignment-meeting paper agreements into operational reality through code, monitoring, owners, and fallback paths
 - how software teams negotiate stakeholder peace without pausing delivery, risk evidence, and fallback preparation
@@ -213,6 +217,7 @@ Purpose:
 - how software teams stop letting docs, reviews, meetings, and reporting decay into empty engineering jargon by writing for real readers, real problems, and real actions
 - how software teams stop entering a bigger project stage with old-win baggage, and instead study the changing situation, train real analytical judgement, and prepare delivery, quality, and coordination systems for larger responsibility
 - how software teams stop becoming self-protection machines, put real builders and useful work at the center, welcome evidence-based criticism, and unite around user value, delivery health, and system truth
+- how software teams stop using yesterday's defensive map after a real turning point arrives, re-rank main tasks, rectify the back line, classify support forces, and prepare stronger process-quality systems for a bigger stage
 
 - how software teams stop treating cross-functional support as a favor, spend most of their energy helping delivery roles rebuild real capacity, organize the real labor chain behind versions and incidents, and repair cooperation by starting with self-criticism
 

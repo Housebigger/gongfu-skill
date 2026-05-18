@@ -101,6 +101,10 @@ Purpose:
 - `research_and_thesis/102-investors-should-look-through-paper-tigers-and-super-weapons-to-real-strength.md`
 - `research_and_thesis/104-investors-must-look-through-mediation-theater-and-check-who-really-controls-the-companys-future.md`
 - `research_and_thesis/105-investors-should-judge-stage-progress-by-facts-structure-and-next-key-milestones.md`
+- `research_and_thesis/106-when-a-company-may-be-entering-a-new-upsurge-dont-confuse-bounce-with-structure.md`
+- `research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md`
+- `research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
+- `research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism
@@ -148,6 +152,7 @@ Purpose:
 - how investors stop letting reports, notes, and thesis reviews decay into empty jargon and force research expression back toward facts, audience, and action
 - how investors stop building thesis for positions, peer applause, and research vanity, and instead learn the language of real demand, real industry friction, and real validation so judgement grows upward from actual ground truth
 - how investors stop carrying bigger thesis responsibility with old wins, old scars, and a few exhausted researchers, and instead study reality, study history, drop baggage, train the research machine, and prepare for more demanding public-market judgment
+- how investors stop using yesterday's defensive map when a real market turning point arrives, and instead redraw what should be eliminated, protected, and expanded in the new stage
 - how investors stop turning research into a machine serving position defense, face, and small-circle identity, and instead put thesis truth, useful contributors, and evidence-based criticism at the center
 
 - how investors avoid mistaking management confidence theater for thesis repair by watching key answers, costly actions, and whether risks are actually reduced
@@ -160,6 +165,7 @@ Purpose:
 - `risk_and_position_management/039-stalemate-market-three-investor-traps.md`
 - `risk_and_position_management/067-in-hard-times-shrink-the-investment-machine-and-keep-the-core-capital-force-hard.md`
 - `risk_and_position_management/070-when-positions-hurt-stop-staring-at-drawdown-rebuild-supply-lines.md`
+- `risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
 
 Purpose:
 - how investors avoid buying destiny stories at cycle turning points and instead verify the conditions for a company to take the bright road

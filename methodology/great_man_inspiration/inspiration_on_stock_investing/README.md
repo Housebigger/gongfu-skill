@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：83 篇
-- `risk_and_position_management/`：8 篇
+- `research_and_thesis/`：85 篇
+- `risk_and_position_management/`：9 篇
 - `trading_and_execution/`：3 篇
 - `indexes/`：当前预留
 
-当前合计：95 篇 article-based 笔记，对应 95 篇毛文来源。
+当前合计：99 篇 article-based 笔记，对应 99 篇毛文来源。
 
 ## 子目录速览
 
@@ -93,4 +93,8 @@
 - `research_and_thesis/104-investors-must-look-through-mediation-theater-and-check-who-really-controls-the-companys-future.md`
 - `research_and_thesis/105-investors-should-judge-stage-progress-by-facts-structure-and-next-key-milestones.md`
 - `research_and_thesis/106-when-a-company-may-be-entering-a-new-upsurge-dont-confuse-bounce-with-structure.md`
+- `research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md`
+- `research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
+- `research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+- `risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
 - `trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`

@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—106。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—110。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 106 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 666 |
-| 顺序学习已连续覆盖范围 | 001—106 |
-| 顺序覆盖段标题核对结果 | 106/106 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 110 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 694 |
+| 顺序学习已连续覆盖范围 | 001—110 |
+| 顺序覆盖段标题核对结果 | 110/110 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》 |
+| 顺序主线的下一篇 | 111《关于建立报告制度》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `106《迎接中国革命的新高潮》`。
-- 在 `001—106` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `110《目前形势和我们的任务》`。
+- 在 `001—110` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -139,13 +139,18 @@
 | 104 | 《美国“调解”真相和中国内战前途》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460929.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 105 | 《三个月总结》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19461001.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 106 | 《迎接中国革命的新高潮》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470201.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 107 | 《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 108 | 《关于西北战场的作战方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470415.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 109 | 《蒋介石政府已处在全民的包围中》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 110 | 《目前形势和我们的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—106 顺序主线已建立关联        [##########################################################################################################]
-106 《迎接中国革命的新高潮》 [DONE: 7/7]
-107 《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》 [NEXT]
+001—110 顺序主线已建立关联        [##############################################################################################################]
+109 《蒋介石政府已处在全民的包围中》 [DONE: 7/7]
+110 《目前形势和我们的任务》 [DONE: 7/7]
+111 《关于建立报告制度》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -271,6 +276,10 @@
 | 104 | 《美国“调解”真相和中国内战前途》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460929.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md) | [SD](./inspiration_on_software_development/team_process_and_quality/104-software-teams-must-look-through-neutral-mediation-talk-and-check-who-controls-the-project-future.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/104-companies-must-see-through-neutral-mediation-theater-and-protect-the-right-to-decide-their-future.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/104-investors-must-look-through-mediation-theater-and-check-who-really-controls-the-companys-future.md) | [MM](./inspiration_on_making_money/execution_and_delivery/104-side-hustlers-must-look-through-mediation-talk-and-protect-the-right-to-decide-their-own-future.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/104-embedded-teams-must-look-through-mediation-theater-and-protect-the-right-to-decide-engineering-facts.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/104-schools-must-look-through-mediation-theater-and-protect-the-right-to-decide-educational-facts-and-future.md) | 7 |
 | 105 | 《三个月总结》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19461001.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/105-software-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-metrics.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/105-company-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-battles.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/105-investors-should-judge-stage-progress-by-facts-structure-and-next-key-milestones.md) | [MM](./inspiration_on_making_money/execution_and_delivery/105-side-hustle-reviews-must-validate-confidence-with-facts-structure-and-next-key-goals.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/105-embedded-stage-reviews-must-validate-confidence-with-facts-structure-and-next-main-targets.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/105-school-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-tasks.md) | 7 |
 | 106 | 《迎接中国革命的新高潮》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470201.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/106-when-signs-point-to-a-new-upsurge-stop-living-by-old-defensive-psychology.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/106-when-business-upsurge-signs-appear-stop-managing-like-only-survival-matters.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/106-when-a-company-may-be-entering-a-new-upsurge-dont-confuse-bounce-with-structure.md) | [MM](./inspiration_on_making_money/execution_and_delivery/106-when-a-side-hustle-is-near-a-new-upsurge-stop-running-it-like-a-survival-project.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/106-when-an-embedded-project-nears-a-new-upsurge-build-the-engineering-arms-and-supply-lines.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/106-when-a-school-nears-a-new-upsurge-stop-running-only-defensive-governance.md) | 7 |
+| 107 | 《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm) | [TL](./inspiration_on_today_life/survival_strategy/107-dont-tie-your-whole-system-to-one-symbolic-center-under-heavy-attack.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md) | [MM](./inspiration_on_making_money/execution_and_delivery/107-dont-tie-a-side-hustles-whole-income-system-to-one-symbolic-center-under-heavy-attack.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md) | 7 |
+| 108 | 《关于西北战场的作战方针》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470415.htm) | [TL](./inspiration_on_today_life/survival_strategy/108-in-hard-pursuit-dont-rush-into-the-enemy-plan-keep-turning-to-exhaust-them-and-cut-their-supply.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/108-under-hard-business-pursuit-dont-rush-into-the-competitors-route-keep-maneuvering-and-cut-their-supply-lines.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md) | [MM](./inspiration_on_making_money/execution_and_delivery/108-under-hard-side-hustle-pressure-dont-rush-into-the-platforms-scripted-route-keep-maneuvering-and-rebuild-your-own-cashflow.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md) | 7 |
+| 109 | 《蒋介石政府已处在全民的包围中》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md) | [SD](./inspiration_on_software_development/team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md) | [MM](./inspiration_on_making_money/execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md) | 7 |
+| 110 | 《目前形势和我们的任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md) | [SD](./inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [MM](./inspiration_on_making_money/execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1468,10 +1477,58 @@
   - EC: `inspiration_on_embedded_coding/engineering_strategy/106-when-an-embedded-project-nears-a-new-upsurge-build-the-engineering-arms-and-supply-lines.md`
   - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/106-when-a-school-nears-a-new-upsurge-stop-running-only-defensive-governance.md`
 
+## 107 《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 18 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/survival_strategy/107-dont-tie-your-whole-system-to-one-symbolic-center-under-heavy-attack.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/107-dont-tie-a-side-hustles-whole-income-system-to-one-symbolic-center-under-heavy-attack.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md`
+
+## 108 《关于西北战场的作战方针》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 19 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470415.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/survival_strategy/108-in-hard-pursuit-dont-rush-into-the-enemy-plan-keep-turning-to-exhaust-them-and-cut-their-supply.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/108-under-hard-business-pursuit-dont-rush-into-the-competitors-route-keep-maneuvering-and-cut-their-supply-lines.md`
+  - SI: `inspiration_on_stock_investing/risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/108-under-hard-side-hustle-pressure-dont-rush-into-the-platforms-scripted-route-keep-maneuvering-and-rebuild-your-own-cashflow.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
+
+## 109 《蒋介石政府已处在全民的包围中》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 20 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+
+## 110 《目前形势和我们的任务》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 24 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》`
+- 如果要从当前边界继续向下推进，下一篇应是：`111《关于建立报告制度》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

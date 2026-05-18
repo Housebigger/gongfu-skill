@@ -30,6 +30,8 @@ Purpose:
 - `survival_strategy/085-build-self-supply-and-self-correction-before-the-big-battle.md`
 - `survival_strategy/097-in-hard-times-secure-peoples-real-benefits-and-productive-capacity-first.md`
 - `survival_strategy/099-build-a-stable-life-base-far-from-contested-centers.md`
+- `survival_strategy/107-dont-tie-your-whole-system-to-one-symbolic-center-under-heavy-attack.md`
+- `survival_strategy/108-in-hard-pursuit-dont-rush-into-the-enemy-plan-keep-turning-to-exhaust-them-and-cut-their-supply.md`
 
 Purpose:
 - how ordinary people survive hard periods by building self-supply lines and self-correction habits instead of waiting for external rescue
@@ -44,6 +46,7 @@ Purpose:
 - how ordinary people build a real life base area under long pressure, keep room to move, and gradually grow through active, flexible, planned local wins
 - how ordinary people actively shrink an overgrown life machine in hard times so the core stays strong, mobile, and able to survive the darkest stretch
 - how ordinary people stop treating money pressure as a pure budgeting problem, protect core supply, and rebuild income, self-support, and support lines while living tighter
+- how ordinary people stop tying their whole survival system to one symbolic center under heavy attack, and instead preserve the core, support base, and maneuver space
 
 ### judgement_and_decision
 - `judgement_and_decision/001-dont-misread-allies-by-surface-labels.md`
@@ -84,6 +87,9 @@ Purpose:
 - `judgement_and_decision/103-dont-fight-every-problem-at-once-concentrate-on-the-key-breakthrough.md`
 - `judgement_and_decision/104-dont-mistake-mediation-talk-for-neutrality-check-who-benefits-and-who-decides.md`
 - `judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md`
+- `judgement_and_decision/106-when-signs-point-to-a-new-upsurge-stop-living-by-old-defensive-psychology.md`
+- `judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md`
+- `judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
 
 Purpose:
 - how ordinary people test paper agreements against reality, keep working, and carry heavy responsibilities after negotiation
@@ -112,6 +118,7 @@ Purpose:
 - how ordinary people recognize that the enemy's fiercest final push may signal structural exhaustion, and judge turning points by whether core goals can still be achieved and sustained
 - how ordinary people stop mistaking “we are preparing to solve it” and “reform is coming later” talk for real change, and instead judge which of three directions the system is actually taking
 - how ordinary people recognize that when leaders answer no key questions, perform confidence, and treat criticism as hostile rumor, the situation is usually worsening rather than stabilizing
+- how ordinary people recognize when a situation has truly crossed from pure defense into a real turning stage, stop using yesterday's defensive map to judge today, and immediately reset the main task, support structure, and next-step conditions
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`

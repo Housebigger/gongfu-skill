@@ -11,9 +11,9 @@
 
 - `organization_design/`：16 篇
 - `leadership_and_talent/`：7 篇
-- `strategy_and_execution/`：80 篇
+- `strategy_and_execution/`：84 篇
 
-当前合计：103 篇 article-based 笔记，对应 103 篇毛文来源。
+当前合计：107 篇 article-based 笔记，对应 107 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -88,3 +88,7 @@
 - `strategy_and_execution/104-companies-must-see-through-neutral-mediation-theater-and-protect-the-right-to-decide-their-future.md`
 - `strategy_and_execution/105-company-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-battles.md`
 - `strategy_and_execution/106-when-business-upsurge-signs-appear-stop-managing-like-only-survival-matters.md`
+- `strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md`
+- `strategy_and_execution/108-under-hard-business-pursuit-dont-rush-into-the-competitors-route-keep-maneuvering-and-cut-their-supply-lines.md`
+- `strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
+- `strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`

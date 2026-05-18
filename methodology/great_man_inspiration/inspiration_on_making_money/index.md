@@ -131,6 +131,7 @@ Additional focus:
 - how side-hustle builders use opportunity windows to concentrate conversion, delivery, cash collection, and post-growth cooperation rules
 - how side-hustle builders refuse to surrender delivery judgment to platform, capital, traffic, and course-selling narratives
 - how side-hustle builders stop packaging project crisis as confidence theater, and instead answer customer, cashflow, and delivery problems with observable actions
+- how side-hustle builders stop running a real turning point with yesterday's defensive map, and instead reorder the main earning task, rectify the rear operating machine, classify allies, and protect the forces that can carry the next stage
 - `execution_and_delivery/085-side-hustles-survive-by-self-supply-and-regular-rectification.md`
 - `execution_and_delivery/086-side-hustles-should-not-mistake-platform-theater-for-real-opportunity.md`
 - `execution_and_delivery/087-side-hustles-must-avoid-platform-policies-that-back-bad-operators.md`
@@ -154,3 +155,8 @@ Additional focus:
 - `execution_and_delivery/103-side-hustlers-should-stop-spreading-across-every-front-and-concentrate-on-one-winning-offer.md`
 - `execution_and_delivery/104-side-hustlers-must-look-through-mediation-talk-and-protect-the-right-to-decide-their-own-future.md`
 - `execution_and_delivery/105-side-hustle-reviews-must-validate-confidence-with-facts-structure-and-next-key-goals.md`
+- `execution_and_delivery/106-when-a-side-hustle-is-near-a-new-upsurge-stop-running-it-like-a-survival-project.md`
+- `execution_and_delivery/107-dont-tie-a-side-hustles-whole-income-system-to-one-symbolic-center-under-heavy-attack.md`
+- `execution_and_delivery/108-under-hard-side-hustle-pressure-dont-rush-into-the-platforms-scripted-route-keep-maneuvering-and-rebuild-your-own-cashflow.md`
+- `execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+- `execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`

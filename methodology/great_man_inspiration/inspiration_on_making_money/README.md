@@ -17,9 +17,9 @@
 ## 当前实际结构
 
 - `monetization_models/`：2 篇
-- `execution_and_delivery/`：92 篇
+- `execution_and_delivery/`：96 篇
 
-当前合计：94 篇 article-based 笔记，对应 94 篇毛文来源。
+当前合计：98 篇 article-based 笔记，对应 98 篇毛文来源。
 
 说明：
 - 早期文档里曾把这里当作“reserved theme”描述，但当前仓库里它已经是一个内容相当完整的成熟主题，不再只是预留目录。
@@ -52,6 +52,7 @@
 - 如何把副业从服务自我展示、自保算盘和熟人场面，重新扳回服务真实付费用户、真实贡献者与长期交付信用
 - 如何别用信心表演包装副业危机，而要回答客户、现金流和交付问题
 - 如何在碎片时间、弱资源和强干扰中找小块地，把副业最小可交付产能种出来
+- 如何在副业跨过纯保命阶段后，重排主任务、整顿后方经营机器，并把老客户、协作者和渠道支持面重新组织进新阶段
 
 ## 推荐入口
 
@@ -87,3 +88,7 @@
 - `execution_and_delivery/104-side-hustlers-must-look-through-mediation-talk-and-protect-the-right-to-decide-their-own-future.md`
 - `execution_and_delivery/105-side-hustle-reviews-must-validate-confidence-with-facts-structure-and-next-key-goals.md`
 - `execution_and_delivery/106-when-a-side-hustle-is-near-a-new-upsurge-stop-running-it-like-a-survival-project.md`
+- `execution_and_delivery/107-dont-tie-a-side-hustles-whole-income-system-to-one-symbolic-center-under-heavy-attack.md`
+- `execution_and_delivery/108-under-hard-side-hustle-pressure-dont-rush-into-the-platforms-scripted-route-keep-maneuvering-and-rebuild-your-own-cashflow.md`
+- `execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+- `execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`

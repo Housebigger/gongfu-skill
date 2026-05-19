@@ -162,3 +162,4 @@ Additional focus:
 - `execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 - `execution_and_delivery/111-side-hustles-need-regular-direct-problem-focused-operating-reports.md`
 - `execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md`
+- `execution_and_delivery/113-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`

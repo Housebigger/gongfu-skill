@@ -21,11 +21,11 @@
 - `product_strategy/`：4 篇
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
-- `iteration_and_delivery/`：26 篇
+- `iteration_and_delivery/`：27 篇
 - `team_process_and_quality/`：72 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：111 篇 article-based 笔记，对应 111 篇毛文来源。
+当前合计：112 篇 article-based 笔记，对应 112 篇毛文来源。
 
 ## 推荐入口
 
@@ -115,3 +115,4 @@
 - `iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
 - `iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
 - `iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
+- `iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`

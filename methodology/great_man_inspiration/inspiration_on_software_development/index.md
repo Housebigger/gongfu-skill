@@ -87,6 +87,7 @@ Purpose:
 - `iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
 - `iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
 - `iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
+- `iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 Purpose:
 - how software teams recognize when a project is nearing a new upsurge and stop running it like pure defense by widening real support, upgrading key engineering arms, and hardening supply lines for the next stage
 - how software teams use release victory windows to concentrate engineering force, clear hidden dependencies, protect release discipline, and prepare post-launch order

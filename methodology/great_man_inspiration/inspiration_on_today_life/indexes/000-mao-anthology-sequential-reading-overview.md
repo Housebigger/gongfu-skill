@@ -491,8 +491,9 @@
 
 - 116《新解放区土地改革要点》
   - `../cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/116-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - 本轮已完成 today_life / running_a_company 两个角度：该文一方面先落在普通人怎样在陌生新局里组织合作与推进秩序的问题上，把“不要性急、先组织贫农团后组织农会、吸引中农参加、不要全面动手、先在若干地点做出样板、取得经验后波浪式推进、不同风险区采用不同公开方式、同时保护工商业并从长期筹划财政经济”转译成现代方法，提醒普通人处理新团队、新家庭分工、新合作和新项目时，不要一上来全面动手、同时得罪所有人，而要先立真正肯承担的骨干，稳住中间层，先做几个可靠点位，再带着经验逐步扩展；另一方面也落在公司怎样推进新业务区、新组织板块与新区域市场的大重组上，提醒公司不要一上来全面重组、同时翻动所有关系，而要先立本地骨干、稳住中间层、做出样板，再带着经验波浪式扩展，同时守住营收、交付、现金流、供应和长期经营能力。
+  - 本轮已完成 today_life / software_development / running_a_company 三个角度：该文一方面先落在普通人怎样在陌生新局里组织合作与推进秩序的问题上，把“不要性急、先组织贫农团后组织农会、吸引中农参加、不要全面动手、先在若干地点做出样板、取得经验后波浪式推进、不同风险区采用不同公开方式、同时保护工商业并从长期筹划财政经济”转译成现代方法，提醒普通人处理新团队、新家庭分工、新合作和新项目时，不要一上来全面动手、同时得罪所有人，而要先立真正肯承担的骨干，稳住中间层，先做几个可靠点位，再带着经验逐步扩展；另一方面也落在软件项目怎样在新项目区、新平台迁移区和新治理接手区推进新秩序上，提醒团队不要在所有项目区同时铺开新架构、新流程和新治理，而要先筛出肯承担的交付骨干、稳住测试、SRE、产品、实施等可争取中间层，在少数关键链路先把代码提交、测试、发布、值班和回滚样板跑通，再带着经验一波一波扩展；同时也落在公司怎样推进新业务区、新组织板块与新区域市场的大重组上，提醒公司不要一上来全面重组、同时翻动所有关系，而要先立本地骨干、稳住中间层、做出样板，再带着经验波浪式扩展，同时守住营收、交付、现金流、供应和长期经营能力。
 
 - 115《纠正土地改革宣传中的“左”倾错误》
   - `../judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`

@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-110篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-115篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -109,6 +109,7 @@
 - [112 别把大多数可合作、可教育、可任用的人一把推到对面；真正稳的学校，要会区分、团结、任用绝大多数](school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md)
 - [113 真正能把学校带稳的，不是少数管理者把规则、资源和打法长期包办，而是在明确主线下让真实承担者能说、能议、能协助治理、能互教互纠偏](school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md)
 - [114 不要把同一套硬办法同时压到所有学校区域；成熟班级、半熟改进线和新开局，要分类施策、分阶段推进](school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md)
+- [115 别让极端学校口号把真实支持面越讲越窄，也别把带头做成命令主义或尾巴主义](school_coordination_and_organization/115-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md)
 
 ---
-统计：96篇笔记 / 5个子主题 / 覆盖001-114中95篇原文
+统计：97篇笔记 / 5个子主题 / 覆盖001-115中96篇原文

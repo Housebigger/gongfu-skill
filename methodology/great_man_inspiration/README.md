@@ -16,7 +16,7 @@
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
 | 当前已建立原文关联的毛文标题数 | 116 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 733 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 734 |
 | 顺序学习已连续覆盖范围 | 001—116 |
 | 顺序覆盖段标题核对结果 | 116/116 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
@@ -148,7 +148,7 @@
 | 113 | 《军队内部的民主运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 114 | 《在不同地区实施土地法的不同策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 115 | 《纠正土地改革宣传中的“左”倾错误》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 116 | 《新解放区土地改革要点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 116 | 《新解放区土地改革要点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
@@ -159,7 +159,7 @@
 113 《军队内部的民主运动》 [DONE: 7/7]
 114 《在不同地区实施土地法的不同策略》 [DONE: 7/7]
 115 《纠正土地改革宣传中的“左”倾错误》 [DONE: 7/7]
-116 《新解放区土地改革要点》 [PARTIAL: 4/7]
+116 《新解放区土地改革要点》 [PARTIAL: 5/7]
 117 《打退第二次反共高潮后的时局》 [NEXT]
 ```
 ## 3. 主题缩写图例
@@ -295,7 +295,7 @@
 | 113 | 《军队内部的民主运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md) | [SD](./inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md) | [RC](./inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md) | [MM](./inspiration_on_making_money/execution_and_delivery/113-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/113-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | 7 |
 | 114 | 《在不同地区实施土地法的不同策略》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/114-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/114-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md) | [MM](./inspiration_on_making_money/execution_and_delivery/114-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md) | 7 |
 | 115 | 《纠正土地改革宣传中的“左”倾错误》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md) | [SD](./inspiration_on_software_development/team_process_and_quality/115-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [RC](./inspiration_on_running_a_company/organization_design/115-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/115-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md) | [MM](./inspiration_on_making_money/execution_and_delivery/115-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/115-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/115-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | 7 |
-| 116 | 《新解放区土地改革要点》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/116-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | — | — | [EC](./inspiration_on_embedded_coding/engineering_strategy/116-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | — | 4 |
+| 116 | 《新解放区土地改革要点》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/116-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | — | — | [EC](./inspiration_on_embedded_coding/engineering_strategy/116-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/116-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | 5 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1605,10 +1605,12 @@
 ## 116 《新解放区土地改革要点》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 30 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm
-- 已关联 inspiration 文件数：3
+- 已关联 inspiration 文件数：5
   - TL: `inspiration_on_today_life/cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
   - SD: `inspiration_on_software_development/iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
   - RC: `inspiration_on_running_a_company/strategy_and_execution/116-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/116-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/116-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 
 ## 6. 使用建议
 

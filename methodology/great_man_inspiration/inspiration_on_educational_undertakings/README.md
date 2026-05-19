@@ -17,9 +17,9 @@
 - `classroom_and_teaching_design/`：7 篇
 - `teacher_growth_and_backbone/`：12 篇
 - `school_governance_and_crisis_response/`：42 篇
-- `school_coordination_and_organization/`：31 篇
+- `school_coordination_and_organization/`：32 篇
 
-当前合计：97 篇 article-based 笔记，对应 96 篇毛文来源。
+当前合计：98 篇 article-based 笔记，对应 97 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -114,3 +114,4 @@
 - `school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
 - `school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
 - `school_coordination_and_organization/115-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+- `school_coordination_and_organization/116-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`

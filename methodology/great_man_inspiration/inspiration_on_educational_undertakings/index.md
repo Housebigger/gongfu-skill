@@ -107,6 +107,7 @@
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
 - [111 学校协作别只在出事后临时补材料，要建立负责人亲自写、定期综合、问题直达的校情报告制度](school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md)
 - [112 别把大多数可合作、可教育、可任用的人一把推到对面；真正稳的学校，要会区分、团结、任用绝大多数](school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md)
+- [113 真正能把学校带稳的，不是少数管理者把规则、资源和打法长期包办，而是在明确主线下让真实承担者能说、能议、能协助治理、能互教互纠偏](school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md)
 
 ---
-统计：94篇笔记 / 5个子主题 / 覆盖001-112中93篇原文
+统计：95篇笔记 / 5个子主题 / 覆盖001-113中94篇原文

@@ -492,7 +492,8 @@
   - `../cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
   - `../../inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
   - `../../inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
-  - 本轮已完成 today_life / software_development / running_a_company 三个角度：该文把“通过集中领导下的民主运动发动士兵群众、指挥员和一切工作人员，去达到政治团结、生活改善、技术战术提高三大目的；让士兵代表协助管理给养伙食；在练兵和作战中实行互教互议；允许揭发坏干部，并在必要时推举可信下级干部候选人”转译为现代方法，提醒普通人、软件团队和公司经营者：真正稳的共同事务与组织系统，不是少数人长期包办一切，而是在明确主方向和责任边界下，把真实承担者发动起来，让他们能表达问题、协助治理、互相教学、讨论打法、监督坏行为，并在结构缺口出现时把可信中坚推出来。
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - 本轮已完成 today_life / software_development / running_a_company / educational_undertakings 四个角度：该文把“通过集中领导下的民主运动发动士兵群众、指挥员和一切工作人员，去达到政治团结、生活改善、技术战术提高三大目的；让士兵代表协助管理给养伙食；在练兵和作战中实行互教互议；允许揭发坏干部，并在必要时推举可信下级干部候选人”转译为现代方法，提醒普通人、软件团队、公司经营者和教育工作者：真正稳的共同事务与组织系统，不是少数人长期包办一切，而是在明确主方向和责任边界下，把真实承担者发动起来，让他们能表达问题、协助治理、互相教学、讨论打法、监督坏行为，并在结构缺口出现时把可信中坚推出来。
 - 112《关于目前党的政策中的几个重要问题》
   - `../judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
   - `../../inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`

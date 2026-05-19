@@ -16,7 +16,7 @@
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
 | 当前已建立原文关联的毛文标题数 | 115 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 727 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 728 |
 | 顺序学习已连续覆盖范围 | 001—115 |
 | 顺序覆盖段标题核对结果 | 115/115 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
@@ -147,7 +147,7 @@
 | 112 | 《关于目前党的政策中的几个重要问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 113 | 《军队内部的民主运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 114 | 《在不同地区实施土地法的不同策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 115 | 《纠正土地改革宣传中的“左”倾错误》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 115 | 《纠正土地改革宣传中的“左”倾错误》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
@@ -157,7 +157,7 @@
 112 《关于目前党的政策中的几个重要问题》 [DONE: 7/7]
 113 《军队内部的民主运动》 [DONE: 7/7]
 114 《在不同地区实施土地法的不同策略》 [DONE: 7/7]
-115 《纠正土地改革宣传中的“左”倾错误》 [PARTIAL: 5/7]
+115 《纠正土地改革宣传中的“左”倾错误》 [PARTIAL: 6/7]
 116 《新解放区土地改革要点》 [NEXT]
 ```
 ## 3. 主题缩写图例

@@ -167,3 +167,4 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
 - `team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
 - `team_process_and_knowledge/113-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+- `team_process_and_knowledge/115-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`

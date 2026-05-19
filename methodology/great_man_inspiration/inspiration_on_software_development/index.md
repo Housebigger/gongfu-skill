@@ -174,6 +174,7 @@ Purpose:
 - `team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 - `team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md`
 - `team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`
+- `team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
 Purpose:
 - how software teams turn alignment-meeting paper agreements into operational reality through code, monitoring, owners, and fallback paths
 - how software teams negotiate stakeholder peace without pausing delivery, risk evidence, and fallback preparation

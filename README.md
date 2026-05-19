@@ -53,10 +53,10 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：728 篇
+- 当前已建立 `原文对应` 的主题转译文件：729 篇
 - 当前已建立原文关联的毛文标题数：115 篇
   - 顺序主线：001—115
-  - 当前最新纳入：115《纠正土地改革宣传中的“左”倾错误》（today_life / software_development / running_a_company / making_money / educational_undertakings / embedded_coding 已落地，整体 6/7）
+  - 当前最新纳入：115《纠正土地改革宣传中的“左”倾错误》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，整体 7/7）
 - 顺序主线的下一篇：`116《新解放区土地改革要点》`
 
 建议入口：

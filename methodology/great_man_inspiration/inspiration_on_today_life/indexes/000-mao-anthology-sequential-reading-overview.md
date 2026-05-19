@@ -492,7 +492,8 @@
 - 115《纠正土地改革宣传中的“左”倾错误》
   - `../judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
   - `../../inspiration_on_software_development/team_process_and_quality/115-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - 本轮已完成 today_life / software_development 两个角度：该文把“不能把人民民主政府说成只是某一类人的政府、不能一概不提中农和其他可联合力量、不能把‘群众要怎样办就怎样办’当正确路线、要同时反对命令主义和尾巴主义、并纠正急性病与极左宣传空气”分别转译为普通人判断与表达、以及软件团队治理方法，提醒普通人别用极端口号把支持面越讲越窄、别把带头做成硬压或跟风；也提醒软件团队不要把项目讲成只剩核心工程师、不要把 QA、SRE、产品、实施、客服、运维等真实支持面删掉，并在命令主义与尾巴主义之间守住判断、节奏和领导责任。
+  - `../../inspiration_on_running_a_company/organization_design/115-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - 本轮已完成 today_life / software_development / running_a_company 三个角度：该文把“不能把人民民主政府说成只是某一类人的政府、不能一概不提中农和其他可联合力量、不能把‘群众要怎样办就怎样办’当正确路线、要同时反对命令主义和尾巴主义、并纠正急性病与极左宣传空气”分别转译为普通人判断与表达、软件团队治理以及公司组织治理方法，提醒普通人别用极端口号把支持面越讲越窄、别把带头做成硬压或跟风；也提醒软件团队不要把项目讲成只剩核心工程师、不要把 QA、SRE、产品、实施、客服、运维等真实支持面删掉；同时提醒公司不要把企业讲成只剩老板和最核心的一小撮主力有资格定义方向，不要把中层骨干、区域负责人、财务人事、交付服务、运营支持等真实支持面删掉，并在命令主义与尾巴主义之间守住主导责任。
 
 - 114《在不同地区实施土地法的不同策略》
   - `../judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`

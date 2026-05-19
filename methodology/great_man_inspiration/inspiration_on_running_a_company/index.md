@@ -30,6 +30,7 @@ This folder focuses on:
 - `organization_design/065-company-management-writing-meetings-and-reviews-must-not-decay-into-empty-jargon.md`
 - `organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md`
 - `organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
+- `organization_design/115-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`

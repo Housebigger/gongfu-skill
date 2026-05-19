@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：26 篇
-- `team_process_and_quality/`：71 篇
+- `team_process_and_quality/`：72 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：110 篇 article-based 笔记，对应 110 篇毛文来源。
+当前合计：111 篇 article-based 笔记，对应 111 篇毛文来源。
 
 ## 推荐入口
 
@@ -109,6 +109,7 @@
 - `team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md`
 - `team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`
 - `team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
+- `team_process_and_quality/115-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 - `iteration_and_delivery/105-software-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-metrics.md`
 - `iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`
 - `iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`

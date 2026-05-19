@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：715 篇
-- 当前已建立原文关联的毛文标题数：113 篇
-  - 顺序主线：001—113
-  - 当前最新纳入：113《军队内部的民主运动》
-- 顺序主线的下一篇：`114《在不同地区实施土地法的不同策略》`
+- 当前已建立 `原文对应` 的主题转译文件：716 篇
+- 当前已建立原文关联的毛文标题数：114 篇
+  - 顺序主线：001—114
+  - 当前最新纳入：114《在不同地区实施土地法的不同策略》（today_life 已先落地，整体 1/7）
+- 顺序主线的下一篇：`115《纠正土地改革宣传中的“左”倾错误》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

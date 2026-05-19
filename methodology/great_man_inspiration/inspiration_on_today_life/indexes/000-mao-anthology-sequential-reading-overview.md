@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`113《军队内部的民主运动》`
-- 如果继续顺序推进，下一篇应是：`114《在不同地区实施土地法的不同策略》`
+- 当前顺序覆盖已推进到：`114《在不同地区实施土地法的不同策略》`
+- 如果继续顺序推进，下一篇应是：`115《纠正土地改革宣传中的“左”倾错误》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -488,6 +488,10 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人虽已相当疲劳缺粮但尚未到最虚的时候、不要顺着敌人预设路线转向更不利地区、要继续周旋一个时期用‘蘑菇’战术把敌磨得精疲力竭、并准备袭击运输线切断粮运”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当更强压力持续追着你跑时，不要急着钻进对手预设路线或提前决战，而要保住机动空间，继续周旋、拖疲对手、切其补给线，等时机真正成熟再打一场能改局的关键一击。
+
+- 114《在不同地区实施土地法的不同策略》
+  - `../judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
+  - 本轮先完成 today_life 角度：该文把“土地法实施必须区分老区、半老区和新解放区，分别决定调整旧账、彻底推进或分阶段发动；不能一律重来、不能一口气推到底、也不能把可争取力量一锅打掉，太急必办不好”转译为现代判断方法，提醒普通人：不要把同一套猛办法同时压到所有生活区域、关系对象和项目阶段；成熟区、过渡区和新开局各有不同任务、不同节奏和不同可用力量，越想一把梭彻底改完，越容易把本来能做成的局面做坏。其余 software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 六个角度待续。
 - 113《军队内部的民主运动》
   - `../cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
   - `../../inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`

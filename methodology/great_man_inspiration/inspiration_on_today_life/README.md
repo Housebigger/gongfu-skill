@@ -9,13 +9,13 @@
 ## 当前实际结构
 
 - `survival_strategy/`：15 篇
-- `judgement_and_decision/`：41 篇
+- `judgement_and_decision/`：42 篇
 - `long_term_growth/`：11 篇
 - `cooperation_and_organization/`：46 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：113 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—113，顺序总览窗口也推进到 113。
+当前合计：114 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—114，顺序总览窗口也推进到 114。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`113《军队内部的民主运动》`
-- 顺序总览窗口当前也推进到：`113《军队内部的民主运动》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`114《在不同地区实施土地法的不同策略》`
+- today_life 主题当前实写覆盖到：`114《在不同地区实施土地法的不同策略》`
+- 顺序总览窗口当前也推进到：`114《在不同地区实施土地法的不同策略》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`115《纠正土地改革宣传中的“左”倾错误》`
 
 ## 使用提醒
 
@@ -97,3 +97,4 @@
 - `cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md`
 - `judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
 - `cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
+- `judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`

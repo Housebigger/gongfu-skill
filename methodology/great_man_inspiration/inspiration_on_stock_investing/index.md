@@ -107,6 +107,7 @@ Purpose:
 - `research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 - `research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md`
 - `research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md`
+- `research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

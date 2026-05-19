@@ -145,7 +145,7 @@
 | 110 | 《目前形势和我们的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 111 | 《关于建立报告制度》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 112 | 《关于目前党的政策中的几个重要问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 113 | 《军队内部的民主运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 113 | 《军队内部的民主运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
@@ -155,7 +155,7 @@
 110 《目前形势和我们的任务》 [DONE: 7/7]
 111 《关于建立报告制度》 [DONE: 7/7]
 112 《关于目前党的政策中的几个重要问题》 [DONE: 7/7]
-113 《军队内部的民主运动》 [PARTIAL: 4/7]
+113 《军队内部的民主运动》 [PARTIAL: 5/7]
 114 《在不同地区实施土地法的不同策略》 [NEXT]
 ```
 ## 3. 主题缩写图例
@@ -288,7 +288,7 @@
 | 110 | 《目前形势和我们的任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md) | [SD](./inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [MM](./inspiration_on_making_money/execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | 7 |
 | 111 | 《关于建立报告制度》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md) | [SD](./inspiration_on_software_development/team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md) | [RC](./inspiration_on_running_a_company/organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md) | [MM](./inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-regular-direct-problem-focused-operating-reports.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md) | 7 |
 | 112 | 《关于目前党的政策中的几个重要问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md) | [SD](./inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md) | [MM](./inspiration_on_making_money/execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md) | 7 |
-| 113 | 《军队内部的民主运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md) | [SD](./inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md) | [RC](./inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | 4 |
+| 113 | 《军队内部的民主运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md) | [SD](./inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md) | [RC](./inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md) | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | 5 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1561,10 +1561,11 @@
 ## 113 《军队内部的民主运动》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 27 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm
-- 已关联 inspiration 文件数：4
+- 已关联 inspiration 文件数：5
   - TL: `inspiration_on_today_life/cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
   - SD: `inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
   - RC: `inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
 
 ## 6. 使用建议

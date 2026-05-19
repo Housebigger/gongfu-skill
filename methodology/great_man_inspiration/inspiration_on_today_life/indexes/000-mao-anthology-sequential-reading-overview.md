@@ -491,7 +491,13 @@
 
 - 114《在不同地区实施土地法的不同策略》
   - `../judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
-  - 本轮先完成 today_life 角度：该文把“土地法实施必须区分老区、半老区和新解放区，分别决定调整旧账、彻底推进或分阶段发动；不能一律重来、不能一口气推到底、也不能把可争取力量一锅打掉，太急必办不好”转译为现代判断方法，提醒普通人：不要把同一套猛办法同时压到所有生活区域、关系对象和项目阶段；成熟区、过渡区和新开局各有不同任务、不同节奏和不同可用力量，越想一把梭彻底改完，越容易把本来能做成的局面做坏。其余 software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 六个角度待续。
+  - `../../inspiration_on_software_development/iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/114-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/114-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/114-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“土地法实施必须区分老区、半老区和新解放区，分别决定调整旧账、继续深推或分阶段发动；不能一律重来、不能一口气推到底、也不能把可争取力量一锅打掉，太急必办不好”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：面对成熟区、过渡区和新开局并存的复杂局面，不要把同一套硬办法一次压到所有区域，而要先分清成熟度、再区分任务节奏、先立基础后逐步深推，避免一刀切推进把本来能做成的局面做坏。
 - 113《军队内部的民主运动》
   - `../cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
   - `../../inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`

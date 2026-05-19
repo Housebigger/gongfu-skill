@@ -108,6 +108,7 @@
 - [111 学校协作别只在出事后临时补材料，要建立负责人亲自写、定期综合、问题直达的校情报告制度](school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md)
 - [112 别把大多数可合作、可教育、可任用的人一把推到对面；真正稳的学校，要会区分、团结、任用绝大多数](school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md)
 - [113 真正能把学校带稳的，不是少数管理者把规则、资源和打法长期包办，而是在明确主线下让真实承担者能说、能议、能协助治理、能互教互纠偏](school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md)
+- [114 不要把同一套硬办法同时压到所有学校区域；成熟班级、半熟改进线和新开局，要分类施策、分阶段推进](school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md)
 
 ---
-统计：95篇笔记 / 5个子主题 / 覆盖001-113中94篇原文
+统计：96篇笔记 / 5个子主题 / 覆盖001-114中95篇原文

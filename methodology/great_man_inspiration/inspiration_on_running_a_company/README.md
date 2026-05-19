@@ -11,9 +11,9 @@
 
 - `organization_design/`：18 篇
 - `leadership_and_talent/`：8 篇
-- `strategy_and_execution/`：84 篇
+- `strategy_and_execution/`：85 篇
 
-当前合计：110 篇 article-based 笔记，对应 110 篇毛文来源。
+当前合计：111 篇 article-based 笔记，对应 111 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -92,6 +92,7 @@
 - `strategy_and_execution/108-under-hard-business-pursuit-dont-rush-into-the-competitors-route-keep-maneuvering-and-cut-their-supply-lines.md`
 - `strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
 - `strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
+- `strategy_and_execution/114-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
 - `organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md`
 - `organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
 - `leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`

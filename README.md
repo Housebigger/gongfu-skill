@@ -53,10 +53,10 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：716 篇
+- 当前已建立 `原文对应` 的主题转译文件：722 篇
 - 当前已建立原文关联的毛文标题数：114 篇
   - 顺序主线：001—114
-  - 当前最新纳入：114《在不同地区实施土地法的不同策略》（today_life 已先落地，整体 1/7）
+  - 当前最新纳入：114《在不同地区实施土地法的不同策略》（七个主题角度已完成，整体 7/7）
 - 顺序主线的下一篇：`115《纠正土地改革宣传中的“左”倾错误》`
 
 建议入口：
@@ -85,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 113，下一篇是 114
+2. 当前边界是 114，下一篇是 115
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

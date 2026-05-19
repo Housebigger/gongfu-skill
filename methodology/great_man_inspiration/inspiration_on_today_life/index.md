@@ -196,6 +196,7 @@ Purpose:
 - `cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md`
 - `cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md`
 - `cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
+- `cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -217,6 +218,7 @@ Purpose:
 - how ordinary people stop anxiously asking for a key place in a bigger life battle and instead build the backbone quality—reliability, cooperation, discipline, people development, and learning—that makes real responsibility and trust gradually grow toward them
 - how ordinary people enter larger cooperation fields without turning themselves into passive dependents, and instead combine strategic cooperation, active concessions, boundary clarity, and independent initiative so support does not cost them their real position
 - how ordinary people stop treating a decisive life hard battle as just one more item in a crowded life, and instead identify the true main battlefield, organize their main force, and make most support work serve that central turning task
+- how ordinary people stop launching new-life change everywhere at once and instead build backbone first, win the middle, pilot a few reliable points, and expand by waves without burning support or long-term supply
 - how ordinary people recognize that a real new life stage begins only when the awakened stop circling inside small high-understanding groups and instead join real-majority life, combine insight with everyday burden-bearing forces, and turn personal clarity into connection, translation, and organization capacity
 - how ordinary people stop mistaking awakened vanguards for the main force, and instead join real life's burden-bearing majority, organize broader support, and turn insight into practical main-force mobilization
 - how ordinary people recognize that major life systems often do not first collapse under outer pressure, but under inner surrender logic that urges false peace, breaks main alliances, and trades away the real line that must be held

@@ -11,11 +11,11 @@
 - `survival_strategy/`：15 篇
 - `judgement_and_decision/`：43 篇
 - `long_term_growth/`：11 篇
-- `cooperation_and_organization/`：46 篇
+- `cooperation_and_organization/`：47 篇
 - `indexes/`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：115 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—115，顺序总览窗口也推进到 115。
+当前合计：116 篇 article-based 笔记；today_life 主题当前实写覆盖到 001—116，顺序总览窗口也推进到 116。
 
 ## 推荐入口
 
@@ -57,9 +57,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写覆盖到：`115《纠正土地改革宣传中的“左”倾错误》`
-- 顺序总览窗口当前也推进到：`115《纠正土地改革宣传中的“左”倾错误》`
-- 如果继续按 today_life 顺序向下推进，下一篇应是：`116《新解放区土地改革要点》`
+- today_life 主题当前实写覆盖到：`116《新解放区土地改革要点》`
+- 顺序总览窗口当前也推进到：`116《新解放区土地改革要点》`
+- 如果继续按 today_life 顺序向下推进，下一篇应是：`117《打退第二次反共高潮后的时局》`
 
 ## 使用提醒
 
@@ -99,3 +99,4 @@
 - `cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
 - `judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
 - `judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
+- `cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`

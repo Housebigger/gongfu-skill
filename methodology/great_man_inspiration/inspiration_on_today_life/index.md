@@ -92,6 +92,7 @@ Purpose:
 - `judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
 - `judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
 - `judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
+- `judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
 
 Purpose:
 - how ordinary people test paper agreements against reality, keep working, and carry heavy responsibilities after negotiation
@@ -121,6 +122,7 @@ Purpose:
 - how ordinary people stop mistaking “we are preparing to solve it” and “reform is coming later” talk for real change, and instead judge which of three directions the system is actually taking
 - how ordinary people recognize that when leaders answer no key questions, perform confidence, and treat criticism as hostile rumor, the situation is usually worsening rather than stabilizing
 - how ordinary people recognize when a situation has truly crossed from pure defense into a real turning stage, stop using yesterday's defensive map to judge today, and immediately reset the main task, support structure, and next-step conditions
+- how ordinary people keep a complex situation from being ruined by extreme slogans, narrow support maps, commandism, or tailism, and instead combine core reliance, broader alliance, leadership, and measured pace
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`

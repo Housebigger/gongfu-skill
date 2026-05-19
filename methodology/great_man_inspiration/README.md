@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—114。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—115。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 114 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 722 |
-| 顺序学习已连续覆盖范围 | 001—114 |
-| 顺序覆盖段标题核对结果 | 114/114 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 115 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 723 |
+| 顺序学习已连续覆盖范围 | 001—115 |
+| 顺序覆盖段标题核对结果 | 115/115 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 115《纠正土地改革宣传中的“左”倾错误》 |
+| 顺序主线的下一篇 | 116《新解放区土地改革要点》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `114《在不同地区实施土地法的不同策略》`。
-- 在 `001—114` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `115《纠正土地改革宣传中的“左”倾错误》`。
+- 在 `001—115` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -147,17 +147,18 @@
 | 112 | 《关于目前党的政策中的几个重要问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 113 | 《军队内部的民主运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 114 | 《在不同地区实施土地法的不同策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 115 | 《纠正土地改革宣传中的“左”倾错误》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | 已覆盖（顺序主线，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—114 顺序主线已建立关联        [##################################################################################################################]
-110 《目前形势和我们的任务》 [DONE: 7/7]
+001—115 顺序主线已建立关联        [###################################################################################################################]
 111 《关于建立报告制度》 [DONE: 7/7]
 112 《关于目前党的政策中的几个重要问题》 [DONE: 7/7]
 113 《军队内部的民主运动》 [DONE: 7/7]
 114 《在不同地区实施土地法的不同策略》 [DONE: 7/7]
-115 《纠正土地改革宣传中的“左”倾错误》 [NEXT]
+115 《纠正土地改革宣传中的“左”倾错误》 [PARTIAL: 1/7]
+116 《新解放区土地改革要点》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -291,6 +292,7 @@
 | 112 | 《关于目前党的政策中的几个重要问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md) | [SD](./inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md) | [MM](./inspiration_on_making_money/execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md) | 7 |
 | 113 | 《军队内部的民主运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md) | [SD](./inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md) | [RC](./inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md) | [MM](./inspiration_on_making_money/execution_and_delivery/113-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/113-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | 7 |
 | 114 | 《在不同地区实施土地法的不同策略》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/114-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/114-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md) | [MM](./inspiration_on_making_money/execution_and_delivery/114-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md) | 7 |
+| 115 | 《纠正土地改革宣传中的“左”倾错误》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md) | — | — | — | — | — | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1585,10 +1587,16 @@
   - EC: `inspiration_on_embedded_coding/engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
 
+## 115 《纠正土地改革宣传中的“左”倾错误》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 29 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm
+- 已关联 inspiration 文件数：1
+  - TL: `inspiration_on_today_life/judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`115《纠正土地改革宣传中的“左”倾错误》`
+- 如果要从当前边界继续向下推进，下一篇应是：`116《新解放区土地改革要点》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

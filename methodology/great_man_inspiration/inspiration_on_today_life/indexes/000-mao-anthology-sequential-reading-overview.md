@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`114《在不同地区实施土地法的不同策略》`
-- 如果继续顺序推进，下一篇应是：`115《纠正土地改革宣传中的“左”倾错误》`
+- 当前顺序覆盖已推进到：`115《纠正土地改革宣传中的“左”倾错误》`
+- 如果继续顺序推进，下一篇应是：`116《新解放区土地改革要点》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -488,6 +488,10 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人虽已相当疲劳缺粮但尚未到最虚的时候、不要顺着敌人预设路线转向更不利地区、要继续周旋一个时期用‘蘑菇’战术把敌磨得精疲力竭、并准备袭击运输线切断粮运”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当更强压力持续追着你跑时，不要急着钻进对手预设路线或提前决战，而要保住机动空间，继续周旋、拖疲对手、切其补给线，等时机真正成熟再打一场能改局的关键一击。
+
+- 115《纠正土地改革宣传中的“左”倾错误》
+  - `../judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
+  - 本轮先完成 today_life 一个角度：该文把“不能把人民民主政府说成只是某一类人的政府、不能一概不提中农和其他可联合力量、不能把‘群众要怎样办就怎样办’当正确路线、要同时反对命令主义和尾巴主义、并纠正急性病与极左宣传空气”转译为现代方法，提醒普通人：复杂局势里别用极端口号把支持面越讲越窄，也别把带头做成硬压或跟风；要既抓真正该依靠的核心力量，也把该联合的人保留在视野里，同时守住领导、节奏与分寸。
 
 - 114《在不同地区实施土地法的不同策略》
   - `../judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`

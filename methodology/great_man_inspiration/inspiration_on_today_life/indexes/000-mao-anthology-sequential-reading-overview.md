@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`111《关于建立报告制度》`
-- 如果继续顺序推进，下一篇应是：`112《关于目前党的政策中的几个重要问题》`
+- 当前顺序覆盖已推进到：`112《关于目前党的政策中的几个重要问题》`
+- 如果继续顺序推进，下一篇应是：`113《军队内部的民主运动》`
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -488,6 +488,15 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人虽已相当疲劳缺粮但尚未到最虚的时候、不要顺着敌人预设路线转向更不利地区、要继续周旋一个时期用‘蘑菇’战术把敌磨得精疲力竭、并准备袭击运输线切断粮运”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当更强压力持续追着你跑时，不要急着钻进对手预设路线或提前决战，而要保住机动空间，继续周旋、拖疲对手、切其补给线，等时机真正成熟再打一场能改局的关键一击。
+- 112《关于目前党的政策中的几个重要问题》
+  - `../judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`
+  - `../../inspiration_on_running_a_company/leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“战略上要藐视反动力量、战术上要重视每一个局部斗争，同时反对土地改革和统一战线中的粗暴左倾、强调纠正错划成分、保护和利用有益工商业、通过人民代表大会形成新政权，并要求领导者既能带同盟者取胜又能给其真实利益、至少不损害其利益”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：真正成熟的新阶段判断，不是总盘上被旧力量吓住，也不是局部上靠粗糙清理和少数人包办把局面做窄；而是既能从战略上看清旧秩序并非不可战胜，又能在每个具体问题上讲究分类、纠偏、团结多数、保护有益生产与供给，并用能让真实承担者和同盟者进入的位置、利益与代表结构，组织出更稳的新秩序。
 - 111《关于建立报告制度》
   - `../cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md`
   - `../../inspiration_on_software_development/team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md`

@@ -106,6 +106,7 @@ Purpose:
 - `research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
 - `research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 - `research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md`
+- `research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

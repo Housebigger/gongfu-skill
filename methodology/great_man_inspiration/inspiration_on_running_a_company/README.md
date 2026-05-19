@@ -10,10 +10,10 @@
 ## 当前实际结构
 
 - `organization_design/`：17 篇
-- `leadership_and_talent/`：7 篇
+- `leadership_and_talent/`：8 篇
 - `strategy_and_execution/`：84 篇
 
-当前合计：108 篇 article-based 笔记，对应 108 篇毛文来源。
+当前合计：109 篇 article-based 笔记，对应 109 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -93,3 +93,4 @@
 - `strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
 - `strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
 - `organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md`
+- `leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`

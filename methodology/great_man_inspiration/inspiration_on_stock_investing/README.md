@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：86 篇
+- `research_and_thesis/`：88 篇
 - `risk_and_position_management/`：9 篇
 - `trading_and_execution/`：3 篇
 - `indexes/`：当前预留
 
-当前合计：100 篇 article-based 笔记，对应 100 篇毛文来源。
+当前合计：101 篇 article-based 笔记，对应 101 篇毛文来源。
 
 ## 子目录速览
 
@@ -97,5 +97,6 @@
 - `research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
 - `research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 - `research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md`
+- `research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md`
 - `risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
 - `trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`

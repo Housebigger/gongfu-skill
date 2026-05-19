@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—110。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—112。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 111 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 701 |
-| 顺序学习已连续覆盖范围 | 001—111 |
-| 顺序覆盖段标题核对结果 | 111/111 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 112 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 708 |
+| 顺序学习已连续覆盖范围 | 001—112 |
+| 顺序覆盖段标题核对结果 | 112/112 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 112《关于目前党的政策中的几个重要问题》 |
+| 顺序主线的下一篇 | 113《军队内部的民主运动》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `111《关于建立报告制度》`。
-- 在 `001—111` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `112《关于目前党的政策中的几个重要问题》`。
+- 在 `001—112` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -144,15 +144,17 @@
 | 109 | 《蒋介石政府已处在全民的包围中》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 110 | 《目前形势和我们的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 111 | 《关于建立报告制度》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 112 | 《关于目前党的政策中的几个重要问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—111 顺序主线已建立关联        [###############################################################################################################]
+001—112 顺序主线已建立关联        [################################################################################################################]
 109 《蒋介石政府已处在全民的包围中》 [DONE: 7/7]
 110 《目前形势和我们的任务》 [DONE: 7/7]
 111 《关于建立报告制度》 [DONE: 7/7]
-112 《关于目前党的政策中的几个重要问题》 [NEXT]
+112 《关于目前党的政策中的几个重要问题》 [DONE: 7/7]
+113 《军队内部的民主运动》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -283,6 +285,7 @@
 | 109 | 《蒋介石政府已处在全民的包围中》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md) | [SD](./inspiration_on_software_development/team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md) | [MM](./inspiration_on_making_money/execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md) | 7 |
 | 110 | 《目前形势和我们的任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md) | [SD](./inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [MM](./inspiration_on_making_money/execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | 7 |
 | 111 | 《关于建立报告制度》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md) | [SD](./inspiration_on_software_development/team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md) | [RC](./inspiration_on_running_a_company/organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md) | [MM](./inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-regular-direct-problem-focused-operating-reports.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md) | 7 |
+| 112 | 《关于目前党的政策中的几个重要问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md) | [SD](./inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md) | [MM](./inspiration_on_making_money/execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1540,10 +1543,22 @@
   - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md`
 
+## 112 《关于目前党的政策中的几个重要问题》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 26 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`
+  - RC: `inspiration_on_running_a_company/leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`112《关于目前党的政策中的几个重要问题》`
+- 如果要从当前边界继续向下推进，下一篇应是：`113《军队内部的民主运动》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

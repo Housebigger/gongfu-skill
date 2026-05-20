@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：736 篇
-- 当前已建立原文关联的毛文标题数：116 篇
-  - 顺序主线：001—116
-  - 当前最新纳入：116《新解放区土地改革要点》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`117《打退第二次反共高潮后的时局》`
+- 当前已建立 `原文对应` 的主题转译文件：757 篇
+- 当前已建立原文关联的毛文标题数：119 篇（001—119 已连续覆盖）
+  - 顺序主线：001—119 已按官网真实编号连续覆盖；110—112 已补齐；113—119 保持已完成 7/7
+  - 当前最新纳入：119《新解放区土地改革要点》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 顺序主线的下一篇：`120《关于工商业政策》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -85,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前边界是 115，下一篇是 116
+2. 当前编号已回正并补齐：001—119 连续覆盖；下一篇是 120《关于工商业政策》
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

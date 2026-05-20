@@ -54,9 +54,9 @@ Focus:
 - `engineering_strategy/106-when-an-embedded-project-nears-a-new-upsurge-build-the-engineering-arms-and-supply-lines.md`
 - `engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md`
 - `engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md`
-- `engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-- `engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
-- `engineering_strategy/116-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `engineering_strategy/113-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+- `engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
+- `engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -165,7 +165,14 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/088-embedded-teams-must-reject-surrender-thinking-that-cancels-field-facts-and-engineering-discipline.md`
 - `team_process_and_knowledge/104-embedded-teams-must-look-through-mediation-theater-and-protect-the-right-to-decide-engineering-facts.md`
 - `team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`
-- `team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
-- `team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
-- `team_process_and_knowledge/113-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
-- `team_process_and_knowledge/115-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+- `team_process_and_knowledge/114-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
+- `team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
+- `team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+- `team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+
+## 110—112 官方缺口补写导航
+- `engineering_strategy/110-when-embedded-project-enters-second-stage-move-main-force-from-lab-defense-to-field-battlefields.md`
+- `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
+- `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
+
+说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。

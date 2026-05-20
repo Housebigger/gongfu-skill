@@ -9,11 +9,11 @@
 
 ## 当前实际结构
 
-- `organization_design/`：19 篇
+- `organization_design/`：20 篇
 - `leadership_and_talent/`：8 篇
-- `strategy_and_execution/`：86 篇
+- `strategy_and_execution/`：88 篇
 
-当前合计：113 篇 article-based 笔记，对应 113 篇毛文来源。
+当前合计：116 篇 article-based 笔记，对应 116 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -91,10 +91,17 @@
 - `strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md`
 - `strategy_and_execution/108-under-hard-business-pursuit-dont-rush-into-the-competitors-route-keep-maneuvering-and-cut-their-supply-lines.md`
 - `strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
-- `strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
-- `strategy_and_execution/114-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
-- `strategy_and_execution/116-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-- `organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md`
-- `organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
-- `organization_design/115-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-- `leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
+- `strategy_and_execution/113-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
+- `strategy_and_execution/117-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
+- `strategy_and_execution/119-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `organization_design/114-companies-need-regular-direct-problem-focused-operating-reports.md`
+- `organization_design/116-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
+- `organization_design/118-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+- `leadership_and_talent/115-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
+
+## 110—112 官方缺口补写导航
+- `strategy_and_execution/110-when-business-enters-its-second-stage-move-main-force-from-defense-to-market-battlefields.md`
+- `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
+- `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
+
+说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。

@@ -86,8 +86,8 @@ Purpose:
 - `iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`
 - `iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
 - `iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
-- `iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
-- `iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
+- `iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 Purpose:
 - how software teams recognize when a project is nearing a new upsurge and stop running it like pure defense by widening real support, upgrading key engineering arms, and hardening supply lines for the next stage
 - how software teams use release victory windows to concentrate engineering force, clear hidden dependencies, protect release discipline, and prepare post-launch order
@@ -173,11 +173,11 @@ Purpose:
 - `team_process_and_quality/095-after-alignment-meetings-turn-paper-agreements-into-operational-reality.md`
 - `team_process_and_quality/096-dont-let-management-call-an-expansion-just-restoring-flow-check-movements-rights-and-logs.md`
 - `team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md`
-- `team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-- `team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md`
-- `team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`
-- `team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
-- `team_process_and_quality/115-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+- `team_process_and_quality/113-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+- `team_process_and_quality/114-software-teams-need-regular-direct-problem-focused-reports.md`
+- `team_process_and_quality/115-software-governance-needs-representative-seats-for-real-burden-bearers.md`
+- `team_process_and_quality/116-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
+- `team_process_and_quality/118-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 Purpose:
 - how software teams turn alignment-meeting paper agreements into operational reality through code, monitoring, owners, and fallback paths
 - how software teams negotiate stakeholder peace without pausing delivery, risk evidence, and fallback preparation
@@ -239,3 +239,10 @@ Reserved for future series indexes and overview notes.
 ## Writing convention
 
 When a future note mainly serves app development, mini program development, or general product software methodology, place it here instead of under embedded coding.
+
+## 110—112 官方缺口补写导航
+- `iteration_and_delivery/110-when-software-enters-its-second-stage-move-main-force-from-defense-to-real-user-battlefields.md`
+- `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
+- `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
+
+说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。

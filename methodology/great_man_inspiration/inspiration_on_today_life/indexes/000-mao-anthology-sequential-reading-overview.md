@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`116《新解放区土地改革要点》`
-- 如果继续顺序推进，下一篇应是：`117《打退第二次反共高潮后的时局》`
+- 当前顺序覆盖状态：`001—119` 已连续对齐；其中 `110—112` 已完成补写，`113—119` 已按官网真实编号回正并完成七主题覆盖。
+- 如果继续顺序推进，下一篇应是：`120《关于工商业政策》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -469,15 +469,115 @@
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
 
 
-- 107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》
-  - `../survival_strategy/107-dont-tie-your-whole-system-to-one-symbolic-center-under-heavy-attack.md`
-  - `../../inspiration_on_software_development/iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
-  - `../../inspiration_on_running_a_company/strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/107-dont-tie-a-side-hustles-whole-income-system-to-one-symbolic-center-under-heavy-attack.md`
-  - `../../inspiration_on_embedded_coding/engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md`
-  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人企图用打延安制造政治与心理打击、暂时放弃延安并不伤全局、中央继续留在陕甘宁边区因为地形险要群众条件好回旋地区大、并另组中工委分担一部分工作”转译为现代系统保全方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当外部重点攻击你最显眼的中心时，不要把整套系统绑死在一个象征门面上，而要保住主心骨、支持面、回旋空间、分工中枢和持续运转能力。
+- 119《新解放区土地改革要点》
+  - `../cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/119-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/119-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/119-dont-roll-out-new-side-hustle-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“不要性急、先组织贫农团后组织农会、吸引中农参加、不要全面动手、先在若干地点做出样板、取得经验后波浪式推进、不同风险区采用不同公开方式、同时保护工商业并从长期筹划财政经济”分别转译为普通人新局协作、软件项目推进、公司重组执行、投资研究开新 thesis、副业新秩序搭建、嵌入式工程扩展和学校新局治理的方法，提醒不同场景下的推进者都不要一上来全面动手、同时翻动所有关系，而要先立真正能承重的骨干，稳住中间层和过渡力量，在若干关键点位先做出样板，再带着经验波浪式扩展，并在全过程里守住现金流、供给、交付、版本纪律、课堂供给、本金与长期经营家底。
+
+- 118《纠正土地改革宣传中的“左”倾错误》
+  - `../judgement_and_decision/118-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/118-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - `../../inspiration_on_running_a_company/organization_design/118-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/118-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/118-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/118-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / educational_undertakings / embedded_coding 七个角度：该文把“不能把人民民主政府说成只是某一类人的政府、不能一概不提中农和其他可联合力量、不能把‘群众要怎样办就怎样办’当正确路线、要同时反对命令主义和尾巴主义、并纠正急性病与极左宣传空气”分别转译为普通人判断与表达、软件团队治理、公司组织治理、投资研究治理、副业经营方法、学校组织协作以及嵌入式团队治理，提醒普通人别用极端口号把支持面越讲越窄、别把带头做成硬压或跟风；提醒软件团队不要把项目讲成只剩核心工程师、不要把 QA、SRE、产品、实施、客服、运维等真实支持面删掉；提醒公司不要把企业讲成只剩老板和最核心的一小撮主力有资格定义方向，不要把中层骨干、区域负责人、财务人事、交付服务、运营支持等真实支持面删掉；提醒投资研究不要把研究共同体讲成只剩重仓者、最激烈立场者和少数核心研究员，不要把产业验证者、轻仓观察者、财务治理视角、风控提醒、反方研究和中间证据支持面从地图上删掉，并在强压与跟风之间守住 thesis 主线、研究边界和领导责任；提醒副业经营者不要把副业讲成只剩创始人、最核心骨干和最理想的一小撮客户才算数，不要把老客户、中间收入层、渠道伙伴、交付协作者、客服售后和回款支持这些真实支持面从地图上删掉；也提醒学校不要把学校讲成只剩最激烈的一小撮人有资格代表方向，不要把班主任、科任教师、中层协调者、教辅后勤、家长中间层和可教育学生这些真实支持面从地图上删掉，并在命令主义与尾巴主义之间守住教育主线与领导责任；同时提醒嵌入式团队不要把项目讲成只剩驱动、固件和板级高手才算真正做事的人，不要把硬件、测试、FAE、制造、质量、产测、供应链和现场支持这些真实交付支持面从地图上删掉，并在强压与跟风之间守住工程主线、推进节奏和领导责任。
+
+- 117《在不同地区实施土地法的不同策略》
+  - `../judgement_and_decision/117-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/117-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/117-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/117-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/117-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“土地法实施必须区分老区、半老区和新解放区，分别决定调整旧账、继续深推或分阶段发动；不能一律重来、不能一口气推到底、也不能把可争取力量一锅打掉，太急必办不好”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：面对成熟区、过渡区和新开局并存的复杂局面，不要把同一套硬办法一次压到所有区域，而要先分清成熟度、再区分任务节奏、先立基础后逐步深推，避免一刀切推进把本来能做成的局面做坏。
+
+- 116《军队内部的民主运动》
+  - `../cooperation_and_organization/116-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/116-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
+  - `../../inspiration_on_running_a_company/organization_design/116-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/116-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/116-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/116-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“通过集中领导下的民主运动发动士兵群众、指挥员和一切工作人员，去达到政治团结、生活改善、技术战术提高三大目的；让士兵代表协助管理给养伙食；在练兵和作战中实行互教互议；允许揭发坏干部，并在必要时推举可信下级干部候选人”转译为现代方法，提醒普通人、软件团队、公司经营者、投资研究者、副业经营者、嵌入式团队和教育工作者：真正稳的共同事务与组织系统，不是少数人长期包办一切，而是在明确主方向和责任边界下，把真实承担者发动起来，让他们能表达问题、协助治理、互相教学、讨论打法、监督坏行为，并在结构缺口出现时把可信中坚推出来。
+
+- 115《关于目前党的政策中的几个重要问题》
+  - `../judgement_and_decision/115-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/115-software-governance-needs-representative-seats-for-real-burden-bearers.md`
+  - `../../inspiration_on_running_a_company/leadership_and_talent/115-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/115-dont-classify-complex-market-forces-with-one-rough-label.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/115-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/115-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“战略上要藐视反动力量、战术上要重视每一个局部斗争，同时反对土地改革和统一战线中的粗暴左倾、强调纠正错划成分、保护和利用有益工商业、通过人民代表大会形成新政权，并要求领导者既能带同盟者取胜又能给其真实利益、至少不损害其利益”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：真正成熟的新阶段判断，不是总盘上被旧力量吓住，也不是局部上靠粗糙清理和少数人包办把局面做窄；而是既能从战略上看清旧秩序并非不可战胜，又能在每个具体问题上讲究分类、纠偏、团结多数、保护有益生产与供给，并用能让真实承担者和同盟者进入的位置、利益与代表结构，组织出更稳的新秩序。
+
+- 114《关于建立报告制度》
+  - `../cooperation_and_organization/114-shared-affairs-need-regular-direct-problem-focused-reports.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/114-software-teams-need-regular-direct-problem-focused-reports.md`
+  - `../../inspiration_on_running_a_company/organization_design/114-companies-need-regular-direct-problem-focused-operating-reports.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/114-investment-research-needs-regular-direct-problem-focused-reports.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/114-schools-need-regular-direct-problem-focused-situation-reports.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/114-side-hustles-need-regular-direct-problem-focused-operating-reports.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/114-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“负责人要自己动手写综合报告、经常按固定节奏上报动态问题倾向和处理办法、文字要简练并指出问题或争论所在、平时综合报告与临时请示都不能停”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：系统一旦进入更大规模和更高复杂度的新阶段，就不能再靠临时传话、碎片状态和层层润色维持判断；真正成熟的协作，必须让真正负责的人亲自按固定节奏把关键动态、问题、风险与分歧直接压成可上达、可纠偏、可追责的综合报告机制。
+
+- 113《目前形势和我们的任务》
+  - `../judgement_and_decision/113-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/113-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/113-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/113-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/113-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/113-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/113-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“人民解放军已经打退大规模进攻并由战略防御转入全国规模的进攻、局势达到历史转折点后必须立刻重排任务、彻底推进土地改革、整编队伍、区分该没收与该保护的经济力量，并以发展生产、繁荣经济、公私兼顾、劳资两利作为新阶段总目标”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：真正的转折点不是一句形势变好，而是旧防守地图必须立刻让位于新阶段任务；你要重新判断主任务、后方整顿、对象分类和供给系统，否则已经到来的转机仍可能被旧阶段的方法拖回去。
+
+- 112《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》
+  - `../cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
+  - `../../inspiration_on_running_a_company/organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
+  - `../../inspiration_on_stock_investing/risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“三大纪律八项注意”的统一颁布转译为现代组织纪律方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：越大的行动越需要简单、统一、人人可执行的小纪律；说话、交易、借还、赔偿、边界、公共成果归属和对弱者的态度，最终决定一个组织能不能获得长期信任。
+
+- 111《中国人民解放军宣言》
+  - `../cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“打倒蒋介石，解放全中国”的宣言、八项基本政策、首恶者必办胁从者不问立功者受奖、号召前后方协同行动与严格执行纪律”转译为现代纲领方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：真正进入更大公共阶段时，必须说清服务谁、反对什么、建设什么、联合谁、区别对待谁，并用纪律让纲领可信。
+
+- 110《解放战争第二年的战略方针》
+  - `../judgement_and_decision/110-when-your-second-stage-arrives-stop-defending-old-ground-and-enter-the-real-battlefield.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/110-when-software-enters-its-second-stage-move-main-force-from-defense-to-real-user-battlefields.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/110-when-business-enters-its-second-stage-move-main-force-from-defense-to-market-battlefields.md`
+  - `../../inspiration_on_stock_investing/trading_and_execution/110-when-market-odds-shift-move-from-defensive-holding-to-active-high-odds-battlefields.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/110-when-embedded-project-enters-second-stage-move-main-force-from-lab-defense-to-field-battlefields.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“解放战争第二年由战略防御转入战略进攻、主力打到外线、大量歼敌，同时保留内线作战、争取群众、集中优势、不打无准备无把握之仗、建设长期供给系统”转译为现代阶段推进方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：一旦进入第二阶段，就不能再用旧防守地图组织行动，要把主力压到真实主战场，同时守住基本盘、支持面、准备程度和长期供给。
+
+- 109《蒋介石政府已处在全民的包围中》
+  - `../judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“反动政府在军事战线和政治战线上同时被包围、学生运动构成第二条战线、财政经济政策把越来越多社会力量逼到反对面、表面强硬其实已经外强中干、中国事变的发展会比许多人预料得更快”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：别把表面高压、强硬口径和一时镇压误认成真正稳固；当一个旧系统在前线、后方、经济、协作与人心上同时失势时，它往往已经处在越来越广的包围之中，你要尽快认清这一点，并为下一阶段的真实秩序准备必要条件。
 
 - 108《关于西北战场的作战方针》
   - `../survival_strategy/108-in-hard-pursuit-dont-rush-into-the-enemy-plan-keep-turning-to-exhaust-them-and-cut-their-supply.md`
@@ -489,79 +589,16 @@
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人虽已相当疲劳缺粮但尚未到最虚的时候、不要顺着敌人预设路线转向更不利地区、要继续周旋一个时期用‘蘑菇’战术把敌磨得精疲力竭、并准备袭击运输线切断粮运”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当更强压力持续追着你跑时，不要急着钻进对手预设路线或提前决战，而要保住机动空间，继续周旋、拖疲对手、切其补给线，等时机真正成熟再打一场能改局的关键一击。
 
-- 116《新解放区土地改革要点》
-  - `../cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - `../../inspiration_on_software_development/iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - `../../inspiration_on_running_a_company/strategy_and_execution/116-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/116-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/116-dont-roll-out-new-side-hustle-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - `../../inspiration_on_embedded_coding/engineering_strategy/116-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/116-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“不要性急、先组织贫农团后组织农会、吸引中农参加、不要全面动手、先在若干地点做出样板、取得经验后波浪式推进、不同风险区采用不同公开方式、同时保护工商业并从长期筹划财政经济”分别转译为普通人新局协作、软件项目推进、公司重组执行、投资研究开新 thesis、副业新秩序搭建、嵌入式工程扩展和学校新局治理的方法，提醒不同场景下的推进者都不要一上来全面动手、同时翻动所有关系，而要先立真正能承重的骨干，稳住中间层和过渡力量，在若干关键点位先做出样板，再带着经验波浪式扩展，并在全过程里守住现金流、供给、交付、版本纪律、课堂供给、本金与长期经营家底。
-- 115《纠正土地改革宣传中的“左”倾错误》
-  - `../judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
-  - `../../inspiration_on_software_development/team_process_and_quality/115-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - `../../inspiration_on_running_a_company/organization_design/115-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/115-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/115-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/115-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/115-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / educational_undertakings / embedded_coding 七个角度：该文把“不能把人民民主政府说成只是某一类人的政府、不能一概不提中农和其他可联合力量、不能把‘群众要怎样办就怎样办’当正确路线、要同时反对命令主义和尾巴主义、并纠正急性病与极左宣传空气”分别转译为普通人判断与表达、软件团队治理、公司组织治理、投资研究治理、副业经营方法、学校组织协作以及嵌入式团队治理，提醒普通人别用极端口号把支持面越讲越窄、别把带头做成硬压或跟风；提醒软件团队不要把项目讲成只剩核心工程师、不要把 QA、SRE、产品、实施、客服、运维等真实支持面删掉；提醒公司不要把企业讲成只剩老板和最核心的一小撮主力有资格定义方向，不要把中层骨干、区域负责人、财务人事、交付服务、运营支持等真实支持面删掉；提醒投资研究不要把研究共同体讲成只剩重仓者、最激烈立场者和少数核心研究员，不要把产业验证者、轻仓观察者、财务治理视角、风控提醒、反方研究和中间证据支持面从地图上删掉，并在强压与跟风之间守住 thesis 主线、研究边界和领导责任；提醒副业经营者不要把副业讲成只剩创始人、最核心骨干和最理想的一小撮客户才算数，不要把老客户、中间收入层、渠道伙伴、交付协作者、客服售后和回款支持这些真实支持面从地图上删掉；也提醒学校不要把学校讲成只剩最激烈的一小撮人有资格代表方向，不要把班主任、科任教师、中层协调者、教辅后勤、家长中间层和可教育学生这些真实支持面从地图上删掉，并在命令主义与尾巴主义之间守住教育主线与领导责任；同时提醒嵌入式团队不要把项目讲成只剩驱动、固件和板级高手才算真正做事的人，不要把硬件、测试、FAE、制造、质量、产测、供应链和现场支持这些真实交付支持面从地图上删掉，并在强压与跟风之间守住工程主线、推进节奏和领导责任。
+- 107《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》
+  - `../survival_strategy/107-dont-tie-your-whole-system-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/107-dont-tie-a-side-hustles-whole-income-system-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md`
+  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“敌人企图用打延安制造政治与心理打击、暂时放弃延安并不伤全局、中央继续留在陕甘宁边区因为地形险要群众条件好回旋地区大、并另组中工委分担一部分工作”转译为现代系统保全方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：当外部重点攻击你最显眼的中心时，不要把整套系统绑死在一个象征门面上，而要保住主心骨、支持面、回旋空间、分工中枢和持续运转能力。
 
-- 114《在不同地区实施土地法的不同策略》
-  - `../judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
-  - `../../inspiration_on_software_development/iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
-  - `../../inspiration_on_running_a_company/strategy_and_execution/114-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/114-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/114-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md`
-  - `../../inspiration_on_embedded_coding/engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
-  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“土地法实施必须区分老区、半老区和新解放区，分别决定调整旧账、继续深推或分阶段发动；不能一律重来、不能一口气推到底、也不能把可争取力量一锅打掉，太急必办不好”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：面对成熟区、过渡区和新开局并存的复杂局面，不要把同一套硬办法一次压到所有区域，而要先分清成熟度、再区分任务节奏、先立基础后逐步深推，避免一刀切推进把本来能做成的局面做坏。
-- 113《军队内部的民主运动》
-  - `../cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
-  - `../../inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
-  - `../../inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/113-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
-  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/113-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
-  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“通过集中领导下的民主运动发动士兵群众、指挥员和一切工作人员，去达到政治团结、生活改善、技术战术提高三大目的；让士兵代表协助管理给养伙食；在练兵和作战中实行互教互议；允许揭发坏干部，并在必要时推举可信下级干部候选人”转译为现代方法，提醒普通人、软件团队、公司经营者、投资研究者、副业经营者、嵌入式团队和教育工作者：真正稳的共同事务与组织系统，不是少数人长期包办一切，而是在明确主方向和责任边界下，把真实承担者发动起来，让他们能表达问题、协助治理、互相教学、讨论打法、监督坏行为，并在结构缺口出现时把可信中坚推出来。
-- 112《关于目前党的政策中的几个重要问题》
-  - `../judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
-  - `../../inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`
-  - `../../inspiration_on_running_a_company/leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md`
-  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md`
-  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“战略上要藐视反动力量、战术上要重视每一个局部斗争，同时反对土地改革和统一战线中的粗暴左倾、强调纠正错划成分、保护和利用有益工商业、通过人民代表大会形成新政权，并要求领导者既能带同盟者取胜又能给其真实利益、至少不损害其利益”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：真正成熟的新阶段判断，不是总盘上被旧力量吓住，也不是局部上靠粗糙清理和少数人包办把局面做窄；而是既能从战略上看清旧秩序并非不可战胜，又能在每个具体问题上讲究分类、纠偏、团结多数、保护有益生产与供给，并用能让真实承担者和同盟者进入的位置、利益与代表结构，组织出更稳的新秩序。
-- 111《关于建立报告制度》
-  - `../cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md`
-  - `../../inspiration_on_software_development/team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md`
-  - `../../inspiration_on_running_a_company/organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md`
-  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-regular-direct-problem-focused-operating-reports.md`
-  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“负责人要自己动手写综合报告、经常按固定节奏上报动态问题倾向和处理办法、文字要简练并指出问题或争论所在、平时综合报告与临时请示都不能停”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：系统一旦进入更大规模和更高复杂度的新阶段，就不能再靠临时传话、碎片状态和层层润色维持判断；真正成熟的协作，必须让真正负责的人亲自按固定节奏把关键动态、问题、风险与分歧直接压成可上达、可纠偏、可追责的综合报告机制。
-- 110《目前形势和我们的任务》
-  - `../judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
-  - `../../inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - `../../inspiration_on_running_a_company/strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - `../../inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / educational_undertakings / making_money / embedded_coding 七个角度：该文把“人民解放军已经打退大规模进攻并由战略防御转入全国规模的进攻、局势达到历史转折点后必须立刻重排任务、彻底推进土地改革、整编队伍、区分该没收与该保护的经济力量，并以发展生产、繁荣经济、公私兼顾、劳资两利作为新阶段总目标”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：真正的转折点不是一句形势变好，而是旧防守地图必须立刻让位于新阶段任务；你要重新判断主任务、后方整顿、对象分类和供给系统，否则已经到来的转机仍可能被旧阶段的方法拖回去。
-- 109《蒋介石政府已处在全民的包围中》
-  - `../judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md`
-  - `../../inspiration_on_software_development/team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md`
-  - `../../inspiration_on_running_a_company/strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md`
-  - `../../inspiration_on_stock_investing/research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
-  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`
-  - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“反动政府在军事战线和政治战线上同时被包围、学生运动构成第二条战线、财政经济政策把越来越多社会力量逼到反对面、表面强硬其实已经外强中干、中国事变的发展会比许多人预料得更快”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者：别把表面高压、强硬口径和一时镇压误认成真正稳固；当一个旧系统在前线、后方、经济、协作与人心上同时失势时，它往往已经处在越来越广的包围之中，你要尽快认清这一点，并为下一阶段的真实秩序准备必要条件。
 - 106《迎接中国革命的新高潮》
   - `../judgement_and_decision/106-when-signs-point-to-a-new-upsurge-stop-living-by-old-defensive-psychology.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`

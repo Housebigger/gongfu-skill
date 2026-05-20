@@ -16,10 +16,10 @@
 - `student_understanding_and_guidance/`：5 篇
 - `classroom_and_teaching_design/`：7 篇
 - `teacher_growth_and_backbone/`：12 篇
-- `school_governance_and_crisis_response/`：42 篇
-- `school_coordination_and_organization/`：32 篇
+- `school_governance_and_crisis_response/`：43 篇
+- `school_coordination_and_organization/`：34 篇
 
-当前合计：98 篇 article-based 笔记，对应 97 篇毛文来源。
+当前合计：101 篇 article-based 笔记，对应 100 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -108,10 +108,17 @@
 - `school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md`
 - `school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md`
 - `school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
-- `school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-- `school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md`
-- `school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md`
-- `school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
-- `school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
-- `school_coordination_and_organization/115-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-- `school_coordination_and_organization/116-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `school_governance_and_crisis_response/113-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+- `school_coordination_and_organization/114-schools-need-regular-direct-problem-focused-situation-reports.md`
+- `school_coordination_and_organization/115-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md`
+- `school_coordination_and_organization/116-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+- `school_coordination_and_organization/117-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
+- `school_coordination_and_organization/118-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+- `school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+
+## 110—112 官方缺口补写导航
+- `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
+- `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
+- `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
+
+说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。

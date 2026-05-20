@@ -21,11 +21,11 @@
 - `product_strategy/`：4 篇
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
-- `iteration_and_delivery/`：27 篇
-- `team_process_and_quality/`：72 篇
+- `iteration_and_delivery/`：28 篇
+- `team_process_and_quality/`：74 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：112 篇 article-based 笔记，对应 112 篇毛文来源。
+当前合计：115 篇 article-based 笔记，对应 115 篇毛文来源。
 
 ## 推荐入口
 
@@ -105,14 +105,21 @@
 - `iteration_and_delivery/103-software-teams-should-stop-fighting-every-ticket-and-concentrate-on-one-decisive-breakthrough.md`
 - `team_process_and_quality/104-software-teams-must-look-through-neutral-mediation-talk-and-check-who-controls-the-project-future.md`
 - `team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md`
-- `team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-- `team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md`
-- `team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`
-- `team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
-- `team_process_and_quality/115-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+- `team_process_and_quality/113-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+- `team_process_and_quality/114-software-teams-need-regular-direct-problem-focused-reports.md`
+- `team_process_and_quality/115-software-governance-needs-representative-seats-for-real-burden-bearers.md`
+- `team_process_and_quality/116-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
+- `team_process_and_quality/118-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 - `iteration_and_delivery/105-software-stage-reviews-must-validate-confidence-with-facts-structure-and-next-key-metrics.md`
 - `iteration_and_delivery/106-when-a-software-upsurge-is-coming-stop-running-the-project-like-pure-defense.md`
 - `iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md`
 - `iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
-- `iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
-- `iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
+- `iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+
+## 110—112 官方缺口补写导航
+- `iteration_and_delivery/110-when-software-enters-its-second-stage-move-main-force-from-defense-to-real-user-battlefields.md`
+- `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
+- `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
+
+说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。

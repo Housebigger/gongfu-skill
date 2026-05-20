@@ -104,13 +104,13 @@ Purpose:
 - `research_and_thesis/106-when-a-company-may-be-entering-a-new-upsurge-dont-confuse-bounce-with-structure.md`
 - `research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md`
 - `research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md`
-- `research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-- `research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md`
-- `research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md`
-- `research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md`
-- `research_and_thesis/114-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md`
-- `research_and_thesis/115-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md`
-- `research_and_thesis/116-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `research_and_thesis/113-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+- `research_and_thesis/114-investment-research-needs-regular-direct-problem-focused-reports.md`
+- `research_and_thesis/115-dont-classify-complex-market-forces-with-one-rough-label.md`
+- `research_and_thesis/116-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md`
+- `research_and_thesis/117-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md`
+- `research_and_thesis/118-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md`
+- `research_and_thesis/119-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism
@@ -201,3 +201,10 @@ Purpose:
 
 Use this folder for public-market investing and二级市场 methodology.
 If the note is mainly about building new active income sources, place it under `../inspiration_on_making_money/` instead.
+
+## 110—112 官方缺口补写导航
+- `trading_and_execution/110-when-market-odds-shift-move-from-defensive-holding-to-active-high-odds-battlefields.md`
+- `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
+- `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
+
+说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。

@@ -714,10 +714,46 @@
 - `075《组织起来》`：不要只让少数骨干散着硬扛，要把分散承担者和半可用力量组织成真正主力。
 - `076《学习和时局》`：真要接更大责任，必须研究形势、复盘历史、放下包袱并提前准备新阶段能力。
 
-### 50. 从《目前形势和我们的任务》看嵌入式工程：项目到了真正转折点，别再拿昨天的防守地图组织今天的新阶段
+### 50. 从《解放战争第二年的战略方针》看嵌入式工程：项目进入第二阶段后，主力要从实验室防守转向现场主战场
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/110-when-embedded-project-enters-second-stage-move-main-force-from-lab-defense-to-field-battlefields.md`
+
+核心主题：
+- 为什么工程阶段变化不是情绪变好，而是主版本、现场、量产和客户问题的主动权结构真的改变
+- 为什么第二阶段不能继续只守实验室、旧板型和内部解释，而要把主力推进到现场、产测、认证和客户主战场
+- 为什么外线推进仍要保住主版本、日志、测试夹具、回滚方案和现场接口这些基本盘
+- 为什么胜利关键既是抓住关键现场战机，也是争取硬件、测试、FAE、制造、质量、供应链和客户技术接口
+- 为什么不打无准备无把握之仗，在嵌入式里就是补齐工具、证据链、关键兵种和长期供给系统
+
+### 51. 从《中国人民解放军宣言》看嵌入式团队：工程转向新阶段，要有清楚纲领和区别对待的协作政策
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
+
+核心主题：
+- 为什么工程转向新阶段时不能只喊“要打赢”，而要说清服务产品、现场和系统的具体纲领
+- 为什么判断旧流程和旧权威要看长期行为账本，而不是听一次漂亮表态
+- 为什么工程纲领必须拆成版本、质量、现场、协作、工具、责任和边界的动作清单
+- 为什么成熟团队要区分破坏者、被裹挟者、可合作角色和能立功补位的人，不能一概排斥
+- 为什么没有纪律的工程宣言会变成空话，只有执行边界清楚才会让新阶段可信
+
+### 52. 从《重行颁布三大纪律八项注意》看嵌入式现场：现场工程越复杂，越要用简单纪律保护工具、场地和信任
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
+
+核心主题：
+- 为什么嵌入式现场越复杂，越需要少数几条人人能记、人人能执行、人人能监督的小纪律
+- 为什么一切行动听指挥，在现场工程里是保护主线、优先级、版本入口和风险边界
+- 为什么“不拿群众一针一线”可转译为不乱动现场、不私拿工具和样机、不偷客户与产线的信任成本
+- 为什么公共故障经验、日志、产测脚本和现场教训必须归回系统，不能锁在少数人手里
+- 为什么说话、借还、赔偿、边界和对弱势角色的态度，决定工程团队能否被长期信任
+
+### 53. 从《目前形势和我们的任务》看嵌入式工程：项目到了真正转折点，别再拿昨天的防守地图组织今天的新阶段
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/113-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 
 核心主题：
 - 为什么真正的工程转折点，不是群里气氛变好，而是主版本、量产、认证、现场与协作结构已经共同换向
@@ -735,10 +771,10 @@
 - `109《蒋介石政府已处在全民的包围中》`：别把表面高压误认成真正控制，要认清旧项目秩序的广泛失势并准备下一阶段条件。
 
 
-### 51. 从《关于建立报告制度》看嵌入式团队协作：别让现场、测试和研发靠层层传话，要建立负责人亲自写、定期综合、问题直达的工程报告制度
+### 54. 从《关于建立报告制度》看嵌入式团队协作：别让现场、测试和研发靠层层传话，要建立负责人亲自写、定期综合、问题直达的工程报告制度
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/114-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
 
 核心主题：
 - 为什么嵌入式项目一旦进入更大规模、更高复杂度和更长协作链路阶段，靠“谁知道谁就顺手说一声”的传话模式会迅速积累失真
@@ -753,12 +789,12 @@
 - `065《反对党八股》`：报告不是写给体面看的，必须短、硬、能指出真正的问题核心。
 - `071《关于领导方法的若干问题》`：组织要能把分散现场意见集中起来，再形成可执行的方法返回一线。
 - `076《学习和时局》`：进入更大责任阶段后，工程团队必须补足判断、协同和组织能力，不能带着旧阶段包袱上路。
-- `110《目前形势和我们的任务》`：项目一旦进入真正新阶段，就要重排主任务、重整后线，并用新机制承接更大责任。
+- `113《目前形势和我们的任务》`：项目一旦进入真正新阶段，就要重排主任务、重整后线，并用新机制承接更大责任。
 
-### 52. 从《关于目前党的政策中的几个重要问题》看嵌入式团队协作：核心工程主力要带头，但带头不是包办；真正稳的项目，是把测试、制造、现场和中坚力量一起组织成交付主力
+### 55. 从《关于目前党的政策中的几个重要问题》看嵌入式团队协作：核心工程主力要带头，但带头不是包办；真正稳的项目，是把测试、制造、现场和中坚力量一起组织成交付主力
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
 
 核心主题：
 - 为什么嵌入式项目里的“核心主力带头”如果被做成少数高手长期包办，短期像效率，长期却会把项目做成高度脆弱的人肉系统
@@ -775,10 +811,10 @@
 - `075《组织起来》`：困难阶段不能只靠分散英雄主义，要把半可用力量组织成真正主力。
 - `083《论联合政府》`：真正稳的新秩序，需要共同纲领、广泛参与和可持续的组织结构。
 
-### 53. 从《军队内部的民主运动》看嵌入式团队治理：真正稳的工程系统，不是少数核心长期包办，而是在明确主线下把真实承担者组织进治理、互教互议与补位机制
+### 56. 从《军队内部的民主运动》看嵌入式团队治理：真正稳的工程系统，不是少数核心长期包办，而是在明确主线下把真实承担者组织进治理、互教互议与补位机制
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/113-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
 
 核心主题：
 - 为什么嵌入式团队真正危险的不是没有 leader，而是把主线、资源、评审、战术和补位长期锁在少数核心手里，导致多数真实承担者只会执行和背结果
@@ -793,13 +829,13 @@
 - `063《在陕甘宁边区参议会的演说》`：工程公共事务不是核心熟人圈的私产，要给承担者和不同角色说话、参与和监督的位置。
 - `071《关于领导方法的若干问题》`：组织方法要从分散事实中集中出来，再回到一线变成共同可执行的方法。
 - `075《组织起来》`：困难阶段不能只靠分散英雄主义，要把更多半可用力量组织成真正主力。
-- `112《关于目前党的政策中的几个重要问题》`：核心主力带头不是包办，而是把更多真实承担者组织成交付主力。
+- `115《关于目前党的政策中的几个重要问题》`：核心主力带头不是包办，而是把更多真实承担者组织成交付主力。
 
 
-### 54. 从《在不同地区实施土地法的不同策略》看嵌入式工程推进：不要把同一套硬办法同时压到所有工程区域；成熟板型、半熟链路和新开局，要分类处理、分阶段推进
+### 57. 从《在不同地区实施土地法的不同策略》看嵌入式工程推进：不要把同一套硬办法同时压到所有工程区域；成熟板型、半熟链路和新开局，要分类处理、分阶段推进
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
 
 核心主题：
 - 为什么嵌入式工程的第一步不是宣布全项目统一整改，而是先分清哪些板型、驱动链路、产测环节和现场版本已经成熟，哪些只是半熟推进，哪些还刚开局
@@ -814,12 +850,12 @@
 - `071《关于领导方法的若干问题》`：组织方法要从具体情况里集中出来，再回到一线形成共同打法。
 - `075《组织起来》`：困难阶段不能只靠散兵游勇，要先把半可用力量组织成真正主力。
 - `105《三个月总结》`：阶段推进不能靠热情，要用事实、结构和下一步主任务校验。
-- `110《目前形势和我们的任务》`：进入新阶段以后，不能继续拿旧地图组织新的工程局面。
+- `113《目前形势和我们的任务》`：进入新阶段以后，不能继续拿旧地图组织新的工程局面。
 
-### 54. 从《纠正土地改革宣传中的“左”倾错误》看嵌入式团队治理：别让极端工程口号把真实支持面越讲越窄，也别把带头做成命令主义或尾巴主义
+### 58. 从《纠正土地改革宣传中的“左”倾错误》看嵌入式团队治理：别让极端工程口号把真实支持面越讲越窄，也别把带头做成命令主义或尾巴主义
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/115-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 
 核心主题：
 - 为什么嵌入式项目真正危险的，不只是技术问题本身，而是把项目讲成只剩驱动、固件和板级高手才算真正干活，导致硬件、测试、FAE、制造、质量、产测和现场支持这些真实承担者被从主地图上删掉
@@ -832,14 +868,14 @@
 相关延伸参照：
 - `071《关于领导方法的若干问题》`：工程组织既不能靠主观主义乱压，也不能靠尾巴主义跟着局部意见跑，要把分散意见集中成可执行的方法再回到一线。
 - `075《组织起来》`：困难阶段不能只靠少数高手和散兵游勇，而要把半可用力量、中间骨干和支撑角色真正组织成主力。
-- `111《关于建立报告制度》`：想避免情绪和传话接管判断，就要建立负责者亲自写、问题直达、短硬明确的工程报告机制。
-- `112《关于目前党的政策中的几个重要问题》`：核心工程主力带头不是包办，而是把更多真实承担者组织成交付主力。
-- `113《军队内部的民主运动》`：真正稳的工程系统，不是少数核心长期包办，而是在明确主线下把真实承担者组织进治理、互教互议和纠偏机制。
+- `114《关于建立报告制度》`：想避免情绪和传话接管判断，就要建立负责者亲自写、问题直达、短硬明确的工程报告机制。
+- `115《关于目前党的政策中的几个重要问题》`：核心工程主力带头不是包办，而是把更多真实承担者组织成交付主力。
+- `116《军队内部的民主运动》`：真正稳的工程系统，不是少数核心长期包办，而是在明确主线下把真实承担者组织进治理、互教互议和纠偏机制。
 
-### 56. 从《新解放区土地改革要点》看嵌入式新局推进：别在新板型和新项目区一上来全面铺开，先立骨干、稳住中间层、做出样板，再波浪式扩展
+### 59. 从《新解放区土地改革要点》看嵌入式新局推进：别在新板型和新项目区一上来全面铺开，先立骨干、稳住中间层、做出样板，再波浪式扩展
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/116-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 
 核心主题：
 - 为什么嵌入式新板型、新客户项目和新交付区域的第一步，不是全线同步切换，而是先看条件、控节奏，避免把本该分阶段出现的摩擦压缩成一次性爆炸
@@ -852,9 +888,9 @@
 相关延伸参照：
 - `071《关于领导方法的若干问题》`：不要只发统一方案和总要求，要先在关键板卡与交付样板上打穿，再把一线经验变成全局方法。
 - `075《组织起来》`：困难阶段不能只靠分散英雄主义，要把半可用力量、中间骨干和支撑角色真正组织成主力。
-- `111《关于建立报告制度》`：想避免二手汇报和局部情绪接管判断，就要建立负责者亲自写、问题直达、短硬明确的工程报告机制。
-- `114《在不同地区实施土地法的不同策略》`：不要把同一套硬办法同时压到所有工程区域，要分类成熟度、分阶段推进。
-- `115《纠正土地改革宣传中的“左”倾错误》`：不要用极端口号把支持面越讲越窄，也别把带头做成命令主义或尾巴主义。
+- `114《关于建立报告制度》`：想避免二手汇报和局部情绪接管判断，就要建立负责者亲自写、问题直达、短硬明确的工程报告机制。
+- `117《在不同地区实施土地法的不同策略》`：不要把同一套硬办法同时压到所有工程区域，要分类成熟度、分阶段推进。
+- `118《纠正土地改革宣传中的“左”倾错误》`：不要用极端口号把支持面越讲越窄，也别把带头做成命令主义或尾巴主义。
 
 ## 这个专栏的写法原则
 

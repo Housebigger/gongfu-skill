@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经推进到 001—116。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—119 已连续对齐完成，下一篇为 120《关于工商业政策》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,19 +15,19 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 116 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 736 |
-| 顺序学习已连续覆盖范围 | 001—116 |
-| 顺序覆盖段标题核对结果 | 116/116 与 marxists.org 标题一致 |
-| 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 117《打退第二次反共高潮后的时局》 |
+| 当前已建立原文关联的毛文标题数 | 119（001—119 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 757 |
+| 顺序学习已连续覆盖范围 | 001—119 |
+| 顺序覆盖段标题核对结果 | 001—119 与 marxists.org 标题一致；110—112 已补齐；113—119 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—119 已连续覆盖 |
+| 顺序主线的下一篇 | 120《关于工商业政策》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `116《新解放区土地改革要点》`。
-- 在 `001—116` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—119 已按 marxists.org 官方真实顺序连续覆盖。
+- 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -142,25 +142,32 @@
 | 107 | 《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 108 | 《关于西北战场的作战方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470415.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 109 | 《蒋介石政府已处在全民的包围中》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 110 | 《目前形势和我们的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 111 | 《关于建立报告制度》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 112 | 《关于目前党的政策中的几个重要问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 113 | 《军队内部的民主运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 114 | 《在不同地区实施土地法的不同策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 115 | 《纠正土地改革宣传中的“左”倾错误》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
-| 116 | 《新解放区土地改革要点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 110 | 《解放战争第二年的战略方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470901.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 111 | 《中国人民解放军宣言》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 112 | 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010a.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 113 | 《目前形势和我们的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 114 | 《关于建立报告制度》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 115 | 《关于目前党的政策中的几个重要问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 116 | 《军队内部的民主运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 117 | 《在不同地区实施土地法的不同策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 118 | 《纠正土地改革宣传中的“左”倾错误》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 119 | 《新解放区土地改革要点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—116 顺序主线已建立关联        [####################################################################################################################]
-111 《关于建立报告制度》 [DONE: 7/7]
-112 《关于目前党的政策中的几个重要问题》 [DONE: 7/7]
-113 《军队内部的民主运动》 [DONE: 7/7]
-114 《在不同地区实施土地法的不同策略》 [DONE: 7/7]
-115 《纠正土地改革宣传中的“左”倾错误》 [DONE: 7/7]
-116 《新解放区土地改革要点》 [DONE: 7/7]
-117 《打退第二次反共高潮后的时局》 [NEXT]
+001—119 顺序主线已连续建立关联        [DONE]
+110 《解放战争第二年的战略方针》 [DONE: 7/7]
+111 《中国人民解放军宣言》 [DONE: 7/7]
+112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
+113 《目前形势和我们的任务》 [DONE: 7/7]
+114 《关于建立报告制度》 [DONE: 7/7]
+115 《关于目前党的政策中的几个重要问题》 [DONE: 7/7]
+116 《军队内部的民主运动》 [DONE: 7/7]
+117 《在不同地区实施土地法的不同策略》 [DONE: 7/7]
+118 《纠正土地改革宣传中的“左”倾错误》 [DONE: 7/7]
+119 《新解放区土地改革要点》 [DONE: 7/7]
+120 《关于工商业政策》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -289,13 +296,16 @@
 | 107 | 《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm) | [TL](./inspiration_on_today_life/survival_strategy/107-dont-tie-your-whole-system-to-one-symbolic-center-under-heavy-attack.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/107-dont-tie-the-whole-software-project-to-one-symbolic-center-under-heavy-attack.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/107-dont-tie-the-whole-business-to-one-symbolic-center-under-heavy-attack.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/107-investors-should-separate-symbolic-center-loss-from-whole-system-defeat.md) | [MM](./inspiration_on_making_money/execution_and_delivery/107-dont-tie-a-side-hustles-whole-income-system-to-one-symbolic-center-under-heavy-attack.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/107-dont-tie-the-whole-embedded-delivery-system-to-one-symbolic-center-under-heavy-attack.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/107-dont-tie-a-schools-whole-education-system-to-one-symbolic-center-under-heavy-pressure.md) | 7 |
 | 108 | 《关于西北战场的作战方针》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470415.htm) | [TL](./inspiration_on_today_life/survival_strategy/108-in-hard-pursuit-dont-rush-into-the-enemy-plan-keep-turning-to-exhaust-them-and-cut-their-supply.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/108-under-hard-business-pursuit-dont-rush-into-the-competitors-route-keep-maneuvering-and-cut-their-supply-lines.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md) | [MM](./inspiration_on_making_money/execution_and_delivery/108-under-hard-side-hustle-pressure-dont-rush-into-the-platforms-scripted-route-keep-maneuvering-and-rebuild-your-own-cashflow.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/108-under-hard-embedded-pressure-dont-rush-into-the-vendors-scripted-route-keep-maneuvering-and-cut-dependency-lines.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/108-under-hard-school-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-and-cut-the-pressure-supply-lines.md) | 7 |
 | 109 | 《蒋介石政府已处在全民的包围中》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md) | [SD](./inspiration_on_software_development/team_process_and_quality/109-software-teams-should-recognize-when-a-regime-is-losing-every-front-and-stop-mistaking-surface-repression-for-control.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/109-when-a-company-order-is-opposed-on-every-front-stop-mistaking-surface-crackdown-for-real-control.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/109-investors-should-not-mistake-surface-crackdowns-for-real-control-when-a-system-is-losing-every-front.md) | [MM](./inspiration_on_making_money/execution_and_delivery/109-side-hustlers-must-not-mistake-platform-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md) | 7 |
-| 110 | 《目前形势和我们的任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md) | [SD](./inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [MM](./inspiration_on_making_money/execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | 7 |
-| 111 | 《关于建立报告制度》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md) | [SD](./inspiration_on_software_development/team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md) | [RC](./inspiration_on_running_a_company/organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md) | [MM](./inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-regular-direct-problem-focused-operating-reports.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md) | 7 |
-| 112 | 《关于目前党的政策中的几个重要问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md) | [SD](./inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md) | [MM](./inspiration_on_making_money/execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md) | 7 |
-| 113 | 《军队内部的民主运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md) | [SD](./inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md) | [RC](./inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md) | [MM](./inspiration_on_making_money/execution_and_delivery/113-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/113-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | 7 |
-| 114 | 《在不同地区实施土地法的不同策略》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/114-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/114-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md) | [MM](./inspiration_on_making_money/execution_and_delivery/114-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md) | 7 |
-| 115 | 《纠正土地改革宣传中的“左”倾错误》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md) | [SD](./inspiration_on_software_development/team_process_and_quality/115-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [RC](./inspiration_on_running_a_company/organization_design/115-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/115-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md) | [MM](./inspiration_on_making_money/execution_and_delivery/115-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/115-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/115-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | 7 |
-| 116 | 《新解放区土地改革要点》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/116-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/116-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [MM](./inspiration_on_making_money/execution_and_delivery/116-dont-roll-out-new-side-hustle-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/116-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/116-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | 7 |
+| 110 | 《解放战争第二年的战略方针》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470901.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/110-when-your-second-stage-arrives-stop-defending-old-ground-and-enter-the-real-battlefield.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/110-when-software-enters-its-second-stage-move-main-force-from-defense-to-real-user-battlefields.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/110-when-business-enters-its-second-stage-move-main-force-from-defense-to-market-battlefields.md) | [SI](./inspiration_on_stock_investing/trading_and_execution/110-when-market-odds-shift-move-from-defensive-holding-to-active-high-odds-battlefields.md) | [MM](./inspiration_on_making_money/execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/110-when-embedded-project-enters-second-stage-move-main-force-from-lab-defense-to-field-battlefields.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md) | 7 |
+| 111 | 《中国人民解放军宣言》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md) | [SD](./inspiration_on_software_development/team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md) | [MM](./inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md) | 7 |
+| 112 | 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010a.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md) | [SD](./inspiration_on_software_development/team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md) | [RC](./inspiration_on_running_a_company/organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md) | [MM](./inspiration_on_making_money/execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md) | 7 |
+| 113 | 《目前形势和我们的任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/113-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md) | [SD](./inspiration_on_software_development/team_process_and_quality/113-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/113-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/113-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [MM](./inspiration_on_making_money/execution_and_delivery/113-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/113-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/113-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md) | 7 |
+| 114 | 《关于建立报告制度》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/114-shared-affairs-need-regular-direct-problem-focused-reports.md) | [SD](./inspiration_on_software_development/team_process_and_quality/114-software-teams-need-regular-direct-problem-focused-reports.md) | [RC](./inspiration_on_running_a_company/organization_design/114-companies-need-regular-direct-problem-focused-operating-reports.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/114-investment-research-needs-regular-direct-problem-focused-reports.md) | [MM](./inspiration_on_making_money/execution_and_delivery/114-side-hustles-need-regular-direct-problem-focused-operating-reports.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/114-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/114-schools-need-regular-direct-problem-focused-situation-reports.md) | 7 |
+| 115 | 《关于目前党的政策中的几个重要问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/115-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md) | [SD](./inspiration_on_software_development/team_process_and_quality/115-software-governance-needs-representative-seats-for-real-burden-bearers.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/115-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/115-dont-classify-complex-market-forces-with-one-rough-label.md) | [MM](./inspiration_on_making_money/execution_and_delivery/115-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/115-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md) | 7 |
+| 116 | 《军队内部的民主运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/116-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md) | [SD](./inspiration_on_software_development/team_process_and_quality/116-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md) | [RC](./inspiration_on_running_a_company/organization_design/116-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/116-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md) | [MM](./inspiration_on_making_money/execution_and_delivery/116-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/116-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md) | 7 |
+| 117 | 《在不同地区实施土地法的不同策略》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/117-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/117-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/117-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md) | [MM](./inspiration_on_making_money/execution_and_delivery/117-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/117-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md) | 7 |
+| 118 | 《纠正土地改革宣传中的“左”倾错误》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/118-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md) | [SD](./inspiration_on_software_development/team_process_and_quality/118-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [RC](./inspiration_on_running_a_company/organization_design/118-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/118-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md) | [MM](./inspiration_on_making_money/execution_and_delivery/118-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/118-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | 7 |
+| 119 | 《新解放区土地改革要点》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/119-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/119-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [MM](./inspiration_on_making_money/execution_and_delivery/119-dont-roll-out-new-side-hustle-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1529,95 +1539,138 @@
   - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/109-embedded-teams-must-not-mistake-surface-crackdowns-for-real-control-when-a-project-order-is-losing-every-front.md`
   - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/109-schools-must-not-mistake-surface-crackdowns-for-real-control-when-an-old-order-is-losing-every-front.md`
 
-## 110 《目前形势和我们的任务》
+## 110 《解放战争第二年的战略方针》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 21 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470901.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/110-when-your-second-stage-arrives-stop-defending-old-ground-and-enter-the-real-battlefield.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/110-when-software-enters-its-second-stage-move-main-force-from-defense-to-real-user-battlefields.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/110-when-business-enters-its-second-stage-move-main-force-from-defense-to-market-battlefields.md`
+  - SI: `inspiration_on_stock_investing/trading_and_execution/110-when-market-odds-shift-move-from-defensive-holding-to-active-high-odds-battlefields.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/110-when-embedded-project-enters-second-stage-move-main-force-from-lab-defense-to-field-battlefields.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
+
+## 111 《中国人民解放军宣言》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 22 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
+
+## 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 23 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010a.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
+  - RC: `inspiration_on_running_a_company/organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
+  - SI: `inspiration_on_stock_investing/risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
+
+## 113 《目前形势和我们的任务》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 24 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm
 - 已关联 inspiration 文件数：7
-  - TL: `inspiration_on_today_life/judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
-  - SD: `inspiration_on_software_development/team_process_and_quality/110-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - RC: `inspiration_on_running_a_company/strategy_and_execution/110-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
-  - SI: `inspiration_on_stock_investing/research_and_thesis/110-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - MM: `inspiration_on_making_money/execution_and_delivery/110-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - EC: `inspiration_on_embedded_coding/engineering_strategy/110-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
-  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/110-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - TL: `inspiration_on_today_life/judgement_and_decision/113-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/113-when-software-teams-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/113-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/113-when-a-real-market-turning-point-arrives-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/113-when-a-side-hustle-enters-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/113-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+  - ED: `inspiration_on_educational_undertakings/school_governance_and_crisis_response/113-when-schools-enter-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 
-## 111 《关于建立报告制度》
+
+## 114 《关于建立报告制度》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 25 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm
 - 已关联 inspiration 文件数：7
-  - TL: `inspiration_on_today_life/cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md`
-  - SD: `inspiration_on_software_development/team_process_and_quality/111-software-teams-need-regular-direct-problem-focused-reports.md`
-  - RC: `inspiration_on_running_a_company/organization_design/111-companies-need-regular-direct-problem-focused-operating-reports.md`
-  - SI: `inspiration_on_stock_investing/research_and_thesis/111-investment-research-needs-regular-direct-problem-focused-reports.md`
-  - MM: `inspiration_on_making_money/execution_and_delivery/111-side-hustles-need-regular-direct-problem-focused-operating-reports.md`
-  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
-  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/111-schools-need-regular-direct-problem-focused-situation-reports.md`
+  - TL: `inspiration_on_today_life/cooperation_and_organization/114-shared-affairs-need-regular-direct-problem-focused-reports.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/114-software-teams-need-regular-direct-problem-focused-reports.md`
+  - RC: `inspiration_on_running_a_company/organization_design/114-companies-need-regular-direct-problem-focused-operating-reports.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/114-investment-research-needs-regular-direct-problem-focused-reports.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/114-side-hustles-need-regular-direct-problem-focused-operating-reports.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/114-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/114-schools-need-regular-direct-problem-focused-situation-reports.md`
 
-## 112 《关于目前党的政策中的几个重要问题》
+
+## 115 《关于目前党的政策中的几个重要问题》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 26 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm
 - 已关联 inspiration 文件数：7
-  - TL: `inspiration_on_today_life/judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
-  - SD: `inspiration_on_software_development/team_process_and_quality/112-software-governance-needs-representative-seats-for-real-burden-bearers.md`
-  - RC: `inspiration_on_running_a_company/leadership_and_talent/112-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
-  - SI: `inspiration_on_stock_investing/research_and_thesis/112-dont-classify-complex-market-forces-with-one-rough-label.md`
-  - MM: `inspiration_on_making_money/execution_and_delivery/112-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md`
-  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/112-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
-  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/112-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md`
+  - TL: `inspiration_on_today_life/judgement_and_decision/115-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/115-software-governance-needs-representative-seats-for-real-burden-bearers.md`
+  - RC: `inspiration_on_running_a_company/leadership_and_talent/115-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/115-dont-classify-complex-market-forces-with-one-rough-label.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/115-dont-let-business-cleanup-destroy-real-supply-cashflow-and-delivery.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/115-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md`
 
-## 113 《军队内部的民主运动》
+
+## 116 《军队内部的民主运动》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 27 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm
 - 已关联 inspiration 文件数：7
-  - TL: `inspiration_on_today_life/cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
-  - SD: `inspiration_on_software_development/team_process_and_quality/113-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
-  - RC: `inspiration_on_running_a_company/organization_design/113-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
-  - SI: `inspiration_on_stock_investing/research_and_thesis/113-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md`
-  - MM: `inspiration_on_making_money/execution_and_delivery/113-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
-  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/113-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
-  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/113-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - TL: `inspiration_on_today_life/cooperation_and_organization/116-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/116-software-teams-get-stronger-when-real-builders-can-speak-help-decide-and-correct.md`
+  - RC: `inspiration_on_running_a_company/organization_design/116-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/116-investors-should-build-research-systems-where-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/116-side-hustles-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/116-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
 
 
-## 114 《在不同地区实施土地法的不同策略》
+
+## 117 《在不同地区实施土地法的不同策略》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 28 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm
 - 已关联 inspiration 文件数：7
-  - TL: `inspiration_on_today_life/judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
-  - SD: `inspiration_on_software_development/iteration_and_delivery/114-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
-  - RC: `inspiration_on_running_a_company/strategy_and_execution/114-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
-  - SI: `inspiration_on_stock_investing/research_and_thesis/114-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md`
-  - MM: `inspiration_on_making_money/execution_and_delivery/114-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md`
-  - EC: `inspiration_on_embedded_coding/engineering_strategy/114-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
-  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/114-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
+  - TL: `inspiration_on_today_life/judgement_and_decision/117-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/117-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/117-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/117-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/117-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md`
 
-## 115 《纠正土地改革宣传中的“左”倾错误》
+
+## 118 《纠正土地改革宣传中的“左”倾错误》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 29 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm
 - 已关联 inspiration 文件数：7
-  - TL: `inspiration_on_today_life/judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
-  - SD: `inspiration_on_software_development/team_process_and_quality/115-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - RC: `inspiration_on_running_a_company/organization_design/115-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - SI: `inspiration_on_stock_investing/research_and_thesis/115-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md`
-  - MM: `inspiration_on_making_money/execution_and_delivery/115-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/115-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
-  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/115-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - TL: `inspiration_on_today_life/judgement_and_decision/118-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/118-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - RC: `inspiration_on_running_a_company/organization_design/118-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/118-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/118-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/118-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 
-## 116 《新解放区土地改革要点》
+
+## 119 《新解放区土地改革要点》
 - 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 30 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm
 - 已关联 inspiration 文件数：7
-  - TL: `inspiration_on_today_life/cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - SD: `inspiration_on_software_development/iteration_and_delivery/116-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - RC: `inspiration_on_running_a_company/strategy_and_execution/116-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - SI: `inspiration_on_stock_investing/research_and_thesis/116-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - MM: `inspiration_on_making_money/execution_and_delivery/116-dont-roll-out-new-side-hustle-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - EC: `inspiration_on_embedded_coding/engineering_strategy/116-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
-  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/116-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - TL: `inspiration_on_today_life/cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/119-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/119-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/119-dont-roll-out-new-side-hustle-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+
 
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前边界继续向下推进，下一篇应是：`117《打退第二次反共高潮后的时局》`
+- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`120《关于工商业政策》`。
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

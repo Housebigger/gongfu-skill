@@ -89,10 +89,10 @@ Purpose:
 - `judgement_and_decision/105-stage-summaries-must-test-confidence-with-facts-structure-and-next-key-goals.md`
 - `judgement_and_decision/106-when-signs-point-to-a-new-upsurge-stop-living-by-old-defensive-psychology.md`
 - `judgement_and_decision/109-when-a-system-stands-against-everyone-dont-mistake-surface-repression-for-real-strength.md`
-- `judgement_and_decision/110-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
-- `judgement_and_decision/112-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
-- `judgement_and_decision/114-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
-- `judgement_and_decision/115-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
+- `judgement_and_decision/113-when-a-real-turning-point-arrives-stop-judging-the-new-stage-with-yesterdays-defensive-map.md`
+- `judgement_and_decision/115-dont-fear-the-big-picture-enemy-or-go-careless-in-local-fights.md`
+- `judgement_and_decision/117-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md`
+- `judgement_and_decision/118-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md`
 
 Purpose:
 - how ordinary people test paper agreements against reality, keep working, and carry heavy responsibilities after negotiation
@@ -194,9 +194,9 @@ Purpose:
 - `cooperation_and_organization/079-build-broad-cooperation-by-starting-from-real-needs-and-voluntary-change.md`
 - `cooperation_and_organization/083-build-a-common-program-and-broad-coalition-for-new-life-order.md`
 - `cooperation_and_organization/089-when-final-victory-window-opens-organize-all-forces-and-prepare-next-order.md`
-- `cooperation_and_organization/111-shared-affairs-need-regular-direct-problem-focused-reports.md`
-- `cooperation_and_organization/113-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
-- `cooperation_and_organization/116-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `cooperation_and_organization/114-shared-affairs-need-regular-direct-problem-focused-reports.md`
+- `cooperation_and_organization/116-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
+- `cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -241,3 +241,10 @@ Future article-by-article life notes should be filed by practical use:
 - decision themes -> `judgement_and_decision/`
 - growth themes -> `long_term_growth/`
 - collaboration themes -> `cooperation_and_organization/`
+
+## 110—112 官方缺口补写导航
+- `judgement_and_decision/110-when-your-second-stage-arrives-stop-defending-old-ground-and-enter-the-real-battlefield.md`
+- `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
+- `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
+
+说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。

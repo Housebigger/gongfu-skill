@@ -25,7 +25,7 @@
 - `team_process_and_quality/`：75 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：116 篇 article-based 笔记，对应 116 篇毛文来源。
+当前合计：117 篇 article-based 笔记，对应 117 篇毛文来源。
 
 ## 推荐入口
 
@@ -117,10 +117,11 @@
 - `iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
 - `iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 - `team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md`
+- `team_process_and_quality/121-dont-push-non-core-but-usable-builders-reviewers-and-allies-to-the-opposite-side.md`
 
 ## 110—112 官方缺口补写导航
 - `iteration_and_delivery/110-when-software-enters-its-second-stage-move-main-force-from-defense-to-real-user-battlefields.md`
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—121 连续覆盖，下一篇为 122《评西北大捷兼论解放军的新式整军运动》。

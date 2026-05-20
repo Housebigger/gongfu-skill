@@ -112,6 +112,7 @@
 - [118 别让极端学校口号把真实支持面越讲越窄，也别把带头做成命令主义或尾巴主义](school_coordination_and_organization/118-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md)
 - [119 别在新校区和新年级一上来全面铺开，先立骨干、稳住中间层、做出样板，再波浪式扩展](school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md)
 - [120 别把一种学校管理方法套到所有场景，保护教学供给并及时纠偏](school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md)
+- [121 别把大多数可沟通、可教育、可合作的人一把推到对立面](school_coordination_and_organization/121-dont-push-the-majority-of-educable-and-cooperable-people-to-the-opposite-side-in-school-work.md)
 
 ---
 统计：102篇笔记 / 5个子主题 / 覆盖001-120连续原文（共101篇原文）
@@ -121,4 +122,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—121 连续覆盖，下一篇为 122《评西北大捷兼论解放军的新式整军运动》。

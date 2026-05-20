@@ -10,7 +10,7 @@ Theme: extract practical lessons for ordinary people living in an era of major c
 
 Purpose:
 - how ordinary people detect expansion disguised as defense by checking movement, documents, key channels, and real beneficiaries
-- future original-text implementation guard index from 120《关于工商业政策》 through X231《纪念巴黎公社的重要意义》, to prevent sequence drift before new themed notes are written
+- future original-text implementation guard index from 121《关于民族资产阶级和开明绅士问题》 through X231《纪念巴黎公社的重要意义》, to prevent sequence drift before new themed notes are written
 - how ordinary people organize final victory windows by concentrating action, mobilizing hidden support, protecting the base, and preparing next-stage order
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - corpus-level overview
@@ -200,6 +200,7 @@ Purpose:
 - `cooperation_and_organization/114-shared-affairs-need-regular-direct-problem-focused-reports.md`
 - `cooperation_and_organization/116-shared-affairs-get-stronger-when-real-doers-can-speak-help-decide-and-correct.md`
 - `cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `cooperation_and_organization/121-dont-push-usable-middle-forces-to-the-opposite-side-while-handling-major-life-affairs.md`
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -250,4 +251,4 @@ Future article-by-article life notes should be filed by practical use:
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—121 连续覆盖，下一篇为 122《评西北大捷兼论解放军的新式整军运动》。

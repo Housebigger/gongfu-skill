@@ -417,6 +417,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md`
 
+### 121《关于民族资产阶级和开明绅士问题》(1948-03-01)
+- `inspiration_on_today_life/cooperation_and_organization/121-dont-push-usable-middle-forces-to-the-opposite-side-while-handling-major-life-affairs.md`
+- `inspiration_on_software_development/team_process_and_quality/121-dont-push-non-core-but-usable-builders-reviewers-and-allies-to-the-opposite-side.md`
+- `inspiration_on_running_a_company/strategy_and_execution/121-dont-treat-non-core-but-valuable-middle-forces-as-enemies-during-company-turns.md`
+- `inspiration_on_stock_investing/research_and_thesis/121-dont-collapse-complex-middle-forces-into-one-enemy-label-when-building-a-thesis.md`
+- `inspiration_on_making_money/execution_and_delivery/121-dont-push-non-core-but-valuable-customers-channels-and-collaborators-to-the-opposite-side.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/121-dont-push-the-majority-of-educable-and-cooperable-people-to-the-opposite-side-in-school-work.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

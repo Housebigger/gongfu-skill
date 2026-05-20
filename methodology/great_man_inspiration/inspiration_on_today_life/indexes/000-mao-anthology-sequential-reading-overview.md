@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖状态：`001—120` 已连续对齐；其中 `110—112` 已完成补写，`113—120` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`121《关于民族资产阶级和开明绅士问题》`。
+- 当前顺序覆盖状态：`001—121` 已连续对齐；其中 `110—112` 已完成补写，`113—121` 已按官网真实编号回正并完成七主题覆盖。
+- 如果继续顺序推进，下一篇应是：`122《评西北大捷兼论解放军的新式整军运动》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -477,7 +477,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/120-dont-destroy-delivery-system-for-short-term-pleasing-build-mutual-gain.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“不能把农村斗争方法机械搬到城市工商业、必须保护有益生产、反对片面福利破坏生产、组织生产管理委员会、领导机关要密切联系并及时纠偏、政策是一切行动的出发点”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要把旧场景硬招套进新场景，不要为了眼前局部利益毁掉长期生产系统，而要分清对象和边界，保护现金流、交付、供应链、课堂供给、本金与研究系统，并在执行中持续沟通、及时纠偏。
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“不能把农村斗争方法机械搬到城市工商业、必须保护有益生产、反对片面福利破坏生产、组织生产管理委员会、领导机关要密切联系并及时纠偏、政策是一切行动的出发点”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要把旧场景硬招套进新场景，不要为了眼前局部利益毁掉长期生产系统，而要分清对象和边界，保护现金流、交付、供应链、课堂供给、本金与研究系统，并在执行中持续沟通、及时纠偏。- 121《关于民族资产阶级和开明绅士问题》
+  - `../cooperation_and_organization/121-dont-push-usable-middle-forces-to-the-opposite-side-while-handling-major-life-affairs.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/121-dont-push-non-core-but-usable-builders-reviewers-and-allies-to-the-opposite-side.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/121-dont-treat-non-core-but-valuable-middle-forces-as-enemies-during-company-turns.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/121-dont-collapse-complex-middle-forces-into-one-enemy-label-when-building-a-thesis.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/121-dont-push-non-core-but-valuable-customers-channels-and-collaborators-to-the-opposite-side.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/121-dont-push-the-majority-of-educable-and-cooperable-people-to-the-opposite-side-in-school-work.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“先分清谁决定局势性质、谁不是主体但仍可争取、为什么要争取其大多数孤立其少数、为什么对非核心但重要力量必须慎重处理、以及如何在团结中教育而不交出主线”转译为普通人处理关系、软件团队治理、公司转型、投资研究、副业经营、嵌入式协作和学校组织的方法，提醒不同场景下的行动者都不要把可合作、可教育、可联结的中间力量一把推到对立面，而要守住主线、稳住支持面、扩大多数、孤立少数破坏者。
 
 - 119《新解放区土地改革要点》
   - `../cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`

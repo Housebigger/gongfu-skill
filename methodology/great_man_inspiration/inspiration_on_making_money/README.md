@@ -17,9 +17,9 @@
 ## 当前实际结构
 
 - `monetization_models/`：2 篇
-- `execution_and_delivery/`：105 篇
+- `execution_and_delivery/`：106 篇
 
-当前合计：107 篇 article-based 笔记，对应 107 篇毛文来源。
+当前合计：108 篇 article-based 笔记，对应 108 篇毛文来源。
 
 说明：
 - 早期文档里曾把这里当作“reserved theme”描述，但当前仓库里它已经是一个内容相当完整的成熟主题，不再只是预留目录。
@@ -98,10 +98,11 @@
 - `execution_and_delivery/117-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md`
 - `execution_and_delivery/118-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 - `execution_and_delivery/119-dont-roll-out-new-side-hustle-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `execution_and_delivery/120-dont-destroy-delivery-system-for-short-term-pleasing-build-mutual-gain.md`
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

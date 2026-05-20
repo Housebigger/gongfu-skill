@@ -7,7 +7,8 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—119 已连续对齐完成，下一篇为 120《关于工商业政策》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—120 已连续对齐完成，下一篇为 121《关于民族资产阶级和开明绅士问题》。
+- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 120《关于工商业政策》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -15,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 119（001—119 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 757 |
-| 顺序学习已连续覆盖范围 | 001—119 |
-| 顺序覆盖段标题核对结果 | 001—119 与 marxists.org 标题一致；110—112 已补齐；113—119 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—119 已连续覆盖 |
-| 顺序主线的下一篇 | 120《关于工商业政策》 |
+| 当前已建立原文关联的毛文标题数 | 120（001—120 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 764 |
+| 顺序学习已连续覆盖范围 | 001—120 |
+| 顺序覆盖段标题核对结果 | 001—120 与 marxists.org 标题一致；110—112 已补齐；113—120 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—120 已连续覆盖 |
+| 顺序主线的下一篇 | 121《关于民族资产阶级和开明绅士问题》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—119 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—120 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -152,11 +153,12 @@
 | 117 | 《在不同地区实施土地法的不同策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 118 | 《纠正土地改革宣传中的“左”倾错误》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 119 | 《新解放区土地改革要点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 120 | 《关于工商业政策》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480227.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—119 顺序主线已连续建立关联        [DONE]
+001—120 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -167,7 +169,8 @@
 117 《在不同地区实施土地法的不同策略》 [DONE: 7/7]
 118 《纠正土地改革宣传中的“左”倾错误》 [DONE: 7/7]
 119 《新解放区土地改革要点》 [DONE: 7/7]
-120 《关于工商业政策》 [NEXT]
+120 《关于工商业政策》 [DONE: 7/7]
+121 《关于民族资产阶级和开明绅士问题》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -306,6 +309,7 @@
 | 117 | 《在不同地区实施土地法的不同策略》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/117-dont-use-the-same-hard-method-in-every-situation-classify-zones-and-advance-by-stage.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/117-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/117-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md) | [MM](./inspiration_on_making_money/execution_and_delivery/117-dont-use-the-same-side-hustle-push-in-every-income-zone-classify-maturity-and-advance-by-stage.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/117-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md) | 7 |
 | 118 | 《纠正土地改革宣传中的“左”倾错误》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/118-dont-let-extreme-slogans-shrink-your-support-surface-or-hand-away-leadership.md) | [SD](./inspiration_on_software_development/team_process_and_quality/118-dont-let-extreme-software-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [RC](./inspiration_on_running_a_company/organization_design/118-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/118-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md) | [MM](./inspiration_on_making_money/execution_and_delivery/118-dont-let-extreme-side-hustle-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/118-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md) | 7 |
 | 119 | 《新解放区土地改革要点》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/119-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/119-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [MM](./inspiration_on_making_money/execution_and_delivery/119-dont-roll-out-new-side-hustle-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md) | 7 |
+| 120 | 《关于工商业政策》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480227.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/120-dont-move-hard-methods-across-scenes-or-destroy-long-term-livelihood-for-short-term-benefits.md) | [SD](./inspiration_on_software_development/team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/120-dont-move-old-battlefield-methods-into-company-operations-protect-production-and-correct-fast.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md) | [MM](./inspiration_on_making_money/execution_and_delivery/120-dont-destroy-delivery-system-for-short-term-pleasing-build-mutual-gain.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1667,10 +1671,22 @@
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 
 
+## 120 《关于工商业政策》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 31 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480227.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/120-dont-move-hard-methods-across-scenes-or-destroy-long-term-livelihood-for-short-term-benefits.md`
+  - SD: `inspiration_on_software_development/team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/120-dont-move-old-battlefield-methods-into-company-operations-protect-production-and-correct-fast.md`
+  - SI: `inspiration_on_stock_investing/risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/120-dont-destroy-delivery-system-for-short-term-pleasing-build-mutual-gain.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`120《关于工商业政策》`。
+- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`121《关于民族资产阶级和开明绅士问题》`。
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

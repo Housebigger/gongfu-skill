@@ -21,7 +21,7 @@
 
 - `debugging_and_fieldwork/`：3 篇
   - 面向调试闭环、真机调查、反资料主义，以及一线调查方法
-- `engineering_strategy/`：32 篇
+- `engineering_strategy/`：33 篇
   - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备、转机判断与困难阶段主动缩编
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
@@ -30,7 +30,7 @@
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：91 篇 article-based 笔记，对应 91 篇毛文来源。
+当前合计：92 篇 article-based 笔记，对应 92 篇毛文来源。
 
 ## 推荐入口
 
@@ -110,6 +110,7 @@
 - `engineering_strategy/113-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 - `engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
 - `engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
 - `team_process_and_knowledge/114-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
 - `team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
 - `team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
@@ -120,4 +121,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

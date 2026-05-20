@@ -911,3 +911,14 @@
 - 如何在长周期和高不确定性中保持工程主动权
 
 如果这个专栏能持续写下去，我希望它最终留下来的不是几篇概念文章，而是一套更适合长期工程实践者阅读的思考笔记。
+
+### 60. 从《关于工商业政策》看嵌入式现场工程：单一硬招不能替代供给链和生产链判断
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
+
+核心主题：
+- 为什么嵌入式现场工程不能把一种事故期硬招搬到所有工程场景
+- 为什么要区分真正破坏证据链和交付安全的问题，以及仍需保护的生产链力量
+- 为什么片面舒适或片面效率都会破坏长期量产、供应和现场交付能力
+- 为什么研发、测试、制造、质量、供应商、FAE 和客户现场必须形成实时闭环并提前讲清工程边界

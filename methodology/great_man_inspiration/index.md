@@ -77,6 +77,7 @@ Subfolders:
 - `cooperation_and_organization/`
 
 Current contents:
+- `inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`
 - `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 - `inspiration_on_today_life/judgement_and_decision/001-dont-misread-allies-by-surface-labels.md`
 - `inspiration_on_today_life/cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md`
@@ -406,6 +407,15 @@ Current contents:
 - `inspiration_on_making_money/execution_and_delivery/106-when-a-side-hustle-is-near-a-new-upsurge-stop-running-it-like-a-survival-project.md`
 - `inspiration_on_embedded_coding/engineering_strategy/106-when-an-embedded-project-nears-a-new-upsurge-build-the-engineering-arms-and-supply-lines.md`
 - `inspiration_on_educational_undertakings/school_governance_and_crisis_response/106-when-a-school-nears-a-new-upsurge-stop-running-only-defensive-governance.md`
+
+### 120《关于工商业政策》(1948-02-27)
+- `inspiration_on_today_life/judgement_and_decision/120-dont-move-hard-methods-across-scenes-or-destroy-long-term-livelihood-for-short-term-benefits.md`
+- `inspiration_on_software_development/team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md`
+- `inspiration_on_running_a_company/strategy_and_execution/120-dont-move-old-battlefield-methods-into-company-operations-protect-production-and-correct-fast.md`
+- `inspiration_on_stock_investing/risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
+- `inspiration_on_making_money/execution_and_delivery/120-dont-destroy-delivery-system-for-short-term-pleasing-build-mutual-gain.md`
+- `inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md`
 
 ## Naming convention
 

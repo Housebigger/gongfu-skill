@@ -19,11 +19,11 @@
 
 - `market_structure_and_cycles/`：1 篇
 - `research_and_thesis/`：93 篇
-- `risk_and_position_management/`：10 篇
+- `risk_and_position_management/`：11 篇
 - `trading_and_execution/`：4 篇
 - `indexes/`：当前预留
 
-当前合计：108 篇 article-based 笔记，对应 108 篇毛文来源。
+当前合计：109 篇 article-based 笔记，对应 109 篇毛文来源。
 
 ## 子目录速览
 
@@ -102,6 +102,7 @@
 - `research_and_thesis/117-dont-use-the-same-thesis-action-in-every-position-zone-classify-maturity-and-advance-by-stage.md`
 - `research_and_thesis/118-dont-let-extreme-investment-slogans-shrink-your-real-support-surface-or-hand-away-thesis-leadership.md`
 - `research_and_thesis/119-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
 - `risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
 - `trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`
 
@@ -110,4 +111,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

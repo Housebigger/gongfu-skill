@@ -22,10 +22,10 @@
 - `user_research_and_requirements/`：7 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：28 篇
-- `team_process_and_quality/`：74 篇
+- `team_process_and_quality/`：75 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：115 篇 article-based 笔记，对应 115 篇毛文来源。
+当前合计：116 篇 article-based 笔记，对应 116 篇毛文来源。
 
 ## 推荐入口
 
@@ -116,10 +116,11 @@
 - `iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
 - `iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
 - `iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md`
 
 ## 110—112 官方缺口补写导航
 - `iteration_and_delivery/110-when-software-enters-its-second-stage-move-main-force-from-defense-to-real-user-battlefields.md`
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

@@ -185,10 +185,11 @@ This folder focuses on:
 - `strategy_and_execution/113-when-a-real-business-turning-point-arrives-stop-running-the-company-with-yesterdays-defensive-map.md`
 - `strategy_and_execution/117-dont-use-the-same-company-cleanup-method-in-every-business-zone-classify-maturity-and-advance-by-stage.md`
 - `strategy_and_execution/119-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `strategy_and_execution/120-dont-move-old-battlefield-methods-into-company-operations-protect-production-and-correct-fast.md`
 
 ## 110—112 官方缺口补写导航
 - `strategy_and_execution/110-when-business-enters-its-second-stage-move-main-force-from-defense-to-market-battlefields.md`
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

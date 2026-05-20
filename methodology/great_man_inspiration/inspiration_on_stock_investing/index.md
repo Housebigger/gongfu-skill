@@ -184,6 +184,7 @@ Purpose:
 - how investors build real investment base areas under long pressure, preserve principal and flexibility, and gradually upgrade scattered survival trades into stronger system-level capability
 - how investors avoid both market defeatism and quick-win fantasy by using stage judgment, long positioning, local fast decisions, and continued verification to turn weak situations into winnable ones
 - how investors shrink the investment machine in hard times, protect core capital force, and keep the account small enough to survive and strike again
+- `risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
 
 ### trading_and_execution
 - `trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
@@ -207,4 +208,4 @@ If the note is mainly about building new active income sources, place it under `
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

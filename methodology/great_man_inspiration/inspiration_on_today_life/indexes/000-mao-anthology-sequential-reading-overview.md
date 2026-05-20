@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖状态：`001—119` 已连续对齐；其中 `110—112` 已完成补写，`113—119` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`120《关于工商业政策》`。
+- 当前顺序覆盖状态：`001—120` 已连续对齐；其中 `110—112` 已完成补写，`113—120` 已按官网真实编号回正并完成七主题覆盖。
+- 如果继续顺序推进，下一篇应是：`121《关于民族资产阶级和开明绅士问题》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -468,6 +468,16 @@
   - `../../inspiration_on_educational_undertakings/school_governance_and_crisis_response/089-schools-must-use-decisive-windows-to-organize-final-push-and-next-stage-order.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
 
+
+- 120《关于工商业政策》
+  - `../judgement_and_decision/120-dont-move-hard-methods-across-scenes-or-destroy-long-term-livelihood-for-short-term-benefits.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/120-dont-move-old-battlefield-methods-into-company-operations-protect-production-and-correct-fast.md`
+  - `../../inspiration_on_stock_investing/risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/120-dont-destroy-delivery-system-for-short-term-pleasing-build-mutual-gain.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“不能把农村斗争方法机械搬到城市工商业、必须保护有益生产、反对片面福利破坏生产、组织生产管理委员会、领导机关要密切联系并及时纠偏、政策是一切行动的出发点”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要把旧场景硬招套进新场景，不要为了眼前局部利益毁掉长期生产系统，而要分清对象和边界，保护现金流、交付、供应链、课堂供给、本金与研究系统，并在执行中持续沟通、及时纠偏。
 
 - 119《新解放区土地改革要点》
   - `../cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`

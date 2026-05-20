@@ -5,10 +5,12 @@ Theme: extract practical lessons for ordinary people living in an era of major c
 ## Subfolders
 
 ### indexes
+- `indexes/000-future-mao-originals-implementation-index.md`
 - `indexes/000-mao-anthology-sequential-reading-overview.md`
 
 Purpose:
 - how ordinary people detect expansion disguised as defense by checking movement, documents, key channels, and real beneficiaries
+- future original-text implementation guard index from 120《关于工商业政策》 through X231《纪念巴黎公社的重要意义》, to prevent sequence drift before new themed notes are written
 - how ordinary people organize final victory windows by concentrating action, mobilizing hidden support, protecting the base, and preparing next-stage order
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
 - corpus-level overview
@@ -123,6 +125,7 @@ Purpose:
 - how ordinary people recognize that when leaders answer no key questions, perform confidence, and treat criticism as hostile rumor, the situation is usually worsening rather than stabilizing
 - how ordinary people recognize when a situation has truly crossed from pure defense into a real turning stage, stop using yesterday's defensive map to judge today, and immediately reset the main task, support structure, and next-step conditions
 - how ordinary people keep a complex situation from being ruined by extreme slogans, narrow support maps, commandism, or tailism, and instead combine core reliance, broader alliance, leadership, and measured pace
+- `judgement_and_decision/120-dont-move-hard-methods-across-scenes-or-destroy-long-term-livelihood-for-short-term-benefits.md`
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`
@@ -247,4 +250,4 @@ Future article-by-article life notes should be filed by practical use:
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-115篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-120篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -111,13 +111,14 @@
 - [117 不要把同一套硬办法同时压到所有学校区域；成熟班级、半熟改进线和新开局，要分类施策、分阶段推进](school_coordination_and_organization/117-dont-use-the-same-school-push-in-every-education-zone-classify-maturity-and-advance-by-stage.md)
 - [118 别让极端学校口号把真实支持面越讲越窄，也别把带头做成命令主义或尾巴主义](school_coordination_and_organization/118-dont-let-extreme-school-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md)
 - [119 别在新校区和新年级一上来全面铺开，先立骨干、稳住中间层、做出样板，再波浪式扩展](school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md)
+- [120 别把一种学校管理方法套到所有场景，保护教学供给并及时纠偏](school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md)
 
 ---
-统计：101篇笔记 / 5个子主题 / 覆盖001-119连续原文（共100篇原文）
+统计：102篇笔记 / 5个子主题 / 覆盖001-120连续原文（共101篇原文）
 
 ## 110—112 官方缺口补写导航
 - `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

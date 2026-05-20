@@ -228,6 +228,7 @@ Purpose:
 - how software teams stop treating cross-functional support as a favor, spend most of their energy helping delivery roles rebuild real capacity, organize the real labor chain behind versions and incidents, and repair cooperation by starting with self-criticism
 
 - how software teams stop turning project crises into confidence meetings, answer real risks, let criticism enter the system, and verify stability through changed actions instead of morale theater
+- `team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md`
 ### indexes
 Reserved for future series indexes and overview notes.
 
@@ -245,4 +246,4 @@ When a future note mainly serves app development, mini program development, or g
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线恢复为 001—119 连续覆盖，下一篇为 120《关于工商业政策》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—120 连续覆盖，下一篇为 121《关于民族资产阶级和开明绅士问题》。

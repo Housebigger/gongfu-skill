@@ -178,5 +178,6 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 - `team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
 - `team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
+- `team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。

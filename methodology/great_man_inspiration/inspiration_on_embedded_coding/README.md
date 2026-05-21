@@ -30,7 +30,7 @@
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：95 篇 article-based 笔记，对应 95 篇毛文来源。
+当前合计：96 篇 article-based 笔记，对应 96 篇毛文来源。
 
 ## 推荐入口
 
@@ -116,6 +116,7 @@
 - `team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
 - `team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
 - `team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
+- `team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
 - `team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
 - `team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 
@@ -124,4 +125,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。

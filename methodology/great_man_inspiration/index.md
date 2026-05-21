@@ -443,6 +443,15 @@ Current contents:
 - `inspiration_on_making_money/execution_and_delivery/123-correct-the-main-business-deviation-first-and-dont-scale-the-side-hustle-before-it-is-ready.md`
 - `inspiration_on_embedded_coding/engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md`
+### 124《在晋绥干部会议上的讲话》(1948-04-01)
+- `inspiration_on_today_life/judgement_and_decision/124-dont-run-your-next-life-stage-by-heat-or-slogans-build-new-order-from-real-conditions.md`
+- `inspiration_on_software_development/team_process_and_quality/124-software-teams-must-build-new-order-from-real-conditions-not-slogans-or-governance-heat.md`
+- `inspiration_on_running_a_company/organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
+- `inspiration_on_stock_investing/research_and_thesis/124-dont-upgrade-a-market-thesis-from-emotion-build-it-from-real-conditions-and-productive-facts.md`
+- `inspiration_on_making_money/execution_and_delivery/124-side-hustles-grow-by-correcting-style-building-feedback-and-returning-to-sustainable-delivery.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md`
+
 
 ## Naming convention
 

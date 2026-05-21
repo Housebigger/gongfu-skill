@@ -170,10 +170,11 @@ Additional focus:
 - `execution_and_delivery/121-dont-push-non-core-but-valuable-customers-channels-and-collaborators-to-the-opposite-side.md`
 - `execution_and_delivery/122-after-a-side-hustle-breakthrough-reorganize-delivery-for-repeatable-income-not-one-surge.md`
 - `execution_and_delivery/123-correct-the-main-business-deviation-first-and-dont-scale-the-side-hustle-before-it-is-ready.md`
+- `execution_and_delivery/124-side-hustles-grow-by-correcting-style-building-feedback-and-returning-to-sustainable-delivery.md`
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。

@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖状态：`001—123` 已连续对齐；其中 `110—112` 已完成补写，`113—123` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`124《在晋绥干部会议上的讲话》`。
+- 当前顺序覆盖状态：`001—124` 已连续对齐；其中 `110—112` 已完成补写，`113—124` 已按官网真实编号回正并完成七主题覆盖。
+- 如果继续顺序推进，下一篇应是：`125《对晋绥日报编辑人员的谈话》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -488,6 +488,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“先集中纠正最伤主线的‘左’偏、再重估统一战线和建政时机、再从休整整训后的质量变化与敌我真实结构判断长期胜负，并坚持稳扎稳打不求速效”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的当代方法，提醒不同场景下的行动者：进入新阶段时，最危险的不是还有困难，而是误把局部转机当成条件已经全熟，于是跳过纠偏、分类、整合和节奏控制；真正成熟的推进，是先纠正最伤主线的偏差，再按结构质量和条件成熟度决定何时扩、怎么打、先做什么。
+- 124《在晋绥干部会议上的讲话》
+  - `../judgement_and_decision/124-dont-run-your-next-life-stage-by-heat-or-slogans-build-new-order-from-real-conditions.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/124-software-teams-must-build-new-order-from-real-conditions-not-slogans-or-governance-heat.md`
+  - `../../inspiration_on_running_a_company/organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/124-dont-upgrade-a-market-thesis-from-emotion-build-it-from-real-conditions-and-productive-facts.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/124-side-hustles-grow-by-correcting-style-building-feedback-and-returning-to-sustainable-delivery.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“反对无根据的主观主义和命令主义，强调一切从实际情况出发、通过整风纠偏、调查研究、代表性协商、生产恢复和负担调节去建设新秩序”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的当代方法，提醒不同场景下的行动者：真正的新阶段，不是靠热情、口号和运动式推进硬推出来，而是先回到真实条件，纠正作风偏差，建立能听见一线声音的反馈结构，保护生产与供给，再把局部起势慢慢做成可持续的新秩序。
+
 
 - 121《关于民族资产阶级和开明绅士问题》
   - `../cooperation_and_organization/121-dont-push-usable-middle-forces-to-the-opposite-side-while-handling-major-life-affairs.md`

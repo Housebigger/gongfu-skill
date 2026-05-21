@@ -19,7 +19,7 @@
 - `school_governance_and_crisis_response/`：43 篇
 - `school_coordination_and_organization/`：37 篇
 
-当前合计：105 篇 article-based 笔记，对应 104 篇毛文来源。
+当前合计：106 篇 article-based 笔记，对应 105 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -119,10 +119,11 @@
 - `school_coordination_and_organization/121-dont-push-the-majority-of-educable-and-cooperable-people-to-the-opposite-side-in-school-work.md`
 - `school_coordination_and_organization/122-after-a-school-breakthrough-reorganize-the-team-for-stable-education-capacity-not-one-bright-result.md`
 - `school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md`
+- `school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md`
 
 ## 110—112 官方缺口补写导航
 - `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。

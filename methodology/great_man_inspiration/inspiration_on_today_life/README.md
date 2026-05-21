@@ -17,7 +17,7 @@
   - `000-future-mao-originals-implementation-index.md`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：123 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—123 已连续对齐。
+当前合计：124 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—124 已连续对齐。
 
 ## 推荐入口
 
@@ -60,9 +60,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写最新官方编号：`123《关于情况的通报》`；官方 `110—112` 已补齐。
-- 顺序总览窗口当前显示为：`001—123` 已连续对齐完成。
-- 如果继续按官网真实顺序向下推进，下一篇应是：`124《在晋绥干部会议上的讲话》`。
+- today_life 主题当前实写最新官方编号：`124《在晋绥干部会议上的讲话》`；官方 `110—112` 已补齐。
+- 顺序总览窗口当前显示为：`001—124` 已连续对齐完成。
+- 如果继续按官网真实顺序向下推进，下一篇应是：`125《对晋绥日报编辑人员的谈话》`。
 
 ## 使用提醒
 
@@ -107,10 +107,11 @@
 - `cooperation_and_organization/121-dont-push-usable-middle-forces-to-the-opposite-side-while-handling-major-life-affairs.md`
 - `judgement_and_decision/122-dont-let-a-real-life-breakthrough-stay-a-one-time-win-reorganize-yourself-for-sustained-advance.md`
 - `judgement_and_decision/123-when-life-enters-a-new-stage-correct-the-main-deviation-first-and-dont-rush-big-moves-before-conditions-are-ripe.md`
+- `judgement_and_decision/124-dont-run-your-next-life-stage-by-heat-or-slogans-build-new-order-from-real-conditions.md`
 
 ## 110—112 官方缺口补写导航
 - `judgement_and_decision/110-when-your-second-stage-arrives-stop-defending-old-ground-and-enter-the-real-battlefield.md`
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。

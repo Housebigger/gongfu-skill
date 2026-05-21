@@ -113,13 +113,15 @@
 - [119 别在新校区和新年级一上来全面铺开，先立骨干、稳住中间层、做出样板，再波浪式扩展](school_coordination_and_organization/119-dont-roll-out-new-school-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md)
 - [120 别把一种学校管理方法套到所有场景，保护教学供给并及时纠偏](school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md)
 - [121 别把大多数可沟通、可教育、可合作的人一把推到对立面](school_coordination_and_organization/121-dont-push-the-majority-of-educable-and-cooperable-people-to-the-opposite-side-in-school-work.md)
+- [122 学校阶段突破出现后，别只为一次亮眼成绩庆功，要趁窗口期整顿队伍，把偶发成果变成稳定教育能力](school_coordination_and_organization/122-after-a-school-breakthrough-reorganize-the-team-for-stable-education-capacity-not-one-bright-result.md)
+- [123 学校进入新阶段后，先纠正最伤主线的治理偏差，不在条件未熟时抢做大整合，用结构判断和稳扎稳打把局部转机做成稳定教育胜势](school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md)
 
 ---
-统计：102篇笔记 / 5个子主题 / 覆盖001-120连续原文（共101篇原文）
+统计：104篇笔记 / 5个子主题 / 覆盖001-123连续原文（共103篇原文）
 
 ## 110—112 官方缺口补写导航
 - `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—121 连续覆盖，下一篇为 122《评西北大捷兼论解放军的新式整军运动》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。

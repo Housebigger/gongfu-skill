@@ -426,6 +426,24 @@ Current contents:
 - `inspiration_on_embedded_coding/team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/121-dont-push-the-majority-of-educable-and-cooperable-people-to-the-opposite-side-in-school-work.md`
 
+### 122《评西北大捷兼论解放军的新式整军运动》(1948-03-07)
+- `inspiration_on_today_life/judgement_and_decision/122-dont-let-a-real-life-breakthrough-stay-a-one-time-win-reorganize-yourself-for-sustained-advance.md`
+- `inspiration_on_software_development/team_process_and_quality/122-after-a-real-project-breakthrough-reorganize-the-team-for-sustained-delivery-not-just-another-heroic-push.md`
+- `inspiration_on_running_a_company/strategy_and_execution/122-after-a-real-business-breakthrough-reorganize-the-company-for-sustained-growth-not-one-rebound.md`
+- `inspiration_on_stock_investing/research_and_thesis/122-after-a-phase-shift-is-validated-reorganize-thesis-discipline-and-research-for-repeatable-investing-wins.md`
+- `inspiration_on_making_money/execution_and_delivery/122-after-a-side-hustle-breakthrough-reorganize-delivery-for-repeatable-income-not-one-surge.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/122-after-a-school-breakthrough-reorganize-the-team-for-stable-education-capacity-not-one-bright-result.md`
+
+### 123《关于情况的通报》(1948-03-20)
+- `inspiration_on_today_life/judgement_and_decision/123-when-life-enters-a-new-stage-correct-the-main-deviation-first-and-dont-rush-big-moves-before-conditions-are-ripe.md`
+- `inspiration_on_software_development/team_process_and_quality/123-correct-the-main-governance-deviation-first-and-dont-announce-a-new-stage-before-the-project-is-ready.md`
+- `inspiration_on_running_a_company/strategy_and_execution/123-correct-the-main-organizational-deviation-first-and-dont-scale-before-the-company-is-ready.md`
+- `inspiration_on_stock_investing/research_and_thesis/123-correct-the-main-thesis-deviation-first-and-dont-scale-the-bet-before-conditions-are-ripe.md`
+- `inspiration_on_making_money/execution_and_delivery/123-correct-the-main-business-deviation-first-and-dont-scale-the-side-hustle-before-it-is-ready.md`
+- `inspiration_on_embedded_coding/engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

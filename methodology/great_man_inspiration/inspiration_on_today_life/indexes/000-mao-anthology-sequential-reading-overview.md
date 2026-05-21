@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖状态：`001—121` 已连续对齐；其中 `110—112` 已完成补写，`113—121` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`122《评西北大捷兼论解放军的新式整军运动》`。
+- 当前顺序覆盖状态：`001—123` 已连续对齐；其中 `110—112` 已完成补写，`113—123` 已按官网真实编号回正并完成七主题覆盖。
+- 如果继续顺序推进，下一篇应是：`124《在晋绥干部会议上的讲话》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -469,15 +469,27 @@
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“苏联参战后的最后反攻、发动敌后力量、扩大并巩固解放区、制止内战危险和建立民主联合政府”转译为现代阶段判断方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，决定性窗口打开时不要松劲，而要集中攻坚、动员隐藏力量、巩固基本盘，并提前准备胜利后的新秩序。
 
 
-- 120《关于工商业政策》
-  - `../judgement_and_decision/120-dont-move-hard-methods-across-scenes-or-destroy-long-term-livelihood-for-short-term-benefits.md`
-  - `../../inspiration_on_software_development/team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md`
-  - `../../inspiration_on_running_a_company/strategy_and_execution/120-dont-move-old-battlefield-methods-into-company-operations-protect-production-and-correct-fast.md`
-  - `../../inspiration_on_stock_investing/risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
-  - `../../inspiration_on_making_money/execution_and_delivery/120-dont-destroy-delivery-system-for-short-term-pleasing-build-mutual-gain.md`
-  - `../../inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
-  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“不能把农村斗争方法机械搬到城市工商业、必须保护有益生产、反对片面福利破坏生产、组织生产管理委员会、领导机关要密切联系并及时纠偏、政策是一切行动的出发点”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要把旧场景硬招套进新场景，不要为了眼前局部利益毁掉长期生产系统，而要分清对象和边界，保护现金流、交付、供应链、课堂供给、本金与研究系统，并在执行中持续沟通、及时纠偏。- 121《关于民族资产阶级和开明绅士问题》
+- 122《评西北大捷兼论解放军的新式整军运动》
+  - `../judgement_and_decision/122-dont-let-a-real-life-breakthrough-stay-a-one-time-win-reorganize-yourself-for-sustained-advance.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/122-after-a-real-project-breakthrough-reorganize-the-team-for-sustained-delivery-not-just-another-heroic-push.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/122-after-a-real-business-breakthrough-reorganize-the-company-for-sustained-growth-not-one-rebound.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/122-after-a-phase-shift-is-validated-reorganize-thesis-discipline-and-research-for-repeatable-investing-wins.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/122-after-a-side-hustle-breakthrough-reorganize-delivery-for-repeatable-income-not-one-surge.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/122-after-a-school-breakthrough-reorganize-the-team-for-stable-education-capacity-not-one-bright-result.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“通过西北大捷证明阶段已变、又通过新式整军运动解释为什么胜利能从偶发突破变成连续作战能力、为什么转机出现后必须反保守、重整组织、统一纪律、训练骨干并在更大政策支持面中把内部整顿转成持续战斗力”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的当代方法，提醒不同场景下的行动者：真实突破出现后，不要把胜利继续当成少数英雄的偶发发挥，而要趁窗口期重整组织、校正节奏、恢复纪律、训练中坚、扩大支持面，把一次打穿真正变成持续推进的新阶段能力。
+
+- 123《关于情况的通报》
+  - `../judgement_and_decision/123-when-life-enters-a-new-stage-correct-the-main-deviation-first-and-dont-rush-big-moves-before-conditions-are-ripe.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/123-correct-the-main-governance-deviation-first-and-dont-announce-a-new-stage-before-the-project-is-ready.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/123-correct-the-main-organizational-deviation-first-and-dont-scale-before-the-company-is-ready.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/123-correct-the-main-thesis-deviation-first-and-dont-scale-the-bet-before-conditions-are-ripe.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/123-correct-the-main-business-deviation-first-and-dont-scale-the-side-hustle-before-it-is-ready.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“先集中纠正最伤主线的‘左’偏、再重估统一战线和建政时机、再从休整整训后的质量变化与敌我真实结构判断长期胜负，并坚持稳扎稳打不求速效”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的当代方法，提醒不同场景下的行动者：进入新阶段时，最危险的不是还有困难，而是误把局部转机当成条件已经全熟，于是跳过纠偏、分类、整合和节奏控制；真正成熟的推进，是先纠正最伤主线的偏差，再按结构质量和条件成熟度决定何时扩、怎么打、先做什么。
+
+- 121《关于民族资产阶级和开明绅士问题》
   - `../cooperation_and_organization/121-dont-push-usable-middle-forces-to-the-opposite-side-while-handling-major-life-affairs.md`
   - `../../inspiration_on_software_development/team_process_and_quality/121-dont-push-non-core-but-usable-builders-reviewers-and-allies-to-the-opposite-side.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/121-dont-treat-non-core-but-valuable-middle-forces-as-enemies-during-company-turns.md`
@@ -486,6 +498,16 @@
   - `../../inspiration_on_embedded_coding/team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/121-dont-push-the-majority-of-educable-and-cooperable-people-to-the-opposite-side-in-school-work.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“先分清谁决定局势性质、谁不是主体但仍可争取、为什么要争取其大多数孤立其少数、为什么对非核心但重要力量必须慎重处理、以及如何在团结中教育而不交出主线”转译为普通人处理关系、软件团队治理、公司转型、投资研究、副业经营、嵌入式协作和学校组织的方法，提醒不同场景下的行动者都不要把可合作、可教育、可联结的中间力量一把推到对立面，而要守住主线、稳住支持面、扩大多数、孤立少数破坏者。
+
+- 120《关于工商业政策》
+  - `../judgement_and_decision/120-dont-move-hard-methods-across-scenes-or-destroy-long-term-livelihood-for-short-term-benefits.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/120-dont-let-local-welfare-and-firefighting-justice-break-software-production-system.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/120-dont-move-old-battlefield-methods-into-company-operations-protect-production-and-correct-fast.md`
+  - `../../inspiration_on_stock_investing/risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/120-dont-destroy-delivery-system-for-short-term-pleasing-build-mutual-gain.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/120-dont-use-one-school-governance-method-for-every-scene-protect-teaching-supply-and-correct-fast.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“不能把农村斗争方法机械搬到城市工商业、必须保护有益生产、反对片面福利破坏生产、组织生产管理委员会、领导机关要密切联系并及时纠偏、政策是一切行动的出发点”转译为现代方法，提醒普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者，不要把旧场景硬招套进新场景，不要为了眼前局部利益毁掉长期生产系统，而要分清对象和边界，保护现金流、交付、供应链、课堂供给、本金与研究系统，并在执行中持续沟通、及时纠偏。
 
 - 119《新解放区土地改革要点》
   - `../cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`

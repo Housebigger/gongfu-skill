@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：771 篇
-- 当前已建立原文关联的毛文标题数：121 篇（001—121 已连续覆盖）
-  - 顺序主线：001—121 已按官网真实编号连续覆盖；110—112 已补齐；113—121 保持已完成 7/7
-  - 当前最新纳入：121《关于民族资产阶级和开明绅士问题》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`122《评西北大捷兼论解放军的新式整军运动》`
+- 当前已建立 `原文对应` 的主题转译文件：785 篇
+- 当前已建立原文关联的毛文标题数：123 篇（001—123 已连续覆盖）
+  - 顺序主线：001—123 已按官网真实编号连续覆盖；110—112 已补齐；113—123 保持已完成 7/7
+  - 当前最新纳入：123《关于情况的通报》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 顺序主线的下一篇：`124《在晋绥干部会议上的讲话》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -85,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前编号已回正并补齐：001—121 连续覆盖；下一篇是 122《评西北大捷兼论解放军的新式整军运动》
+2. 当前编号已回正并补齐：001—123 连续覆盖；下一篇是 124《在晋绥干部会议上的讲话》
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

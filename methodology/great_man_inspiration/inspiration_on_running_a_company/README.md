@@ -13,7 +13,7 @@
 - `leadership_and_talent/`：8 篇
 - `strategy_and_execution/`：89 篇
 
-当前合计：118 篇 article-based 笔记，对应 118 篇毛文来源。
+当前合计：120 篇 article-based 笔记，对应 120 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -96,6 +96,8 @@
 - `strategy_and_execution/119-dont-restructure-new-business-zones-all-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 - `strategy_and_execution/120-dont-move-old-battlefield-methods-into-company-operations-protect-production-and-correct-fast.md`
 - `strategy_and_execution/121-dont-treat-non-core-but-valuable-middle-forces-as-enemies-during-company-turns.md`
+- `strategy_and_execution/122-after-a-real-business-breakthrough-reorganize-the-company-for-sustained-growth-not-one-rebound.md`
+- `strategy_and_execution/123-correct-the-main-organizational-deviation-first-and-dont-scale-before-the-company-is-ready.md`
 - `organization_design/114-companies-need-regular-direct-problem-focused-operating-reports.md`
 - `organization_design/116-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
 - `organization_design/118-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
@@ -106,4 +108,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—121 连续覆盖，下一篇为 122《评西北大捷兼论解放军的新式整军运动》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。

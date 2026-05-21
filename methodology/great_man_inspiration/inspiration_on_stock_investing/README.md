@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：93 篇
+- `research_and_thesis/`：94 篇
 - `risk_and_position_management/`：11 篇
 - `trading_and_execution/`：4 篇
 - `indexes/`：当前预留
 
-当前合计：110 篇 article-based 笔记，对应 110 篇毛文来源。
+当前合计：112 篇 article-based 笔记，对应 112 篇毛文来源。
 
 ## 子目录速览
 
@@ -104,6 +104,8 @@
 - `research_and_thesis/119-dont-roll-out-new-thesis-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 - `risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
 - `research_and_thesis/121-dont-collapse-complex-middle-forces-into-one-enemy-label-when-building-a-thesis.md`
+- `research_and_thesis/122-after-a-phase-shift-is-validated-reorganize-thesis-discipline-and-research-for-repeatable-investing-wins.md`
+- `research_and_thesis/123-correct-the-main-thesis-deviation-first-and-dont-scale-the-bet-before-conditions-are-ripe.md`
 - `risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
 - `trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`
 
@@ -112,4 +114,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—121 连续覆盖，下一篇为 122《评西北大捷兼论解放军的新式整军运动》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。

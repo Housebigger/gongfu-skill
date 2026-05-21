@@ -17,7 +17,7 @@
   - `000-future-mao-originals-implementation-index.md`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：121 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—121 已连续对齐。
+当前合计：123 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—123 已连续对齐。
 
 ## 推荐入口
 
@@ -60,9 +60,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写最新官方编号：`121《关于民族资产阶级和开明绅士问题》`；官方 `110—112` 已补齐。
-- 顺序总览窗口当前显示为：`001—121` 已连续对齐完成。
-- 如果继续按官网真实顺序向下推进，下一篇应是：`122《评西北大捷兼论解放军的新式整军运动》`。
+- today_life 主题当前实写最新官方编号：`123《关于情况的通报》`；官方 `110—112` 已补齐。
+- 顺序总览窗口当前显示为：`001—123` 已连续对齐完成。
+- 如果继续按官网真实顺序向下推进，下一篇应是：`124《在晋绥干部会议上的讲话》`。
 
 ## 使用提醒
 
@@ -105,10 +105,12 @@
 - `cooperation_and_organization/119-dont-launch-new-life-change-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 - `judgement_and_decision/120-dont-move-hard-methods-across-scenes-or-destroy-long-term-livelihood-for-short-term-benefits.md`
 - `cooperation_and_organization/121-dont-push-usable-middle-forces-to-the-opposite-side-while-handling-major-life-affairs.md`
+- `judgement_and_decision/122-dont-let-a-real-life-breakthrough-stay-a-one-time-win-reorganize-yourself-for-sustained-advance.md`
+- `judgement_and_decision/123-when-life-enters-a-new-stage-correct-the-main-deviation-first-and-dont-rush-big-moves-before-conditions-are-ripe.md`
 
 ## 110—112 官方缺口补写导航
 - `judgement_and_decision/110-when-your-second-stage-arrives-stop-defending-old-ground-and-enter-the-real-battlefield.md`
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—121 连续覆盖，下一篇为 122《评西北大捷兼论解放军的新式整军运动》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—123 连续覆盖，下一篇为 124《在晋绥干部会议上的讲话》。

@@ -1,15 +1,15 @@
-# 未来待落实原文总索引：121《关于民族资产阶级和开明绅士问题》— X231《纪念巴黎公社的重要意义》
+# 未来待落实原文总索引：123《关于情况的通报》— X231《纪念巴黎公社的重要意义》
 
 生成日期：2026-05-21
 
 用途：
-- 这是 119《新解放区土地改革要点》之后的“未来待落实原文”防错索引；其中 121 已于 2026-05-21 完成七主题落地，后续从 122 继续。
+- 这是 119《新解放区土地改革要点》之后的“未来待落实原文”防错索引；其中 123 已于 2026-05-21 完成七主题落地，后续从 124 继续。
 - 后续顺序推进时，必须先对照本文件确认官方顺序号、分卷、分卷内序号、标题和链接，再创建主题转译文件。
 - 本文件只记录原文落实队列，不代表这些原文已经完成主题转译。完成某篇后，再由正式 README / index / sequential overview 标记实际覆盖状态。
 
 数据来源：
 - 官方目录：`https://www.marxists.org/chinese/maozedong/index.htm`
-- 解析范围：从第四卷第 32 条《 关于民族资产阶级和开明绅士问题 》开始，到“其它”第 72 条《 纪念巴黎公社的重要意义 》结束。
+- 解析范围：从第四卷第 34 条《 关于情况的通报 》开始，到“其它”第 72 条《 纪念巴黎公社的重要意义 》结束。
 - 解码规则：marxists.org 中文毛泽东目录按 GBK / GB18030 解码；不要按 UTF-8 直接解析。
 
 防错约定：
@@ -17,12 +17,12 @@
 - `防错序号` 是本文件内部连续守卫号：主文章 120—229 沿用主线编号；“其它”中的两个编号条目记为 X230 / X231，避免误写成主线 230 / 231。
 - 第四卷、第五卷中显示的 `分卷内序号` 不是仓库全局主线编号，不能拿它直接改文件名。
 - 若官网目录变动，必须重新抓取 `index.htm` 并人工核对首尾边界后再更新本文件。
-- 执行下一篇时，默认只推进 `122《评西北大捷兼论解放军的新式整军运动》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
+- 执行下一篇时，默认只推进 `124《在晋绥干部会议上的讲话》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—121。
-- 下一篇主线：122《评西北大捷兼论解放军的新式整军运动》。
-- 主文章未来仍待落实：122—229，共 108 篇；121 已完成。
+- 当前已完成连续主线：001—123。
+- 下一篇主线：124《在晋绥干部会议上的讲话》。
+- 主文章未来仍待落实：124—229，共 106 篇；123 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -39,9 +39,9 @@
 | 防错序号 | 主线编号 | 官方分卷 | 分卷内序号 | 原文标题 | 官方链接 | 备注 / 落实状态 |
 |---:|---:|---|---:|---|---|---|
 | 120 | 120 | 第四卷 第三次国内革命战争时期 | 31 | 《关于工商业政策》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480227.htm) | 已落实（2026-05-20，七主题完成） |
-| 121 | 121 | 第四卷 第三次国内革命战争时期 | 32 | 《关于民族资产阶级和开明绅士问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480301.htm) | 已落实（2026-05-21，七主题完成；下一篇从 122 开始） |
-| 122 | 122 | 第四卷 第三次国内革命战争时期 | 33 | 《评西北大捷兼论解放军的新式整军运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480307.htm) | 待落实 |
-| 123 | 123 | 第四卷 第三次国内革命战争时期 | 34 | 《关于情况的通报》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480320.htm) | 待落实 |
+| 121 | 121 | 第四卷 第三次国内革命战争时期 | 32 | 《关于民族资产阶级和开明绅士问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480301.htm) | 已落实（2026-05-21，七主题完成） |
+| 122 | 122 | 第四卷 第三次国内革命战争时期 | 33 | 《评西北大捷兼论解放军的新式整军运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480307.htm) | 已落实（2026-05-21，七主题完成；下一篇从 124 开始） |
+| 123 | 123 | 第四卷 第三次国内革命战争时期 | 34 | 《关于情况的通报》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480320.htm) | 已落实（2026-05-21，七主题完成；下一篇从 124 开始） |
 | 124 | 124 | 第四卷 第三次国内革命战争时期 | 35 | 《在晋绥干部会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480401.htm) | 待落实 |
 | 125 | 125 | 第四卷 第三次国内革命战争时期 | 36 | 《对晋绥日报编辑人员的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480402.htm) | 待落实 |
 | 126 | 126 | 第四卷 第三次国内革命战争时期 | 37 | 《再克洛阳后给洛阳前线指挥部的电报》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480408.htm) | 待落实 |
@@ -168,15 +168,15 @@
 {
   "source_index_url": "https://www.marxists.org/chinese/maozedong/index.htm",
   "generated_date": "2026-05-21",
-  "completed_mainline_before_this_file": "001-121",
+  "completed_mainline_before_this_file": "001-123",
   "next_mainline": {
-    "number": "122",
-    "title": "评西北大捷兼论解放军的新式整军运动"
+    "number": "124",
+    "title": "在晋绥干部会议上的讲话"
   },
   "main_future_range": {
-    "start": "122",
+    "start": "124",
     "end": "229",
-    "count": 108
+    "count": 106
   },
   "extra_guard_range": {
     "start": "X230",

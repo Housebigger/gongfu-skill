@@ -933,3 +933,23 @@
 - 为什么嵌入式项目不能只认核心写手，而要把测试、制造、FAE、现场和供应链接口这些中间承担者稳稳留在交付主线周围
 - 为什么很多非核心角色单点战斗力不最强，却承担着研发、现场、制造与供应链之间的联结价值
 - 为什么把这些中间力量粗暴推出系统，看似在维护核心权威，实则是在主动削弱项目自己的支持面和交付闭环
+
+### 62. 从《评西北大捷兼论解放军的新式整军运动》看嵌入式团队协作：关键战役打穿后，要趁窗口期整军，把一次突围变成连续交付能力
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
+
+核心主题：
+- 为什么嵌入式项目在关键战役打穿后，不能继续把胜利理解成少数主将的偶发硬扛，而要及时判断项目是否已经进入新阶段
+- 为什么真正决定后劲的不是又赢一次，而是能否趁窗口期把版本纪律、日志纪律、现场反馈、训练机制和角色协同重新编成系统
+- 为什么测试、制造、质量、供应商、FAE 与客户现场这些支持面必须在整军期被重新组织起来，否则一次突破仍会因为知识断点、供给断点和协作断点而回落
+
+### 63. 从《关于情况的通报》看嵌入式工程：系统进入新阶段后，先纠正最伤主线的工程偏差，不在条件未熟时抢做大升级
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
+
+核心主题：
+- 为什么嵌入式项目刚出现阶段转机时，最危险的不是外部还难，而是内部仍按旧救火偏差乱跑却已经急着喊全面升级
+- 为什么判断项目强弱不能只看人头、版本数和表面产能，而要看受损史、协作质量、供给条件和后续恢复趋势
+- 为什么真正成熟的新阶段推进，必须先纠偏、再整合、后升级，用稳扎稳打把局部突破变成持续交付胜势

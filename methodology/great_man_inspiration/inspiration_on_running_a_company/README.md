@@ -9,11 +9,11 @@
 
 ## 当前实际结构
 
-- `organization_design/`：20 篇
-- `leadership_and_talent/`：8 篇
-- `strategy_and_execution/`：89 篇
+- `organization_design/`：21 篇
+- `leadership_and_talent/`：9 篇
+- `strategy_and_execution/`：92 篇
 
-当前合计：121 篇 article-based 笔记，对应 121 篇毛文来源。
+当前合计：122 篇 article-based 笔记，对应 122 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -103,10 +103,11 @@
 - `organization_design/116-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
 - `organization_design/118-dont-let-extreme-company-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 - `leadership_and_talent/115-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
+- `leadership_and_talent/125-dont-keep-company-direction-inside-management.md`
 
 ## 110—112 官方缺口补写导航
 - `strategy_and_execution/110-when-business-enters-its-second-stage-move-main-force-from-defense-to-market-battlefields.md`
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。

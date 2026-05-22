@@ -14,12 +14,12 @@
 ## 当前实际结构
 
 - `student_understanding_and_guidance/`：5 篇
-- `classroom_and_teaching_design/`：7 篇
+- `classroom_and_teaching_design/`：8 篇
 - `teacher_growth_and_backbone/`：12 篇
 - `school_governance_and_crisis_response/`：43 篇
-- `school_coordination_and_organization/`：37 篇
+- `school_coordination_and_organization/`：39 篇
 
-当前合计：106 篇 article-based 笔记，对应 105 篇毛文来源。
+当前合计：107 篇 article-based 笔记，对应 106 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -120,10 +120,11 @@
 - `school_coordination_and_organization/122-after-a-school-breakthrough-reorganize-the-team-for-stable-education-capacity-not-one-bright-result.md`
 - `school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md`
 - `school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md`
+- `classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md`
 
 ## 110—112 官方缺口补写导航
 - `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。

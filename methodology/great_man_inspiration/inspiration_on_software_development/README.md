@@ -19,13 +19,13 @@
 ## 当前实际结构
 
 - `product_strategy/`：4 篇
-- `user_research_and_requirements/`：7 篇
+- `user_research_and_requirements/`：8 篇
 - `architecture_and_engineering/`：2 篇
 - `iteration_and_delivery/`：28 篇
-- `team_process_and_quality/`：76 篇
+- `team_process_and_quality/`：79 篇
 - `indexes/`：当前仅作预留入口
 
-当前合计：120 篇 article-based 笔记，对应 120 篇毛文来源。
+当前合计：121 篇 article-based 笔记，对应 121 篇毛文来源。
 
 ## 推荐入口
 
@@ -121,10 +121,11 @@
 - `team_process_and_quality/122-after-a-real-project-breakthrough-reorganize-the-team-for-sustained-delivery-not-just-another-heroic-push.md`
 - `team_process_and_quality/123-correct-the-main-governance-deviation-first-and-dont-announce-a-new-stage-before-the-project-is-ready.md`
 - `team_process_and_quality/124-software-teams-must-build-new-order-from-real-conditions-not-slogans-or-governance-heat.md`
+- `user_research_and_requirements/125-dont-let-product-direction-and-requirements-stay-inside-meetings.md`
 
 ## 110—112 官方缺口补写导航
 - `iteration_and_delivery/110-when-software-enters-its-second-stage-move-main-force-from-defense-to-real-user-battlefields.md`
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。

@@ -7,8 +7,8 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—124 已连续对齐完成，下一篇为 125《对晋绥日报编辑人员的谈话》。
-- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 124《在晋绥干部会议上的讲话》至 X231《纪念巴黎公社的重要意义》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—125 已连续对齐完成，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。
+- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 126《再克洛阳后给洛阳前线指挥部的电报》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 124（001—124 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 792 |
-| 顺序学习已连续覆盖范围 | 001—124 |
-| 顺序覆盖段标题核对结果 | 001—124 与 marxists.org 标题一致；110—112 已补齐；113—124 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—124 已连续覆盖 |
-| 顺序主线的下一篇 | 125《对晋绥日报编辑人员的谈话》 |
+| 当前已建立原文关联的毛文标题数 | 125（001—125 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 799 |
+| 顺序学习已连续覆盖范围 | 001—125 |
+| 顺序覆盖段标题核对结果 | 001—125 与 marxists.org 标题一致；110—112 已补齐；113—125 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—125 已连续覆盖 |
+| 顺序主线的下一篇 | 126《再克洛阳后给洛阳前线指挥部的电报》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—124 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—125 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -158,11 +158,12 @@
 | 122 | 《评西北大捷兼论解放军的新式整军运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480307.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 123 | 《关于情况的通报》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480320.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 124 | 《在晋绥干部会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480401.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 125 | 《对晋绥日报编辑人员的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480402.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—124 顺序主线已连续建立关联        [DONE]
+001—125 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -178,7 +179,8 @@
 122 《评西北大捷兼论解放军的新式整军运动》 [DONE: 7/7]
 123 《关于情况的通报》 [DONE: 7/7]
 124 《在晋绥干部会议上的讲话》 [DONE: 7/7]
-125 《对晋绥日报编辑人员的谈话》 [NEXT]
+125 《对晋绥日报编辑人员的谈话》 [DONE: 7/7]
+126 《再克洛阳后给洛阳前线指挥部的电报》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -322,6 +324,7 @@
 | 122 | 《评西北大捷兼论解放军的新式整军运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480307.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/122-dont-let-a-real-life-breakthrough-stay-a-one-time-win-reorganize-yourself-for-sustained-advance.md) | [SD](./inspiration_on_software_development/team_process_and_quality/122-after-a-real-project-breakthrough-reorganize-the-team-for-sustained-delivery-not-just-another-heroic-push.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/122-after-a-real-business-breakthrough-reorganize-the-company-for-sustained-growth-not-one-rebound.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/122-after-a-phase-shift-is-validated-reorganize-thesis-discipline-and-research-for-repeatable-investing-wins.md) | [MM](./inspiration_on_making_money/execution_and_delivery/122-after-a-side-hustle-breakthrough-reorganize-delivery-for-repeatable-income-not-one-surge.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/122-after-a-school-breakthrough-reorganize-the-team-for-stable-education-capacity-not-one-bright-result.md) | 7 |
 | 123 | 《关于情况的通报》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480320.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/123-when-life-enters-a-new-stage-correct-the-main-deviation-first-and-dont-rush-big-moves-before-conditions-are-ripe.md) | [SD](./inspiration_on_software_development/team_process_and_quality/123-correct-the-main-governance-deviation-first-and-dont-announce-a-new-stage-before-the-project-is-ready.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/123-correct-the-main-organizational-deviation-first-and-dont-scale-before-the-company-is-ready.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/123-correct-the-main-thesis-deviation-first-and-dont-scale-the-bet-before-conditions-are-ripe.md) | [MM](./inspiration_on_making_money/execution_and_delivery/123-correct-the-main-business-deviation-first-and-dont-scale-the-side-hustle-before-it-is-ready.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md) | 7 |
 | 124 | 《在晋绥干部会议上的讲话》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480401.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/124-dont-run-your-next-life-stage-by-heat-or-slogans-build-new-order-from-real-conditions.md) | [SD](./inspiration_on_software_development/team_process_and_quality/124-software-teams-must-build-new-order-from-real-conditions-not-slogans-or-governance-heat.md) | [RC](./inspiration_on_running_a_company/organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/124-dont-upgrade-a-market-thesis-from-emotion-build-it-from-real-conditions-and-productive-facts.md) | [MM](./inspiration_on_making_money/execution_and_delivery/124-side-hustles-grow-by-correcting-style-building-feedback-and-returning-to-sustainable-delivery.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md) | 7 |
+| 125 | 《对晋绥日报编辑人员的谈话》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480402.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/125-dont-run-shared-affairs-as-a-black-box.md) | [SD](./inspiration_on_software_development/user_research_and_requirements/125-dont-let-product-direction-and-requirements-stay-inside-meetings.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/125-dont-keep-company-direction-inside-management.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/125-a-thesis-must-be-explainable-and-correctable.md) | [MM](./inspiration_on_making_money/execution_and_delivery/125-dont-run-a-side-hustle-on-brain-only-assumptions.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md) | [ED](./inspiration_on_educational_undertakings/classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1743,10 +1746,22 @@
   - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md`
 
+## 125 《对晋绥日报编辑人员的谈话》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 36 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480402.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/cooperation_and_organization/125-dont-run-shared-affairs-as-a-black-box.md`
+  - SD: `inspiration_on_software_development/user_research_and_requirements/125-dont-let-product-direction-and-requirements-stay-inside-meetings.md`
+  - RC: `inspiration_on_running_a_company/leadership_and_talent/125-dont-keep-company-direction-inside-management.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/125-a-thesis-must-be-explainable-and-correctable.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/125-dont-run-a-side-hustle-on-brain-only-assumptions.md`
+  - EC: `inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
+  - ED: `inspiration_on_educational_undertakings/classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`125《对晋绥日报编辑人员的谈话》`。
+- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`126《再克洛阳后给洛阳前线指挥部的电报》`。
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

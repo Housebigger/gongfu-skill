@@ -34,6 +34,7 @@ This folder focuses on:
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `leadership_and_talent/115-leadership-is-earned-by-winning-together-sharing-gains-and-aligning-direction.md`
+- `leadership_and_talent/125-dont-keep-company-direction-inside-management.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 - `strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
@@ -196,4 +197,4 @@ This folder focuses on:
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。

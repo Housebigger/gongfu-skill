@@ -179,5 +179,6 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
 - `team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
 - `team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
+- `team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。

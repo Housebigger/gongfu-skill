@@ -18,12 +18,12 @@
 ## 当前实际结构
 
 - `market_structure_and_cycles/`：1 篇
-- `research_and_thesis/`：94 篇
+- `research_and_thesis/`：98 篇
 - `risk_and_position_management/`：11 篇
 - `trading_and_execution/`：4 篇
 - `indexes/`：当前预留
 
-当前合计：113 篇 article-based 笔记，对应 113 篇毛文来源。
+当前合计：114 篇 article-based 笔记，对应 114 篇毛文来源。
 
 ## 子目录速览
 
@@ -107,6 +107,7 @@
 - `research_and_thesis/122-after-a-phase-shift-is-validated-reorganize-thesis-discipline-and-research-for-repeatable-investing-wins.md`
 - `research_and_thesis/123-correct-the-main-thesis-deviation-first-and-dont-scale-the-bet-before-conditions-are-ripe.md`
 - `research_and_thesis/124-dont-upgrade-a-market-thesis-from-emotion-build-it-from-real-conditions-and-productive-facts.md`
+- `research_and_thesis/125-a-thesis-must-be-explainable-and-correctable.md`
 - `risk_and_position_management/108-under-hard-market-pressure-dont-rush-into-the-scripted-route-keep-maneuvering-until-supply-exhausts.md`
 - `trading_and_execution/103-investors-should-stop-fighting-every-position-and-concentrate-on-the-highest-conviction-target.md`
 
@@ -115,4 +116,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。

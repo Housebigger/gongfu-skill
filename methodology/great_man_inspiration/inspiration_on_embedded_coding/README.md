@@ -25,12 +25,12 @@
   - 面向长周期工程、根据地、主战场、阶段判断、总动员，以及受创后的最坏准备、转机判断与困难阶段主动缩编
 - `system_analysis_and_architecture/`：1 篇
   - 面向主次矛盾、故障排序与系统结构判断
-- `team_process_and_knowledge/`：56 篇
+- `team_process_and_knowledge/`：59 篇
   - 面向协作边界、知识沉淀、纪律、保护建设者、复杂协作治理
 - `indexes/`
   - `indexes/embedded-engineering-thought-series-index.md`
 
-当前合计：96 篇 article-based 笔记，对应 96 篇毛文来源。
+当前合计：97 篇 article-based 笔记，对应 97 篇毛文来源。
 
 ## 推荐入口
 
@@ -117,6 +117,7 @@
 - `team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
 - `team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
 - `team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
+- `team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
 - `team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
 - `team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 
@@ -125,4 +126,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。

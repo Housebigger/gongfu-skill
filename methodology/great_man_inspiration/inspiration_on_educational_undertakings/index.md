@@ -20,6 +20,7 @@
 - [048 很多老师不是没有教学目标，而是一直没把真正承重的学生主力、会带动同伴的骨干、外部教育帮助和反馈循环组织起来](classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md)
 - [066 别只按老师自我表达和少数尖子生的理解来上课，要进入真实学生、学习学生语言，并从他们的真实基础往上教](classroom_and_teaching_design/066-serve-real-students-learn-their-language-and-build-teaching-from-their-basis.md)
 - [079 别在学生还没自愿前强推高级教学，要从真实需要、旧基础和可接受入口里建立教育统一战线](classroom_and_teaching_design/079-dont-force-advanced-teaching-before-students-are-ready-build-from-real-needs-and-voluntary-learning.md)
+- [125 别把道理只讲给老师自己听懂，要讲到学生真能理解、愿意行动，还得先向学生的真实语言和困惑学习](classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md)
 
 ### teacher_growth_and_backbone（教师成长与骨干精神）
 - [015 争取广泛支持但不丢失教学主线](teacher_growth_and_backbone/015-seek-broad-support-without-losing-teaching-mainline.md)
@@ -118,11 +119,11 @@
 - [124 学校的新阶段不能靠一刀切运动式整顿硬推出来，要按真实校情纠偏并把新的协同秩序建起来](school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md)
 
 ---
-统计：105篇笔记 / 5个子主题 / 覆盖001-124连续原文（共104篇原文）
+统计：107篇笔记 / 5个子主题 / 覆盖001-125连续原文（共105篇原文）
 
 ## 110—112 官方缺口补写导航
 - `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—124 连续覆盖，下一篇为 125《对晋绥日报编辑人员的谈话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。

@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖状态：`001—124` 已连续对齐；其中 `110—112` 已完成补写，`113—124` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`125《对晋绥日报编辑人员的谈话》`。
+- 当前顺序覆盖状态：`001—125` 已连续对齐；其中 `110—112` 已完成补写，`113—125` 已按官网真实编号回正并完成七主题覆盖。
+- 如果继续顺序推进，下一篇应是：`126《再克洛阳后给洛阳前线指挥部的电报》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -497,6 +497,16 @@
   - `../../inspiration_on_embedded_coding/team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“反对无根据的主观主义和命令主义，强调一切从实际情况出发、通过整风纠偏、调查研究、代表性协商、生产恢复和负担调节去建设新秩序”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的当代方法，提醒不同场景下的行动者：真正的新阶段，不是靠热情、口号和运动式推进硬推出来，而是先回到真实条件，纠正作风偏差，建立能听见一线声音的反馈结构，保护生产与供给，再把局部起势慢慢做成可持续的新秩序。
+
+- 125《对晋绥日报编辑人员的谈话》
+  - `../cooperation_and_organization/125-dont-run-shared-affairs-as-a-black-box.md`
+  - `../../inspiration_on_software_development/user_research_and_requirements/125-dont-let-product-direction-and-requirements-stay-inside-meetings.md`
+  - `../../inspiration_on_running_a_company/leadership_and_talent/125-dont-keep-company-direction-inside-management.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/125-a-thesis-must-be-explainable-and-correctable.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/125-dont-run-a-side-hustle-on-brain-only-assumptions.md`
+  - `../../inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
+  - `../../inspiration_on_educational_undertakings/classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“政策和任务不能只停在少数领导者那里，必须讲给群众听得懂、让群众掌握，同时宣传者必须向群众学习，既反对黑箱式领导也反对尾巴主义，并在纠偏后保持鲜明和战斗性”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的当代方法，提醒不同场景下的行动者：真正成熟的共同事务，不是少数核心先想明白再让多数人被动配合，而是把方向、规则、方法和边界讲到真实承担者听得懂、能执行、能反馈、能修正，并持续从一线材料与共同经验中把自己教育出来。
 
 
 - 121《关于民族资产阶级和开明绅士问题》

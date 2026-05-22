@@ -452,6 +452,15 @@ Current contents:
 - `inspiration_on_embedded_coding/team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md`
 
+### 125《对晋绥日报编辑人员的谈话》(1948-04-02)
+- `inspiration_on_today_life/cooperation_and_organization/125-dont-run-shared-affairs-as-a-black-box.md`
+- `inspiration_on_software_development/user_research_and_requirements/125-dont-let-product-direction-and-requirements-stay-inside-meetings.md`
+- `inspiration_on_running_a_company/leadership_and_talent/125-dont-keep-company-direction-inside-management.md`
+- `inspiration_on_stock_investing/research_and_thesis/125-a-thesis-must-be-explainable-and-correctable.md`
+- `inspiration_on_making_money/execution_and_delivery/125-dont-run-a-side-hustle-on-brain-only-assumptions.md`
+- `inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
+- `inspiration_on_educational_undertakings/classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md`
+
 
 ## Naming convention
 

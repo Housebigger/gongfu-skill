@@ -190,6 +190,7 @@ Purpose:
 - how investors avoid both market defeatism and quick-win fantasy by using stage judgment, long positioning, local fast decisions, and continued verification to turn weak situations into winnable ones
 - how investors shrink the investment machine in hard times, protect core capital force, and keep the account small enough to survive and strike again
 - `risk_and_position_management/120-dont-apply-crisis-playbook-mechanically-protect-capital-and-research-system.md`
+- `risk_and_position_management/126-dont-price-a-new-takeover-story-as-an-instant-turnaround-first-classify-assets-and-protect-cashflow.md`
 
 ### trading_and_execution
 - `trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
@@ -213,4 +214,4 @@ If the note is mainly about building new active income sources, place it under `
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。

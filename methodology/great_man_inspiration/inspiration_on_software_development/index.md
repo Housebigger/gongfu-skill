@@ -89,6 +89,7 @@ Purpose:
 - `iteration_and_delivery/108-under-hard-software-pressure-dont-rush-into-the-opponents-route-keep-maneuvering-and-cut-dependencies.md`
 - `iteration_and_delivery/117-dont-use-the-same-hard-software-method-in-every-project-zone-classify-maturity-and-advance-by-stage.md`
 - `iteration_and_delivery/119-dont-roll-out-new-software-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+- `iteration_and_delivery/126-when-taking-over-a-legacy-codebase-first-classify-systems-keep-services-running-and-dont-launch-rewrite-campaigns.md`
 Purpose:
 - how software teams recognize when a project is nearing a new upsurge and stop running it like pure defense by widening real support, upgrading key engineering arms, and hardening supply lines for the next stage
 - how software teams use release victory windows to concentrate engineering force, clear hidden dependencies, protect release discipline, and prepare post-launch order
@@ -251,4 +252,4 @@ When a future note mainly serves app development, mini program development, or g
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。

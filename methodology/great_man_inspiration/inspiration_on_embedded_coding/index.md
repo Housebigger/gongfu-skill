@@ -59,6 +59,7 @@ Focus:
 - `engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 - `engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
 - `engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
+- `engineering_strategy/126-when-taking-over-an-embedded-project-first-classify-assets-keep-field-supply-running-and-plan-long.md`
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -181,4 +182,4 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
 - `team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。

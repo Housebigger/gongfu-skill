@@ -117,13 +117,14 @@
 - [122 学校阶段突破出现后，别只为一次亮眼成绩庆功，要趁窗口期整顿队伍，把偶发成果变成稳定教育能力](school_coordination_and_organization/122-after-a-school-breakthrough-reorganize-the-team-for-stable-education-capacity-not-one-bright-result.md)
 - [123 学校进入新阶段后，先纠正最伤主线的治理偏差，不在条件未熟时抢做大整合，用结构判断和稳扎稳打把局部转机做成稳定教育胜势](school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md)
 - [124 学校的新阶段不能靠一刀切运动式整顿硬推出来，要按真实校情纠偏并把新的协同秩序建起来](school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md)
+- [126 接手学校、年级或班级新局面时，先分类、保教学、稳供给，别让外围情绪和福利口号先把秩序搞坏](school_coordination_and_organization/126-when-taking-over-a-school-or-grade-first-classify-people-protect-teaching-supply-and-plan-long.md)
 
 ---
-统计：107篇笔记 / 5个子主题 / 覆盖001-125连续原文（共105篇原文）
+统计：108篇笔记 / 5个子主题 / 覆盖001-126连续原文（共106篇原文）
 
 ## 110—112 官方缺口补写导航
 - `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。

@@ -461,6 +461,15 @@ Current contents:
 - `inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
 - `inspiration_on_educational_undertakings/classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md`
 
+### 126《再克洛阳后给洛阳前线指挥部的电报》(1948-04-08)
+- `inspiration_on_today_life/cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`
+- `inspiration_on_software_development/iteration_and_delivery/126-when-taking-over-a-legacy-codebase-first-classify-systems-keep-services-running-and-dont-launch-rewrite-campaigns.md`
+- `inspiration_on_running_a_company/strategy_and_execution/126-when-taking-over-a-new-business-unit-first-classify-assets-keep-operations-running-and-plan-long.md`
+- `inspiration_on_stock_investing/risk_and_position_management/126-dont-price-a-new-takeover-story-as-an-instant-turnaround-first-classify-assets-and-protect-cashflow.md`
+- `inspiration_on_making_money/execution_and_delivery/126-when-taking-over-a-side-hustle-order-flow-first-classify-clients-protect-cashflow-and-plan-long.md`
+- `inspiration_on_embedded_coding/engineering_strategy/126-when-taking-over-an-embedded-project-first-classify-assets-keep-field-supply-running-and-plan-long.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/126-when-taking-over-a-school-or-grade-first-classify-people-protect-teaching-supply-and-plan-long.md`
+
 
 ## Naming convention
 

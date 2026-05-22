@@ -172,10 +172,11 @@ Additional focus:
 - `execution_and_delivery/123-correct-the-main-business-deviation-first-and-dont-scale-the-side-hustle-before-it-is-ready.md`
 - `execution_and_delivery/124-side-hustles-grow-by-correcting-style-building-feedback-and-returning-to-sustainable-delivery.md`
 - `execution_and_delivery/125-dont-run-a-side-hustle-on-brain-only-assumptions.md`
+- `execution_and_delivery/126-when-taking-over-a-side-hustle-order-flow-first-classify-clients-protect-cashflow-and-plan-long.md`
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—125 连续覆盖，下一篇为 126《再克洛阳后给洛阳前线指挥部的电报》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。

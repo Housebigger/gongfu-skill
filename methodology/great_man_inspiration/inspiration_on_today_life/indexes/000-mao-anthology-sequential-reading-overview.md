@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖状态：`001—125` 已连续对齐；其中 `110—112` 已完成补写，`113—125` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`126《再克洛阳后给洛阳前线指挥部的电报》`。
+- 当前顺序覆盖状态：`001—126` 已连续对齐；其中 `110—112` 已完成补写，`113—126` 已按官网真实编号回正并完成七主题覆盖。
+- 如果继续顺序推进，下一篇应是：`127《新解放区农村工作的策略问题》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -507,6 +507,16 @@
   - `../../inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
   - `../../inspiration_on_educational_undertakings/classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“政策和任务不能只停在少数领导者那里，必须讲给群众听得懂、让群众掌握，同时宣传者必须向群众学习，既反对黑箱式领导也反对尾巴主义，并在纠偏后保持鲜明和战斗性”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的当代方法，提醒不同场景下的行动者：真正成熟的共同事务，不是少数核心先想明白再让多数人被动配合，而是把方向、规则、方法和边界讲到真实承担者听得懂、能执行、能反馈、能修正，并持续从一线材料与共同经验中把自己教育出来。
+
+- 126《再克洛阳后给洛阳前线指挥部的电报》
+  - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/126-when-taking-over-a-legacy-codebase-first-classify-systems-keep-services-running-and-dont-launch-rewrite-campaigns.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/126-when-taking-over-a-new-business-unit-first-classify-assets-keep-operations-running-and-plan-long.md`
+  - `../../inspiration_on_stock_investing/risk_and_position_management/126-dont-price-a-new-takeover-story-as-an-instant-turnaround-first-classify-assets-and-protect-cashflow.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/126-when-taking-over-a-side-hustle-order-flow-first-classify-clients-protect-cashflow-and-plan-long.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/126-when-taking-over-an-embedded-project-first-classify-assets-keep-field-supply-running-and-plan-long.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/126-when-taking-over-a-school-or-grade-first-classify-people-protect-teaching-supply-and-plan-long.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“接手新局面时只打主要破坏点、细分类别、先稳营业与供给、禁止外围情绪性清算、不要急着许福利和大改善、抓住命门供给并作长期打算”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的接手治理方法，提醒不同场景下的行动者：真正成熟的开局不是大清算，也不是大示好，而是先分类、先托管、先稳供给，再在长期规划里逐步接管、纠偏和升级。
 
 
 - 121《关于民族资产阶级和开明绅士问题》

@@ -1,6 +1,6 @@
 # 教育从业者启发 — 导航索引
 
-> 来源：毛泽东选集学习笔记（001-120篇顺序学习与回顾筛选）
+> 来源：毛泽东选集学习笔记（001-127篇顺序学习与回顾筛选）
 > 定位：为体制内中学教师提供可落地的方法论启发
 
 ## 子主题目录
@@ -118,13 +118,14 @@
 - [123 学校进入新阶段后，先纠正最伤主线的治理偏差，不在条件未熟时抢做大整合，用结构判断和稳扎稳打把局部转机做成稳定教育胜势](school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md)
 - [124 学校的新阶段不能靠一刀切运动式整顿硬推出来，要按真实校情纠偏并把新的协同秩序建起来](school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md)
 - [126 接手学校、年级或班级新局面时，先分类、保教学、稳供给，别让外围情绪和福利口号先把秩序搞坏](school_coordination_and_organization/126-when-taking-over-a-school-or-grade-first-classify-people-protect-teaching-supply-and-plan-long.md)
+- [127 学校进入新局后，别跳过必要过渡阶段；先让多数承担者得到实益，稳住课堂、秩序与支持链，再等条件成熟深推重排](school_coordination_and_organization/127-dont-skip-the-necessary-transition-stage-in-a-new-school-zone.md)
 
 ---
-统计：108篇笔记 / 5个子主题 / 覆盖001-126连续原文（共106篇原文）
+统计：109篇笔记 / 5个子主题 / 覆盖001-127连续原文（共108篇原文）
 
 ## 110—112 官方缺口补写导航
 - `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 128《一九四八年的土地改革工作和整党工作》。

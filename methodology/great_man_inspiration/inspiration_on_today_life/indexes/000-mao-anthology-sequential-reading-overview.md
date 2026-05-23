@@ -384,8 +384,8 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖状态：`001—126` 已连续对齐；其中 `110—112` 已完成补写，`113—126` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`127《新解放区农村工作的策略问题》`。
+- 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
+- 如果继续顺序推进，下一篇应是：`128《一九四八年的土地改革工作和整党工作》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -507,6 +507,16 @@
   - `../../inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
   - `../../inspiration_on_educational_undertakings/classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“政策和任务不能只停在少数领导者那里，必须讲给群众听得懂、让群众掌握，同时宣传者必须向群众学习，既反对黑箱式领导也反对尾巴主义，并在纠偏后保持鲜明和战斗性”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的当代方法，提醒不同场景下的行动者：真正成熟的共同事务，不是少数核心先想明白再让多数人被动配合，而是把方向、规则、方法和边界讲到真实承担者听得懂、能执行、能反馈、能修正，并持续从一线材料与共同经验中把自己教育出来。
+
+- 127《新解放区农村工作的策略问题》
+  - `../judgement_and_decision/127-dont-skip-the-necessary-transition-stage-in-a-new-life-zone.md`
+  - `../../inspiration_on_software_development/team_process_and_quality/127-dont-skip-the-necessary-transition-stage-in-a-new-project-zone.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/127-dont-skip-the-necessary-transition-stage-in-a-new-business-zone.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/127-dont-skip-the-necessary-transition-stage-in-a-new-thesis-zone.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/127-dont-skip-the-necessary-transition-stage-in-a-new-side-hustle-zone.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/127-dont-skip-the-necessary-transition-stage-in-a-new-engineering-zone.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/127-dont-skip-the-necessary-transition-stage-in-a-new-school-zone.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“新解放区不能跳过必要过渡阶段，先用减租减息、合理负担和对主要敌对分子的有限打击让大多数承担者得到实益、稳住秩序与资源，再等待环境成熟进入更深重排”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的新局治理方法，提醒不同场景下的行动者：真正成熟的推进不是刚开局就全面清算和一步到位，而是先让多数人得到真实改善，先压住主要破坏点，先守住供给、秩序和支持面，再在条件成熟时推进更深层改革。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

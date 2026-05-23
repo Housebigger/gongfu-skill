@@ -116,6 +116,7 @@ Purpose:
 - `research_and_thesis/123-correct-the-main-thesis-deviation-first-and-dont-scale-the-bet-before-conditions-are-ripe.md`
 - `research_and_thesis/124-dont-upgrade-a-market-thesis-from-emotion-build-it-from-real-conditions-and-productive-facts.md`
 - `research_and_thesis/125-a-thesis-must-be-explainable-and-correctable.md`
+- `research_and_thesis/127-dont-skip-the-necessary-transition-stage-in-a-new-thesis-zone.md`
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism
@@ -214,4 +215,4 @@ If the note is mainly about building new active income sources, place it under `
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 128《一九四八年的土地改革工作和整党工作》。

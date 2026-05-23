@@ -19,7 +19,7 @@
 - `school_governance_and_crisis_response/`：43 篇
 - `school_coordination_and_organization/`：39 篇
 
-当前合计：108 篇 article-based 笔记，对应 107 篇毛文来源。
+当前合计：109 篇 article-based 笔记，对应 108 篇毛文来源。
 
 说明：
 - 这里有 1 篇毛文在教育主题下产生了 2 篇不同用途的转译，因此“文件数”会比“来源毛文数”多 1
@@ -121,6 +121,7 @@
 - `school_coordination_and_organization/123-correct-the-main-school-governance-deviation-first-and-dont-scale-before-the-school-is-ready.md`
 - `school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md`
 - `school_coordination_and_organization/126-when-taking-over-a-school-or-grade-first-classify-people-protect-teaching-supply-and-plan-long.md`
+- `school_coordination_and_organization/127-dont-skip-the-necessary-transition-stage-in-a-new-school-zone.md`
 - `classroom_and_teaching_design/125-teaching-does-not-count-if-only-the-teacher-understands.md`
 
 ## 110—112 官方缺口补写导航
@@ -128,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 128《一九四八年的土地改革工作和整党工作》。

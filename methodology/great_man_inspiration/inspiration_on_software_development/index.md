@@ -235,6 +235,7 @@ Purpose:
 - `team_process_and_quality/122-after-a-real-project-breakthrough-reorganize-the-team-for-sustained-delivery-not-just-another-heroic-push.md`
 - `team_process_and_quality/123-correct-the-main-governance-deviation-first-and-dont-announce-a-new-stage-before-the-project-is-ready.md`
 - `team_process_and_quality/124-software-teams-must-build-new-order-from-real-conditions-not-slogans-or-governance-heat.md`
+- `team_process_and_quality/127-dont-skip-the-necessary-transition-stage-in-a-new-project-zone.md`
 ### indexes
 Reserved for future series indexes and overview notes.
 
@@ -252,4 +253,4 @@ When a future note mainly serves app development, mini program development, or g
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 128《一九四八年的土地改革工作和整党工作》。

@@ -13,7 +13,7 @@
 - `leadership_and_talent/`：9 篇
 - `strategy_and_execution/`：92 篇
 
-当前合计：123 篇 article-based 笔记，对应 123 篇毛文来源。
+当前合计：124 篇 article-based 笔记，对应 124 篇毛文来源。
 
 说明：
 - 早期 README 里把这里描述成“reserved theme”，但当前仓库实际已经是成熟主题，内容覆盖已相当完整。
@@ -99,6 +99,7 @@
 - `strategy_and_execution/122-after-a-real-business-breakthrough-reorganize-the-company-for-sustained-growth-not-one-rebound.md`
 - `strategy_and_execution/123-correct-the-main-organizational-deviation-first-and-dont-scale-before-the-company-is-ready.md`
 - `strategy_and_execution/126-when-taking-over-a-new-business-unit-first-classify-assets-keep-operations-running-and-plan-long.md`
+- `strategy_and_execution/127-dont-skip-the-necessary-transition-stage-in-a-new-business-zone.md`
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 - `organization_design/114-companies-need-regular-direct-problem-focused-operating-reports.md`
 - `organization_design/116-companies-get-stronger-when-real-operators-can-speak-help-decide-and-correct.md`
@@ -111,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 128《一九四八年的土地改革工作和整党工作》。

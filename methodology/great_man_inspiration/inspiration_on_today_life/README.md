@@ -17,7 +17,7 @@
   - `000-future-mao-originals-implementation-index.md`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：126 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—126 已连续对齐。
+当前合计：127 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—127 已连续对齐。
 
 ## 推荐入口
 
@@ -60,9 +60,9 @@
 
 ## 当前进度说明
 
-- today_life 主题当前实写最新官方编号：`126《再克洛阳后给洛阳前线指挥部的电报》`；官方 `110—112` 已补齐。
-- 顺序总览窗口当前显示为：`001—126` 已连续对齐完成。
-- 如果继续按官网真实顺序向下推进，下一篇应是：`127《新解放区农村工作的策略问题》`。
+- today_life 主题当前实写最新官方编号：`127《新解放区农村工作的策略问题》`；官方 `110—112` 已补齐。
+- 顺序总览窗口当前显示为：`001—127` 已连续对齐完成。
+- 如果继续按官网真实顺序向下推进，下一篇应是：`128《一九四八年的土地改革工作和整党工作》`。
 
 ## 使用提醒
 
@@ -110,10 +110,11 @@
 - `judgement_and_decision/124-dont-run-your-next-life-stage-by-heat-or-slogans-build-new-order-from-real-conditions.md`
 - `cooperation_and_organization/125-dont-run-shared-affairs-as-a-black-box.md`
 - `cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`
+- `judgement_and_decision/127-dont-skip-the-necessary-transition-stage-in-a-new-life-zone.md`
 
 ## 110—112 官方缺口补写导航
 - `judgement_and_decision/110-when-your-second-stage-arrives-stop-defending-old-ground-and-enter-the-real-battlefield.md`
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—126 连续覆盖，下一篇为 127《新解放区农村工作的策略问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 128《一九四八年的土地改革工作和整党工作》。

@@ -470,6 +470,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/126-when-taking-over-an-embedded-project-first-classify-assets-keep-field-supply-running-and-plan-long.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/126-when-taking-over-a-school-or-grade-first-classify-people-protect-teaching-supply-and-plan-long.md`
 
+### 127《新解放区农村工作的策略问题》(1948-05-24)
+- `inspiration_on_today_life/judgement_and_decision/127-dont-skip-the-necessary-transition-stage-in-a-new-life-zone.md`
+- `inspiration_on_software_development/team_process_and_quality/127-dont-skip-the-necessary-transition-stage-in-a-new-project-zone.md`
+- `inspiration_on_running_a_company/strategy_and_execution/127-dont-skip-the-necessary-transition-stage-in-a-new-business-zone.md`
+- `inspiration_on_stock_investing/research_and_thesis/127-dont-skip-the-necessary-transition-stage-in-a-new-thesis-zone.md`
+- `inspiration_on_making_money/execution_and_delivery/127-dont-skip-the-necessary-transition-stage-in-a-new-side-hustle-zone.md`
+- `inspiration_on_embedded_coding/engineering_strategy/127-dont-skip-the-necessary-transition-stage-in-a-new-engineering-zone.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/127-dont-skip-the-necessary-transition-stage-in-a-new-school-zone.md`
+
 
 ## Naming convention
 

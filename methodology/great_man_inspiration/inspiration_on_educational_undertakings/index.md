@@ -119,13 +119,15 @@
 - [124 学校的新阶段不能靠一刀切运动式整顿硬推出来，要按真实校情纠偏并把新的协同秩序建起来](school_coordination_and_organization/124-schools-need-real-condition-based-governance-and-representative-feedback-not-one-size-fits-all-campaigns.md)
 - [126 接手学校、年级或班级新局面时，先分类、保教学、稳供给，别让外围情绪和福利口号先把秩序搞坏](school_coordination_and_organization/126-when-taking-over-a-school-or-grade-first-classify-people-protect-teaching-supply-and-plan-long.md)
 - [127 学校进入新局后，别跳过必要过渡阶段；先让多数承担者得到实益，稳住课堂、秩序与支持链，再等条件成熟深推重排](school_coordination_and_organization/127-dont-skip-the-necessary-transition-stage-in-a-new-school-zone.md)
+- [128 学校改革推进：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md)
+- [128 学校重大改革前先查三大条件——环境安定、教师准备、骨干信任——条件不齐不轻动，动了就按完整流程走到底](school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md)
 
 ---
-统计：109篇笔记 / 5个子主题 / 覆盖001-127连续原文（共108篇原文）
+统计：110篇笔记 / 5个子主题 / 覆盖001-128连续原文（共109篇原文）
 
 ## 110—112 官方缺口补写导航
 - `school_governance_and_crisis_response/110-when-school-work-enters-second-stage-move-from-defensive-order-to-real-education-battlefields.md`
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 128《一九四八年的土地改革工作和整党工作》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—128 连续覆盖，下一篇为 129《关于辽沈战役的作战方针》。

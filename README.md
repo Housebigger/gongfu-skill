@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：814 篇
-- 当前已建立原文关联的毛文标题数：127 篇（001—127 已连续覆盖）
-  - 顺序主线：001—127 已按官网真实编号连续覆盖；110—112 已补齐；113—127 保持已完成 7/7
-  - 当前最新纳入：127《新解放区农村工作的策略问题》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`128《一九四八年的土地改革工作和整党工作》`
+- 当前已建立 `原文对应` 的主题转译文件：821 篇
+- 当前已建立原文关联的毛文标题数：128 篇（001—128 已连续覆盖）
+  - 顺序主线：001—128 已按官网真实编号连续覆盖；110—112 已补齐；113—128 保持已完成 7/7
+  - 当前最新纳入：128《一九四八年的土地改革工作和整党工作》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 顺序主线的下一篇：`129《关于辽沈战役的作战方针》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

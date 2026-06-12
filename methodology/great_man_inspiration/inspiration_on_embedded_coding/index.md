@@ -61,6 +61,7 @@ Focus:
 - `engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
 - `engineering_strategy/126-when-taking-over-an-embedded-project-first-classify-assets-keep-field-supply-running-and-plan-long.md`
 - `engineering_strategy/127-dont-skip-the-necessary-transition-stage-in-a-new-engineering-zone.md`
+- [128 嵌入式工程节奏：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](engineering_strategy/128-check-three-conditions-before-system-redesign-and-follow-the-engineering-process.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -183,4 +184,4 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
 - `team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 128《一九四八年的土地改革工作和整党工作》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 129《关于辽沈战役的作战方针》。

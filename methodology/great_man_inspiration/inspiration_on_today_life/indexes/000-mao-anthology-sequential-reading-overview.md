@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`128《一九四八年的土地改革工作和整党工作》`。
+- 如果继续顺序推进，下一篇应是：`129《关于辽沈战役的作战方针》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -516,7 +516,17 @@
   - `../../inspiration_on_making_money/execution_and_delivery/127-dont-skip-the-necessary-transition-stage-in-a-new-side-hustle-zone.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/127-dont-skip-the-necessary-transition-stage-in-a-new-engineering-zone.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/127-dont-skip-the-necessary-transition-stage-in-a-new-school-zone.md`
-  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把“新解放区不能跳过必要过渡阶段，先用减租减息、合理负担和对主要敌对分子的有限打击让大多数承担者得到实益、稳住秩序与资源，再等待环境成熟进入更深重排”转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的新局治理方法，提醒不同场景下的行动者：真正成熟的推进不是刚开局就全面清算和一步到位，而是先让多数人得到真实改善，先压住主要破坏点，先守住供给、秩序和支持面，再在条件成熟时推进更深层改革。
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把"新解放区不能跳过必要过渡阶段，先用减租减息、合理负担和对主要敌对分子的有限打击让大多数承担者得到实益、稳住秩序与资源，再等待环境成熟进入更深重排"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的新局治理方法，提醒不同场景下的行动者：真正成熟的推进不是刚开局就全面清算和一步到位，而是先让多数人得到真实改善，先压住主要破坏点，先守住供给、秩序和支持面，再在条件成熟时推进更深层改革。
+
+- 128《一九四八年的土地改革工作和整党工作》
+  - `../judgement_and_decision/128-check-three-conditions-before-major-action-and-follow-the-complete-process.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/128-check-three-prerequisites-and-follow-the-full-delivery-process.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/128-check-three-conditions-and-follow-the-phased-execution-process.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/128-check-three-conditions-before-thesis-commitment-and-follow-the-research-process.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/128-check-three-conditions-before-hustle-launch-and-follow-the-systematic-process.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/128-check-three-conditions-before-system-redesign-and-follow-the-engineering-process.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把"重大行动前必须检查三大条件（环境安定、群众真正有需求、干部有能力），条件不齐不启动；启动后按完整流程走到底（调查→对齐→组织→划标准→公平分配→建治理→确认权利→调负担→完成整理→转向生产），因地制宜、问题解决了就翻篇、及时沟通反馈、不搞独立王国、不因一事废其余"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的条件检查与流程管理方法，提醒不同场景下的行动者：条件没到不硬推，流程走完再转增长，不同阶段用不同打法。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

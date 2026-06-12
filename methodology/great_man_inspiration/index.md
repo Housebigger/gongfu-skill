@@ -479,6 +479,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/127-dont-skip-the-necessary-transition-stage-in-a-new-engineering-zone.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/127-dont-skip-the-necessary-transition-stage-in-a-new-school-zone.md`
 
+### 128《一九四八年的土地改革工作和整党工作》(1948-05-25)
+- `inspiration_on_today_life/judgement_and_decision/128-check-three-conditions-before-major-action-and-follow-the-complete-process.md`
+- `inspiration_on_software_development/iteration_and_delivery/128-check-three-prerequisites-and-follow-the-full-delivery-process.md`
+- `inspiration_on_running_a_company/strategy_and_execution/128-check-three-conditions-and-follow-the-phased-execution-process.md`
+- `inspiration_on_stock_investing/research_and_thesis/128-check-three-conditions-before-thesis-commitment-and-follow-the-research-process.md`
+- `inspiration_on_making_money/execution_and_delivery/128-check-three-conditions-before-hustle-launch-and-follow-the-systematic-process.md`
+- `inspiration_on_embedded_coding/engineering_strategy/128-check-three-conditions-before-system-redesign-and-follow-the-engineering-process.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md`
+
 
 ## Naming convention
 

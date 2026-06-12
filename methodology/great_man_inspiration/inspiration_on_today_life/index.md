@@ -220,6 +220,7 @@ Purpose:
 - [138 拆穿合理要求背后的真实意图](judgement_and_decision/138-decode-the-real-intent-behind-reasonable-demands-dont-get-fooled-by-surface-talk.md)
 - [139 带着底线和实力去谈判](judgement_and_decision/139-bring-bottom-line-and-strength-to-negotiation-make-concessions-from-power-not-weakness.md)
 - [140 用自相矛盾拆穿对方](judgement_and_decision/140-use-contradictions-to-expose-inconsistency-dont-attack-just-compare-their-own-words.md)
+- [141 不谈原则谈行动](judgement_and_decision/141-dont-talk-principles-talk-actions-use-specific-todos-to-test-sincerity.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

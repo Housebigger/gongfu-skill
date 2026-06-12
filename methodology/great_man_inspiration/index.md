@@ -596,6 +596,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/140-use-spec-revisions-to-expose-requirement-drift-compare-every-version.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/140-use-contradictory-policies-to-protect-teacher-rights-compare-every-version.md`
 
+### 141《中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话》(1949-01-28)
+- `inspiration_on_today_life/judgement_and_decision/141-dont-talk-principles-talk-actions-use-specific-todos-to-test-sincerity.md`
+- `inspiration_on_software_development/iteration_and_delivery/141-dont-talk-principles-talk-deliverables-use-milestone-checklists.md`
+- `inspiration_on_running_a_company/strategy_and_execution/141-dont-talk-strategy-talk-first-step-use-action-plans-to-verify-partnership.md`
+- `inspiration_on_stock_investing/research_and_thesis/141-dont-listen-to-what-companies-say-watch-what-they-do-use-real-money-signals.md`
+- `inspiration_on_making_money/execution_and_delivery/141-dont-listen-to-pitch-watch-what-they-make-you-do-use-real-tests.md`
+- `inspiration_on_embedded_coding/engineering_strategy/141-dont-trust-datasheet-trust-measurements-use-real-test-data-to-verify.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/141-dont-trust-promises-trust-actions-use-student-progress-data-to-verify.md`
+
 
 ## Naming convention
 

@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`141《中国共产党第七届中央委员会第二次全体会议决议》`。
+- 如果继续顺序推进，下一篇应是：`142《中国共产党第七届中央委员会第二次全体会议决议》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -647,6 +647,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/140-use-spec-revisions-to-expose-requirement-drift-compare-every-version.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/140-use-contradictory-policies-to-protect-teacher-rights-compare-every-version.md`
   - 本轮已完成七个角度：该文把"用对方自相矛盾拆穿对方（总统说A行政院说非A），用'你到底什么意思'的追问让对方自爆，识别'先X再Y'的话术陷阱，逻辑归谬逼出真实意图，对方内部不一致说明组织不可信"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者保护自己权益的方法论，提醒不同场景下的行动者：记录对方说的每句话日后对比，用前后矛盾追问真实意图，区分需求变更和执行偏差，要求书面确认。
+
+- 141《中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话》
+  - `../judgement_and_decision/141-dont-talk-principles-talk-actions-use-specific-todos-to-test-sincerity.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/141-dont-talk-principles-talk-deliverables-use-milestone-checklists.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/141-dont-talk-strategy-talk-first-step-use-action-plans-to-verify-partnership.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/141-dont-listen-to-what-companies-say-watch-what-they-do-use-real-money-signals.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/141-dont-listen-to-pitch-watch-what-they-make-you-do-use-real-tests.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/141-dont-trust-datasheet-trust-measurements-use-real-test-data-to-verify.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/141-dont-trust-promises-trust-actions-use-student-progress-data-to-verify.md`
+  - 本轮已完成七个角度：该文把"不谈原则谈行动（用具体待办清单检验诚意），用对方的急迫反问对方（你之前怎么不急），帮对方算账（你做了什么心里有数），有实力才用命令式（没有实力用请示式），给具体待办清单不做就是没诚意，先做一个成功案例榜样比说教有力"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的诚意检验方法论，提醒不同场景下的行动者：不要听对方怎么说要看对方怎么做，用具体的'你先做X'检验诚意，做了就是真的不做就是假的。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

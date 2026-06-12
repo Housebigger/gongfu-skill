@@ -542,6 +542,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/134-recognize-technical-tipping-point-use-quality-metrics-to-prove-progress-and-accelerate.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/134-recognize-improvement-tipping-point-use-student-data-to-prove-progress-and-accelerate.md`
 
+### 135《关于平津战役的作战方针》(1948-12-11)
+- `inspiration_on_today_life/judgement_and_decision/135-surround-before-you-strike-block-escape-routes-and-dont-rush-the-obvious-target.md`
+- `inspiration_on_software_development/iteration_and_delivery/135-surround-technical-challenges-before-attacking-block-rollback-paths-and-coordinate-teams.md`
+- `inspiration_on_running_a_company/strategy_and_execution/135-surround-market-opportunities-before-committing-block-competitor-retreat-and-coordinate-departments.md`
+- `inspiration_on_stock_investing/research_and_thesis/135-surround-investment-targets-before-buying-block-panic-exits-and-coordinate-portfolio.md`
+- `inspiration_on_making_money/execution_and_delivery/135-surround-market-niche-before-committing-block-fallback-to-old-habits-and-coordinate-streams.md`
+- `inspiration_on_embedded_coding/engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/135-surround-problem-areas-before-reforming-block-backsliding-and-coordinate-teachers-parents-admin.md`
+
 
 ## Naming convention
 

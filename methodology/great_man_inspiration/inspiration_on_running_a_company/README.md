@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—134 连续覆盖，下一篇为 135《将革命进行到底》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—135 连续覆盖，下一篇为 136《在中国共产党第七届中央委员会第二次全体会议上的报告》。

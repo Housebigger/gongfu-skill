@@ -1,4 +1,4 @@
-# 未来待落实原文总索引：135《将革命进行到底》— X231《纪念巴黎公社的重要意义》
+# 未来待落实原文总索引：136《在中国共产党第七届中央委员会第二次全体会议上的报告》— X231《纪念巴黎公社的重要意义》
 
 生成日期：2026-05-23
 
@@ -17,12 +17,12 @@
 - `防错序号` 是本文件内部连续守卫号：主文章 120—229 沿用主线编号；“其它”中的两个编号条目记为 X230 / X231，避免误写成主线 230 / 231。
 - 第四卷、第五卷中显示的 `分卷内序号` 不是仓库全局主线编号，不能拿它直接改文件名。
 - 若官网目录变动，必须重新抓取 `index.htm` 并人工核对首尾边界后再更新本文件。
-- 执行下一篇时，默认只推进 `135《将革命进行到底》`；不要跳到"其它"条目，除非豪哥明确要求做补充材料。
+- 执行下一篇时，默认只推进 `136《在中国共产党第七届中央委员会第二次全体会议上的报告》`；不要跳到"其它"条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—134。
-- 下一篇主线：135《将革命进行到底》。
-- 主文章未来仍待落实：135—229，共 95 篇；134 已完成。
+- 当前已完成连续主线：001—135。
+- 下一篇主线：136《在中国共产党第七届中央委员会第二次全体会议上的报告》。
+- 主文章未来仍待落实：136—229，共 94 篇；135 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -53,7 +53,7 @@
 | 132 | 132 | 第四卷 第三次国内革命战争时期 | 43 | 《关于淮海战役的的作战方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481011.htm) | 已完成 |
 | 133 | 133 | 第四卷 第三次国内革命战争时期 | 44 | 《全世界革命力量团结起来，反对帝国主义的侵略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194811.htm) | 已完成 |
 | 134 | 134 | 第四卷 第三次国内革命战争时期 | 45 | 《中国军事形势的重大变化》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm) | 已完成 |
-| 135 | 135 | 第四卷 第三次国内革命战争时期 | 46 | 《关于平津战役的作战方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481211.htm) | 待落实 |
+| 135 | 135 | 第四卷 第三次国内革命战争时期 | 46 | 《关于平津战役的作战方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481211.htm) | 已完成 |
 | 136 | 136 | 第四卷 第三次国内革命战争时期 | 47 | 《敦促杜聿明等投降书》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481217.htm) | 待落实 |
 | 137 | 137 | 第四卷 第三次国内革命战争时期 | 48 | 《将革命进行到底》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481230.htm) | 待落实 |
 | 138 | 138 | 第四卷 第三次国内革命战争时期 | 49 | 《评战犯求和》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm) | 待落实 |

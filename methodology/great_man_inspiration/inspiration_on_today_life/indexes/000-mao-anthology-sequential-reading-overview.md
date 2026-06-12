@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`135《将革命进行到底》`。
+- 如果继续顺序推进，下一篇应是：`136《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -587,6 +587,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/134-recognize-technical-tipping-point-use-quality-metrics-to-prove-progress-and-accelerate.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/134-recognize-improvement-tipping-point-use-student-data-to-prove-progress-and-accelerate.md`
   - 本轮已完成七个角度：该文把"力量对比发生根本变化（质量早已占优，现在数量也占优），用精确数据证明趋势（敌军从430万降到290万，我军从120万涨到300万+），据此将原定五年缩短为再一年，关键战役（睢杞、济南、锦州等）累积成质变，敌人正在崩溃但尚需加紧努力"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的拐点识别方法，提醒不同场景下的行动者：用数据判断拐点，用数据修正预期，拐点到了就缩短时间线但不能松懈。
+
+- 135《关于平津战役的作战方针》
+  - `../judgement_and_decision/135-surround-before-you-strike-block-escape-routes-and-dont-rush-the-obvious-target.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/135-surround-technical-challenges-before-attacking-block-rollback-paths-and-coordinate-teams.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/135-surround-market-opportunities-before-committing-block-competitor-retreat-and-coordinate-departments.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/135-surround-investment-targets-before-buying-block-panic-exits-and-coordinate-portfolio.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/135-surround-market-niche-before-committing-block-fallback-to-old-habits-and-coordinate-streams.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/135-surround-problem-areas-before-reforming-block-backsliding-and-coordinate-teachers-parents-admin.md`
+  - 本轮已完成七个角度：该文把"围而不打隔而不围（先完成包围部署不急于歼灭），真正目标不是显眼的北平而是堵住退路的塘沽海口，全局协调（淮海战场也配合延缓进攻），多路同时施压各有分工，不要过分估计敌人战斗力（已是惊弓之鸟），敌人总低估我军积极性，不惜疲劳先完成部署再休整，攻击次序有严格计划（塘沽→新保安→唐山→天津/张家口→北平），复用已验证的辽沈打法，出敌意外"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的包围方法论，提醒不同场景下的行动者：先围后打，堵退路比攻城更重要，多战场协调，攻击次序有讲究。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

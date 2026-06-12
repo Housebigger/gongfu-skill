@@ -118,4 +118,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—134 连续覆盖，下一篇为 135《将革命进行到底》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—135 连续覆盖，下一篇为 136《在中国共产党第七届中央委员会第二次全体会议上的报告》。

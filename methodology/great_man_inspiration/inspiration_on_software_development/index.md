@@ -243,6 +243,7 @@ Purpose:
 - [132 大项目分阶段攻坚：把大目标拆成阶段，每阶段集中火力打一个核心](iteration_and_delivery/132-divide-big-projects-into-phases-concentrate-team-on-each-milestone.md)
 - [133 团结跨职能盟友：团结一切力量，找榜样，不高估困难](iteration_and_delivery/133-unite-cross-functional-allies-learn-from-proven-examples-and-dont-overestimate-challenges.md)
 - [134 识别项目拐点用指标证明进度：识别拐点，用数据证明趋势，缩短时间线](iteration_and_delivery/134-recognize-project-tipping-point-use-metrics-to-prove-progress-and-adjust-timelines.md)
+- [135 先围后打堵住回滚路径：先围后打，堵退路比攻城更重要](iteration_and_delivery/135-surround-technical-challenges-before-attacking-block-rollback-paths-and-coordinate-teams.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

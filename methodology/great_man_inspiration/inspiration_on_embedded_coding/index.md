@@ -68,6 +68,7 @@ Focus:
 - [132 项目攻坚分阶段：把大目标拆成阶段，每阶段集中火力打一个核心](engineering_strategy/132-divide-project-into-phases-concentrate-team-on-each-stage.md)
 - [133 搭建供应商生态：团结一切力量，找榜样，不高估困难](engineering_strategy/133-build-supplier-ecosystem-learn-from-reference-designs-and-dont-overestimate-technical-barriers.md)
 - [134 识别技术拐点：用质量指标证明进度，加速交付](engineering_strategy/134-recognize-technical-tipping-point-use-quality-metrics-to-prove-progress-and-accelerate.md)
+- [135 先围后打堵住回归路径：先围后打，堵退路比攻城更重要](engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -190,4 +191,4 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
 - `team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—134 连续覆盖，下一篇为 135《将革命进行到底》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—134 连续覆盖，下一篇为 136《在中国共产党第七届中央委员会第二次全体会议上的报告》。

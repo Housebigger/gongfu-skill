@@ -224,6 +224,7 @@ Purpose:
 - [142 逐条驳斥借口给最小动作](judgement_and_decision/142-refute-every-excuse-but-always-give-a-minimum-actionable-step.md)
 - [143 赢了就要转型](judgement_and_decision/143-after-every-win-transform-dont-stay-in-old-role.md)
 - [144 四分五裂时空喊全面](judgement_and_decision/144-when-opponent-is-fractured-their-comprehensive-promises-are-empty.md)
+- [145 用对方的话逼入死角](judgement_and_decision/145-use-their-own-words-to-corner-them-help-them-do-the-math.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

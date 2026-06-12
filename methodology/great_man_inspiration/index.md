@@ -632,6 +632,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/144-when-school-is-fractured-their-comprehensive-education-is-empty.md`
 
+### 145《国民党反动派由“呼吁和平”变为呼吁战争》(1949-02-16)
+- `inspiration_on_today_life/judgement_and_decision/145-use-their-own-words-to-corner-them-help-them-do-the-math.md`
+- `inspiration_on_software_development/iteration_and_delivery/145-use-signed-documents-to-corner-clients-let-contracts-speak.md`
+- `inspiration_on_running_a_company/strategy_and_execution/145-use-signed-agreements-to-corner-partners-let-contracts-speak.md`
+- `inspiration_on_stock_investing/research_and_thesis/145-use-management-past-words-to-check-current-actions.md`
+- `inspiration_on_making_money/execution_and_delivery/145-use-their-pitch-vs-reality-to-expose-empty-promises.md`
+- `inspiration_on_embedded_coding/engineering_strategy/145-use-datasheet-vs-measurements-to-verify-supplier-claims.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/145-use-admission-brochure-vs-reality-to-verify-school-claims.md`
+
 
 ## Naming convention
 

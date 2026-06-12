@@ -253,6 +253,7 @@ Purpose:
 - [142 逐条驳斥甲方推诿给最小验收](iteration_and_delivery/142-refuse-every-excuse-give-minimum-acceptance-criteria.md)
 - [143 上线就要转型](iteration_and_delivery/143-after-launch-transform-from-build-mode-to-operate-mode.md)
 - [144 甲方四分五裂](iteration_and_delivery/144-when-client-is-fractured-their-comprehensive-promises-are-empty.md)
+- [145 用签过的文档逼回正轨](iteration_and_delivery/145-use-signed-documents-to-corner-clients-let-contracts-speak.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`145《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
+- 如果继续顺序推进，下一篇应是：`146《四众周知》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -687,6 +687,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/144-when-school-is-fractured-their-comprehensive-education-is-empty.md`
   - 本轮已完成七个角度：该文把"搬起石头砸自己的脚（虚假策略被拆穿后反噬），对方内部四分五裂就是最大信号（总统/代总统/行政院/国防部互相矛盾），喊全面的人最不全面（邓文仪和国防部矛盾又和代总统矛盾），实力对比是基本事实（全面力量在人民解放军这边），全面口号和能力脱节就是空话（既没力量全面战也没力量全面和），支持局部突破（北平和平解决正在蔓延）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的虚假承诺识别方法论，提醒不同场景下的行动者：当对方内部四分五裂时他的全面承诺就是空话——拆穿内部矛盾，抓住实力对比，支持局部突破比等全面承诺更有效。
+
+- 145《国民党反动派由“呼吁和平”变为呼吁战争》
+  - `../judgement_and_decision/145-use-their-own-words-to-corner-them-help-them-do-the-math.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/145-use-signed-documents-to-corner-clients-let-contracts-speak.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/145-use-signed-agreements-to-corner-partners-let-contracts-speak.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/145-use-management-past-words-to-check-current-actions.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/145-use-their-pitch-vs-reality-to-expose-empty-promises.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/145-use-datasheet-vs-measurements-to-verify-supplier-claims.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/145-use-admission-brochure-vs-reality-to-verify-school-claims.md`
+  - 本轮已完成七个角度：该文把"用对方自己说过的话把对方逼入死角（之前说以拯救人民为前提现在变成以拯救战犯为前提），把对方的罪名还给对方（拖延时间延长战祸的帽子该戴在谁头上），帮对方算账（4.75亿人民vs100多个战犯哪个大），抓住前提变化暴露真实意图（前提从为人民变成为战犯），死硬派的结局（保护极少数人得罪大多数人=孤立在宝塔尖顶），对所有人的喊话（把对立从你和我变成极少数vs所有人）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的用对方说过的话保护自己的方法论，提醒不同场景下的行动者：对方之前说A现在做非A——把他的原话和当前行为摆在一起对比就够了，争辩100句不如算一笔账。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

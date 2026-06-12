@@ -17,12 +17,12 @@
 - `防错序号` 是本文件内部连续守卫号：主文章 120—229 沿用主线编号；“其它”中的两个编号条目记为 X230 / X231，避免误写成主线 230 / 231。
 - 第四卷、第五卷中显示的 `分卷内序号` 不是仓库全局主线编号，不能拿它直接改文件名。
 - 若官网目录变动，必须重新抓取 `index.htm` 并人工核对首尾边界后再更新本文件。
-- 执行下一篇时，默认只推进 `145《在中国共产党第七届中央委员会第二次全体会议上的报告》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
+- 执行下一篇时，默认只推进 `146《四众周知》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—144。
-- 下一篇主线：145《在中国共产党第七届中央委员会第二次全体会议上的报告》。
-- 主文章未来仍待落实：145—229，共 85 篇；144 已完成。
+- 当前已完成连续主线：001—145。
+- 下一篇主线：146《四众周知》。
+- 主文章未来仍待落实：146—229，共 84 篇；145 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -63,7 +63,7 @@
 | 142 | 142 | 第四卷 第三次国内革命战争时期 | 53 | 《中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm) | 已完成 |
 | 143 | 143 | 第四卷 第三次国内革命战争时期 | 54 | 《把军队变为工作队》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm) | 已完成 |
 | 144 | 144 | 第四卷 第三次国内革命战争时期 | 55 | 《四分五裂的反动派为什么还要空喊“全面和平”？》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490215.htm) | 已完成 |
-| 145 | 145 | 第四卷 第三次国内革命战争时期 | 56 | 《国民党反动派由“呼吁和平”变为呼吁战争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490216.htm) | 待落实 |
+| 145 | 145 | 第四卷 第三次国内革命战争时期 | 56 | 《国民党反动派由“呼吁和平”变为呼吁战争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490216.htm) | 已完成 |
 | 146 | 146 | 第四卷 第三次国内革命战争时期 | 57 | 《评国民党对战争责任问题的几种答案》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm) | 待落实 |
 | 147 | 147 | 第四卷 第三次国内革命战争时期 | 58 | 《在中国共产党第七届中央委员会第二次全体会议上的报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490305.htm) | 待落实 |
 | 148 | 148 | 第四卷 第三次国内革命战争时期 | 59 | 《党委会的工作方法》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490313.htm) | 待落实 |

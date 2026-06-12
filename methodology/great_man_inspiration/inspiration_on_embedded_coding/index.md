@@ -78,6 +78,7 @@ Focus:
 - [142 逐条驳斥供应商借口](engineering_strategy/142-refute-supplier-excuses-use-minimum-test-to-verify.md)
 - [143 原型通过就要转型](engineering_strategy/143-after-prototype-pass-transform-from-debug-mode-to-production-mode.md)
 - [144 供应商四分五裂](engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md)
+- [145 用Datasheet检验实测](engineering_strategy/145-use-datasheet-vs-measurements-to-verify-supplier-claims.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

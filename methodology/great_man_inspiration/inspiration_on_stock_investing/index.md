@@ -134,6 +134,7 @@ Purpose:
 - [142 逐条拆穿管理层借口](research_and_thesis/142-refute-management-excuses-use-minimum-verifiable-facts.md)
 - [143 赚了一波就要转型](research_and_thesis/143-after-a-winning-streak-transform-from-attack-to-defense.md)
 - [144 管理层四分五裂](research_and_thesis/144-when-management-is-fractured-their-comprehensive-turnaround-is-empty.md)
+- [145 用管理层过去的话检验](research_and_thesis/145-use-management-past-words-to-check-current-actions.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -209,6 +209,7 @@ This folder focuses on:
 - [142 逐条驳斥合作方推诿](strategy_and_execution/142-refute-partner-excuses-give-minimum-actionable-demand.md)
 - [143 大单就要转型](strategy_and_execution/143-after-big-win-transform-from-startup-mode-to-management-mode.md)
 - [144 合作方四分五裂](strategy_and_execution/144-when-partner-is-fractured-their-comprehensive-cooperation-is-empty.md)
+- [145 用协议逼回正轨](strategy_and_execution/145-use-signed-agreements-to-corner-partners-let-contracts-speak.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

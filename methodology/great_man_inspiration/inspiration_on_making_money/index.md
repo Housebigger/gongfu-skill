@@ -191,6 +191,7 @@ Additional focus:
 - [142 逐条拆穿项目方说辞](execution_and_delivery/142-refute-opportunity-pitch-use-minimum-investment-to-verify.md)
 - [143 赚到钱就要转型](execution_and_delivery/143-after-first-income-transform-from-freelance-to-system.md)
 - [144 项目方四分五裂](execution_and_delivery/144-when-project-seller-is-fractured-their-full-support-is-empty.md)
+- [145 用宣传拆穿承诺](execution_and_delivery/145-use-their-pitch-vs-reality-to-expose-empty-promises.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

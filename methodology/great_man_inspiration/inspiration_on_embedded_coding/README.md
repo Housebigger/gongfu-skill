@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—153 连续覆盖，下一篇为 154《论人民民主专政》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—154 连续覆盖，下一篇为 155《丢掉幻想，准备斗争》。

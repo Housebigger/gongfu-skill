@@ -713,6 +713,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/153-before-new-board-do-architecture-review.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/153-before-new-semester-align-teachers-students-parents.md`
 
+### 154《论人民民主专政》(1949-06-30)
+- `inspiration_on_today_life/judgement_and_decision/154-dictatorship-for-drainers-democracy-for-supporters.md`
+- `inspiration_on_software_development/iteration_and_delivery/154-dictatorship-on-tech-debt-democracy-on-good-code.md`
+- `inspiration_on_running_a_company/strategy_and_execution/154-dictatorship-on-low-perf-democracy-on-high-perf.md`
+- `inspiration_on_stock_investing/research_and_thesis/154-dictatorship-on-losses-democracy-on-profits.md`
+- `inspiration_on_making_money/execution_and_delivery/154-dictatorship-on-low-roi-democracy-on-high-roi.md`
+- `inspiration_on_embedded_coding/engineering_strategy/154-dictatorship-on-legacy-democracy-on-new-arch.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/154-dictatorship-on-disruption-democracy-on-engagement.md`
+
 
 ## Naming convention
 

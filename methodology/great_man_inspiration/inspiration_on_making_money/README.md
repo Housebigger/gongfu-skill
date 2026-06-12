@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—153 连续覆盖，下一篇为 154《论人民民主专政》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—154 连续覆盖，下一篇为 155《丢掉幻想，准备斗争》。

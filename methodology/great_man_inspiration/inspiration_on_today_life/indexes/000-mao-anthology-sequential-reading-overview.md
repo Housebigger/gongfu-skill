@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`154《论人民民主专政》`。
+- 如果继续顺序推进，下一篇应是：`155《丢掉幻想，准备斗争》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -772,6 +772,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/153-before-big-project-align-resources-first.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/153-before-new-board-do-architecture-review.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/153-before-new-semester-align-teachers-students-parents.md`
+
+- 154《论人民民主专政》
+  - `../judgement_and_decision/154-dictatorship-for-drainers-democracy-for-supporters.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/154-dictatorship-on-tech-debt-democracy-on-good-code.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/154-dictatorship-on-low-perf-democracy-on-high-perf.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/154-dictatorship-on-losses-democracy-on-profits.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/154-dictatorship-on-low-roi-democracy-on-high-roi.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/154-dictatorship-on-legacy-democracy-on-new-arch.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/154-dictatorship-on-disruption-democracy-on-engagement.md`
   - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》

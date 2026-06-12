@@ -87,6 +87,7 @@ Focus:
 - [151 新项目架构八条决策先行](engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md)
 - [152 面对供应商绑定守住主权](engineering_strategy/152-face-vendor-lock-in-protect-tech-sovereignty.md)
 - [153 新板子先做架构评审](engineering_strategy/153-before-new-board-do-architecture-review.md)
+- [154 遗留代码专政新架构民主](engineering_strategy/154-dictatorship-on-legacy-democracy-on-new-arch.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

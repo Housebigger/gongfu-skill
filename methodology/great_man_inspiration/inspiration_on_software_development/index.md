@@ -262,6 +262,7 @@ Purpose:
 - [151 上线前先定八条标准](iteration_and_delivery/151-eight-rules-before-launch-set-standards-first.md)
 - [152 面对压力守住技术底线](iteration_and_delivery/152-face-pressure-hold-technical-bottom-line.md)
 - [153 项目启动前先拉齐](iteration_and_delivery/153-before-project-kickoff-align-everyone-first.md)
+- [154 技术债专政好代码民主](iteration_and_delivery/154-dictatorship-on-tech-debt-democracy-on-good-code.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

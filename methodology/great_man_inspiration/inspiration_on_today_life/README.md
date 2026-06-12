@@ -17,7 +17,7 @@
   - `000-future-mao-originals-implementation-index.md`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：149 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—153 已连续对齐。
+当前合计：150 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—154 已连续对齐。
 
 ## 推荐入口
 
@@ -61,8 +61,8 @@
 ## 当前进度说明
 
 - today_life 主题当前实写最新官方编号：`127《新解放区农村工作的策略问题》`；官方 `110—112` 已补齐。
-- 顺序总览窗口当前显示为：`001—153` 已连续对齐完成。
-- 如果继续按官网真实顺序向下推进，下一篇应是：`154《论人民民主专政》`。
+- 顺序总览窗口当前显示为：`001—154` 已连续对齐完成。
+- 如果继续按官网真实顺序向下推进，下一篇应是：`155《丢掉幻想，准备斗争》`。
 
 ## 使用提醒
 
@@ -117,4 +117,4 @@
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—153 连续覆盖，下一篇为 154《论人民民主专政》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—154 连续覆盖，下一篇为 155《丢掉幻想，准备斗争》。

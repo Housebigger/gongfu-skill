@@ -749,6 +749,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/157-open-source-or-patent-trap-read-the-license.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/157-parent-involvement-or-interference-set-boundaries.md`
 
+### 158《为什么要讨论白皮书》(1949-08-28)
+- `inspiration_on_today_life/judgement_and_decision/158-discuss-failures-openly-it-is-the-best-education.md`
+- `inspiration_on_software_development/iteration_and_delivery/158-blameless-postmortems-turn-incidents-into-education.md`
+- `inspiration_on_running_a_company/strategy_and_execution/158-post-mortem-failed-projects-let-the-whole-team-learn.md`
+- `inspiration_on_stock_investing/research_and_thesis/158-review-every-loss-trade-it-is-your-white-paper.md`
+- `inspiration_on_making_money/execution_and_delivery/158-review-failed-projects-before-pivoting.md`
+- `inspiration_on_embedded_coding/engineering_strategy/158-post-mortem-every-hardware-bug-before-next-design.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/158-discuss-wrong-answers-it-is-the-best-teaching-material.md`
+
 
 ## Naming convention
 

@@ -222,6 +222,7 @@ This folder focuses on:
 - [155 丢掉救世主幻想](strategy_and_execution/155-drop-savior-illusions-survive-on-your-own.md)
 - [156 告别不健康的客户关系](strategy_and_execution/156-say-goodbye-to-unhealthy-client-relationships.md)
 - [157 合作还是被吃掉](strategy_and_execution/157-partnership-or-takeover-read-the-contract.md)
+- [158 复盘失败项目](strategy_and_execution/158-post-mortem-failed-projects-let-the-whole-team-learn.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

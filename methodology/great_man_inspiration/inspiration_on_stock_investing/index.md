@@ -147,6 +147,7 @@ Purpose:
 - [155 丢掉只涨不跌幻想](research_and_thesis/155-drop-buy-and-hold-illusions-manage-risk-instead.md)
 - [156 告别不再相信的持仓](research_and_thesis/156-say-goodbye-to-positions-you-no-longer-believe-in.md)
 - [157 研报还是出货](research_and_thesis/157-research-report-or-pump-and-dump-follow-the-money.md)
+- [158 复盘每笔亏损](research_and_thesis/158-review-every-loss-trade-it-is-your-white-paper.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

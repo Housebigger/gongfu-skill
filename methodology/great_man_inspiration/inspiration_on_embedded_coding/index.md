@@ -91,6 +91,7 @@ Focus:
 - [155 丢掉完美芯片幻想](engineering_strategy/155-drop-perfect-chip-illusions-ship-with-constraints.md)
 - [156 告别老旧MCU方案](engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md)
 - [157 开源还是专利陷阱](engineering_strategy/157-open-source-or-patent-trap-read-the-license.md)
+- [158 复盘硬件bug](engineering_strategy/158-post-mortem-every-hardware-bug-before-next-design.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

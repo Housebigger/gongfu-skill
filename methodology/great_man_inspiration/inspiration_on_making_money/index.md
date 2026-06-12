@@ -204,6 +204,7 @@ Additional focus:
 - [155 丢掉躺赚幻想](execution_and_delivery/155-drop-passive-income-illusions-grind-first.md)
 - [156 告别时间换钱模式](execution_and_delivery/156-say-goodbye-to-time-for-money-models.md)
 - [157 免费培训还是获客](execution_and_delivery/157-free-training-or-customer-acquisition-know-the-model.md)
+- [158 复盘失败再转向](execution_and_delivery/158-review-failed-projects-before-pivoting.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

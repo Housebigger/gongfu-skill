@@ -245,6 +245,7 @@ Purpose:
 - [134 识别项目拐点用指标证明进度：识别拐点，用数据证明趋势，缩短时间线](iteration_and_delivery/134-recognize-project-tipping-point-use-metrics-to-prove-progress-and-adjust-timelines.md)
 - [135 先围后打堵住回滚路径：先围后打，堵退路比攻城更重要](iteration_and_delivery/135-surround-technical-challenges-before-attacking-block-rollback-paths-and-coordinate-teams.md)
 - [136 帮团队算清技术债堵侥幸给重构路径：帮对方算清账、堵住幻想、给出退路](iteration_and_delivery/136-help-team-face-tech-debt-reality-block-workaround-illusions-and-offer-feasible-refactor-path.md)
+- [137 将发布进行到底不怜惜临门一脚的需求](iteration_and_delivery/137-carry-release-through-to-the-end-dont-show-mercy-to-last-minute-requests.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

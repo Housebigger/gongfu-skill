@@ -216,6 +216,7 @@ Purpose:
 - [134 识别拐点用数据证明进度：识别拐点，用数据证明趋势，缩短时间线](judgement_and_decision/134-recognize-your-tipping-point-use-data-to-prove-progress-and-shorten-timelines.md)
 - [135 先围后打堵住退路：先围后打，堵退路比攻城更重要](judgement_and_decision/135-surround-before-you-strike-block-escape-routes-and-dont-rush-the-obvious-target.md)
 - [136 帮对方算清账堵幻想给退路：帮对方算清账、堵住幻想、给出退路](judgement_and_decision/136-help-the-other-side-count-their-losses-block-illusions-and-offer-a-dignified-exit.md)
+- [137 将改变进行到底不怜惜装死的旧习惯](judgement_and_decision/137-carry-change-through-to-the-end-dont-show-mercy-to-old-habits-playing-dead.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

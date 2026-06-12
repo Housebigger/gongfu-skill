@@ -560,6 +560,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/136-help-team-count-failed-approach-costs-block-one-more-tweak-illusions-and-switch-plans.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/136-help-teachers-face-data-reality-block-student-blame-excuses-and-offer-feasible-improvement-path.md`
 
+### 137《将革命进行到底》(1948-12-30)
+- `inspiration_on_today_life/judgement_and_decision/137-carry-change-through-to-the-end-dont-show-mercy-to-old-habits-playing-dead.md`
+- `inspiration_on_software_development/iteration_and_delivery/137-carry-release-through-to-the-end-dont-show-mercy-to-last-minute-requests.md`
+- `inspiration_on_running_a_company/strategy_and_execution/137-carry-profitability-through-to-the-end-dont-show-mercy-to-burn-more-money-temptation.md`
+- `inspiration_on_stock_investing/research_and_thesis/137-carry-discipline-through-to-the-end-dont-show-mercy-to-just-wait-longer-temptation.md`
+- `inspiration_on_making_money/execution_and_delivery/137-carry-income-stream-through-to-the-end-dont-show-mercy-to-do-one-more-temptation.md`
+- `inspiration_on_embedded_coding/engineering_strategy/137-carry-validation-through-to-the-end-dont-show-mercy-to-last-minute-features.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/137-carry-reform-through-to-the-end-dont-show-mercy-to-pause-first-temptation.md`
+
 
 ## Naming convention
 

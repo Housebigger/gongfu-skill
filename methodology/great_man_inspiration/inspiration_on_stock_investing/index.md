@@ -126,6 +126,7 @@ Purpose:
 - [134 识别市场拐点用数据确认趋势：识别拐点，用数据证明趋势，缩短时间线](research_and_thesis/134-recognize-market-regime-shifts-use-data-to-confirm-trend-and-adjust-timelines.md)
 - [135 先围后打堵住恐慌出口：先围后打，堵退路比攻城更重要](research_and_thesis/135-surround-investment-targets-before-buying-block-panic-exits-and-coordinate-portfolio.md)
 - [136 帮自己算清亏损堵幻想执行止损：帮对方算清账、堵住幻想、给出退路](research_and_thesis/136-help-yourself-count-losses-block-it-will-bounce-back-illusions-and-execute-stop-loss.md)
+- [137 将纪律进行到底不怜惜再等等的诱惑](research_and_thesis/137-carry-discipline-through-to-the-end-dont-show-mercy-to-just-wait-longer-temptation.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

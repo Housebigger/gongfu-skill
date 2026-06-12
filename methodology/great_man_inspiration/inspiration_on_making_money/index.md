@@ -183,6 +183,7 @@ Additional focus:
 - [134 识别收入拐点用数据证明势头：识别拐点，用数据证明趋势，缩短时间线](execution_and_delivery/134-recognize-income-tipping-point-use-earnings-data-to-prove-momentum-and-accelerate.md)
 - [135 先围后打堵住回头路：先围后打，堵退路比攻城更重要](execution_and_delivery/135-surround-market-niche-before-committing-block-fallback-to-old-habits-and-coordinate-streams.md)
 - [136 帮自己算清沉没成本堵幻想及时转向：帮对方算清账、堵住幻想、给出退路](execution_and_delivery/136-help-yourself-count-sunk-costs-block-one-more-push-illusions-and-pivot-timely.md)
+- [137 将收入流进行到底不怜惜再做一的诱惑](execution_and_delivery/137-carry-income-stream-through-to-the-end-dont-show-mercy-to-do-one-more-temptation.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

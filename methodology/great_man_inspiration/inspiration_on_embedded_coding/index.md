@@ -70,6 +70,7 @@ Focus:
 - [134 识别技术拐点：用质量指标证明进度，加速交付](engineering_strategy/134-recognize-technical-tipping-point-use-quality-metrics-to-prove-progress-and-accelerate.md)
 - [135 先围后打堵住回归路径：先围后打，堵退路比攻城更重要](engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md)
 - [136 帮团队算清方案失败账堵幻想换方案：帮对方算清账、堵住幻想、给出退路](engineering_strategy/136-help-team-count-failed-approach-costs-block-one-more-tweak-illusions-and-switch-plans.md)
+- [137 将验证进行到底不怜惜临门一脚的功能](engineering_strategy/137-carry-validation-through-to-the-end-dont-show-mercy-to-last-minute-features.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

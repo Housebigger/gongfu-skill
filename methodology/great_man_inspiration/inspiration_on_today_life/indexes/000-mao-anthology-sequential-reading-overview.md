@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`137《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
+- 如果继续顺序推进，下一篇应是：`138《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -607,6 +607,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/136-help-team-count-failed-approach-costs-block-one-more-tweak-illusions-and-switch-plans.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/136-help-teachers-face-data-reality-block-student-blame-excuses-and-offer-feasible-improvement-path.md`
   - 本轮已完成七个角度：该文把"帮对方算清账（40天丢34个师，用对方自己的损失说话），堵住所有幻想（突围无望、援兵不来、飞机坦克没用），指出内部脆弱（兵士不想打、伤兵叫苦），给出榜样和退路（学郑洞国投降保命），体恤对方处境（爱惜部下生命），给选择权但陈述必然（还想打就打但总归要被解决）"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的说服方法论，提醒不同场景下的行动者：说服一个人不是靠吵架赢了他，而是帮对方认清现实、堵住幻想、给一条体面退路。
+
+- 137《将革命进行到底》
+  - `../judgement_and_decision/137-carry-change-through-to-the-end-dont-show-mercy-to-old-habits-playing-dead.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/137-carry-release-through-to-the-end-dont-show-mercy-to-last-minute-requests.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/137-carry-profitability-through-to-the-end-dont-show-mercy-to-burn-more-money-temptation.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/137-carry-discipline-through-to-the-end-dont-show-mercy-to-just-wait-longer-temptation.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/137-carry-income-stream-through-to-the-end-dont-show-mercy-to-do-one-more-temptation.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/137-carry-validation-through-to-the-end-dont-show-mercy-to-last-minute-features.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/137-carry-reform-through-to-the-end-dont-show-mercy-to-pause-first-temptation.md`
+  - 本轮已完成七个角度：该文把"快要成功时最危险——敌人不会自行消灭只会换方法（从军事进攻转为'和平'阴谋），农夫与蛇的寓言（不能怜惜装可怜的敌人否则会被反咬），两条路的选择（将革命进行到底还是半途而废），警惕混入革命阵营的'反对派'（劝说怜惜敌人的人不是朋友），扩大阵营但不容许错误主张获得胜利，1949年具体任务（进军江南+经济恢复+政治协商+成立共和国），不怕困难团结一致"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的冲刺方法论，提醒不同场景下的行动者：快要成功时最危险，坏习惯/临门需求/烧钱冲动/贪婪/多元化/新功能/放弃改革都是装可怜的蛇，必须一鼓作气干到底。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

@@ -238,6 +238,7 @@ Purpose:
 - `team_process_and_quality/127-dont-skip-the-necessary-transition-stage-in-a-new-project-zone.md`
 - [128 产品交付节奏：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](iteration_and_delivery/128-check-three-prerequisites-and-follow-the-full-delivery-process.md)
 - [129 产品攻坚节奏：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](iteration_and_delivery/129-focus-main-effort-on-the-decisive-feature-and-ignore-secondary-ones.md)
+- [130 技术团队决策机制：大事集体商量不搞一言堂，但紧急时刻该拍板就拍板](iteration_and_delivery/130-build-team-decision-making-and-prevent-solo-architect-call-the-shots.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 
@@ -255,4 +256,4 @@ When a future note mainly serves app development, mini program development, or g
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 130《关于健全党委制》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 131《中共中央关于九月会议的通知》。

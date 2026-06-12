@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`130《关于健全党委制》`。
+- 如果继续顺序推进，下一篇应是：`131《中共中央关于九月会议的通知》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -537,6 +537,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/129-focus-main-effort-on-the-decisive-module-and-ignore-secondary-ones.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/129-focus-main-effort-on-the-decisive-reform-and-ignore-secondary-ones.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把"集中主力于关键方向（锦州），置次要对手于不顾（长春、沈阳），敢打前所未有的大歼灭战，中心注意力必须放在关键目标上——即使其他目的都未达到只要攻克锦州就有了主动权，根据实际情况灵活调整部署，战局紧张期间每两三日高频汇报"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的攻坚方法，提醒不同场景下的行动者：找到你的锦州，集中全部火力打那个决定一切的制高点，其他方向暂时维持最低限度即可。
+
+- 130《关于健全党委制》
+  - `../judgement_and_decision/130-build-collective-decision-making-and-prevent-one-person-call-the-shots.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/130-build-team-decision-making-and-prevent-solo-architect-call-the-shots.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/130-build-leadership-team-decision-making-and-prevent-ceo-one-person-call-the-shots.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/130-build-investment-committee-decision-making-and-prevent-one-analyst-call-the-shots.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/130-build-partnership-decision-making-and-prevent-one-person-call-the-shots.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/130-build-team-review-decision-making-and-prevent-solo-engineer-call-the-shots.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/130-build-faculty-decision-making-and-prevent-principal-one-person-call-the-shots.md`
+  - 本轮已完成七个角度：该文把"集体领导防止个人包办，委员不能虚设，形式一致不是实质一致，会前预沟通，会议高效，常委会与全体会分开，集体领导与个人负责不可偏废——紧急时刻首长有临机处置权"转译为普通人家庭决策、技术团队评审、公司高管决策、投资委员会、副业合伙人、嵌入式团队和学校组织的集体决策机制，提醒不同场景下的行动者：大事集体讨论不搞一言堂，但紧急时刻该拍板就拍板。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

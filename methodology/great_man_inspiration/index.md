@@ -497,6 +497,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/129-focus-main-effort-on-the-decisive-module-and-ignore-secondary-ones.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/129-focus-main-effort-on-the-decisive-reform-and-ignore-secondary-ones.md`
 
+### 130《关于健全党委制》(1948-09-20)
+- `inspiration_on_today_life/judgement_and_decision/130-build-collective-decision-making-and-prevent-one-person-call-the-shots.md`
+- `inspiration_on_software_development/iteration_and_delivery/130-build-team-decision-making-and-prevent-solo-architect-call-the-shots.md`
+- `inspiration_on_running_a_company/strategy_and_execution/130-build-leadership-team-decision-making-and-prevent-ceo-one-person-call-the-shots.md`
+- `inspiration_on_stock_investing/research_and_thesis/130-build-investment-committee-decision-making-and-prevent-one-analyst-call-the-shots.md`
+- `inspiration_on_making_money/execution_and_delivery/130-build-partnership-decision-making-and-prevent-one-person-call-the-shots.md`
+- `inspiration_on_embedded_coding/engineering_strategy/130-build-team-review-decision-making-and-prevent-solo-engineer-call-the-shots.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/130-build-faculty-decision-making-and-prevent-principal-one-person-call-the-shots.md`
+
 
 ## Naming convention
 

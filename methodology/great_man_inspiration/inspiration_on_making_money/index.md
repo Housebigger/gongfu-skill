@@ -194,6 +194,7 @@ Additional focus:
 - [145 用宣传拆穿承诺](execution_and_delivery/145-use-their-pitch-vs-reality-to-expose-empty-promises.md)
 - [146 用矛盾说法识别骗局](execution_and_delivery/146-use-contradictory-pitch-statements-to-spot-scams.md)
 - [147 第一桶金只是序幕防消费升级](execution_and_delivery/147-first-pot-of-gold-is-prologue-keeping-it-is-harder.md)
+- [148 副业经营十二法](execution_and_delivery/148-twelve-methods-for-side-hustle-management.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

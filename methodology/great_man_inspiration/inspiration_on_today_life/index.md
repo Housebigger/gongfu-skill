@@ -227,6 +227,7 @@ Purpose:
 - [145 用对方的话逼入死角](judgement_and_decision/145-use-their-own-words-to-corner-them-help-them-do-the-math.md)
 - [146 用矛盾答案拆穿真相](judgement_and_decision/146-use-their-contradictory-answers-to-expose-the-truth.md)
 - [147 赢了只是序幕防糖衣炮弹](judgement_and_decision/147-victory-is-prologue-watch-out-for-sugar-coated-bullets.md)
+- [148 十二个工作方法](judgement_and_decision/148-twelve-work-methods-for-everyday-life.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

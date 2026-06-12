@@ -659,6 +659,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/147-prototype-pass-is-prologue-mass-production-is-the-real-test.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/147-admission-is-prologue-real-learning-starts-after-exams.md`
 
+### 148《党委会的工作方法》(1949-03-13)
+- `inspiration_on_today_life/judgement_and_decision/148-twelve-work-methods-for-everyday-life.md`
+- `inspiration_on_software_development/iteration_and_delivery/148-twelve-methods-for-tech-team-management.md`
+- `inspiration_on_running_a_company/strategy_and_execution/148-twelve-methods-for-company-management.md`
+- `inspiration_on_stock_investing/research_and_thesis/148-twelve-methods-for-investment-decisions.md`
+- `inspiration_on_making_money/execution_and_delivery/148-twelve-methods-for-side-hustle-management.md`
+- `inspiration_on_embedded_coding/engineering_strategy/148-twelve-methods-for-embedded-project-management.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/148-twelve-methods-for-education-management.md`
+
 
 ## Naming convention
 

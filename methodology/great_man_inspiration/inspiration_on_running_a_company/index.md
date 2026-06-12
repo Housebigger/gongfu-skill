@@ -212,6 +212,7 @@ This folder focuses on:
 - [145 用协议逼回正轨](strategy_and_execution/145-use-signed-agreements-to-corner-partners-let-contracts-speak.md)
 - [146 用合作方矛盾锁定条件](strategy_and_execution/146-use-contradictory-partner-statements-to-lock-down-real-terms.md)
 - [147 融资只是序幕防冒进](strategy_and_execution/147-funding-is-prologue-management-discipline-is-the-antidote.md)
+- [148 公司管理十二法](strategy_and_execution/148-twelve-methods-for-company-management.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

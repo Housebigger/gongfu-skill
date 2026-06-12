@@ -718,6 +718,16 @@
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/147-admission-is-prologue-real-learning-starts-after-exams.md`
   - 本轮已完成七个角度：该文把"赢了只是序幕不是高潮（夺取全国胜利这只是万里长征走完了第一步），糖衣炮弹比真炮弹更难防（敌人的武力不能征服我们但资产阶级的捧场可能征服我们），工作重心必须转移（从乡村到城市必须学会管理城市），城市工作的核心是生产（从接管第一天起眼睛就要向着生产），三种解决方式（天津/北平/绥远），两个务必（谦虚谨慎不骄不躁艰苦奋斗），不拿枪的敌人更危险（拿枪的敌人被消灭后不拿枪的敌人依然存在）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的阶段性胜利后的警醒方法论，提醒各场景的行动者：赢了不防糖衣炮弹=给失败交定金。
 
+- 148《党委会的工作方法》
+  - `../judgement_and_decision/148-twelve-work-methods-for-everyday-life.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/148-twelve-methods-for-tech-team-management.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/148-twelve-methods-for-company-management.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/148-twelve-methods-for-investment-decisions.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/148-twelve-methods-for-side-hustle-management.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/148-twelve-methods-for-embedded-project-management.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/148-twelve-methods-for-education-management.md`
+  - 本轮已完成七个角度：该文把毛泽东总结的十二个工作方法（当班长/问题摆到桌面/互通情报/不耻下问/弹钢琴/抓紧/胸中有数/安民告示/精兵简政/团结不同意见/力戒骄傲/划清界限）转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的管理方法论，核心理念是好的方法比好的态度更重要——透明沟通、数据驱动、抓紧执行、谦逊包容。
+
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/126-when-taking-over-a-legacy-codebase-first-classify-systems-keep-services-running-and-dont-launch-rewrite-campaigns.md`

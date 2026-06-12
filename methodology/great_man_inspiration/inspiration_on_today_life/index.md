@@ -234,6 +234,7 @@ Purpose:
 - [152 面对威胁不退缩](judgement_and_decision/152-face-threats-head-on-what-are-you-retaliating-for.md)
 - [153 筹备你的建国](judgement_and_decision/153-before-big-moves-assemble-everyone-build-framework-first.md)
 - [154 专政与民主](judgement_and_decision/154-dictatorship-for-drainers-democracy-for-supporters.md)
+- [155 丢掉幻想没人来救你](judgement_and_decision/155-drop-illusions-nobody-is-coming-to-save-you.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -284,4 +285,4 @@ Future article-by-article life notes should be filed by practical use:
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—154 连续覆盖，下一篇为 155《丢掉幻想，准备斗争》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—155 连续覆盖，下一篇为 156《别了，司徒雷登》。

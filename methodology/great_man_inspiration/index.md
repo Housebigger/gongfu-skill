@@ -722,6 +722,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/154-dictatorship-on-legacy-democracy-on-new-arch.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/154-dictatorship-on-disruption-democracy-on-engagement.md`
 
+### 155《丢掉幻想，准备斗争》(1949-08-14)
+- `inspiration_on_today_life/judgement_and_decision/155-drop-illusions-nobody-is-coming-to-save-you.md`
+- `inspiration_on_software_development/iteration_and_delivery/155-drop-silver-bullet-illusions-iterate-or-die.md`
+- `inspiration_on_running_a_company/strategy_and_execution/155-drop-savior-illusions-survive-on-your-own.md`
+- `inspiration_on_stock_investing/research_and_thesis/155-drop-buy-and-hold-illusions-manage-risk-instead.md`
+- `inspiration_on_making_money/execution_and_delivery/155-drop-passive-income-illusions-grind-first.md`
+- `inspiration_on_embedded_coding/engineering_strategy/155-drop-perfect-chip-illusions-ship-with-constraints.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/155-drop-quick-fix-illusions-educate-for-the-long-term.md`
+
 
 ## Naming convention
 

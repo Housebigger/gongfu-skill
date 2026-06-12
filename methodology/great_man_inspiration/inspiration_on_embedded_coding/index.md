@@ -85,6 +85,7 @@ Focus:
 - [149 方案决策没有第三条路](engineering_strategy/149-no-third-way-in-design-decisions-inaction-is-tech-debt.md)
 - [150 补丁不够全面重构](engineering_strategy/150-when-patches-fail-full-rewrite-stop-compromising.md)
 - [151 新项目架构八条决策先行](engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md)
+- [152 面对供应商绑定守住主权](engineering_strategy/152-face-vendor-lock-in-protect-tech-sovereignty.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

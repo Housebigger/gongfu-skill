@@ -260,6 +260,7 @@ Purpose:
 - [149 技术决策没有第三条路](iteration_and_delivery/149-no-third-way-in-tech-decisions-inaction-is-worst.md)
 - [150 谈判破裂后全面上线](iteration_and_delivery/150-when-talks-fail-ship-it-now-stop-waiting.md)
 - [151 上线前先定八条标准](iteration_and_delivery/151-eight-rules-before-launch-set-standards-first.md)
+- [152 面对压力守住技术底线](iteration_and_delivery/152-face-pressure-hold-technical-bottom-line.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

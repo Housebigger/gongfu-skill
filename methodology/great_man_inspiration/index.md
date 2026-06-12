@@ -695,6 +695,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/151-eight-rules-for-new-semester-set-classroom-rules.md`
 
+### 152《中国人民解放军总部发言人为英国军舰暴行发表的声明》(1949-04-30)
+- `inspiration_on_today_life/judgement_and_decision/152-face-threats-head-on-what-are-you-retaliating-for.md`
+- `inspiration_on_software_development/iteration_and_delivery/152-face-pressure-hold-technical-bottom-line.md`
+- `inspiration_on_running_a_company/strategy_and_execution/152-face-threats-protect-business-sovereignty.md`
+- `inspiration_on_stock_investing/research_and_thesis/152-face-market-noise-stick-to-your-thesis.md`
+- `inspiration_on_making_money/execution_and_delivery/152-face-price-pressure-protect-your-pricing.md`
+- `inspiration_on_embedded_coding/engineering_strategy/152-face-vendor-lock-in-protect-tech-sovereignty.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/152-face-admin-pressure-protect-teaching-autonomy.md`
+
 
 ## Naming convention
 

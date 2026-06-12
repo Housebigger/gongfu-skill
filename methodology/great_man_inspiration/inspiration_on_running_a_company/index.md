@@ -216,6 +216,7 @@ This folder focuses on:
 - [149 战略转型没有第三条路](strategy_and_execution/149-no-third-way-in-strategy-inaction-is-decay.md)
 - [150 谈判破裂后全面出击](strategy_and_execution/150-when-talks-fail-full-launch-rely-on-yourself.md)
 - [151 新团队接管框架](strategy_and_execution/151-eight-rules-for-new-team-governance-framework.md)
+- [152 面对威胁守住业务主权](strategy_and_execution/152-face-threats-protect-business-sovereignty.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

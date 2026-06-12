@@ -231,6 +231,7 @@ Purpose:
 - [149 没有第三条路骑墙是幻想](judgement_and_decision/149-no-third-way-indecisiveness-is-the-worst-choice.md)
 - [150 谈判破裂后全速前进](judgement_and_decision/150-when-talks-fail-full-speed-ahead-hesitation-is-defeat.md)
 - [151 新阶段先立规矩](judgement_and_decision/151-eight-rules-for-new-phase-set-boundaries-early.md)
+- [152 面对威胁不退缩](judgement_and_decision/152-face-threats-head-on-what-are-you-retaliating-for.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -281,4 +282,4 @@ Future article-by-article life notes should be filed by practical use:
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—151 连续覆盖，下一篇为 152《中国人民解放军总部发言人为英国军舰暴行发表的声明》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—152 连续覆盖，下一篇为 153《在新政治协商会议筹备会上的讲话》。

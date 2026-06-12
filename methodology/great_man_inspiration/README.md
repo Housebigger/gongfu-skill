@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—151 已连续对齐完成，下一篇为 152《中国人民解放军布告》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—152 已连续对齐完成，下一篇为 153《中国人民解放军布告》。
 - 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 144《在中国共产党第七届中央委员会第二次全体会议上的报告》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 151（001—151 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 982 |
-| 顺序学习已连续覆盖范围 | 001—151 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—151 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—151 已连续覆盖 |
-| 顺序主线的下一篇 | 152《中国人民解放军总部发言人为英国军舰暴行发表的声明》 |
+| 当前已建立原文关联的毛文标题数 | 152（001—152 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 989 |
+| 顺序学习已连续覆盖范围 | 001—152 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—152 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—152 已连续覆盖 |
+| 顺序主线的下一篇 | 153《在新政治协商会议筹备会上的讲话》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—151 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—152 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -185,11 +185,12 @@
 | 149 | 《南京政府向何处去？》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490404.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 150 | 《向全国进军的命令》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490421.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 151 | 《中国人民解放军布告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490425.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 152 | 《中国人民解放军总部发言人为英国军舰暴行发表的声明》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490330.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—151 顺序主线已连续建立关联        [DONE]
+001—152 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -229,7 +230,8 @@
 148 《党委会的工作方法》 [DONE: 7/7]
 149 《南京政府向何处去？》 [DONE: 7/7]
 150 《向全国进军的命令》 [DONE: 7/7]
-151 《中国人民解放军布告》 [NEXT]
+151 《中国人民解放军布告》 [DONE: 7/7]
+152 《中国人民解放军总部发言人为英国军舰暴行发表的声明》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -399,7 +401,8 @@
 | 148 | 《党委会的工作方法》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490313.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/148-twelve-work-methods-for-everyday-life.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/148-twelve-methods-for-tech-team-management.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/148-twelve-methods-for-company-management.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/148-twelve-methods-for-investment-decisions.md) | [MM](./inspiration_on_making_money/execution_and_delivery/148-twelve-methods-for-side-hustle-management.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/148-twelve-methods-for-embedded-project-management.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/148-twelve-methods-for-education-management.md) | 7 |
 | 149 | 《南京政府向何处去？》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490404.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/149-no-third-way-indecisiveness-is-the-worst-choice.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/149-no-third-way-in-tech-decisions-inaction-is-worst.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/149-no-third-way-in-strategy-inaction-is-decay.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/149-no-third-way-in-stopping-loss-inaction-is-max-loss.md) | [MM](./inspiration_on_making_money/execution_and_delivery/149-no-third-way-in-pivoting-inaction-is-wasted-time.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/149-no-third-way-in-design-decisions-inaction-is-tech-debt.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/149-no-third-way-in-teaching-reform-inaction-is-wasting-students.md) |
 | 150 | 《向全国进军的命令》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490421.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/150-when-talks-fail-full-speed-ahead-hesitation-is-defeat.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/150-when-talks-fail-ship-it-now-stop-waiting.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/150-when-talks-fail-full-launch-rely-on-yourself.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/150-when-thesis-breaks-cut-loss-immediately-no-waiting.md) | [MM](./inspiration_on_making_money/execution_and_delivery/150-when-talks-fail-monetize-everything-rely-on-yourself.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/150-when-patches-fail-full-rewrite-stop-compromising.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/150-when-reform-stalled-full-redesign-no-going-back.md) |
-| 151 | 《中国人民解放军布告》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490425.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/151-eight-rules-for-new-phase-set-boundaries-early.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/151-eight-rules-before-launch-set-standards-first.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/151-eight-rules-for-new-team-governance-framework.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/151-eight-rules-before-buying-set-investment-discipline.md) | [MM](./inspiration_on_making_money/execution_and_delivery/151-eight-rules-for-new-project-set-limits-first.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/151-eight-rules-for-new-semester-set-classroom-rules.md) | 7 |
+| 151 | 《中国人民解放军布告》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490425.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/151-eight-rules-for-new-phase-set-boundaries-early.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/151-eight-rules-before-launch-set-standards-first.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/151-eight-rules-for-new-team-governance-framework.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/151-eight-rules-before-buying-set-investment-discipline.md) | [MM](./inspiration_on_making_money/execution_and_delivery/151-eight-rules-for-new-project-set-limits-first.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/151-eight-rules-for-new-semester-set-classroom-rules.md) |
+| 152 | 《中国人民解放军总部发言人为英国军舰暴行发表的声明》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490330.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/152-face-threats-head-on-what-are-you-retaliating-for.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/152-face-pressure-hold-technical-bottom-line.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/152-face-threats-protect-business-sovereignty.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/152-face-market-noise-stick-to-your-thesis.md) | [MM](./inspiration_on_making_money/execution_and_delivery/152-face-price-pressure-protect-your-pricing.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/152-face-vendor-lock-in-protect-tech-sovereignty.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/152-face-admin-pressure-protect-teaching-autonomy.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2140,6 +2143,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/151-eight-rules-for-new-project-set-limits-first.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/151-eight-rules-for-new-semester-set-classroom-rules.md`
+
+## 152 《中国人民解放军总部发言人为英国军舰暴行发表的声明》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490330.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/152-face-threats-head-on-what-are-you-retaliating-for.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/152-face-pressure-hold-technical-bottom-line.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/152-face-threats-protect-business-sovereignty.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/152-face-market-noise-stick-to-your-thesis.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/152-face-price-pressure-protect-your-pricing.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/152-face-vendor-lock-in-protect-tech-sovereignty.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/152-face-admin-pressure-protect-teaching-autonomy.md`
 
 ## 6. 使用建议
 

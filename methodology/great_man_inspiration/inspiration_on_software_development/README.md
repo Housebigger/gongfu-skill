@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—151 连续覆盖，下一篇为 152《中国人民解放军总部发言人为英国军舰暴行发表的声明》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—152 连续覆盖，下一篇为 153《在新政治协商会议筹备会上的讲话》。

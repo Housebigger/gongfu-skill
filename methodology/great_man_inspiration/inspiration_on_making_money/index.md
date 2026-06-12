@@ -198,6 +198,7 @@ Additional focus:
 - [149 换赛道没有第三条路](execution_and_delivery/149-no-third-way-in-pivoting-inaction-is-wasted-time.md)
 - [150 谈判破裂后全面变现](execution_and_delivery/150-when-talks-fail-monetize-everything-rely-on-yourself.md)
 - [151 新项目先定八条限制](execution_and_delivery/151-eight-rules-for-new-project-set-limits-first.md)
+- [152 面对压价守住定价权](execution_and_delivery/152-face-price-pressure-protect-your-pricing.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

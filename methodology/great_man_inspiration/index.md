@@ -704,6 +704,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/152-face-vendor-lock-in-protect-tech-sovereignty.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/152-face-admin-pressure-protect-teaching-autonomy.md`
 
+### 153《在新政治协商会议筹备会上的讲话》(1949-06-15)
+- `inspiration_on_today_life/judgement_and_decision/153-before-big-moves-assemble-everyone-build-framework-first.md`
+- `inspiration_on_software_development/iteration_and_delivery/153-before-project-kickoff-align-everyone-first.md`
+- `inspiration_on_running_a_company/strategy_and_execution/153-before-new-business-align-all-stakeholders.md`
+- `inspiration_on_stock_investing/research_and_thesis/153-before-big-position-do-your-prep-work.md`
+- `inspiration_on_making_money/execution_and_delivery/153-before-big-project-align-resources-first.md`
+- `inspiration_on_embedded_coding/engineering_strategy/153-before-new-board-do-architecture-review.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/153-before-new-semester-align-teachers-students-parents.md`
+
 
 ## Naming convention
 

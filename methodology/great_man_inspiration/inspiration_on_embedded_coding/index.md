@@ -86,6 +86,7 @@ Focus:
 - [150 补丁不够全面重构](engineering_strategy/150-when-patches-fail-full-rewrite-stop-compromising.md)
 - [151 新项目架构八条决策先行](engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md)
 - [152 面对供应商绑定守住主权](engineering_strategy/152-face-vendor-lock-in-protect-tech-sovereignty.md)
+- [153 新板子先做架构评审](engineering_strategy/153-before-new-board-do-architecture-review.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

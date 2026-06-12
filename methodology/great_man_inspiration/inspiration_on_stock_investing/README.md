@@ -118,4 +118,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—152 连续覆盖，下一篇为 153《在新政治协商会议筹备会上的讲话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—153 连续覆盖，下一篇为 154《论人民民主专政》。

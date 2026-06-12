@@ -199,6 +199,7 @@ Additional focus:
 - [150 谈判破裂后全面变现](execution_and_delivery/150-when-talks-fail-monetize-everything-rely-on-yourself.md)
 - [151 新项目先定八条限制](execution_and_delivery/151-eight-rules-for-new-project-set-limits-first.md)
 - [152 面对压价守住定价权](execution_and_delivery/152-face-price-pressure-protect-your-pricing.md)
+- [153 大项目启动先拉资源](execution_and_delivery/153-before-big-project-align-resources-first.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

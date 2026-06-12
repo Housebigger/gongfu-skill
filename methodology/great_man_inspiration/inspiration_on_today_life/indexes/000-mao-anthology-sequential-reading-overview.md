@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`132《关于淮海战役的的作战方针》`。
+- 如果继续顺序推进，下一篇应是：`133《全世界革命力量团结起来，反对帝国主义的侵略》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -557,6 +557,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-project.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-semester.md`
   - 本轮已完成七个角度：该文把"用数据全面复盘过去三年（歼敌264万、缴获90万枝步枪、解放235万平方公里），设定量化目标（五年歼敌500个旅），分析敌人弱点（70%在前线后方仅30%），从游击战向正规战转变，提前准备3-4万干部，团结一切力量，两手抓（进攻+生产），提高理论水平"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的阶段复盘方法，提醒不同场景下的行动者：复盘必须用数据说话，目标必须量化，下一阶段需要的能力现在就要开始储备。
+
+- 132《关于淮海战役的的作战方针》
+  - `../judgement_and_decision/132-divide-big-goals-into-phases-concentrate-force-on-each-stage.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/132-divide-big-projects-into-phases-concentrate-team-on-each-milestone.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/132-divide-strategic-push-into-phases-concentrate-resources-on-each-stage.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/132-divide-investment-thesis-into-phases-concentrate-capital-on-each-stage.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/132-divide-hustle-into-phases-concentrate-effort-on-each-stage.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/132-divide-project-into-phases-concentrate-team-on-each-stage.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/132-divide-semester-into-phases-concentrate-effort-on-each-stage.md`
+  - 本轮已完成七个角度：该文把"分三阶段推进大战役，每阶段集中优势兵力打歼灭战（两个纵队歼一个师），用一半以上兵力阻援牵制不让敌人援兵到位，复用已验证打法，每阶段2-3周，全局时间表从当前到渡江，方针正确实际更顺利"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的分阶段攻坚方法，提醒不同场景下的行动者：大目标必须拆成阶段，每阶段集中全力打一个核心，用超过一半的精力排除干扰。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

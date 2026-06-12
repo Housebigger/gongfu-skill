@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—131 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—132 连续覆盖，下一篇为 133《全世界革命力量团结起来，反对帝国主义的侵略》。

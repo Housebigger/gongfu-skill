@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—131 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—132 连续覆盖，下一篇为 133《全世界革命力量团结起来，反对帝国主义的侵略》。

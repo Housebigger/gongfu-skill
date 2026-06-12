@@ -515,6 +515,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-project.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-semester.md`
 
+### 132《关于淮海战役的的作战方针》(1948-10-11)
+- `inspiration_on_today_life/judgement_and_decision/132-divide-big-goals-into-phases-concentrate-force-on-each-stage.md`
+- `inspiration_on_software_development/iteration_and_delivery/132-divide-big-projects-into-phases-concentrate-team-on-each-milestone.md`
+- `inspiration_on_running_a_company/strategy_and_execution/132-divide-strategic-push-into-phases-concentrate-resources-on-each-stage.md`
+- `inspiration_on_stock_investing/research_and_thesis/132-divide-investment-thesis-into-phases-concentrate-capital-on-each-stage.md`
+- `inspiration_on_making_money/execution_and_delivery/132-divide-hustle-into-phases-concentrate-effort-on-each-stage.md`
+- `inspiration_on_embedded_coding/engineering_strategy/132-divide-project-into-phases-concentrate-team-on-each-stage.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/132-divide-semester-into-phases-concentrate-effort-on-each-stage.md`
+
 
 ## Naming convention
 

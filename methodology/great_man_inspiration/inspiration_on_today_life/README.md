@@ -17,7 +17,7 @@
   - `000-future-mao-originals-implementation-index.md`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：131 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—131 已连续对齐。
+当前合计：132 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—132 已连续对齐。
 
 ## 推荐入口
 
@@ -117,4 +117,4 @@
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—131 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—132 连续覆盖，下一篇为 133《全世界革命力量团结起来，反对帝国主义的侵略》。

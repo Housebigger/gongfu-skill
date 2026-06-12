@@ -178,10 +178,11 @@ Additional focus:
 - [129 副业攻坚：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](execution_and_delivery/129-focus-main-effort-on-the-decisive-income-stream-and-ignore-secondary-ones.md)
 - [130 副业合伙决策：大事集体商量不搞一言堂，但紧急时刻该拍板就拍板](execution_and_delivery/130-build-partnership-decision-making-and-prevent-one-person-call-the-shots.md)
 - [131 副业阶段复盘：用数据盘点过去，用量化目标规划未来，提前储备下一阶段的能力](execution_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-hustle.md)
+- [132 副业攻坚分阶段：把大目标拆成阶段，每阶段集中火力打一个核心](execution_and_delivery/132-divide-hustle-into-phases-concentrate-effort-on-each-stage.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 133《全世界革命力量团结起来，反对帝国主义的侵略》。

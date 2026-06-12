@@ -210,6 +210,7 @@ Purpose:
 - [128 普通人重大行动判断：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](judgement_and_decision/128-check-three-conditions-before-major-action-and-follow-the-complete-process.md)
 - [129 普通人关键决策：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](judgement_and_decision/129-focus-main-effort-on-the-decisive-point-and-ignore-the-rest.md)
 - [130 普通人家庭与朋友圈决策：大事集体商量不搞一言堂，但紧急时刻该拍板就拍板](judgement_and_decision/130-build-collective-decision-making-and-prevent-one-person-call-the-shots.md)
+- [131 普通人阶段复盘：用数据盘点过去，用量化目标规划未来，提前储备下一阶段的能力](judgement_and_decision/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-phase.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -260,4 +261,4 @@ Future article-by-article life notes should be filed by practical use:
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 131《中共中央关于九月会议的通知》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。

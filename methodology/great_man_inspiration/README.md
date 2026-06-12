@@ -7,8 +7,8 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—130 已连续对齐完成，下一篇为 131《中共中央关于九月会议的通知》。
-- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 131《中共中央关于九月会议的通知》至 X231《纪念巴黎公社的重要意义》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—131 已连续对齐完成，下一篇为 132《关于淮海战役的的作战方针》。
+- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 132《关于淮海战役的的作战方针》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 130（001—130 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 835 |
-| 顺序学习已连续覆盖范围 | 001—130 |
-| 顺序覆盖段标题核对结果 | 001—130 与 marxists.org 标题一致；110—112 已补齐；113—130 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—130 已连续覆盖 |
-| 顺序主线的下一篇 | 131《中共中央关于九月会议的通知》 |
+| 当前已建立原文关联的毛文标题数 | 131（001—131 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 842 |
+| 顺序学习已连续覆盖范围 | 001—131 |
+| 顺序覆盖段标题核对结果 | 001—131 与 marxists.org 标题一致；110—112 已补齐；113—131 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—131 已连续覆盖 |
+| 顺序主线的下一篇 | 132《关于淮海战役的的作战方针》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—130 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—131 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -164,11 +164,12 @@
 | 128 | 《一九四八年的土地改革工作和整党工作》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480525.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 129 | 《关于辽沈战役的作战方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194809and10.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 130 | 《关于健全党委制》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480920.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 131 | 《中共中央关于九月会议的通知》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481001.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—130 顺序主线已连续建立关联        [DONE]
+001—131 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -188,7 +189,8 @@
 126 《再克洛阳后给洛阳前线指挥部的电报》 [DONE: 7/7]
 129 《关于辽沈战役的作战方针》 [DONE: 7/7]
 130 《关于健全党委制》 [DONE: 7/7]
-131 《中共中央关于九月会议的通知》 [NEXT]
+131 《中共中央关于九月会议的通知》 [DONE: 7/7]
+132 《关于淮海战役的的作战方针》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -338,6 +340,7 @@
 | 128 | 《一九四八年的土地改革工作和整党工作》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480525.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/128-check-three-conditions-before-major-action-and-follow-the-complete-process.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/128-check-three-prerequisites-and-follow-the-full-delivery-process.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/128-check-three-conditions-and-follow-the-phased-execution-process.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/128-check-three-conditions-before-thesis-commitment-and-follow-the-research-process.md) | [MM](./inspiration_on_making_money/execution_and_delivery/128-check-three-conditions-before-hustle-launch-and-follow-the-systematic-process.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/128-check-three-conditions-before-system-redesign-and-follow-the-engineering-process.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md) | 7 |
 | 129 | 《关于辽沈战役的作战方针》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194809and10.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/129-focus-main-effort-on-the-decisive-point-and-ignore-the-rest.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/129-focus-main-effort-on-the-decisive-feature-and-ignore-secondary-ones.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/129-focus-main-effort-on-the-decisive-market-and-ignore-secondary-battles.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/129-focus-main-thesis-on-the-decisive-position-and-ignore-secondary-noise.md) | [MM](./inspiration_on_making_money/execution_and_delivery/129-focus-main-effort-on-the-decisive-income-stream-and-ignore-secondary-ones.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/129-focus-main-effort-on-the-decisive-module-and-ignore-secondary-ones.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/129-focus-main-effort-on-the-decisive-reform-and-ignore-secondary-ones.md) | 7 |
 | 130 | 《关于健全党委制》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480920.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/130-build-collective-decision-making-and-prevent-one-person-call-the-shots.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/130-build-team-decision-making-and-prevent-solo-architect-call-the-shots.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/130-build-leadership-team-decision-making-and-prevent-ceo-one-person-call-the-shots.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/130-build-investment-committee-decision-making-and-prevent-one-analyst-call-the-shots.md) | [MM](./inspiration_on_making_money/execution_and_delivery/130-build-partnership-decision-making-and-prevent-one-person-call-the-shots.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/130-build-team-review-decision-making-and-prevent-solo-engineer-call-the-shots.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/130-build-faculty-decision-making-and-prevent-principal-one-person-call-the-shots.md) | 7 |
+| 131 | 《中共中央关于九月会议的通知》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481001.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-phase.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-release.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-year.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-cycle.md) | [MM](./inspiration_on_making_money/execution_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-hustle.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-project.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-semester.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1831,10 +1834,22 @@
   - EC: `inspiration_on_embedded_coding/engineering_strategy/130-build-team-review-decision-making-and-prevent-solo-engineer-call-the-shots.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/130-build-faculty-decision-making-and-prevent-principal-one-person-call-the-shots.md`
 
+## 131 《中共中央关于九月会议的通知》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 42 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481001.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-phase.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-release.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-year.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-cycle.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-hustle.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-project.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-semester.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`131《中共中央关于九月会议的通知》`。
+- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`132《关于淮海战役的的作战方针》`。
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

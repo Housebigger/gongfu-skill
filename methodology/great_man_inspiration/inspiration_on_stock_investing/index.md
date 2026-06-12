@@ -120,6 +120,7 @@ Purpose:
 - [128 投资论点推进：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](research_and_thesis/128-check-three-conditions-before-thesis-commitment-and-follow-the-research-process.md)
 - [129 投资攻坚：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](research_and_thesis/129-focus-main-thesis-on-the-decisive-position-and-ignore-secondary-noise.md)
 - [130 投资决策机制：大事集体商量不搞一言堂，但紧急时刻该拍板就拍板](research_and_thesis/130-build-investment-committee-decision-making-and-prevent-one-analyst-call-the-shots.md)
+- [131 投资周期复盘：用数据盘点过去，用量化目标规划未来，提前储备下一阶段的能力](research_and_thesis/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-cycle.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism
@@ -218,4 +219,4 @@ If the note is mainly about building new active income sources, place it under `
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 131《中共中央关于九月会议的通知》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。

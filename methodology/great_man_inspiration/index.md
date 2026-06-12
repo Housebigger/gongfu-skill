@@ -506,6 +506,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/130-build-team-review-decision-making-and-prevent-solo-engineer-call-the-shots.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/130-build-faculty-decision-making-and-prevent-principal-one-person-call-the-shots.md`
 
+### 131《中共中央关于九月会议的通知》(1948-10-10)
+- `inspiration_on_today_life/judgement_and_decision/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-phase.md`
+- `inspiration_on_software_development/iteration_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-release.md`
+- `inspiration_on_running_a_company/strategy_and_execution/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-year.md`
+- `inspiration_on_stock_investing/research_and_thesis/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-cycle.md`
+- `inspiration_on_making_money/execution_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-hustle.md`
+- `inspiration_on_embedded_coding/engineering_strategy/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-project.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-semester.md`
+
 
 ## Naming convention
 

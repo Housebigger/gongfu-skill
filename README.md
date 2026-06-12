@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：835 篇
-- 当前已建立原文关联的毛文标题数：130 篇（001—130 已连续覆盖）
-  - 顺序主线：001—130 已按官网真实编号连续覆盖；110—112 已补齐；113—130 保持已完成 7/7
-  - 当前最新纳入：130《关于健全党委制》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`131《中共中央关于九月会议的通知》`
+- 当前已建立 `原文对应` 的主题转译文件：842 篇
+- 当前已建立原文关联的毛文标题数：131 篇（001—131 已连续覆盖）
+  - 顺序主线：001—131 已按官网真实编号连续覆盖；110—112 已补齐；113—131 保持已完成 7/7
+  - 当前最新纳入：131《中共中央关于九月会议的通知》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 顺序主线的下一篇：`132《关于淮海战役的的作战方针》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`131《中共中央关于九月会议的通知》`。
+- 如果继续顺序推进，下一篇应是：`132《关于淮海战役的的作战方针》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -547,6 +547,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/130-build-team-review-decision-making-and-prevent-solo-engineer-call-the-shots.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/130-build-faculty-decision-making-and-prevent-principal-one-person-call-the-shots.md`
   - 本轮已完成七个角度：该文把"集体领导防止个人包办，委员不能虚设，形式一致不是实质一致，会前预沟通，会议高效，常委会与全体会分开，集体领导与个人负责不可偏废——紧急时刻首长有临机处置权"转译为普通人家庭决策、技术团队评审、公司高管决策、投资委员会、副业合伙人、嵌入式团队和学校组织的集体决策机制，提醒不同场景下的行动者：大事集体讨论不搞一言堂，但紧急时刻该拍板就拍板。
+
+- 131《中共中央关于九月会议的通知》
+  - `../judgement_and_decision/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-phase.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-release.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-year.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-cycle.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-hustle.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-project.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-semester.md`
+  - 本轮已完成七个角度：该文把"用数据全面复盘过去三年（歼敌264万、缴获90万枝步枪、解放235万平方公里），设定量化目标（五年歼敌500个旅），分析敌人弱点（70%在前线后方仅30%），从游击战向正规战转变，提前准备3-4万干部，团结一切力量，两手抓（进攻+生产），提高理论水平"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的阶段复盘方法，提醒不同场景下的行动者：复盘必须用数据说话，目标必须量化，下一阶段需要的能力现在就要开始储备。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

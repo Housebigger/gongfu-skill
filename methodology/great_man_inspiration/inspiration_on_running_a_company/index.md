@@ -195,6 +195,7 @@ This folder focuses on:
 - [128 公司重大举措推进：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](strategy_and_execution/128-check-three-conditions-and-follow-the-phased-execution-process.md)
 - [129 公司战略攻坚：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](strategy_and_execution/129-focus-main-effort-on-the-decisive-market-and-ignore-secondary-battles.md)
 - [130 公司决策机制：大事集体商量不搞一言堂，但紧急时刻该拍板就拍板](strategy_and_execution/130-build-leadership-team-decision-making-and-prevent-ceo-one-person-call-the-shots.md)
+- [131 公司年度复盘：用数据盘点过去，用量化目标规划未来，提前储备下一阶段的能力](strategy_and_execution/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-year.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航
@@ -202,4 +203,4 @@ This folder focuses on:
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 131《中共中央关于九月会议的通知》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。

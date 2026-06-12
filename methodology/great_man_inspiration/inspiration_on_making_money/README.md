@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—130 连续覆盖，下一篇为 131《中共中央关于九月会议的通知》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—131 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。

@@ -177,10 +177,11 @@ Additional focus:
 - [128 副业启动节奏：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](execution_and_delivery/128-check-three-conditions-before-hustle-launch-and-follow-the-systematic-process.md)
 - [129 副业攻坚：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](execution_and_delivery/129-focus-main-effort-on-the-decisive-income-stream-and-ignore-secondary-ones.md)
 - [130 副业合伙决策：大事集体商量不搞一言堂，但紧急时刻该拍板就拍板](execution_and_delivery/130-build-partnership-decision-making-and-prevent-one-person-call-the-shots.md)
+- [131 副业阶段复盘：用数据盘点过去，用量化目标规划未来，提前储备下一阶段的能力](execution_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-hustle.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 131《中共中央关于九月会议的通知》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 132《关于淮海战役的的作战方针》。

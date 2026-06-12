@@ -614,6 +614,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/142-refute-supplier-excuses-use-minimum-test-to-verify.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/142-refute-education-promises-use-minimum-verifiable-metrics.md`
 
+### 143《把军队变为工作队》(1949-02-08)
+- `inspiration_on_today_life/judgement_and_decision/143-after-every-win-transform-dont-stay-in-old-role.md`
+- `inspiration_on_software_development/iteration_and_delivery/143-after-launch-transform-from-build-mode-to-operate-mode.md`
+- `inspiration_on_running_a_company/strategy_and_execution/143-after-big-win-transform-from-startup-mode-to-management-mode.md`
+- `inspiration_on_stock_investing/research_and_thesis/143-after-a-winning-streak-transform-from-attack-to-defense.md`
+- `inspiration_on_making_money/execution_and_delivery/143-after-first-income-transform-from-freelance-to-system.md`
+- `inspiration_on_embedded_coding/engineering_strategy/143-after-prototype-pass-transform-from-debug-mode-to-production-mode.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/143-after-every-graduation-transform-from-exam-mode-to-real-world-mode.md`
+
 
 ## Naming convention
 

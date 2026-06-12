@@ -222,6 +222,7 @@ Purpose:
 - [140 用自相矛盾拆穿对方](judgement_and_decision/140-use-contradictions-to-expose-inconsistency-dont-attack-just-compare-their-own-words.md)
 - [141 不谈原则谈行动](judgement_and_decision/141-dont-talk-principles-talk-actions-use-specific-todos-to-test-sincerity.md)
 - [142 逐条驳斥借口给最小动作](judgement_and_decision/142-refute-every-excuse-but-always-give-a-minimum-actionable-step.md)
+- [143 赢了就要转型](judgement_and_decision/143-after-every-win-transform-dont-stay-in-old-role.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

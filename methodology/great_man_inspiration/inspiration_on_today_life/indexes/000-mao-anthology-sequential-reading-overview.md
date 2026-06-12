@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`143《中国共产党第七届中央委员会第二次全体会议决议》`。
+- 如果继续顺序推进，下一篇应是：`144《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -667,6 +667,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/142-refute-supplier-excuses-use-minimum-test-to-verify.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/142-refute-education-promises-use-minimum-verifiable-metrics.md`
   - 本轮已完成七个角度：该文把"承认之前的让步是弱点（下次不再让），逐条驳斥对方每个借口（不笼统否定逐条分析），用对方的行为反驳对方的借口（行为和借口矛盾时行为是真相），给对方行为准确定性（不守承诺叫不诚信不叫忘了），退一步给最小可执行动作（连最小的都不做就是不想做），用对方逻辑归谬（你的代表团在谈但人已经跑了）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的借口拆穿方法论，提醒不同场景下的行动者：对方面对合理要求会找各种借口，逐条拆穿每个借口，但始终给对方一个最小可执行动作——做不到就没话说了。
+
+- 143《把军队变为工作队》
+  - `../judgement_and_decision/143-after-every-win-transform-dont-stay-in-old-role.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/143-after-launch-transform-from-build-mode-to-operate-mode.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/143-after-big-win-transform-from-startup-mode-to-management-mode.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/143-after-a-winning-streak-transform-from-attack-to-defense.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/143-after-first-income-transform-from-freelance-to-system.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/143-after-prototype-pass-transform-from-debug-mode-to-production-mode.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/143-after-every-graduation-transform-from-exam-mode-to-real-world-mode.md`
+  - 本轮已完成七个角度：该文把"赢了就要转型（不转型就犯大错），不丢老本行但主要任务变了，全面学习新技能不挑三拣四，方式可能要反转（过去二十年先乡村后城市现在先城市后乡村），自己培养自己不能等外部（210万军队=几千个大学），资源从扩张转为克制（不可要求太多太好太完备以至财政危机）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的阶段性胜利后转型方法论，提醒不同场景下的行动者：打赢一仗只是开始，赢了就要学新技能承担新角色——不转型就会被自己过去的成功困住。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

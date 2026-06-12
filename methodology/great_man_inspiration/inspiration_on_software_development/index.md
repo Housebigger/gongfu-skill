@@ -251,6 +251,7 @@ Purpose:
 - [140 用需档对比拆穿需求蔓延](iteration_and_delivery/140-use-requirement-documents-to-expose-scope-creep-compare-signed-vs-verbal.md)
 - [141 不谈原则谈交付物](iteration_and_delivery/141-dont-talk-principles-talk-deliverables-use-milestone-checklists.md)
 - [142 逐条驳斥甲方推诿给最小验收](iteration_and_delivery/142-refuse-every-excuse-give-minimum-acceptance-criteria.md)
+- [143 上线就要转型](iteration_and_delivery/143-after-launch-transform-from-build-mode-to-operate-mode.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：919 篇
-- 当前已建立原文关联的毛文标题数：142 篇（001—142 已连续覆盖）
-  - 顺序主线：001—142 已按官网真实编号连续覆盖；110—112 已补齐；113—142 保持已完成 7/7
-  - 当前最新纳入：142《中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`143《中国共产党第七届中央委员会第二次全体会议决议》`
+- 当前已建立 `原文对应` 的主题转译文件：926 篇
+- 当前已建立原文关联的毛文标题数：143 篇（001—143 已连续覆盖）
+  - 顺序主线：001—143 已按官网真实编号连续覆盖；110—112 已补齐；113—143 保持已完成 7/7
+  - 当前最新纳入：143《把军队变为工作队》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 顺序主线的下一篇：`144《在中国共产党第七届中央委员会第二次全体会议上的报告》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

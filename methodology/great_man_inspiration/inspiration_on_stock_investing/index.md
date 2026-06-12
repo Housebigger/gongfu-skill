@@ -129,6 +129,7 @@ Purpose:
 - [137 将纪律进行到底不怜惜再等等的诱惑](research_and_thesis/137-carry-discipline-through-to-the-end-dont-show-mercy-to-just-wait-longer-temptation.md)
 - [138 拆穿上市公司利好话术背后的真实意图](research_and_thesis/138-decode-corporate-spin-translate-good-news-into-real-intent-and-check-financials.md)
 - [139 带着止损底线和仓位实力去交易](research_and_thesis/139-bring-stop-loss-bottom-line-and-position-strength-to-every-trade.md)
+- [140 用公告对比拆穿上市公司](research_and_thesis/140-use-contradictory-filings-to-spot-red-flags-compare-announcements-over-time.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

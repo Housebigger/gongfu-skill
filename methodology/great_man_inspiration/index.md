@@ -587,6 +587,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/139-bring-technical-bottom-line-and-prototype-data-to-spec-negotiation.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/139-bring-student-data-and-education-bottom-line-to-reform-negotiation.md`
 
+### 140《中共发言人评南京行政院的决议》(1949-01-21)
+- `inspiration_on_today_life/judgement_and_decision/140-use-contradictions-to-expose-inconsistency-dont-attack-just-compare-their-own-words.md`
+- `inspiration_on_software_development/iteration_and_delivery/140-use-requirement-documents-to-expose-scope-creep-compare-signed-vs-verbal.md`
+- `inspiration_on_running_a_company/strategy_and_execution/140-use-contradictions-to-expose-partner-inconsistency-save-every-statement.md`
+- `inspiration_on_stock_investing/research_and_thesis/140-use-contradictory-filings-to-spot-red-flags-compare-announcements-over-time.md`
+- `inspiration_on_making_money/execution_and_delivery/140-use-written-confirmations-to-expose-client-contradictions-protect-your-work.md`
+- `inspiration_on_embedded_coding/engineering_strategy/140-use-spec-revisions-to-expose-requirement-drift-compare-every-version.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/140-use-contradictory-policies-to-protect-teacher-rights-compare-every-version.md`
+
 
 ## Naming convention
 

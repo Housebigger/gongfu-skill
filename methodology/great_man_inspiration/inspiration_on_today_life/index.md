@@ -219,6 +219,7 @@ Purpose:
 - [137 将改变进行到底不怜惜装死的旧习惯](judgement_and_decision/137-carry-change-through-to-the-end-dont-show-mercy-to-old-habits-playing-dead.md)
 - [138 拆穿合理要求背后的真实意图](judgement_and_decision/138-decode-the-real-intent-behind-reasonable-demands-dont-get-fooled-by-surface-talk.md)
 - [139 带着底线和实力去谈判](judgement_and_decision/139-bring-bottom-line-and-strength-to-negotiation-make-concessions-from-power-not-weakness.md)
+- [140 用自相矛盾拆穿对方](judgement_and_decision/140-use-contradictions-to-expose-inconsistency-dont-attack-just-compare-their-own-words.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

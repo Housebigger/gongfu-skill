@@ -73,6 +73,7 @@ Focus:
 - [137 将验证进行到底不怜惜临门一脚的功能](engineering_strategy/137-carry-validation-through-to-the-end-dont-show-mercy-to-last-minute-features.md)
 - [138 拆穿供应商推荐方案背后的真实意图](engineering_strategy/138-decode-supplier-recommended-scheme-translate-optimal-claims-into-real-intent.md)
 - [139 带着技术底线和原型数据去谈规格](engineering_strategy/139-bring-technical-bottom-line-and-prototype-data-to-spec-negotiation.md)
+- [140 用规格书对比拆穿客户变脸](engineering_strategy/140-use-spec-revisions-to-expose-requirement-drift-compare-every-version.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

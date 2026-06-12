@@ -248,6 +248,7 @@ Purpose:
 - [137 将发布进行到底不怜惜临门一脚的需求](iteration_and_delivery/137-carry-release-through-to-the-end-dont-show-mercy-to-last-minute-requests.md)
 - [138 拆穿甲方小需求背后的真实企图](iteration_and_delivery/138-decode-client-just-a-small-change-talk-use-effort-estimates-to-reveal-truth.md)
 - [139 带着数据和技术底线去谈需求](iteration_and_delivery/139-bring-data-and-technical-bottom-line-to-negotiate-requirements.md)
+- [140 用需档对比拆穿需求蔓延](iteration_and_delivery/140-use-requirement-documents-to-expose-scope-creep-compare-signed-vs-verbal.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

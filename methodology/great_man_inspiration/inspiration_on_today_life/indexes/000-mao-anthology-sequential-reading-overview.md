@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`140《中国共产党第七届中央委员会第二次全体会议决议》`。
+- 如果继续顺序推进，下一篇应是：`141《中国共产党第七届中央委员会第二次全体会议决议》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -637,6 +637,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/139-bring-technical-bottom-line-and-prototype-data-to-spec-negotiation.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/139-bring-student-data-and-education-bottom-line-to-reform-negotiation.md`
   - 本轮已完成七个角度：该文把"先摆事实建立道义（用具体事实而非空指责），识别假让步（看对方保留了什么核心条件），提不可动摇的底线条件，有力量的让步才是让步（弱者的妥协不是让步是投降），谈判期间绝不松懈（战斗准备和谈判同时进行），用民意做后盾"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的谈判方法论，提醒不同场景下的行动者：带着底线和实力上谈判桌，让步是基于力量的选择不是软弱，谈判期间绝不松懈战斗准备。
+
+- 140《中共发言人评南京行政院的决议》
+  - `../judgement_and_decision/140-use-contradictions-to-expose-inconsistency-dont-attack-just-compare-their-own-words.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/140-use-requirement-documents-to-expose-scope-creep-compare-signed-vs-verbal.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/140-use-contradictions-to-expose-partner-inconsistency-save-every-statement.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/140-use-contradictory-filings-to-spot-red-flags-compare-announcements-over-time.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/140-use-written-confirmations-to-expose-client-contradictions-protect-your-work.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/140-use-spec-revisions-to-expose-requirement-drift-compare-every-version.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/140-use-contradictory-policies-to-protect-teacher-rights-compare-every-version.md`
+  - 本轮已完成七个角度：该文把"用对方自相矛盾拆穿对方（总统说A行政院说非A），用'你到底什么意思'的追问让对方自爆，识别'先X再Y'的话术陷阱，逻辑归谬逼出真实意图，对方内部不一致说明组织不可信"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者保护自己权益的方法论，提醒不同场景下的行动者：记录对方说的每句话日后对比，用前后矛盾追问真实意图，区分需求变更和执行偏差，要求书面确认。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

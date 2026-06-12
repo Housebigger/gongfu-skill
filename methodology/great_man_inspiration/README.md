@@ -7,8 +7,8 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—139 已连续对齐完成，下一篇为 140《中国共产党第七届中央委员会第二次全体会议决议》。
-- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 140《中国共产党第七届中央委员会第二次全体会议决议》至 X231《纪念巴黎公社的重要意义》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—140 已连续对齐完成，下一篇为 141《中国共产党第七届中央委员会第二次全体会议决议》。
+- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 141《中国共产党第七届中央委员会第二次全体会议决议》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 139（001—139 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 898 |
-| 顺序学习已连续覆盖范围 | 001—139 |
-| 顺序覆盖段标题核对结果 | 001—139 与 marxists.org 标题一致；110—112 已补齐；113—139 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—139 已连续覆盖 |
-| 顺序主线的下一篇 | 140《中国共产党第七届中央委员会第二次全体会议决议》 |
+| 当前已建立原文关联的毛文标题数 | 140（001—140 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 905 |
+| 顺序学习已连续覆盖范围 | 001—140 |
+| 顺序覆盖段标题核对结果 | 001—140 与 marxists.org 标题一致；110—112 已补齐；113—140 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—140 已连续覆盖 |
+| 顺序主线的下一篇 | 141《中国共产党第七届中央委员会第二次全体会议决议》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—139 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—140 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -173,11 +173,12 @@
 | 137 | 《将革命进行到底》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481230.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 138 | 《评战犯求和》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 139 | 《中共中央毛泽东主席关于时局的声明》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490114.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 140 | 《中共发言人评南京行政院的决议》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490121.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—139 顺序主线已连续建立关联        [DONE]
+001—140 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -206,7 +207,8 @@
 137 《将革命进行到底》 [DONE: 7/7]
 138 《评战犯求和》 [DONE: 7/7]
 139 《中共中央毛泽东主席关于时局的声明》 [DONE: 7/7]
-140 《中国共产党第七届中央委员会第二次全体会议决议》 [NEXT]
+140 《中共发言人评南京行政院的决议》 [DONE: 7/7]
+141 《中国共产党第七届中央委员会第二次全体会议决议》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -365,6 +367,7 @@
 | 137 | 《将革命进行到底》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481230.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/137-carry-change-through-to-the-end-dont-show-mercy-to-old-habits-playing-dead.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/137-carry-release-through-to-the-end-dont-show-mercy-to-last-minute-requests.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/137-carry-profitability-through-to-the-end-dont-show-mercy-to-burn-more-money-temptation.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/137-carry-discipline-through-to-the-end-dont-show-mercy-to-just-wait-longer-temptation.md) | [MM](./inspiration_on_making_money/execution_and_delivery/137-carry-income-stream-through-to-the-end-dont-show-mercy-to-do-one-more-temptation.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/137-carry-validation-through-to-the-end-dont-show-mercy-to-last-minute-features.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/137-carry-reform-through-to-the-end-dont-show-mercy-to-pause-first-temptation.md) | 7 |
 | 138 | 《评战犯求和》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/138-decode-the-real-intent-behind-reasonable-demands-dont-get-fooled-by-surface-talk.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/138-decode-client-just-a-small-change-talk-use-effort-estimates-to-reveal-truth.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/138-decode-competitor-cooperation-proposal-read-real-intent-and-never-trust-words-alone.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/138-decode-corporate-spin-translate-good-news-into-real-intent-and-check-financials.md) | [MM](./inspiration_on_making_money/execution_and_delivery/138-decode-making-money-scams-translate-zero-barrier-claims-into-real-intent.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/138-decode-supplier-recommended-scheme-translate-optimal-claims-into-real-intent.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/138-decode-education-product-guarantees-translate-score-promises-into-real-intent.md) | 7 |
 | 139 | 《中共中央毛泽东主席关于时局的声明》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490114.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/139-bring-bottom-line-and-strength-to-negotiation-make-concessions-from-power-not-weakness.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/139-bring-data-and-technical-bottom-line-to-negotiate-requirements.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/139-bring-bottom-line-and-market-position-to-business-negotiation.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/139-bring-stop-loss-bottom-line-and-position-strength-to-every-trade.md) | [MM](./inspiration_on_making_money/execution_and_delivery/139-bring-bottom-line-and-alternatives-to-price-negotiation.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/139-bring-technical-bottom-line-and-prototype-data-to-spec-negotiation.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/139-bring-student-data-and-education-bottom-line-to-reform-negotiation.md) | 7 |
+| 140 | 《中共发言人评南京行政院的决议》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490121.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/140-use-contradictions-to-expose-inconsistency-dont-attack-just-compare-their-own-words.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/140-use-requirement-documents-to-expose-scope-creep-compare-signed-vs-verbal.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/140-use-contradictions-to-expose-partner-inconsistency-save-every-statement.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/140-use-contradictory-filings-to-spot-red-flags-compare-announcements-over-time.md) | [MM](./inspiration_on_making_money/execution_and_delivery/140-use-written-confirmations-to-expose-client-contradictions-protect-your-work.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/140-use-spec-revisions-to-expose-requirement-drift-compare-every-version.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/140-use-contradictory-policies-to-protect-teacher-rights-compare-every-version.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1966,10 +1969,22 @@
   - EC: `inspiration_on_embedded_coding/engineering_strategy/139-bring-technical-bottom-line-and-prototype-data-to-spec-negotiation.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/139-bring-student-data-and-education-bottom-line-to-reform-negotiation.md`
 
+## 140 《中共发言人评南京行政院的决议》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 51 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490121.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/140-use-contradictions-to-expose-inconsistency-dont-attack-just-compare-their-own-words.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/140-use-requirement-documents-to-expose-scope-creep-compare-signed-vs-verbal.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/140-use-contradictions-to-expose-partner-inconsistency-save-every-statement.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/140-use-contradictory-filings-to-spot-red-flags-compare-announcements-over-time.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/140-use-written-confirmations-to-expose-client-contradictions-protect-your-work.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/140-use-spec-revisions-to-expose-requirement-drift-compare-every-version.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/140-use-contradictory-policies-to-protect-teacher-rights-compare-every-version.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`140《中国共产党第七届中央委员会第二次全体会议决议》`。
+- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`141《中国共产党第七届中央委员会第二次全体会议决议》`。
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

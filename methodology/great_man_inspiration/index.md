@@ -605,6 +605,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/141-dont-trust-datasheet-trust-measurements-use-real-test-data-to-verify.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/141-dont-trust-promises-trust-actions-use-student-progress-data-to-verify.md`
 
+### 142《中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明》(1949-02-05)
+- `inspiration_on_today_life/judgement_and_decision/142-refute-every-excuse-but-always-give-a-minimum-actionable-step.md`
+- `inspiration_on_software_development/iteration_and_delivery/142-refuse-every-excuse-give-minimum-acceptance-criteria.md`
+- `inspiration_on_running_a_company/strategy_and_execution/142-refute-partner-excuses-give-minimum-actionable-demand.md`
+- `inspiration_on_stock_investing/research_and_thesis/142-refute-management-excuses-use-minimum-verifiable-facts.md`
+- `inspiration_on_making_money/execution_and_delivery/142-refute-opportunity-pitch-use-minimum-investment-to-verify.md`
+- `inspiration_on_embedded_coding/engineering_strategy/142-refute-supplier-excuses-use-minimum-test-to-verify.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/142-refute-education-promises-use-minimum-verifiable-metrics.md`
+
 
 ## Naming convention
 

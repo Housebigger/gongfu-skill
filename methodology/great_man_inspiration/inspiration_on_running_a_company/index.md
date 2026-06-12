@@ -206,6 +206,7 @@ This folder focuses on:
 - [139 带着底线和市场份额去谈合作](strategy_and_execution/139-bring-bottom-line-and-market-position-to-business-negotiation.md)
 - [140 用公开声明对比拆穿合作伙伴](strategy_and_execution/140-use-contradictions-to-expose-partner-inconsistency-save-every-statement.md)
 - [141 不谈战略谈第一步](strategy_and_execution/141-dont-talk-strategy-talk-first-step-use-action-plans-to-verify-partnership.md)
+- [142 逐条驳斥合作方推诿](strategy_and_execution/142-refute-partner-excuses-give-minimum-actionable-demand.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

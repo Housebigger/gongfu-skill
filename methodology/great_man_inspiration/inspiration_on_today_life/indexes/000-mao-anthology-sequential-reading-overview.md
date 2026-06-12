@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`142《中国共产党第七届中央委员会第二次全体会议决议》`。
+- 如果继续顺序推进，下一篇应是：`143《中国共产党第七届中央委员会第二次全体会议决议》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -657,6 +657,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/141-dont-trust-datasheet-trust-measurements-use-real-test-data-to-verify.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/141-dont-trust-promises-trust-actions-use-student-progress-data-to-verify.md`
   - 本轮已完成七个角度：该文把"不谈原则谈行动（用具体待办清单检验诚意），用对方的急迫反问对方（你之前怎么不急），帮对方算账（你做了什么心里有数），有实力才用命令式（没有实力用请示式），给具体待办清单不做就是没诚意，先做一个成功案例榜样比说教有力"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的诚意检验方法论，提醒不同场景下的行动者：不要听对方怎么说要看对方怎么做，用具体的'你先做X'检验诚意，做了就是真的不做就是假的。
+
+- 142《中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明》
+  - `../judgement_and_decision/142-refute-every-excuse-but-always-give-a-minimum-actionable-step.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/142-refuse-every-excuse-give-minimum-acceptance-criteria.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/142-refute-partner-excuses-give-minimum-actionable-demand.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/142-refute-management-excuses-use-minimum-verifiable-facts.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/142-refute-opportunity-pitch-use-minimum-investment-to-verify.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/142-refute-supplier-excuses-use-minimum-test-to-verify.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/142-refute-education-promises-use-minimum-verifiable-metrics.md`
+  - 本轮已完成七个角度：该文把"承认之前的让步是弱点（下次不再让），逐条驳斥对方每个借口（不笼统否定逐条分析），用对方的行为反驳对方的借口（行为和借口矛盾时行为是真相），给对方行为准确定性（不守承诺叫不诚信不叫忘了），退一步给最小可执行动作（连最小的都不做就是不想做），用对方逻辑归谬（你的代表团在谈但人已经跑了）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的借口拆穿方法论，提醒不同场景下的行动者：对方面对合理要求会找各种借口，逐条拆穿每个借口，但始终给对方一个最小可执行动作——做不到就没话说了。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

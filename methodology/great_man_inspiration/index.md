@@ -578,6 +578,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/138-decode-supplier-recommended-scheme-translate-optimal-claims-into-real-intent.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/138-decode-education-product-guarantees-translate-score-promises-into-real-intent.md`
 
+### 139《中共中央毛泽东主席关于时局的声明》(1949-01-14)
+- `inspiration_on_today_life/judgement_and_decision/139-bring-bottom-line-and-strength-to-negotiation-make-concessions-from-power-not-weakness.md`
+- `inspiration_on_software_development/iteration_and_delivery/139-bring-data-and-technical-bottom-line-to-negotiate-requirements.md`
+- `inspiration_on_running_a_company/strategy_and_execution/139-bring-bottom-line-and-market-position-to-business-negotiation.md`
+- `inspiration_on_stock_investing/research_and_thesis/139-bring-stop-loss-bottom-line-and-position-strength-to-every-trade.md`
+- `inspiration_on_making_money/execution_and_delivery/139-bring-bottom-line-and-alternatives-to-price-negotiation.md`
+- `inspiration_on_embedded_coding/engineering_strategy/139-bring-technical-bottom-line-and-prototype-data-to-spec-negotiation.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/139-bring-student-data-and-education-bottom-line-to-reform-negotiation.md`
+
 
 ## Naming convention
 

@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`139《四分五裂的反动派为什么还要空喊全面和平》`。
+- 如果继续顺序推进，下一篇应是：`140《中国共产党第七届中央委员会第二次全体会议决议》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -627,6 +627,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/138-decode-supplier-recommended-scheme-translate-optimal-claims-into-real-intent.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/138-decode-education-product-guarantees-translate-score-promises-into-real-intent.md`
   - 本轮已完成七个角度：该文把"逐条拆穿对手话术（每个'合理条件'背后都有不可告人的真实目的），用对手原话拆穿对手（全文最有力的部分是蒋自己说的），讽刺比愤怒有力（让对手自己的话变得荒谬），看穿'双赢'话术（对方的'双赢'是谁赢），市场反应比话术诚实（连物价都不信你），不被'可怜'外衣骗了（看清本质）"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的话术拆穿方法论，提醒不同场景下的行动者：别人对你说的每句话都有表面意思和真实意图，学会'翻译'对方的话，看行动不看嘴，用数字让话术现形。
+
+- 139《中共中央毛泽东主席关于时局的声明》
+  - `../judgement_and_decision/139-bring-bottom-line-and-strength-to-negotiation-make-concessions-from-power-not-weakness.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/139-bring-data-and-technical-bottom-line-to-negotiate-requirements.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/139-bring-bottom-line-and-market-position-to-business-negotiation.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/139-bring-stop-loss-bottom-line-and-position-strength-to-every-trade.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/139-bring-bottom-line-and-alternatives-to-price-negotiation.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/139-bring-technical-bottom-line-and-prototype-data-to-spec-negotiation.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/139-bring-student-data-and-education-bottom-line-to-reform-negotiation.md`
+  - 本轮已完成七个角度：该文把"先摆事实建立道义（用具体事实而非空指责），识别假让步（看对方保留了什么核心条件），提不可动摇的底线条件，有力量的让步才是让步（弱者的妥协不是让步是投降），谈判期间绝不松懈（战斗准备和谈判同时进行），用民意做后盾"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的谈判方法论，提醒不同场景下的行动者：带着底线和实力上谈判桌，让步是基于力量的选择不是软弱，谈判期间绝不松懈战斗准备。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

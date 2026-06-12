@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：891 篇
-- 当前已建立原文关联的毛文标题数：138 篇（001—138 已连续覆盖）
-  - 顺序主线：001—138 已按官网真实编号连续覆盖；110—112 已补齐；113—138 保持已完成 7/7
-  - 当前最新纳入：138《评战犯求和》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`139《四分五裂的反动派为什么还要空喊全面和平》`
+- 当前已建立 `原文对应` 的主题转译文件：898 篇
+- 当前已建立原文关联的毛文标题数：139 篇（001—139 已连续覆盖）
+  - 顺序主线：001—139 已按官网真实编号连续覆盖；110—112 已补齐；113—139 保持已完成 7/7
+  - 当前最新纳入：139《中共中央毛泽东主席关于时局的声明》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 顺序主线的下一篇：`140《中国共产党第七届中央委员会第二次全体会议决议》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

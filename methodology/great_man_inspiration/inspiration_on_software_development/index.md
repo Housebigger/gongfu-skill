@@ -247,6 +247,7 @@ Purpose:
 - [136 帮团队算清技术债堵侥幸给重构路径：帮对方算清账、堵住幻想、给出退路](iteration_and_delivery/136-help-team-face-tech-debt-reality-block-workaround-illusions-and-offer-feasible-refactor-path.md)
 - [137 将发布进行到底不怜惜临门一脚的需求](iteration_and_delivery/137-carry-release-through-to-the-end-dont-show-mercy-to-last-minute-requests.md)
 - [138 拆穿甲方小需求背后的真实企图](iteration_and_delivery/138-decode-client-just-a-small-change-talk-use-effort-estimates-to-reveal-truth.md)
+- [139 带着数据和技术底线去谈需求](iteration_and_delivery/139-bring-data-and-technical-bottom-line-to-negotiate-requirements.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

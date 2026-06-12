@@ -203,6 +203,7 @@ This folder focuses on:
 - [136 帮团队算清困境堵否认给转型路径：帮对方算清账、堵住幻想、给出退路](strategy_and_execution/136-help-team-face-business-reality-block-denial-and-offer-feasible-pivot-path.md)
 - [137 将盈利进行到底不怜惜再烧一轮的诱惑](strategy_and_execution/137-carry-profitability-through-to-the-end-dont-show-mercy-to-burn-more-money-temptation.md)
 - [138 拆穿竞争对手合作提议背后的真实企图](strategy_and_execution/138-decode-competitor-cooperation-proposal-read-real-intent-and-never-trust-words-alone.md)
+- [139 带着底线和市场份额去谈合作](strategy_and_execution/139-bring-bottom-line-and-market-position-to-business-negotiation.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

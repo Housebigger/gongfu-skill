@@ -185,6 +185,7 @@ Additional focus:
 - [136 帮自己算清沉没成本堵幻想及时转向：帮对方算清账、堵住幻想、给出退路](execution_and_delivery/136-help-yourself-count-sunk-costs-block-one-more-push-illusions-and-pivot-timely.md)
 - [137 将收入流进行到底不怜惜再做一的诱惑](execution_and_delivery/137-carry-income-stream-through-to-the-end-dont-show-mercy-to-do-one-more-temptation.md)
 - [138 拆穿赚钱机会话术背后的真实意图](execution_and_delivery/138-decode-making-money-scams-translate-zero-barrier-claims-into-real-intent.md)
+- [139 带着底线和备选方案去谈价格](execution_and_delivery/139-bring-bottom-line-and-alternatives-to-price-negotiation.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

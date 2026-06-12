@@ -82,6 +82,7 @@ Focus:
 - [146 用矛盾答案验证参数](engineering_strategy/146-use-contradictory-supplier-answers-to-verify-real-specs.md)
 - [147 原型只是序幕防量产坑](engineering_strategy/147-prototype-pass-is-prologue-mass-production-is-the-real-test.md)
 - [148 嵌入式项目管理十二法](engineering_strategy/148-twelve-methods-for-embedded-project-management.md)
+- [149 方案决策没有第三条路](engineering_strategy/149-no-third-way-in-design-decisions-inaction-is-tech-debt.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

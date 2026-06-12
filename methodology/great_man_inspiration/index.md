@@ -668,6 +668,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/148-twelve-methods-for-embedded-project-management.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/148-twelve-methods-for-education-management.md`
 
+### 149《南京政府向何处去？》(1949-04-04)
+- `inspiration_on_today_life/judgement_and_decision/149-no-third-way-indecisiveness-is-the-worst-choice.md`
+- `inspiration_on_software_development/iteration_and_delivery/149-no-third-way-in-tech-decisions-inaction-is-worst.md`
+- `inspiration_on_running_a_company/strategy_and_execution/149-no-third-way-in-strategy-inaction-is-decay.md`
+- `inspiration_on_stock_investing/research_and_thesis/149-no-third-way-in-stopping-loss-inaction-is-max-loss.md`
+- `inspiration_on_making_money/execution_and_delivery/149-no-third-way-in-pivoting-inaction-is-wasted-time.md`
+- `inspiration_on_embedded_coding/engineering_strategy/149-no-third-way-in-design-decisions-inaction-is-tech-debt.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/149-no-third-way-in-teaching-reform-inaction-is-wasting-students.md`
+
 
 ## Naming convention
 

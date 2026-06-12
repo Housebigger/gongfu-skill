@@ -728,6 +728,16 @@
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/148-twelve-methods-for-education-management.md`
   - 本轮已完成七个角度：该文把毛泽东总结的十二个工作方法（当班长/问题摆到桌面/互通情报/不耻下问/弹钢琴/抓紧/胸中有数/安民告示/精兵简政/团结不同意见/力戒骄傲/划清界限）转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的管理方法论，核心理念是好的方法比好的态度更重要——透明沟通、数据驱动、抓紧执行、谦逊包容。
 
+- 149《南京政府向何处去？》
+  - `../judgement_and_decision/149-no-third-way-indecisiveness-is-the-worst-choice.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/149-no-third-way-in-tech-decisions-inaction-is-worst.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/149-no-third-way-in-strategy-inaction-is-decay.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/149-no-third-way-in-stopping-loss-inaction-is-max-loss.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/149-no-third-way-in-pivoting-inaction-is-wasted-time.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/149-no-third-way-in-design-decisions-inaction-is-tech-debt.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/149-no-third-way-in-teaching-reform-inaction-is-wasting-students.md`
+  - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
+
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/126-when-taking-over-a-legacy-codebase-first-classify-systems-keep-services-running-and-dont-launch-rewrite-campaigns.md`

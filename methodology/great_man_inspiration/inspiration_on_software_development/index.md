@@ -257,6 +257,7 @@ Purpose:
 - [146 用甲方矛盾锁定需求](iteration_and_delivery/146-use-contradictory-client-statements-to-lock-down-real-requirements.md)
 - [147 上线只是序幕防技术债](iteration_and_delivery/147-launch-is-prologue-tech-debt-is-sugar-coated-bullet.md)
 - [148 技术团队管理十二法](iteration_and_delivery/148-twelve-methods-for-tech-team-management.md)
+- [149 技术决策没有第三条路](iteration_and_delivery/149-no-third-way-in-tech-decisions-inaction-is-worst.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

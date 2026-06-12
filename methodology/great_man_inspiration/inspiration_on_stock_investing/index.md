@@ -138,6 +138,7 @@ Purpose:
 - [146 用管理层矛盾识别风险](research_and_thesis/146-use-contradictory-management-statements-to-spot-risks.md)
 - [147 赚钱只是序幕防过度自信](research_and_thesis/147-profit-is-prologue-keeping-it-is-harder-than-making-it.md)
 - [148 投资决策十二法](research_and_thesis/148-twelve-methods-for-investment-decisions.md)
+- [149 止损没有第三条路](research_and_thesis/149-no-third-way-in-stopping-loss-inaction-is-max-loss.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

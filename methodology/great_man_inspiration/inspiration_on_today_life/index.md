@@ -228,6 +228,7 @@ Purpose:
 - [146 用矛盾答案拆穿真相](judgement_and_decision/146-use-their-contradictory-answers-to-expose-the-truth.md)
 - [147 赢了只是序幕防糖衣炮弹](judgement_and_decision/147-victory-is-prologue-watch-out-for-sugar-coated-bullets.md)
 - [148 十二个工作方法](judgement_and_decision/148-twelve-work-methods-for-everyday-life.md)
+- [149 没有第三条路骑墙是幻想](judgement_and_decision/149-no-third-way-indecisiveness-is-the-worst-choice.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

@@ -53,10 +53,10 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：961 篇
-- 当前已建立原文关联的毛文标题数：148 篇（001—148 已连续覆盖）
-  - 顺序主线：001—148 已按官网真实编号连续覆盖；110—112 已补齐；113—148 保持已完成 7/7
-  - 当前最新纳入：148《党委会的工作方法》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 当前已建立 `原文对应` 的主题转译文件：968 篇
+- 当前已建立原文关联的毛文标题数：149 篇（001—149 已连续覆盖）
+  - 顺序主线：001—149 已按官网真实编号连续覆盖；110—112 已补齐；113—149 保持已完成 7/7
+  - 当前最新纳入：149《南京政府向何处去？》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
 - 顺序主线的下一篇：`147《在中国共产党第七届中央委员会第二次全体会议上的结论》`
 
 建议入口：

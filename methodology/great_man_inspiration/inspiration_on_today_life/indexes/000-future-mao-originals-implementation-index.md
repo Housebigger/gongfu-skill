@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `147《在中国共产党第七届中央委员会第二次全体会议上的结论》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—148。
+- 当前已完成连续主线：001—149。
 - 下一篇主线：147《在中国共产党第七届中央委员会第二次全体会议上的结论》。
-- 主文章未来仍待落实：149—229，共 81 篇；148 已完成。
+- 主文章未来仍待落实：150—229，共 80 篇；149 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -67,7 +67,7 @@
 | 146 | 146 | 第四卷 第三次国内革命战争时期 | 57 | 《评国民党对战争责任问题的几种答案》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm) | 已完成 |
 | 147 | 147 | 第四卷 第三次国内革命战争时期 | 58 | 《在中国共产党第七届中央委员会第二次全体会议上的报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490305.htm) | 已完成 |
 | 148 | 148 | 第四卷 第三次国内革命战争时期 | 59 | 《党委会的工作方法》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490313.htm) | 已完成 |
-| 149 | 149 | 第四卷 第三次国内革命战争时期 | 60 | 《南京政府向何处去？》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490404.htm) | 待落实 |
+| 149 | 149 | 第四卷 第三次国内革命战争时期 | 60 | 《南京政府向何处去？》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490404.htm) | 已完成 |
 | 150 | 150 | 第四卷 第三次国内革命战争时期 | 61 | 《向全国进军的命令》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490421.htm) | 待落实 |
 | 151 | 151 | 第四卷 第三次国内革命战争时期 | 62 | 《中国人民解放军布告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490425.htm) | 待落实 |
 | 152 | 152 | 第四卷 第三次国内革命战争时期 | 63 | 《中国人民解放军总部发言人为英国军舰暴行发表的声明》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490330.htm) | 待落实 |

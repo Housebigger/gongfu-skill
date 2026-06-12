@@ -80,6 +80,7 @@ Focus:
 - [144 供应商四分五裂](engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md)
 - [145 用Datasheet检验实测](engineering_strategy/145-use-datasheet-vs-measurements-to-verify-supplier-claims.md)
 - [146 用矛盾答案验证参数](engineering_strategy/146-use-contradictory-supplier-answers-to-verify-real-specs.md)
+- [147 原型只是序幕防量产坑](engineering_strategy/147-prototype-pass-is-prologue-mass-production-is-the-real-test.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

@@ -16,9 +16,9 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 146（001—146 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 947 |
-| 顺序学习已连续覆盖范围 | 001—146 |
+| 当前已建立原文关联的毛文标题数 | 147（001—147 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 954 |
+| 顺序学习已连续覆盖范围 | 001—147 |
 | 顺序覆盖段标题核对结果 | 001—146 与 marxists.org 标题一致；110—112 已补齐；113—146 已按官网真实编号回正 |
 | 顺序覆盖是否连续 | 是：001—146 已连续覆盖 |
 | 顺序主线的下一篇 | 147《在中国共产党第七届中央委员会第二次全体会议上的结论》 |
@@ -27,7 +27,7 @@
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—146 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—147 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -180,11 +180,12 @@
 | 144 | 《四分五裂的反动派为什么还要空喊“全面和平”？》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490215.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 145 | 《国民党反动派由“呼吁和平”变为呼吁战争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490216.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 146 | 《评国民党对战争责任问题的几种答案》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 147 | 《在中国共产党第七届中央委员会第二次全体会议上的报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490305.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—146 顺序主线已连续建立关联        [DONE]
+001—147 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -220,7 +221,8 @@
 144 《四分五裂的反动派为什么还要空喊“全面和平”？》 [DONE: 7/7]
 145 《国民党反动派由“呼吁和平”变为呼吁战争》 [DONE: 7/7]
 146 《评国民党对战争责任问题的几种答案》 [DONE: 7/7]
-147《在中国共产党第七届中央委员会第二次全体会议上的结论》 [NEXT]
+147 《在中国共产党第七届中央委员会第二次全体会议上的报告》 [DONE: 7/7]
+148《党委会的工作方法》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -386,6 +388,7 @@
 | 144 | 《四分五裂的反动派为什么还要空喊“全面和平”？》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490215.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/144-when-opponent-is-fractured-their-comprehensive-promises-are-empty.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/144-when-client-is-fractured-their-comprehensive-promises-are-empty.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/144-when-partner-is-fractured-their-comprehensive-cooperation-is-empty.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/144-when-management-is-fractured-their-comprehensive-turnaround-is-empty.md) | [MM](./inspiration_on_making_money/execution_and_delivery/144-when-project-seller-is-fractured-their-full-support-is-empty.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/144-when-school-is-fractured-their-comprehensive-education-is-empty.md) | 7 |
 | 145 | 《国民党反动派由“呼吁和平”变为呼吁战争》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490216.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/145-use-their-own-words-to-corner-them-help-them-do-the-math.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/145-use-signed-documents-to-corner-clients-let-contracts-speak.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/145-use-signed-agreements-to-corner-partners-let-contracts-speak.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/145-use-management-past-words-to-check-current-actions.md) | [MM](./inspiration_on_making_money/execution_and_delivery/145-use-their-pitch-vs-reality-to-expose-empty-promises.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/145-use-datasheet-vs-measurements-to-verify-supplier-claims.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/145-use-admission-brochure-vs-reality-to-verify-school-claims.md) | 7 |
 | 146 | 《评国民党对战争责任问题的几种答案》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/146-use-their-contradictory-answers-to-expose-the-truth.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/146-use-contradictory-client-statements-to-lock-down-real-requirements.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/146-use-contradictory-partner-statements-to-lock-down-real-terms.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/146-use-contradictory-management-statements-to-spot-risks.md) | [MM](./inspiration_on_making_money/execution_and_delivery/146-use-contradictory-pitch-statements-to-spot-scams.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/146-use-contradictory-supplier-answers-to-verify-real-specs.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/146-use-contradictory-school-statements-to-verify-real-quality.md) | 7 |
+| 147 | 《在中国共产党第七届中央委员会第二次全体会议上的报告》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490305.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/147-victory-is-prologue-watch-out-for-sugar-coated-bullets.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/147-launch-is-prologue-tech-debt-is-sugar-coated-bullet.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/147-funding-is-prologue-management-discipline-is-the-antidote.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/147-profit-is-prologue-keeping-it-is-harder-than-making-it.md) | [MM](./inspiration_on_making_money/execution_and_delivery/147-first-pot-of-gold-is-prologue-keeping-it-is-harder.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/147-prototype-pass-is-prologue-mass-production-is-the-real-test.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/147-admission-is-prologue-real-learning-starts-after-exams.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2070,6 +2073,18 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/146-use-contradictory-pitch-statements-to-spot-scams.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/146-use-contradictory-supplier-answers-to-verify-real-specs.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/146-use-contradictory-school-statements-to-verify-real-quality.md`
+
+## 147 《在中国共产党第七届中央委员会第二次全体会议上的报告》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 58 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490305.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/147-victory-is-prologue-watch-out-for-sugar-coated-bullets.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/147-launch-is-prologue-tech-debt-is-sugar-coated-bullet.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/147-funding-is-prologue-management-discipline-is-the-antidote.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/147-profit-is-prologue-keeping-it-is-harder-than-making-it.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/147-first-pot-of-gold-is-prologue-keeping-it-is-harder.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/147-prototype-pass-is-prologue-mass-production-is-the-real-test.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/147-admission-is-prologue-real-learning-starts-after-exams.md`
 
 ## 6. 使用建议
 

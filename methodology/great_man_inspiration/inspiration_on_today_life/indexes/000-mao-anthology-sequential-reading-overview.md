@@ -708,6 +708,16 @@
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/146-use-contradictory-school-statements-to-verify-real-quality.md`
   - 本轮已完成七个角度：该文把"对方阵营对同一问题有几种互相矛盾的答案（蒋介石说全怪共产党/孙科说大家都有责任后来又改口说怪国民党自己/李宗仁只摆事实不甩锅），用对方自己的证词给对方定性（孙科说若干人士过分迷信武力正好和战犯数量一致），找出对方的可爱之处加以利用（孙科自动招供忠实无误），对比对方前后矛盾暴露真实意图（孙科前后说法不一说明第一个答案是推卸责任），死硬派只敢吞吞吐吐不敢明目张胆（吞吞吐吐本身就是理亏信号）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的用矛盾说法拆穿对方的方法论，提醒不同场景下的行动者：不需要你自己反驳对方——把对方不同人不同时间的不同说法摆在一起就够了。
 
+- 147《在中国共产党第七届中央委员会第二次全体会议上的报告》
+  - `../judgement_and_decision/147-victory-is-prologue-watch-out-for-sugar-coated-bullets.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/147-launch-is-prologue-tech-debt-is-sugar-coated-bullet.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/147-funding-is-prologue-management-discipline-is-the-antidote.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/147-profit-is-prologue-keeping-it-is-harder-than-making-it.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/147-first-pot-of-gold-is-prologue-keeping-it-is-harder.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/147-prototype-pass-is-prologue-mass-production-is-the-real-test.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/147-admission-is-prologue-real-learning-starts-after-exams.md`
+  - 本轮已完成七个角度：该文把"赢了只是序幕不是高潮（夺取全国胜利这只是万里长征走完了第一步），糖衣炮弹比真炮弹更难防（敌人的武力不能征服我们但资产阶级的捧场可能征服我们），工作重心必须转移（从乡村到城市必须学会管理城市），城市工作的核心是生产（从接管第一天起眼睛就要向着生产），三种解决方式（天津/北平/绥远），两个务必（谦虚谨慎不骄不躁艰苦奋斗），不拿枪的敌人更危险（拿枪的敌人被消灭后不拿枪的敌人依然存在）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的阶段性胜利后的警醒方法论，提醒各场景的行动者：赢了不防糖衣炮弹=给失败交定金。
+
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/126-when-taking-over-a-legacy-codebase-first-classify-systems-keep-services-running-and-dont-launch-rewrite-campaigns.md`

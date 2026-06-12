@@ -650,6 +650,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/146-use-contradictory-supplier-answers-to-verify-real-specs.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/146-use-contradictory-school-statements-to-verify-real-quality.md`
 
+### 147《在中国共产党第七届中央委员会第二次全体会议上的报告》(1949-03-05)
+- `inspiration_on_today_life/judgement_and_decision/147-victory-is-prologue-watch-out-for-sugar-coated-bullets.md`
+- `inspiration_on_software_development/iteration_and_delivery/147-launch-is-prologue-tech-debt-is-sugar-coated-bullet.md`
+- `inspiration_on_running_a_company/strategy_and_execution/147-funding-is-prologue-management-discipline-is-the-antidote.md`
+- `inspiration_on_stock_investing/research_and_thesis/147-profit-is-prologue-keeping-it-is-harder-than-making-it.md`
+- `inspiration_on_making_money/execution_and_delivery/147-first-pot-of-gold-is-prologue-keeping-it-is-harder.md`
+- `inspiration_on_embedded_coding/engineering_strategy/147-prototype-pass-is-prologue-mass-production-is-the-real-test.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/147-admission-is-prologue-real-learning-starts-after-exams.md`
+
 
 ## Naming convention
 

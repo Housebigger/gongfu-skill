@@ -136,6 +136,7 @@ Purpose:
 - [144 管理层四分五裂](research_and_thesis/144-when-management-is-fractured-their-comprehensive-turnaround-is-empty.md)
 - [145 用管理层过去的话检验](research_and_thesis/145-use-management-past-words-to-check-current-actions.md)
 - [146 用管理层矛盾识别风险](research_and_thesis/146-use-contradictory-management-statements-to-spot-risks.md)
+- [147 赚钱只是序幕防过度自信](research_and_thesis/147-profit-is-prologue-keeping-it-is-harder-than-making-it.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

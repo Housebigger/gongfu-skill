@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`133《全世界革命力量团结起来，反对帝国主义的侵略》`。
+- 如果继续顺序推进，下一篇应是：`134《中国军事形势的重大变化》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -567,6 +567,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/132-divide-project-into-phases-concentrate-team-on-each-stage.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/132-divide-semester-into-phases-concentrate-effort-on-each-stage.md`
   - 本轮已完成七个角度：该文把"分三阶段推进大战役，每阶段集中优势兵力打歼灭战（两个纵队歼一个师），用一半以上兵力阻援牵制不让敌人援兵到位，复用已验证打法，每阶段2-3周，全局时间表从当前到渡江，方针正确实际更顺利"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的分阶段攻坚方法，提醒不同场景下的行动者：大目标必须拆成阶段，每阶段集中全力打一个核心，用超过一半的精力排除干扰。
+
+- 133《全世界革命力量团结起来，反对帝国主义的侵略》
+  - `../judgement_and_decision/133-unite-all-allies-find-role-models-and-dont-overestimate-difficulties.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/133-unite-cross-functional-allies-learn-from-proven-examples-and-dont-overestimate-challenges.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/133-unite-partners-learn-from-industry-leaders-and-dont-overestimate-competition.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/133-build-information-networks-learn-from-proven-strategies-and-dont-overestimate-market-risks.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/133-build-partner-networks-learn-from-successful-peers-and-dont-overestimate-entry-barriers.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/133-build-supplier-ecosystem-learn-from-reference-designs-and-dont-overestimate-technical-barriers.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/133-build-community-alliances-learn-from-excellent-schools-and-dont-overestimate-reform-barriers.md`
+  - 本轮已完成七个角度：该文把"既要革命就要有一个革命党，榜样力量证明道路可行，团结一切力量组成统一战线，敌人有力量但基础虚弱（内部分崩离析、脱离人民、无法解脱的经济危机），过高估计敌人和过低估计自己都是极大错误，用数据证明胜利是真实的，不再孤立有全世界援助，不怕困难且能克服困难"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的联盟建设方法，提醒不同场景下的行动者：团结一切可以团结的力量，找对榜样，不要高估困难低估自己。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

@@ -66,6 +66,7 @@ Focus:
 - [130 嵌入式团队决策：大事集体商量不搞一言堂，但紧急时刻该拍板就拍板](engineering_strategy/130-build-team-review-decision-making-and-prevent-solo-engineer-call-the-shots.md)
 - [131 项目阶段复盘：用数据盘点过去，用量化目标规划未来，提前储备下一阶段的能力](engineering_strategy/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-project.md)
 - [132 项目攻坚分阶段：把大目标拆成阶段，每阶段集中火力打一个核心](engineering_strategy/132-divide-project-into-phases-concentrate-team-on-each-stage.md)
+- [133 搭建供应商生态：团结一切力量，找榜样，不高估困难](engineering_strategy/133-build-supplier-ecosystem-learn-from-reference-designs-and-dont-overestimate-technical-barriers.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

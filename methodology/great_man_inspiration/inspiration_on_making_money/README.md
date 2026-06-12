@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—132 连续覆盖，下一篇为 133《全世界革命力量团结起来，反对帝国主义的侵略》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—133 连续覆盖，下一篇为 134《中国军事形势的重大变化》。

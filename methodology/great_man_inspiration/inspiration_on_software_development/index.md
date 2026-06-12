@@ -241,6 +241,7 @@ Purpose:
 - [130 技术团队决策机制：大事集体商量不搞一言堂，但紧急时刻该拍板就拍板](iteration_and_delivery/130-build-team-decision-making-and-prevent-solo-architect-call-the-shots.md)
 - [131 产品团队阶段复盘：用数据复盘、设量化目标、为下个版本做好准备](iteration_and_delivery/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-release.md)
 - [132 大项目分阶段攻坚：把大目标拆成阶段，每阶段集中火力打一个核心](iteration_and_delivery/132-divide-big-projects-into-phases-concentrate-team-on-each-milestone.md)
+- [133 团结跨职能盟友：团结一切力量，找榜样，不高估困难](iteration_and_delivery/133-unite-cross-functional-allies-learn-from-proven-examples-and-dont-overestimate-challenges.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -524,6 +524,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/132-divide-project-into-phases-concentrate-team-on-each-stage.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/132-divide-semester-into-phases-concentrate-effort-on-each-stage.md`
 
+### 133《全世界革命力量团结起来，反对帝国主义的侵略》(1948-11)
+- `inspiration_on_today_life/judgement_and_decision/133-unite-all-allies-find-role-models-and-dont-overestimate-difficulties.md`
+- `inspiration_on_software_development/iteration_and_delivery/133-unite-cross-functional-allies-learn-from-proven-examples-and-dont-overestimate-challenges.md`
+- `inspiration_on_running_a_company/strategy_and_execution/133-unite-partners-learn-from-industry-leaders-and-dont-overestimate-competition.md`
+- `inspiration_on_stock_investing/research_and_thesis/133-build-information-networks-learn-from-proven-strategies-and-dont-overestimate-market-risks.md`
+- `inspiration_on_making_money/execution_and_delivery/133-build-partner-networks-learn-from-successful-peers-and-dont-overestimate-entry-barriers.md`
+- `inspiration_on_embedded_coding/engineering_strategy/133-build-supplier-ecosystem-learn-from-reference-designs-and-dont-overestimate-technical-barriers.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/133-build-community-alliances-learn-from-excellent-schools-and-dont-overestimate-reform-barriers.md`
+
 
 ## Naming convention
 

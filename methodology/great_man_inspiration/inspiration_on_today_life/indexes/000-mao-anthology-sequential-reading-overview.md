@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`136《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
+- 如果继续顺序推进，下一篇应是：`137《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -597,6 +597,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/135-surround-problem-areas-before-reforming-block-backsliding-and-coordinate-teachers-parents-admin.md`
   - 本轮已完成七个角度：该文把"围而不打隔而不围（先完成包围部署不急于歼灭），真正目标不是显眼的北平而是堵住退路的塘沽海口，全局协调（淮海战场也配合延缓进攻），多路同时施压各有分工，不要过分估计敌人战斗力（已是惊弓之鸟），敌人总低估我军积极性，不惜疲劳先完成部署再休整，攻击次序有严格计划（塘沽→新保安→唐山→天津/张家口→北平），复用已验证的辽沈打法，出敌意外"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的包围方法论，提醒不同场景下的行动者：先围后打，堵退路比攻城更重要，多战场协调，攻击次序有讲究。
+
+- 136《敦促杜聿明等投降书》
+  - `../judgement_and_decision/136-help-the-other-side-count-their-losses-block-illusions-and-offer-a-dignified-exit.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/136-help-team-face-tech-debt-reality-block-workaround-illusions-and-offer-feasible-refactor-path.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/136-help-team-face-business-reality-block-denial-and-offer-feasible-pivot-path.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/136-help-yourself-count-losses-block-it-will-bounce-back-illusions-and-execute-stop-loss.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/136-help-yourself-count-sunk-costs-block-one-more-push-illusions-and-pivot-timely.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/136-help-team-count-failed-approach-costs-block-one-more-tweak-illusions-and-switch-plans.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/136-help-teachers-face-data-reality-block-student-blame-excuses-and-offer-feasible-improvement-path.md`
+  - 本轮已完成七个角度：该文把"帮对方算清账（40天丢34个师，用对方自己的损失说话），堵住所有幻想（突围无望、援兵不来、飞机坦克没用），指出内部脆弱（兵士不想打、伤兵叫苦），给出榜样和退路（学郑洞国投降保命），体恤对方处境（爱惜部下生命），给选择权但陈述必然（还想打就打但总归要被解决）"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的说服方法论，提醒不同场景下的行动者：说服一个人不是靠吵架赢了他，而是帮对方认清现实、堵住幻想、给一条体面退路。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

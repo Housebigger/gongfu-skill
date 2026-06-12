@@ -551,6 +551,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/135-surround-problem-areas-before-reforming-block-backsliding-and-coordinate-teachers-parents-admin.md`
 
+### 136《敦促杜聿明等投降书》(1948-12-17)
+- `inspiration_on_today_life/judgement_and_decision/136-help-the-other-side-count-their-losses-block-illusions-and-offer-a-dignified-exit.md`
+- `inspiration_on_software_development/iteration_and_delivery/136-help-team-face-tech-debt-reality-block-workaround-illusions-and-offer-feasible-refactor-path.md`
+- `inspiration_on_running_a_company/strategy_and_execution/136-help-team-face-business-reality-block-denial-and-offer-feasible-pivot-path.md`
+- `inspiration_on_stock_investing/research_and_thesis/136-help-yourself-count-losses-block-it-will-bounce-back-illusions-and-execute-stop-loss.md`
+- `inspiration_on_making_money/execution_and_delivery/136-help-yourself-count-sunk-costs-block-one-more-push-illusions-and-pivot-timely.md`
+- `inspiration_on_embedded_coding/engineering_strategy/136-help-team-count-failed-approach-costs-block-one-more-tweak-illusions-and-switch-plans.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/136-help-teachers-face-data-reality-block-student-blame-excuses-and-offer-feasible-improvement-path.md`
+
 
 ## Naming convention
 

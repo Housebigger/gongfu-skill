@@ -7,8 +7,8 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—135 已连续对齐完成，下一篇为 136《在中国共产党第七届中央委员会第二次全体会议上的报告》。
-- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 136《在中国共产党第七届中央委员会第二次全体会议上的报告》至 X231《纪念巴黎公社的重要意义》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—136 已连续对齐完成，下一篇为 137《在中国共产党第七届中央委员会第二次全体会议上的报告》。
+- 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 137《在中国共产党第七届中央委员会第二次全体会议上的报告》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
 ## 1. 当前覆盖状态总览
@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 135（001—135 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 870 |
-| 顺序学习已连续覆盖范围 | 001—135 |
-| 顺序覆盖段标题核对结果 | 001—135 与 marxists.org 标题一致；110—112 已补齐；113—135 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—135 已连续覆盖 |
-| 顺序主线的下一篇 | 136《在中国共产党第七届中央委员会第二次全体会议上的报告》 |
+| 当前已建立原文关联的毛文标题数 | 136（001—136 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 877 |
+| 顺序学习已连续覆盖范围 | 001—136 |
+| 顺序覆盖段标题核对结果 | 001—136 与 marxists.org 标题一致；110—112 已补齐；113—136 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—136 已连续覆盖 |
+| 顺序主线的下一篇 | 137《在中国共产党第七届中央委员会第二次全体会议上的报告》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—135 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—136 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -169,11 +169,12 @@
 | 133 | 《全世界革命力量团结起来，反对帝国主义的侵略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194811.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 134 | 《中国军事形势的重大变化》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 135 | 《关于平津战役的作战方针》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481211.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 136 | 《敦促杜聿明等投降书》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481217.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—135 顺序主线已连续建立关联        [DONE]
+001—136 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -198,7 +199,8 @@
 133 《全世界革命力量团结起来，反对帝国主义的侵略》 [DONE: 7/7]
 134 《中国军事形势的重大变化》 [DONE: 7/7]
 135 《关于平津战役的作战方针》 [DONE: 7/7]
-136 《在中国共产党第七届中央委员会第二次全体会议上的报告》 [NEXT]
+136 《敦促杜聿明等投降书》 [DONE: 7/7]
+137 《在中国共产党第七届中央委员会第二次全体会议上的报告》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -353,6 +355,7 @@
 | 133 | 《全世界革命力量团结起来，反对帝国主义的侵略》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194811.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/133-unite-all-allies-find-role-models-and-dont-overestimate-difficulties.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/133-unite-cross-functional-allies-learn-from-proven-examples-and-dont-overestimate-challenges.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/133-unite-partners-learn-from-industry-leaders-and-dont-overestimate-competition.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/133-build-information-networks-learn-from-proven-strategies-and-dont-overestimate-market-risks.md) | [MM](./inspiration_on_making_money/execution_and_delivery/133-build-partner-networks-learn-from-successful-peers-and-dont-overestimate-entry-barriers.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/133-build-supplier-ecosystem-learn-from-reference-designs-and-dont-overestimate-technical-barriers.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/133-build-community-alliances-learn-from-excellent-schools-and-dont-overestimate-reform-barriers.md) | 7 |
 | 134 | 《中国军事形势的重大变化》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/134-recognize-your-tipping-point-use-data-to-prove-progress-and-shorten-timelines.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/134-recognize-project-tipping-point-use-metrics-to-prove-progress-and-adjust-timelines.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/134-recognize-competitive-tipping-point-use-metrics-to-prove-momentum-and-accelerate.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/134-recognize-market-regime-shifts-use-data-to-confirm-trend-and-adjust-timelines.md) | [MM](./inspiration_on_making_money/execution_and_delivery/134-recognize-income-tipping-point-use-earnings-data-to-prove-momentum-and-accelerate.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/134-recognize-technical-tipping-point-use-quality-metrics-to-prove-progress-and-accelerate.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/134-recognize-improvement-tipping-point-use-student-data-to-prove-progress-and-accelerate.md) | 7 |
 | 135 | 《关于平津战役的作战方针》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481211.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/135-surround-before-you-strike-block-escape-routes-and-dont-rush-the-obvious-target.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/135-surround-technical-challenges-before-attacking-block-rollback-paths-and-coordinate-teams.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/135-surround-market-opportunities-before-committing-block-competitor-retreat-and-coordinate-departments.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/135-surround-investment-targets-before-buying-block-panic-exits-and-coordinate-portfolio.md) | [MM](./inspiration_on_making_money/execution_and_delivery/135-surround-market-niche-before-committing-block-fallback-to-old-habits-and-coordinate-streams.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/135-surround-problem-areas-before-reforming-block-backsliding-and-coordinate-teachers-parents-admin.md) | 7 |
+| 136 | 《敦促杜聿明等投降书》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481217.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/136-help-the-other-side-count-their-losses-block-illusions-and-offer-a-dignified-exit.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/136-help-team-face-tech-debt-reality-block-workaround-illusions-and-offer-feasible-refactor-path.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/136-help-team-face-business-reality-block-denial-and-offer-feasible-pivot-path.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/136-help-yourself-count-losses-block-it-will-bounce-back-illusions-and-execute-stop-loss.md) | [MM](./inspiration_on_making_money/execution_and_delivery/136-help-yourself-count-sunk-costs-block-one-more-push-illusions-and-pivot-timely.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/136-help-team-count-failed-approach-costs-block-one-more-tweak-illusions-and-switch-plans.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/136-help-teachers-face-data-reality-block-student-blame-excuses-and-offer-feasible-improvement-path.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -1906,10 +1909,22 @@
   - EC: `inspiration_on_embedded_coding/engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/135-surround-problem-areas-before-reforming-block-backsliding-and-coordinate-teachers-parents-admin.md`
 
+## 136 《敦促杜聿明等投降书》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 47 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481217.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/136-help-the-other-side-count-their-losses-block-illusions-and-offer-a-dignified-exit.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/136-help-team-face-tech-debt-reality-block-workaround-illusions-and-offer-feasible-refactor-path.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/136-help-team-face-business-reality-block-denial-and-offer-feasible-pivot-path.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/136-help-yourself-count-losses-block-it-will-bounce-back-illusions-and-execute-stop-loss.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/136-help-yourself-count-sunk-costs-block-one-more-push-illusions-and-pivot-timely.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/136-help-team-count-failed-approach-costs-block-one-more-tweak-illusions-and-switch-plans.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/136-help-teachers-face-data-reality-block-student-blame-excuses-and-offer-feasible-improvement-path.md`
+
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`136《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
+- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`137《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

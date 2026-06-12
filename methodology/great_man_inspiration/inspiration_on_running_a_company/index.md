@@ -200,6 +200,7 @@ This folder focuses on:
 - [133 团结合作伙伴：团结一切力量，找榜样，不高估困难](strategy_and_execution/133-unite-partners-learn-from-industry-leaders-and-dont-overestimate-competition.md)
 - [134 识别竞争拐点用指标证明势头：识别拐点，用数据证明趋势，缩短时间线](strategy_and_execution/134-recognize-competitive-tipping-point-use-metrics-to-prove-momentum-and-accelerate.md)
 - [135 先围后打堵住对手退路：先围后打，堵退路比攻城更重要](strategy_and_execution/135-surround-market-opportunities-before-committing-block-competitor-retreat-and-coordinate-departments.md)
+- [136 帮团队算清困境堵否认给转型路径：帮对方算清账、堵住幻想、给出退路](strategy_and_execution/136-help-team-face-business-reality-block-denial-and-offer-feasible-pivot-path.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航
@@ -207,4 +208,4 @@ This folder focuses on:
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 136《在中国共产党第七届中央委员会第二次全体会议上的报告》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 137《在中国中国共产党第七届中央委员会第二次全体会议上的报告》。

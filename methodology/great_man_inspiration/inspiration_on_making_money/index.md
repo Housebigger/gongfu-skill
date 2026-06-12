@@ -182,10 +182,11 @@ Additional focus:
 - [133 搭建合作伙伴网络：团结一切力量，找榜样，不高估困难](execution_and_delivery/133-build-partner-networks-learn-from-successful-peers-and-dont-overestimate-entry-barriers.md)
 - [134 识别收入拐点用数据证明势头：识别拐点，用数据证明趋势，缩短时间线](execution_and_delivery/134-recognize-income-tipping-point-use-earnings-data-to-prove-momentum-and-accelerate.md)
 - [135 先围后打堵住回头路：先围后打，堵退路比攻城更重要](execution_and_delivery/135-surround-market-niche-before-committing-block-fallback-to-old-habits-and-coordinate-streams.md)
+- [136 帮自己算清沉没成本堵幻想及时转向：帮对方算清账、堵住幻想、给出退路](execution_and_delivery/136-help-yourself-count-sunk-costs-block-one-more-push-illusions-and-pivot-timely.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 136《在中国共产党第七届中央委员会第二次全体会议上的报告》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 137《在中国中国共产党第七届中央委员会第二次全体会议上的报告》。

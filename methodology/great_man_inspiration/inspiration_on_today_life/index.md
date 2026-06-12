@@ -215,6 +215,7 @@ Purpose:
 - [133 团结盟友不孤军奋战：团结一切力量，找榜样，不高估困难](judgement_and_decision/133-unite-all-allies-find-role-models-and-dont-overestimate-difficulties.md)
 - [134 识别拐点用数据证明进度：识别拐点，用数据证明趋势，缩短时间线](judgement_and_decision/134-recognize-your-tipping-point-use-data-to-prove-progress-and-shorten-timelines.md)
 - [135 先围后打堵住退路：先围后打，堵退路比攻城更重要](judgement_and_decision/135-surround-before-you-strike-block-escape-routes-and-dont-rush-the-obvious-target.md)
+- [136 帮对方算清账堵幻想给退路：帮对方算清账、堵住幻想、给出退路](judgement_and_decision/136-help-the-other-side-count-their-losses-block-illusions-and-offer-a-dignified-exit.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -265,4 +266,4 @@ Future article-by-article life notes should be filed by practical use:
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 136《在中国共产党第七届中央委员会第二次全体会议上的报告》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 137《在中国中国共产党第七届中央委员会第二次全体会议上的报告》。

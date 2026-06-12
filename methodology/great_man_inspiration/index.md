@@ -623,6 +623,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/143-after-prototype-pass-transform-from-debug-mode-to-production-mode.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/143-after-every-graduation-transform-from-exam-mode-to-real-world-mode.md`
 
+### 144《四分五裂的反动派为什么还要空喊“全面和平”？》(1949-02-15)
+- `inspiration_on_today_life/judgement_and_decision/144-when-opponent-is-fractured-their-comprehensive-promises-are-empty.md`
+- `inspiration_on_software_development/iteration_and_delivery/144-when-client-is-fractured-their-comprehensive-promises-are-empty.md`
+- `inspiration_on_running_a_company/strategy_and_execution/144-when-partner-is-fractured-their-comprehensive-cooperation-is-empty.md`
+- `inspiration_on_stock_investing/research_and_thesis/144-when-management-is-fractured-their-comprehensive-turnaround-is-empty.md`
+- `inspiration_on_making_money/execution_and_delivery/144-when-project-seller-is-fractured-their-full-support-is-empty.md`
+- `inspiration_on_embedded_coding/engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/144-when-school-is-fractured-their-comprehensive-education-is-empty.md`
+
 
 ## Naming convention
 

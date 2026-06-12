@@ -208,6 +208,7 @@ This folder focuses on:
 - [141 不谈战略谈第一步](strategy_and_execution/141-dont-talk-strategy-talk-first-step-use-action-plans-to-verify-partnership.md)
 - [142 逐条驳斥合作方推诿](strategy_and_execution/142-refute-partner-excuses-give-minimum-actionable-demand.md)
 - [143 大单就要转型](strategy_and_execution/143-after-big-win-transform-from-startup-mode-to-management-mode.md)
+- [144 合作方四分五裂](strategy_and_execution/144-when-partner-is-fractured-their-comprehensive-cooperation-is-empty.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

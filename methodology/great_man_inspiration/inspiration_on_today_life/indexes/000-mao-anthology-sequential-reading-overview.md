@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`144《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
+- 如果继续顺序推进，下一篇应是：`145《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -677,6 +677,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/143-after-prototype-pass-transform-from-debug-mode-to-production-mode.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/143-after-every-graduation-transform-from-exam-mode-to-real-world-mode.md`
   - 本轮已完成七个角度：该文把"赢了就要转型（不转型就犯大错），不丢老本行但主要任务变了，全面学习新技能不挑三拣四，方式可能要反转（过去二十年先乡村后城市现在先城市后乡村），自己培养自己不能等外部（210万军队=几千个大学），资源从扩张转为克制（不可要求太多太好太完备以至财政危机）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的阶段性胜利后转型方法论，提醒不同场景下的行动者：打赢一仗只是开始，赢了就要学新技能承担新角色——不转型就会被自己过去的成功困住。
+
+- 144《四分五裂的反动派为什么还要空喊“全面和平”？》
+  - `../judgement_and_decision/144-when-opponent-is-fractured-their-comprehensive-promises-are-empty.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/144-when-client-is-fractured-their-comprehensive-promises-are-empty.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/144-when-partner-is-fractured-their-comprehensive-cooperation-is-empty.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/144-when-management-is-fractured-their-comprehensive-turnaround-is-empty.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/144-when-project-seller-is-fractured-their-full-support-is-empty.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/144-when-school-is-fractured-their-comprehensive-education-is-empty.md`
+  - 本轮已完成七个角度：该文把"搬起石头砸自己的脚（虚假策略被拆穿后反噬），对方内部四分五裂就是最大信号（总统/代总统/行政院/国防部互相矛盾），喊全面的人最不全面（邓文仪和国防部矛盾又和代总统矛盾），实力对比是基本事实（全面力量在人民解放军这边），全面口号和能力脱节就是空话（既没力量全面战也没力量全面和），支持局部突破（北平和平解决正在蔓延）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的虚假承诺识别方法论，提醒不同场景下的行动者：当对方内部四分五裂时他的全面承诺就是空话——拆穿内部矛盾，抓住实力对比，支持局部突破比等全面承诺更有效。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

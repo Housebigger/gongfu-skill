@@ -17,7 +17,7 @@
   - `000-future-mao-originals-implementation-index.md`
   - `000-mao-anthology-sequential-reading-overview.md`
 
-当前合计：143 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—143 已连续对齐。
+当前合计：144 篇 article-based 笔记；today_life 主题当前实写覆盖为 001—144 已连续对齐。
 
 ## 推荐入口
 

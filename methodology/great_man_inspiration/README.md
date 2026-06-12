@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—143 已连续对齐完成，下一篇为 144《在中国共产党第七届中央委员会第二次全体会议上的报告》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—144 已连续对齐完成，下一篇为 145《在中国共产党第七届中央委员会第二次全体会议上的报告》。
 - 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 144《在中国共产党第七届中央委员会第二次全体会议上的报告》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 143（001—143 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 926 |
-| 顺序学习已连续覆盖范围 | 001—143 |
-| 顺序覆盖段标题核对结果 | 001—143 与 marxists.org 标题一致；110—112 已补齐；113—143 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—143 已连续覆盖 |
-| 顺序主线的下一篇 | 144《在中国共产党第七届中央委员会第二次全体会议上的报告》 |
+| 当前已建立原文关联的毛文标题数 | 144（001—144 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 933 |
+| 顺序学习已连续覆盖范围 | 001—144 |
+| 顺序覆盖段标题核对结果 | 001—144 与 marxists.org 标题一致；110—112 已补齐；113—144 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—144 已连续覆盖 |
+| 顺序主线的下一篇 | 145《在中国共产党第七届中央委员会第二次全体会议上的报告》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—143 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—144 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -177,11 +177,12 @@
 | 141 | 《中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490128.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 142 | 《中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 143 | 《把军队变为工作队》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 144 | 《四分五裂的反动派为什么还要空喊“全面和平”？》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490215.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—143 顺序主线已连续建立关联        [DONE]
+001—144 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -214,7 +215,8 @@
 141 《中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话》 [DONE: 7/7]
 142 《中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明》 [DONE: 7/7]
 143 《把军队变为工作队》 [DONE: 7/7]
-144 《在中国共产党第七届中央委员会第二次全体会议上的报告》 [NEXT]
+144 《四分五裂的反动派为什么还要空喊“全面和平”？》 [DONE: 7/7]
+145《在中国共产党第七届中央委员会第二次全体会议上的报告》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -377,6 +379,7 @@
 | 141 | 《中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490128.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/141-dont-talk-principles-talk-actions-use-specific-todos-to-test-sincerity.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/141-dont-talk-principles-talk-deliverables-use-milestone-checklists.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/141-dont-talk-strategy-talk-first-step-use-action-plans-to-verify-partnership.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/141-dont-listen-to-what-companies-say-watch-what-they-do-use-real-money-signals.md) | [MM](./inspiration_on_making_money/execution_and_delivery/141-dont-listen-to-pitch-watch-what-they-make-you-do-use-real-tests.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/141-dont-trust-datasheet-trust-measurements-use-real-test-data-to-verify.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/141-dont-trust-promises-trust-actions-use-student-progress-data-to-verify.md) | 7 |
 | 142 | 《中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/142-refute-every-excuse-but-always-give-a-minimum-actionable-step.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/142-refuse-every-excuse-give-minimum-acceptance-criteria.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/142-refute-partner-excuses-give-minimum-actionable-demand.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/142-refute-management-excuses-use-minimum-verifiable-facts.md) | [MM](./inspiration_on_making_money/execution_and_delivery/142-refute-opportunity-pitch-use-minimum-investment-to-verify.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/142-refute-supplier-excuses-use-minimum-test-to-verify.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/142-refute-education-promises-use-minimum-verifiable-metrics.md) | 7 |
 | 143 | 《把军队变为工作队》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/143-after-every-win-transform-dont-stay-in-old-role.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/143-after-launch-transform-from-build-mode-to-operate-mode.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/143-after-big-win-transform-from-startup-mode-to-management-mode.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/143-after-a-winning-streak-transform-from-attack-to-defense.md) | [MM](./inspiration_on_making_money/execution_and_delivery/143-after-first-income-transform-from-freelance-to-system.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/143-after-prototype-pass-transform-from-debug-mode-to-production-mode.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/143-after-every-graduation-transform-from-exam-mode-to-real-world-mode.md) | 7 |
+| 144 | 《四分五裂的反动派为什么还要空喊“全面和平”？》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490215.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/144-when-opponent-is-fractured-their-comprehensive-promises-are-empty.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/144-when-client-is-fractured-their-comprehensive-promises-are-empty.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/144-when-partner-is-fractured-their-comprehensive-cooperation-is-empty.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/144-when-management-is-fractured-their-comprehensive-turnaround-is-empty.md) | [MM](./inspiration_on_making_money/execution_and_delivery/144-when-project-seller-is-fractured-their-full-support-is-empty.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/144-when-school-is-fractured-their-comprehensive-education-is-empty.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2025,6 +2028,18 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/143-after-first-income-transform-from-freelance-to-system.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/143-after-prototype-pass-transform-from-debug-mode-to-production-mode.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/143-after-every-graduation-transform-from-exam-mode-to-real-world-mode.md`
+
+## 144 《四分五裂的反动派为什么还要空喊“全面和平”？》
+- 真实索引位置：第四卷 第三次国内革命战争时期 / 本卷第 55 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490215.htm
+- 已关联 inspiration 文件数：7
+  - TL: `inspiration_on_today_life/judgement_and_decision/144-when-opponent-is-fractured-their-comprehensive-promises-are-empty.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/144-when-client-is-fractured-their-comprehensive-promises-are-empty.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/144-when-partner-is-fractured-their-comprehensive-cooperation-is-empty.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/144-when-management-is-fractured-their-comprehensive-turnaround-is-empty.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/144-when-project-seller-is-fractured-their-full-support-is-empty.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/144-when-school-is-fractured-their-comprehensive-education-is-empty.md`
 
 ## 6. 使用建议
 

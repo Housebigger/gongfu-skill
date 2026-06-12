@@ -77,6 +77,7 @@ Focus:
 - [141 不信标称信实测](engineering_strategy/141-dont-trust-datasheet-trust-measurements-use-real-test-data-to-verify.md)
 - [142 逐条驳斥供应商借口](engineering_strategy/142-refute-supplier-excuses-use-minimum-test-to-verify.md)
 - [143 原型通过就要转型](engineering_strategy/143-after-prototype-pass-transform-from-debug-mode-to-production-mode.md)
+- [144 供应商四分五裂](engineering_strategy/144-when-supplier-is-fractured-their-full-technical-support-is-empty.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

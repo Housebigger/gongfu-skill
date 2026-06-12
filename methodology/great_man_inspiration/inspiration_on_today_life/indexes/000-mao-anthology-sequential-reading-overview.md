@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`138《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
+- 如果继续顺序推进，下一篇应是：`139《四分五裂的反动派为什么还要空喊全面和平》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -617,6 +617,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/137-carry-validation-through-to-the-end-dont-show-mercy-to-last-minute-features.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/137-carry-reform-through-to-the-end-dont-show-mercy-to-pause-first-temptation.md`
   - 本轮已完成七个角度：该文把"快要成功时最危险——敌人不会自行消灭只会换方法（从军事进攻转为'和平'阴谋），农夫与蛇的寓言（不能怜惜装可怜的敌人否则会被反咬），两条路的选择（将革命进行到底还是半途而废），警惕混入革命阵营的'反对派'（劝说怜惜敌人的人不是朋友），扩大阵营但不容许错误主张获得胜利，1949年具体任务（进军江南+经济恢复+政治协商+成立共和国），不怕困难团结一致"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的冲刺方法论，提醒不同场景下的行动者：快要成功时最危险，坏习惯/临门需求/烧钱冲动/贪婪/多元化/新功能/放弃改革都是装可怜的蛇，必须一鼓作气干到底。
+
+- 138《评战犯求和》
+  - `../judgement_and_decision/138-decode-the-real-intent-behind-reasonable-demands-dont-get-fooled-by-surface-talk.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/138-decode-client-just-a-small-change-talk-use-effort-estimates-to-reveal-truth.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/138-decode-competitor-cooperation-proposal-read-real-intent-and-never-trust-words-alone.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/138-decode-corporate-spin-translate-good-news-into-real-intent-and-check-financials.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/138-decode-making-money-scams-translate-zero-barrier-claims-into-real-intent.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/138-decode-supplier-recommended-scheme-translate-optimal-claims-into-real-intent.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/138-decode-education-product-guarantees-translate-score-promises-into-real-intent.md`
+  - 本轮已完成七个角度：该文把"逐条拆穿对手话术（每个'合理条件'背后都有不可告人的真实目的），用对手原话拆穿对手（全文最有力的部分是蒋自己说的），讽刺比愤怒有力（让对手自己的话变得荒谬），看穿'双赢'话术（对方的'双赢'是谁赢），市场反应比话术诚实（连物价都不信你），不被'可怜'外衣骗了（看清本质）"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的话术拆穿方法论，提醒不同场景下的行动者：别人对你说的每句话都有表面意思和真实意图，学会'翻译'对方的话，看行动不看嘴，用数字让话术现形。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

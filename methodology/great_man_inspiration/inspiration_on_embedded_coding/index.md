@@ -71,6 +71,7 @@ Focus:
 - [135 先围后打堵住回归路径：先围后打，堵退路比攻城更重要](engineering_strategy/135-surround-hardware-bugs-before-fixing-block-regression-paths-and-coordinate-hw-sw-teams.md)
 - [136 帮团队算清方案失败账堵幻想换方案：帮对方算清账、堵住幻想、给出退路](engineering_strategy/136-help-team-count-failed-approach-costs-block-one-more-tweak-illusions-and-switch-plans.md)
 - [137 将验证进行到底不怜惜临门一脚的功能](engineering_strategy/137-carry-validation-through-to-the-end-dont-show-mercy-to-last-minute-features.md)
+- [138 拆穿供应商推荐方案背后的真实意图](engineering_strategy/138-decode-supplier-recommended-scheme-translate-optimal-claims-into-real-intent.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

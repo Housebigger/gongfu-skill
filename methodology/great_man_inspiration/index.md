@@ -569,6 +569,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/137-carry-validation-through-to-the-end-dont-show-mercy-to-last-minute-features.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/137-carry-reform-through-to-the-end-dont-show-mercy-to-pause-first-temptation.md`
 
+### 138《评战犯求和》(1949-01-04)
+- `inspiration_on_today_life/judgement_and_decision/138-decode-the-real-intent-behind-reasonable-demands-dont-get-fooled-by-surface-talk.md`
+- `inspiration_on_software_development/iteration_and_delivery/138-decode-client-just-a-small-change-talk-use-effort-estimates-to-reveal-truth.md`
+- `inspiration_on_running_a_company/strategy_and_execution/138-decode-competitor-cooperation-proposal-read-real-intent-and-never-trust-words-alone.md`
+- `inspiration_on_stock_investing/research_and_thesis/138-decode-corporate-spin-translate-good-news-into-real-intent-and-check-financials.md`
+- `inspiration_on_making_money/execution_and_delivery/138-decode-making-money-scams-translate-zero-barrier-claims-into-real-intent.md`
+- `inspiration_on_embedded_coding/engineering_strategy/138-decode-supplier-recommended-scheme-translate-optimal-claims-into-real-intent.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/138-decode-education-product-guarantees-translate-score-promises-into-real-intent.md`
+
 
 ## Naming convention
 

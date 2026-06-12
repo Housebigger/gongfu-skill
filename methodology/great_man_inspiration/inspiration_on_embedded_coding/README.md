@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—137 连续覆盖，下一篇为 138《在中国共产党第七届中央委员会第二次全体会议上的报告》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—138 连续覆盖，下一篇为 139《四分五裂的反动派为什么还要空喊全面和平》。

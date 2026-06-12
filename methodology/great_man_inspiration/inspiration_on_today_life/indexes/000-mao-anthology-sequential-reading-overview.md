@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`134《中国军事形势的重大变化》`。
+- 如果继续顺序推进，下一篇应是：`135《将革命进行到底》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -577,6 +577,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/133-build-supplier-ecosystem-learn-from-reference-designs-and-dont-overestimate-technical-barriers.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/133-build-community-alliances-learn-from-excellent-schools-and-dont-overestimate-reform-barriers.md`
   - 本轮已完成七个角度：该文把"既要革命就要有一个革命党，榜样力量证明道路可行，团结一切力量组成统一战线，敌人有力量但基础虚弱（内部分崩离析、脱离人民、无法解脱的经济危机），过高估计敌人和过低估计自己都是极大错误，用数据证明胜利是真实的，不再孤立有全世界援助，不怕困难且能克服困难"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的联盟建设方法，提醒不同场景下的行动者：团结一切可以团结的力量，找对榜样，不要高估困难低估自己。
+
+- 134《中国军事形势的重大变化》
+  - `../judgement_and_decision/134-recognize-your-tipping-point-use-data-to-prove-progress-and-shorten-timelines.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/134-recognize-project-tipping-point-use-metrics-to-prove-progress-and-adjust-timelines.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/134-recognize-competitive-tipping-point-use-metrics-to-prove-momentum-and-accelerate.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/134-recognize-market-regime-shifts-use-data-to-confirm-trend-and-adjust-timelines.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/134-recognize-income-tipping-point-use-earnings-data-to-prove-momentum-and-accelerate.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/134-recognize-technical-tipping-point-use-quality-metrics-to-prove-progress-and-accelerate.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/134-recognize-improvement-tipping-point-use-student-data-to-prove-progress-and-accelerate.md`
+  - 本轮已完成七个角度：该文把"力量对比发生根本变化（质量早已占优，现在数量也占优），用精确数据证明趋势（敌军从430万降到290万，我军从120万涨到300万+），据此将原定五年缩短为再一年，关键战役（睢杞、济南、锦州等）累积成质变，敌人正在崩溃但尚需加紧努力"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的拐点识别方法，提醒不同场景下的行动者：用数据判断拐点，用数据修正预期，拐点到了就缩短时间线但不能松懈。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

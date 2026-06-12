@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：856 篇
-- 当前已建立原文关联的毛文标题数：133 篇（001—133 已连续覆盖）
-  - 顺序主线：001—133 已按官网真实编号连续覆盖；110—112 已补齐；113—133 保持已完成 7/7
-  - 当前最新纳入：133《全世界革命力量团结起来，反对帝国主义的侵略》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`134《中国军事形势的重大变化》`
+- 当前已建立 `原文对应` 的主题转译文件：863 篇
+- 当前已建立原文关联的毛文标题数：134 篇（001—134 已连续覆盖）
+  - 顺序主线：001—134 已按官网真实编号连续覆盖；110—112 已补齐；113—134 保持已完成 7/7
+  - 当前最新纳入：134《中国军事形势的重大变化》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 顺序主线的下一篇：`135《将革命进行到底》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

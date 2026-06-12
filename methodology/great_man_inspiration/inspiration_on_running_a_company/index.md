@@ -198,6 +198,7 @@ This folder focuses on:
 - [131 公司年度复盘：用数据盘点过去，用量化目标规划未来，提前储备下一阶段的能力](strategy_and_execution/131-review-with-data-set-quantitative-goals-and-prepare-for-the-next-year.md)
 - [132 战略攻坚分阶段：把大目标拆成阶段，每阶段集中火力打一个核心](strategy_and_execution/132-divide-strategic-push-into-phases-concentrate-resources-on-each-stage.md)
 - [133 团结合作伙伴：团结一切力量，找榜样，不高估困难](strategy_and_execution/133-unite-partners-learn-from-industry-leaders-and-dont-overestimate-competition.md)
+- [134 识别竞争拐点用指标证明势头：识别拐点，用数据证明趋势，缩短时间线](strategy_and_execution/134-recognize-competitive-tipping-point-use-metrics-to-prove-momentum-and-accelerate.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航
@@ -205,4 +206,4 @@ This folder focuses on:
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 134《中国军事形势的重大变化》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 135《将革命进行到底》。

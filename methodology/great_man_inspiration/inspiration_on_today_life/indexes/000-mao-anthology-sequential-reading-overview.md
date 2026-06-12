@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`151《中国人民解放军布告》`。
+- 如果继续顺序推进，下一篇应是：`152《中国人民解放军总部发言人为英国军舰暴行发表的声明》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -745,6 +745,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/150-when-talks-fail-monetize-everything-rely-on-yourself.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/150-when-patches-fail-full-rewrite-stop-compromising.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/150-when-reform-stalled-full-redesign-no-going-back.md`
+
+- 151《中国人民解放军布告》
+  - `../judgement_and_decision/151-eight-rules-for-new-phase-set-boundaries-early.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/151-eight-rules-before-launch-set-standards-first.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/151-eight-rules-for-new-team-governance-framework.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/151-eight-rules-before-buying-set-investment-discipline.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/151-eight-rules-for-new-project-set-limits-first.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/151-eight-rules-for-new-semester-set-classroom-rules.md`
   - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》

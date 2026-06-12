@@ -259,6 +259,7 @@ Purpose:
 - [148 技术团队管理十二法](iteration_and_delivery/148-twelve-methods-for-tech-team-management.md)
 - [149 技术决策没有第三条路](iteration_and_delivery/149-no-third-way-in-tech-decisions-inaction-is-worst.md)
 - [150 谈判破裂后全面上线](iteration_and_delivery/150-when-talks-fail-ship-it-now-stop-waiting.md)
+- [151 上线前先定八条标准](iteration_and_delivery/151-eight-rules-before-launch-set-standards-first.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

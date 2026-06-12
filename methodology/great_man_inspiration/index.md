@@ -686,6 +686,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/150-when-patches-fail-full-rewrite-stop-compromising.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/150-when-reform-stalled-full-redesign-no-going-back.md`
 
+### 151《中国人民解放军布告》(1949-04-25)
+- `inspiration_on_today_life/judgement_and_decision/151-eight-rules-for-new-phase-set-boundaries-early.md`
+- `inspiration_on_software_development/iteration_and_delivery/151-eight-rules-before-launch-set-standards-first.md`
+- `inspiration_on_running_a_company/strategy_and_execution/151-eight-rules-for-new-team-governance-framework.md`
+- `inspiration_on_stock_investing/research_and_thesis/151-eight-rules-before-buying-set-investment-discipline.md`
+- `inspiration_on_making_money/execution_and_delivery/151-eight-rules-for-new-project-set-limits-first.md`
+- `inspiration_on_embedded_coding/engineering_strategy/151-eight-rules-for-new-project-architecture-decisions-first.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/151-eight-rules-for-new-semester-set-classroom-rules.md`
+
 
 ## Naming convention
 

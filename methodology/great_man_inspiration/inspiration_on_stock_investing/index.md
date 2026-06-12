@@ -140,6 +140,7 @@ Purpose:
 - [148 投资决策十二法](research_and_thesis/148-twelve-methods-for-investment-decisions.md)
 - [149 止损没有第三条路](research_and_thesis/149-no-third-way-in-stopping-loss-inaction-is-max-loss.md)
 - [150 谈判破裂后果断清仓](research_and_thesis/150-when-thesis-breaks-cut-loss-immediately-no-waiting.md)
+- [151 建仓前先定八条纪律](research_and_thesis/151-eight-rules-before-buying-set-investment-discipline.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`146《四众周知》`。
+- 如果继续顺序推进，下一篇应是：`147《在中国共产党第七届中央委员会第二次全体会议上的结论》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -697,6 +697,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/145-use-datasheet-vs-measurements-to-verify-supplier-claims.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/145-use-admission-brochure-vs-reality-to-verify-school-claims.md`
   - 本轮已完成七个角度：该文把"用对方自己说过的话把对方逼入死角（之前说以拯救人民为前提现在变成以拯救战犯为前提），把对方的罪名还给对方（拖延时间延长战祸的帽子该戴在谁头上），帮对方算账（4.75亿人民vs100多个战犯哪个大），抓住前提变化暴露真实意图（前提从为人民变成为战犯），死硬派的结局（保护极少数人得罪大多数人=孤立在宝塔尖顶），对所有人的喊话（把对立从你和我变成极少数vs所有人）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的用对方说过的话保护自己的方法论，提醒不同场景下的行动者：对方之前说A现在做非A——把他的原话和当前行为摆在一起对比就够了，争辩100句不如算一笔账。
+
+- 146《评国民党对战争责任问题的几种答案》
+  - `../judgement_and_decision/146-use-their-contradictory-answers-to-expose-the-truth.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/146-use-contradictory-client-statements-to-lock-down-real-requirements.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/146-use-contradictory-partner-statements-to-lock-down-real-terms.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/146-use-contradictory-management-statements-to-spot-risks.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/146-use-contradictory-pitch-statements-to-spot-scams.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/146-use-contradictory-supplier-answers-to-verify-real-specs.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/146-use-contradictory-school-statements-to-verify-real-quality.md`
+  - 本轮已完成七个角度：该文把"对方阵营对同一问题有几种互相矛盾的答案（蒋介石说全怪共产党/孙科说大家都有责任后来又改口说怪国民党自己/李宗仁只摆事实不甩锅），用对方自己的证词给对方定性（孙科说若干人士过分迷信武力正好和战犯数量一致），找出对方的可爱之处加以利用（孙科自动招供忠实无误），对比对方前后矛盾暴露真实意图（孙科前后说法不一说明第一个答案是推卸责任），死硬派只敢吞吞吐吐不敢明目张胆（吞吞吐吐本身就是理亏信号）"转译为普通人、开发团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的用矛盾说法拆穿对方的方法论，提醒不同场景下的行动者：不需要你自己反驳对方——把对方不同人不同时间的不同说法摆在一起就够了。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

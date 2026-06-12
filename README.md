@@ -53,11 +53,11 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：940 篇
-- 当前已建立原文关联的毛文标题数：145 篇（001—145 已连续覆盖）
-  - 顺序主线：001—145 已按官网真实编号连续覆盖；110—112 已补齐；113—145 保持已完成 7/7
-  - 当前最新纳入：145《国民党反动派由“呼吁和平”变为呼吁战争》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`146《四众周知》`
+- 当前已建立 `原文对应` 的主题转译文件：947 篇
+- 当前已建立原文关联的毛文标题数：146 篇（001—146 已连续覆盖）
+  - 顺序主线：001—146 已按官网真实编号连续覆盖；110—112 已补齐；113—146 保持已完成 7/7
+  - 当前最新纳入：146《评国民党对战争责任问题的几种答案》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
+- 顺序主线的下一篇：`147《在中国共产党第七届中央委员会第二次全体会议上的结论》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

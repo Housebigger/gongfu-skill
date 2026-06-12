@@ -254,6 +254,7 @@ Purpose:
 - [143 上线就要转型](iteration_and_delivery/143-after-launch-transform-from-build-mode-to-operate-mode.md)
 - [144 甲方四分五裂](iteration_and_delivery/144-when-client-is-fractured-their-comprehensive-promises-are-empty.md)
 - [145 用签过的文档逼回正轨](iteration_and_delivery/145-use-signed-documents-to-corner-clients-let-contracts-speak.md)
+- [146 用甲方矛盾锁定需求](iteration_and_delivery/146-use-contradictory-client-statements-to-lock-down-real-requirements.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -641,6 +641,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/145-use-datasheet-vs-measurements-to-verify-supplier-claims.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/145-use-admission-brochure-vs-reality-to-verify-school-claims.md`
 
+### 146《评国民党对战争责任问题的几种答案》(1949-02-18)
+- `inspiration_on_today_life/judgement_and_decision/146-use-their-contradictory-answers-to-expose-the-truth.md`
+- `inspiration_on_software_development/iteration_and_delivery/146-use-contradictory-client-statements-to-lock-down-real-requirements.md`
+- `inspiration_on_running_a_company/strategy_and_execution/146-use-contradictory-partner-statements-to-lock-down-real-terms.md`
+- `inspiration_on_stock_investing/research_and_thesis/146-use-contradictory-management-statements-to-spot-risks.md`
+- `inspiration_on_making_money/execution_and_delivery/146-use-contradictory-pitch-statements-to-spot-scams.md`
+- `inspiration_on_embedded_coding/engineering_strategy/146-use-contradictory-supplier-answers-to-verify-real-specs.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/146-use-contradictory-school-statements-to-verify-real-quality.md`
+
 
 ## Naming convention
 

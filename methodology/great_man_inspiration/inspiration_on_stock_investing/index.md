@@ -145,6 +145,7 @@ Purpose:
 - [153 重仓前先筹备](research_and_thesis/153-before-big-position-do-your-prep-work.md)
 - [154 亏损专政盈利民主](research_and_thesis/154-dictatorship-on-losses-democracy-on-profits.md)
 - [155 丢掉只涨不跌幻想](research_and_thesis/155-drop-buy-and-hold-illusions-manage-risk-instead.md)
+- [156 告别不再相信的持仓](research_and_thesis/156-say-goodbye-to-positions-you-no-longer-believe-in.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

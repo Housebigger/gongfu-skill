@@ -220,6 +220,7 @@ This folder focuses on:
 - [153 新业务启动先拉齐](strategy_and_execution/153-before-new-business-align-all-stakeholders.md)
 - [154 低绩效专政高绩效民主](strategy_and_execution/154-dictatorship-on-low-perf-democracy-on-high-perf.md)
 - [155 丢掉救世主幻想](strategy_and_execution/155-drop-savior-illusions-survive-on-your-own.md)
+- [156 告别不健康的客户关系](strategy_and_execution/156-say-goodbye-to-unhealthy-client-relationships.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

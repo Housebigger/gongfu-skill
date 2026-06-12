@@ -89,6 +89,7 @@ Focus:
 - [153 新板子先做架构评审](engineering_strategy/153-before-new-board-do-architecture-review.md)
 - [154 遗留代码专政新架构民主](engineering_strategy/154-dictatorship-on-legacy-democracy-on-new-arch.md)
 - [155 丢掉完美芯片幻想](engineering_strategy/155-drop-perfect-chip-illusions-ship-with-constraints.md)
+- [156 告别老旧MCU方案](engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

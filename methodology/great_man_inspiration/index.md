@@ -731,6 +731,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/155-drop-perfect-chip-illusions-ship-with-constraints.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/155-drop-quick-fix-illusions-educate-for-the-long-term.md`
 
+### 156《别了，司徒雷登》(1949-08-18)
+- `inspiration_on_today_life/judgement_and_decision/156-say-goodbye-to-everything-that-controls-you.md`
+- `inspiration_on_software_development/iteration_and_delivery/156-say-goodbye-to-legacy-tech-you-dont-need.md`
+- `inspiration_on_running_a_company/strategy_and_execution/156-say-goodbye-to-unhealthy-client-relationships.md`
+- `inspiration_on_stock_investing/research_and_thesis/156-say-goodbye-to-positions-you-no-longer-believe-in.md`
+- `inspiration_on_making_money/execution_and_delivery/156-say-goodbye-to-time-for-money-models.md`
+- `inspiration_on_embedded_coding/engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/156-say-goodbye-to-lecture-only-embrace-active-learning.md`
+
 
 ## Naming convention
 

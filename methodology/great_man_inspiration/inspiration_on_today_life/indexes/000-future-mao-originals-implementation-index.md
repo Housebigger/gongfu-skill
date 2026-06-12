@@ -1,4 +1,4 @@
-# 未来待落实原文总索引：156《中国人民解放军总部发言人为英国军舰暴行发表的声明》— X231《纪念巴黎公社的重要意义》
+# 未来待落实原文总索引：157《中国人民解放军总部发言人为英国军舰暴行发表的声明》— X231《纪念巴黎公社的重要意义》
 
 生成日期：2026-05-23
 
@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—155。
+- 当前已完成连续主线：001—156。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：156—229，共 74 篇；155 已完成。
+- 主文章未来仍待落实：157—229，共 73 篇；156 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -74,7 +74,7 @@
 | 153 | 153 | 第四卷 第三次国内革命战争时期 | 64 | 《在新政治协商会议筹备会上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm) | 已完成 |
 | 154 | 154 | 第四卷 第三次国内革命战争时期 | 65 | 《论人民民主专政》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm) | 已完成 |
 | 155 | 155 | 第四卷 第三次国内革命战争时期 | 66 | 《丢掉幻想，准备斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490814.htm) | 已完成 |
-| 156 | 156 | 第四卷 第三次国内革命战争时期 | 67 | 《别了，司徒雷登》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490818.htm) | 待落实 |
+| 156 | 156 | 第四卷 第三次国内革命战争时期 | 67 | 《别了，司徒雷登》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490818.htm) | 已完成 |
 | 157 | 157 | 第四卷 第三次国内革命战争时期 | 68 | 《友谊还是侵略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490830.htm) | 待落实 |
 | 158 | 158 | 第四卷 第三次国内革命战争时期 | 69 | 《为什么要讨论白皮书》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490828.htm) | 待落实 |
 | 159 | 159 | 第四卷 第三次国内革命战争时期 | 70 | 《唯心历史观的破产》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490916.htm) | 待落实 |

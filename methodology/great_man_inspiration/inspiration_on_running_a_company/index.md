@@ -193,6 +193,7 @@ This folder focuses on:
 - `strategy_and_execution/126-when-taking-over-a-new-business-unit-first-classify-assets-keep-operations-running-and-plan-long.md`
 - `strategy_and_execution/127-dont-skip-the-necessary-transition-stage-in-a-new-business-zone.md`
 - [128 公司重大举措推进：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](strategy_and_execution/128-check-three-conditions-and-follow-the-phased-execution-process.md)
+- [129 公司战略攻坚：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](strategy_and_execution/129-focus-main-effort-on-the-decisive-market-and-ignore-secondary-battles.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航
@@ -200,4 +201,4 @@ This folder focuses on:
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 129《关于辽沈战役的作战方针》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 130《关于健全党委制》。

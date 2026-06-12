@@ -385,7 +385,7 @@
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 - 当前顺序覆盖状态：`001—127` 已连续对齐；其中 `110—112` 已完成补写，`113—127` 已按官网真实编号回正并完成七主题覆盖。
-- 如果继续顺序推进，下一篇应是：`129《关于辽沈战役的作战方针》`。
+- 如果继续顺序推进，下一篇应是：`130《关于健全党委制》`。
 
 - 082《两个中国之命运》
   - `../judgement_and_decision/082-at-great-turning-points-choose-the-bright-future-and-build-the-conditions.md`
@@ -527,6 +527,16 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/128-check-three-conditions-before-system-redesign-and-follow-the-engineering-process.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md`
   - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把"重大行动前必须检查三大条件（环境安定、群众真正有需求、干部有能力），条件不齐不启动；启动后按完整流程走到底（调查→对齐→组织→划标准→公平分配→建治理→确认权利→调负担→完成整理→转向生产），因地制宜、问题解决了就翻篇、及时沟通反馈、不搞独立王国、不因一事废其余"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的条件检查与流程管理方法，提醒不同场景下的行动者：条件没到不硬推，流程走完再转增长，不同阶段用不同打法。
+
+- 129《关于辽沈战役的作战方针》
+  - `../judgement_and_decision/129-focus-main-effort-on-the-decisive-point-and-ignore-the-rest.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/129-focus-main-effort-on-the-decisive-feature-and-ignore-secondary-ones.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/129-focus-main-effort-on-the-decisive-market-and-ignore-secondary-battles.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/129-focus-main-thesis-on-the-decisive-position-and-ignore-secondary-noise.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/129-focus-main-effort-on-the-decisive-income-stream-and-ignore-secondary-ones.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/129-focus-main-effort-on-the-decisive-module-and-ignore-secondary-ones.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/129-focus-main-effort-on-the-decisive-reform-and-ignore-secondary-ones.md`
+  - 本轮已完成 today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 七个角度：该文把"集中主力于关键方向（锦州），置次要对手于不顾（长春、沈阳），敢打前所未有的大歼灭战，中心注意力必须放在关键目标上——即使其他目的都未达到只要攻克锦州就有了主动权，根据实际情况灵活调整部署，战局紧张期间每两三日高频汇报"转译为普通人、软件团队、公司经营者、投资者、副业经营者、嵌入式团队和学校组织的攻坚方法，提醒不同场景下的行动者：找到你的锦州，集中全部火力打那个决定一切的制高点，其他方向暂时维持最低限度即可。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》
   - `../cooperation_and_organization/126-when-you-take-over-a-new-life-situation-first-classify-people-stabilize-supply-and-plan-long.md`

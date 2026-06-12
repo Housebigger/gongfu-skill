@@ -121,6 +121,7 @@
 - [127 学校进入新局后，别跳过必要过渡阶段；先让多数承担者得到实益，稳住课堂、秩序与支持链，再等条件成熟深推重排](school_coordination_and_organization/127-dont-skip-the-necessary-transition-stage-in-a-new-school-zone.md)
 - [128 学校改革推进：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md)
 - [128 学校重大改革前先查三大条件——环境安定、教师准备、骨干信任——条件不齐不轻动，动了就按完整流程走到底](school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md)
+- [129 学校攻坚：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](school_coordination_and_organization/129-focus-main-effort-on-the-decisive-reform-and-ignore-secondary-ones.md)
 
 ---
 统计：110篇笔记 / 5个子主题 / 覆盖001-128连续原文（共109篇原文）
@@ -130,4 +131,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—128 连续覆盖，下一篇为 129《关于辽沈战役的作战方针》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—128 连续覆盖，下一篇为 130《关于健全党委制》。

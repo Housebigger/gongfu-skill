@@ -118,6 +118,7 @@ Purpose:
 - `research_and_thesis/125-a-thesis-must-be-explainable-and-correctable.md`
 - `research_and_thesis/127-dont-skip-the-necessary-transition-stage-in-a-new-thesis-zone.md`
 - [128 投资论点推进：条件没到不硬推，流程走完再转增长，不同阶段用不同打法](research_and_thesis/128-check-three-conditions-before-thesis-commitment-and-follow-the-research-process.md)
+- [129 投资攻坚：集中火力打关键点，不顾次要目标，中心注意力放在那个决定一切的核心上](research_and_thesis/129-focus-main-thesis-on-the-decisive-position-and-ignore-secondary-noise.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism
@@ -216,4 +217,4 @@ If the note is mainly about building new active income sources, place it under `
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 129《关于辽沈战役的作战方针》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 130《关于健全党委制》。

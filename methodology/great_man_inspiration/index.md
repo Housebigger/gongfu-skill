@@ -488,6 +488,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/128-check-three-conditions-before-system-redesign-and-follow-the-engineering-process.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/128-check-three-conditions-before-school-reform-and-follow-the-systematic-process.md`
 
+### 129《关于辽沈战役的作战方针》(1948-09/10)
+- `inspiration_on_today_life/judgement_and_decision/129-focus-main-effort-on-the-decisive-point-and-ignore-the-rest.md`
+- `inspiration_on_software_development/iteration_and_delivery/129-focus-main-effort-on-the-decisive-feature-and-ignore-secondary-ones.md`
+- `inspiration_on_running_a_company/strategy_and_execution/129-focus-main-effort-on-the-decisive-market-and-ignore-secondary-battles.md`
+- `inspiration_on_stock_investing/research_and_thesis/129-focus-main-thesis-on-the-decisive-position-and-ignore-secondary-noise.md`
+- `inspiration_on_making_money/execution_and_delivery/129-focus-main-effort-on-the-decisive-income-stream-and-ignore-secondary-ones.md`
+- `inspiration_on_embedded_coding/engineering_strategy/129-focus-main-effort-on-the-decisive-module-and-ignore-secondary-ones.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/129-focus-main-effort-on-the-decisive-reform-and-ignore-secondary-ones.md`
+
 
 ## Naming convention
 

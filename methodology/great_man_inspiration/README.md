@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—156 已连续对齐完成，下一篇为 157《中国人民解放军布告》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—157 已连续对齐完成，下一篇为 158《中国人民解放军布告》。
 - 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 144《在中国共产党第七届中央委员会第二次全体会议上的报告》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 156（001—156 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1017 |
-| 顺序学习已连续覆盖范围 | 001—156 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—156 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—156 已连续覆盖 |
-| 顺序主线的下一篇 | 157《友谊还是侵略》 |
+| 当前已建立原文关联的毛文标题数 | 157（001—157 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1024 |
+| 顺序学习已连续覆盖范围 | 001—157 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—157 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—157 已连续覆盖 |
+| 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—156 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—157 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -190,11 +190,12 @@
 | 154 | 《论人民民主专政》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 155 | 《丢掉幻想，准备斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490814.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 156 | 《别了，司徒雷登》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490818.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 157 | 《为什么要讨论白皮书》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490830.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—156 顺序主线已连续建立关联        [DONE]
+001—157 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -239,7 +240,8 @@
 153 《在新政治协商会议筹备会上的讲话》 [DONE: 7/7]
 154 《论人民民主专政》 [DONE: 7/7]
 155 《丢掉幻想，准备斗争》 [DONE: 7/7]
-156 《别了，司徒雷登》 [NEXT]
+156 《别了，司徒雷登》 [DONE: 7/7]
+157 《为什么要讨论白皮书》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -414,7 +416,8 @@
 | 153 | 《在新政治协商会议筹备会上的讲话》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/153-before-big-moves-assemble-everyone-build-framework-first.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/153-before-project-kickoff-align-everyone-first.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/153-before-new-business-align-all-stakeholders.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/153-before-big-position-do-your-prep-work.md) | [MM](./inspiration_on_making_money/execution_and_delivery/153-before-big-project-align-resources-first.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/153-before-new-board-do-architecture-review.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/153-before-new-semester-align-teachers-students-parents.md) |
 | 154 | 《论人民民主专政》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/154-dictatorship-for-drainers-democracy-for-supporters.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/154-dictatorship-on-tech-debt-democracy-on-good-code.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/154-dictatorship-on-low-perf-democracy-on-high-perf.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/154-dictatorship-on-losses-democracy-on-profits.md) | [MM](./inspiration_on_making_money/execution_and_delivery/154-dictatorship-on-low-roi-democracy-on-high-roi.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/154-dictatorship-on-legacy-democracy-on-new-arch.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/154-dictatorship-on-disruption-democracy-on-engagement.md) |
 | 155 | 《丢掉幻想，准备斗争》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490814.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/155-drop-illusions-nobody-is-coming-to-save-you.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/155-drop-silver-bullet-illusions-iterate-or-die.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/155-drop-savior-illusions-survive-on-your-own.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/155-drop-buy-and-hold-illusions-manage-risk-instead.md) | [MM](./inspiration_on_making_money/execution_and_delivery/155-drop-passive-income-illusions-grind-first.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/155-drop-perfect-chip-illusions-ship-with-constraints.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/155-drop-quick-fix-illusions-educate-for-the-long-term.md) |
-| 156 | 《别了，司徒雷登》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490818.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/156-say-goodbye-to-everything-that-controls-you.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/156-say-goodbye-to-legacy-tech-you-dont-need.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/156-say-goodbye-to-unhealthy-client-relationships.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/156-say-goodbye-to-positions-you-no-longer-believe-in.md) | [MM](./inspiration_on_making_money/execution_and_delivery/156-say-goodbye-to-time-for-money-models.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/156-say-goodbye-to-lecture-only-embrace-active-learning.md) | 7 |
+| 156 | 《别了，司徒雷登》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490818.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/156-say-goodbye-to-everything-that-controls-you.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/156-say-goodbye-to-legacy-tech-you-dont-need.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/156-say-goodbye-to-unhealthy-client-relationships.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/156-say-goodbye-to-positions-you-no-longer-believe-in.md) | [MM](./inspiration_on_making_money/execution_and_delivery/156-say-goodbye-to-time-for-money-models.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/156-say-goodbye-to-lecture-only-embrace-active-learning.md) |
+| 157 | 《为什么要讨论白皮书》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490830.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/157-friendship-or-control-look-at-actions-not-words.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/157-free-tool-or-vendor-lock-in-check-the-exit.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/157-partnership-or-takeover-read-the-contract.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/157-research-report-or-pump-and-dump-follow-the-money.md) | [MM](./inspiration_on_making_money/execution_and_delivery/157-free-training-or-customer-acquisition-know-the-model.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/157-open-source-or-patent-trap-read-the-license.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/157-parent-involvement-or-interference-set-boundaries.md) | 7 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2205,6 +2208,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/156-say-goodbye-to-time-for-money-models.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/156-say-goodbye-to-lecture-only-embrace-active-learning.md`
+
+## 157 《为什么要讨论白皮书》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490830.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/157-friendship-or-control-look-at-actions-not-words.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/157-free-tool-or-vendor-lock-in-check-the-exit.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/157-partnership-or-takeover-read-the-contract.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/157-research-report-or-pump-and-dump-follow-the-money.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/157-free-training-or-customer-acquisition-know-the-model.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/157-open-source-or-patent-trap-read-the-license.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/157-parent-involvement-or-interference-set-boundaries.md`
 
 ## 6. 使用建议
 

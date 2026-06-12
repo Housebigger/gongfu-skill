@@ -740,6 +740,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/156-say-goodbye-to-lecture-only-embrace-active-learning.md`
 
+### 157《友谊还是侵略》(1949-08-30)
+- `inspiration_on_today_life/judgement_and_decision/157-friendship-or-control-look-at-actions-not-words.md`
+- `inspiration_on_software_development/iteration_and_delivery/157-free-tool-or-vendor-lock-in-check-the-exit.md`
+- `inspiration_on_running_a_company/strategy_and_execution/157-partnership-or-takeover-read-the-contract.md`
+- `inspiration_on_stock_investing/research_and_thesis/157-research-report-or-pump-and-dump-follow-the-money.md`
+- `inspiration_on_making_money/execution_and_delivery/157-free-training-or-customer-acquisition-know-the-model.md`
+- `inspiration_on_embedded_coding/engineering_strategy/157-open-source-or-patent-trap-read-the-license.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/157-parent-involvement-or-interference-set-boundaries.md`
+
 
 ## Naming convention
 

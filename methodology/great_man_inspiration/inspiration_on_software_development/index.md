@@ -265,6 +265,7 @@ Purpose:
 - [154 技术债专政好代码民主](iteration_and_delivery/154-dictatorship-on-tech-debt-democracy-on-good-code.md)
 - [155 丢掉银弹幻想](iteration_and_delivery/155-drop-silver-bullet-illusions-iterate-or-die.md)
 - [156 告别不需要的技术栈](iteration_and_delivery/156-say-goodbye-to-legacy-tech-you-dont-need.md)
+- [157 免费工具还是锁定](iteration_and_delivery/157-free-tool-or-vendor-lock-in-check-the-exit.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

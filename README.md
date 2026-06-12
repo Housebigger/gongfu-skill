@@ -54,10 +54,10 @@
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
 - 当前已建立 `原文对应` 的主题转译文件：968 篇
-- 当前已建立原文关联的毛文标题数：156 篇（001—156 已连续覆盖）
-  - 顺序主线：001—150 已按官网真实编号连续覆盖；110—112 已补齐；113—156 保持已完成 7/7
+- 当前已建立原文关联的毛文标题数：157 篇（001—157 已连续覆盖）
+  - 顺序主线：001—150 已按官网真实编号连续覆盖；110—112 已补齐；113—157 保持已完成 7/7
   - 当前最新纳入：156《别了，司徒雷登》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`157《友谊还是侵略》`
+- 顺序主线的下一篇：`158《为什么要讨论白皮书》`
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`

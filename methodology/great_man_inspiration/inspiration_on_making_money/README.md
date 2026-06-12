@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—138 连续覆盖，下一篇为 139《四分五裂的反动派为什么还要空喊全面和平》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—150 连续覆盖，下一篇为 151《中国人民解放军布告》。

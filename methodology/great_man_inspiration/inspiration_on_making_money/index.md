@@ -196,6 +196,7 @@ Additional focus:
 - [147 第一桶金只是序幕防消费升级](execution_and_delivery/147-first-pot-of-gold-is-prologue-keeping-it-is-harder.md)
 - [148 副业经营十二法](execution_and_delivery/148-twelve-methods-for-side-hustle-management.md)
 - [149 换赛道没有第三条路](execution_and_delivery/149-no-third-way-in-pivoting-inaction-is-wasted-time.md)
+- [150 谈判破裂后全面变现](execution_and_delivery/150-when-talks-fail-monetize-everything-rely-on-yourself.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

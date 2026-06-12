@@ -677,6 +677,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/149-no-third-way-in-design-decisions-inaction-is-tech-debt.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/149-no-third-way-in-teaching-reform-inaction-is-wasting-students.md`
 
+### 150《向全国进军的命令》(1949-04-21)
+- `inspiration_on_today_life/judgement_and_decision/150-when-talks-fail-full-speed-ahead-hesitation-is-defeat.md`
+- `inspiration_on_software_development/iteration_and_delivery/150-when-talks-fail-ship-it-now-stop-waiting.md`
+- `inspiration_on_running_a_company/strategy_and_execution/150-when-talks-fail-full-launch-rely-on-yourself.md`
+- `inspiration_on_stock_investing/research_and_thesis/150-when-thesis-breaks-cut-loss-immediately-no-waiting.md`
+- `inspiration_on_making_money/execution_and_delivery/150-when-talks-fail-monetize-everything-rely-on-yourself.md`
+- `inspiration_on_embedded_coding/engineering_strategy/150-when-patches-fail-full-rewrite-stop-compromising.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/150-when-reform-stalled-full-redesign-no-going-back.md`
+
 
 ## Naming convention
 

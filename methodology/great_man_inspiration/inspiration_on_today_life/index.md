@@ -229,6 +229,7 @@ Purpose:
 - [147 赢了只是序幕防糖衣炮弹](judgement_and_decision/147-victory-is-prologue-watch-out-for-sugar-coated-bullets.md)
 - [148 十二个工作方法](judgement_and_decision/148-twelve-work-methods-for-everyday-life.md)
 - [149 没有第三条路骑墙是幻想](judgement_and_decision/149-no-third-way-indecisiveness-is-the-worst-choice.md)
+- [150 谈判破裂后全速前进](judgement_and_decision/150-when-talks-fail-full-speed-ahead-hesitation-is-defeat.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny
@@ -279,4 +280,4 @@ Future article-by-article life notes should be filed by practical use:
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—127 连续覆盖，下一篇为 137《在中国中国共产党第七届中央委员会第二次全体会议上的报告》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—150 连续覆盖，下一篇为 151《中国人民解放军布告》。

@@ -238,6 +238,7 @@ Purpose:
 - [156 告别控制你的东西](judgement_and_decision/156-say-goodbye-to-everything-that-controls-you.md)
 - [157 友谊还是控制](judgement_and_decision/157-friendship-or-control-look-at-actions-not-words.md)
 - [158 公开讨论失败](judgement_and_decision/158-discuss-failures-openly-it-is-the-best-education.md)
+- [159 别怪命不好](judgement_and_decision/159-stop-blaming-fate-find-specific-causes.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

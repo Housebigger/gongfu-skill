@@ -92,6 +92,7 @@ Focus:
 - [156 告别老旧MCU方案](engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md)
 - [157 开源还是专利陷阱](engineering_strategy/157-open-source-or-patent-trap-read-the-license.md)
 - [158 复盘硬件bug](engineering_strategy/158-post-mortem-every-hardware-bug-before-next-design.md)
+- [159 别怪芯片不行](engineering_strategy/159-stop-blaming-hardware-optimize-within-constraints.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

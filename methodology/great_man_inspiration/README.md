@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—158 已连续对齐完成，下一篇为 159《中国人民解放军布告》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—159 已连续对齐完成，下一篇为 160《中国人民解放军布告》。
 - 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 144《在中国共产党第七届中央委员会第二次全体会议上的报告》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 158（001—158 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1031 |
-| 顺序学习已连续覆盖范围 | 001—158 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—158 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—158 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 159（001—159 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1038 |
+| 顺序学习已连续覆盖范围 | 001—159 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—159 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—159 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—158 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—159 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—158 顺序主线已连续建立关联        [DONE]
+001—159 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -241,7 +241,8 @@
 154 《论人民民主专政》 [DONE: 7/7]
 155 《丢掉幻想，准备斗争》 [DONE: 7/7]
 156 《别了，司徒雷登》 [DONE: 7/7]
-157 《为什么要讨论白皮书》 [NEXT]
+158 《为什么要讨论白皮书》 [DONE: 7/7]
+159 《唯心历史观的破产》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -419,6 +420,7 @@
 | 156 | 《别了，司徒雷登》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490818.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/156-say-goodbye-to-everything-that-controls-you.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/156-say-goodbye-to-legacy-tech-you-dont-need.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/156-say-goodbye-to-unhealthy-client-relationships.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/156-say-goodbye-to-positions-you-no-longer-believe-in.md) | [MM](./inspiration_on_making_money/execution_and_delivery/156-say-goodbye-to-time-for-money-models.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/156-say-goodbye-to-legacy-mcu-embrace-new-platforms.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/156-say-goodbye-to-lecture-only-embrace-active-learning.md) |
 | 157 | 《友谊还是侵略》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490830.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/157-friendship-or-control-look-at-actions-not-words.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/157-free-tool-or-vendor-lock-in-check-the-exit.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/157-partnership-or-takeover-read-the-contract.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/157-research-report-or-pump-and-dump-follow-the-money.md) | [MM](./inspiration_on_making_money/execution_and_delivery/157-free-training-or-customer-acquisition-know-the-model.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/157-open-source-or-patent-trap-read-the-license.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/157-parent-involvement-or-interference-set-boundaries.md) |
 | 158 | 《为什么要讨论白皮书》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490828.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/158-discuss-failures-openly-it-is-the-best-education.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/158-blameless-postmortems-turn-incidents-into-education.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/158-post-mortem-failed-projects-let-the-whole-team-learn.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/158-review-every-loss-trade-it-is-your-white-paper.md) | [MM](./inspiration_on_making_money/execution_and_delivery/158-review-failed-projects-before-pivoting.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/158-post-mortem-every-hardware-bug-before-next-design.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/158-discuss-wrong-answers-it-is-the-best-teaching-material.md) |
+| 159 | 《唯心历史观的破产》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490916.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/159-stop-blaming-fate-find-specific-causes.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/159-stop-blaming-requirements-find-root-causes.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/159-stop-blaming-the-market-find-what-you-did-wrong.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/159-stop-blaming-manipulators-fix-your-process.md) | [MM](./inspiration_on_making_money/execution_and_delivery/159-stop-blaming-lack-of-resources-maximize-what-you-have.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/159-stop-blaming-hardware-optimize-within-constraints.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/159-stop-blaming-students-improve-your-teaching.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2229,6 +2231,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/158-review-failed-projects-before-pivoting.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/158-post-mortem-every-hardware-bug-before-next-design.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/158-discuss-wrong-answers-it-is-the-best-teaching-material.md`
+
+## 159 《唯心历史观的破产》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490916.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/159-stop-blaming-fate-find-specific-causes.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/159-stop-blaming-requirements-find-root-causes.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/159-stop-blaming-the-market-find-what-you-did-wrong.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/159-stop-blaming-manipulators-fix-your-process.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/159-stop-blaming-lack-of-resources-maximize-what-you-have.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/159-stop-blaming-hardware-optimize-within-constraints.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/159-stop-blaming-students-improve-your-teaching.md`
 
 ## 6. 使用建议
 

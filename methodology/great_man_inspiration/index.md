@@ -758,6 +758,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/158-post-mortem-every-hardware-bug-before-next-design.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/158-discuss-wrong-answers-it-is-the-best-teaching-material.md`
 
+### 159《唯心历史观的破产》(1949-09-16)
+- `inspiration_on_today_life/judgement_and_decision/159-stop-blaming-fate-find-specific-causes.md`
+- `inspiration_on_software_development/iteration_and_delivery/159-stop-blaming-requirements-find-root-causes.md`
+- `inspiration_on_running_a_company/strategy_and_execution/159-stop-blaming-the-market-find-what-you-did-wrong.md`
+- `inspiration_on_stock_investing/research_and_thesis/159-stop-blaming-manipulators-fix-your-process.md`
+- `inspiration_on_making_money/execution_and_delivery/159-stop-blaming-lack-of-resources-maximize-what-you-have.md`
+- `inspiration_on_embedded_coding/engineering_strategy/159-stop-blaming-hardware-optimize-within-constraints.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/159-stop-blaming-students-improve-your-teaching.md`
+
 
 ## Naming convention
 

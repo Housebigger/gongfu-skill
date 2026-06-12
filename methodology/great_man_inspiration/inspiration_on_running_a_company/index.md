@@ -223,6 +223,7 @@ This folder focuses on:
 - [156 告别不健康的客户关系](strategy_and_execution/156-say-goodbye-to-unhealthy-client-relationships.md)
 - [157 合作还是被吃掉](strategy_and_execution/157-partnership-or-takeover-read-the-contract.md)
 - [158 复盘失败项目](strategy_and_execution/158-post-mortem-failed-projects-let-the-whole-team-learn.md)
+- [159 别怪市场不好](strategy_and_execution/159-stop-blaming-the-market-find-what-you-did-wrong.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

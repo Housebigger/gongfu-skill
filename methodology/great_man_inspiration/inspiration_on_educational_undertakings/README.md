@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—158 连续覆盖，下一篇为 159《唯心历史观的破产》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—159 连续覆盖，下一篇为 160《中国人民站起来了》。

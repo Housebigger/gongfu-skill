@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—158 连续覆盖，下一篇为 159《唯心历史观的破产》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—159 连续覆盖，下一篇为 160《中国人民站起来了》。

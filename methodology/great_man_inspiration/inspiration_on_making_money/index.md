@@ -267,6 +267,7 @@ Additional focus:
 - [218 逐步推广](execution_and_delivery/218-gradual-promotion-makes-people-want-to-accept.md)
 - [219 全力以赴](execution_and_delivery/219-give-it-your-all-not-two-thirds.md)
 - [220 竞争是常态](execution_and_delivery/220-competition-is-universal-embrace-it.md)
+- [221 团结是成功基石](execution_and_delivery/221-unity-is-the-foundation-of-success.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

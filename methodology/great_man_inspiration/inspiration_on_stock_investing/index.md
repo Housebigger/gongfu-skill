@@ -210,6 +210,7 @@ Purpose:
 - [218 三种立场](research_and_thesis/218-three-stances-firm-wavering-opposing.md)
 - [219 靠当前判断不靠过去业绩](research_and_thesis/219-rely-on-current-judgment-not-past-record.md)
 - [220 摇摆资金决定方向](research_and_thesis/220-the-swing-voters-decide-the-market.md)
+- [221 投资要有核心逻辑](research_and_thesis/221-investment-needs-a-core-thesis.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

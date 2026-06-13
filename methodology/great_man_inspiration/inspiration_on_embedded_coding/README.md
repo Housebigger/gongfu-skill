@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—220 连续覆盖，下一篇为 221《组织起来》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—221 连续覆盖，下一篇为 222《一个文件》。

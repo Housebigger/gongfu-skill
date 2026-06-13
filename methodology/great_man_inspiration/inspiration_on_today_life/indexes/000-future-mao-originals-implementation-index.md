@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—220。
+- 当前已完成连续主线：001—221。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：221—229，共 9 篇；220 已完成。
+- 主文章未来仍待落实：222—229，共 8 篇；221 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -139,7 +139,7 @@
 | 218 | 218 | 第五卷 社会主义革命和社会主义建设时期（一） | 59 | 《在中国共产党全国宣传工作会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570312.htm) | 待落实 |
 | 219 | 219 | 第五卷 社会主义革命和社会主义建设时期（一） | 60 | 《坚持艰苦奋斗，密切联系群众》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm) | 已完成 |
 | 220 | 220 | 第五卷 社会主义革命和社会主义建设时期（一） | 61 | 《事情正在起变化》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570515.htm) | 已完成 |
-| 221 | 221 | 第五卷 社会主义革命和社会主义建设时期（一） | 62 | 《中国共产党是全中国人民的领导核心》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570525.htm) | 待落实 |
+| 221 | 221 | 第五卷 社会主义革命和社会主义建设时期（一） | 62 | 《中国共产党是全中国人民的领导核心》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570525.htm) | 已完成 |
 | 222 | 222 | 第五卷 社会主义革命和社会主义建设时期（一） | 63 | 《组织力量反击右派分子的猖狂进攻》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570608.htm) | 待落实 |
 | 223 | 223 | 第五卷 社会主义革命和社会主义建设时期（一） | 64 | 《文汇报的资产阶级方向应当批判》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570701.htm) | 待落实 |
 | 224 | 224 | 第五卷 社会主义革命和社会主义建设时期（一） | 65 | 《打退资产阶级右派的进攻》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm) | 待落实 |

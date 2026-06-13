@@ -979,6 +979,15 @@ Current contents:
 ### 219《坚持艰苦奋斗，密切联系群众》(1957-03)
 
 ### 220《事情正在起变化》(1957-05-15)
+
+### 221《中国共产党是全中国人民的领导核心》(1957-05-25)
+- `inspiration_on_today_life/judgement_and_decision/221-without-a-core-nothing-succeeds.md`
+- `inspiration_on_software_development/iteration_and_delivery/221-team-unity-comes-before-technology.md`
+- `inspiration_on_running_a_company/strategy_and_execution/221-everything-off-core-is-completely-wrong.md`
+- `inspiration_on_stock_investing/research_and_thesis/221-investment-needs-a-core-thesis.md`
+- `inspiration_on_making_money/execution_and_delivery/221-unity-is-the-foundation-of-success.md`
+- `inspiration_on_embedded_coding/engineering_strategy/221-system-needs-a-core-architecture.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/221-education-must-build-consensus.md`
 - `inspiration_on_today_life/judgement_and_decision/220-extremes-reverse-let-things-reach-their-peak.md`
 - `inspiration_on_software_development/iteration_and_delivery/220-weeds-and-flowers-grow-together.md`
 - `inspiration_on_running_a_company/strategy_and_execution/220-unity-through-struggle-not-avoidance.md`

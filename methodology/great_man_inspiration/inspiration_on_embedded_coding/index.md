@@ -154,6 +154,7 @@ Focus:
 - [218 看问题看主流](engineering_strategy/218-assess-the-mainstream-is-it-basically-healthy.md)
 - [219 让下级批评上级](engineering_strategy/219-let-subordinates-criticize-superiors.md)
 - [220 区分善意恶意批评](engineering_strategy/220-distinguish-good-faith-from-bad-faith-criticism.md)
+- [221 架构要有核心设计](engineering_strategy/221-system-needs-a-core-architecture.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

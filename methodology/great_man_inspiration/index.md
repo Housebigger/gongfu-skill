@@ -951,6 +951,15 @@ Current contents:
 ### 205《农业合作化的一场辩论和当前的阶级斗争》(1955-10-11)
 
 ### 206《《中国农村的社会主义高潮》的序言》(1955-09/12)
+
+### 207《《中国农村的社会主义高潮》的按语》(1955-09/12)
+- `inspiration_on_today_life/judgement_and_decision/207-poor-but-hardworking-changes-destiny.md`
+- `inspiration_on_software_development/iteration_and_delivery/207-leaders-must-get-hands-dirty.md`
+- `inspiration_on_running_a_company/strategy_and_execution/207-do-not-dodge-problems-face-them.md`
+- `inspiration_on_stock_investing/research_and_thesis/207-take-control-of-your-own-destiny.md`
+- `inspiration_on_making_money/execution_and_delivery/207-discover-hidden-market-demand.md`
+- `inspiration_on_embedded_coding/engineering_strategy/207-prepare-for-major-difficulties.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/207-break-superstitions-believe-in-students.md`
 - `inspiration_on_today_life/judgement_and_decision/206-stop-wavering-in-decisions.md`
 - `inspiration_on_software_development/iteration_and_delivery/206-stop-piecemeal-work-plan-holistically.md`
 - `inspiration_on_running_a_company/strategy_and_execution/206-use-case-studies-to-persuade.md`

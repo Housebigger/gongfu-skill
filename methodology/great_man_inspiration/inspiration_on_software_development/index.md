@@ -315,6 +315,7 @@ Purpose:
 - [204 先依靠核心骨干](iteration_and_delivery/204-rely-on-core-engineers-first.md)
 - [205 大发展别自我设限](iteration_and_delivery/205-big-development-not-self-limiting.md)
 - [206 别零敲碎打要全局规划](iteration_and_delivery/206-stop-piecemeal-work-plan-holistically.md)
+- [207 领导要亲自下场](iteration_and_delivery/207-leaders-must-get-hands-dirty.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

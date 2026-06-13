@@ -140,6 +140,7 @@ Focus:
 - [204 核心工程师掌决策权](engineering_strategy/204-core-engineers-must-hold-decision-power.md)
 - [205 重视一线发明](engineering_strategy/205-trust-frontline-engineer-inventions.md)
 - [206 管理层要跟上一线](engineering_strategy/206-management-must-catch-up-with-frontline.md)
+- [207 准备对付重大困难](engineering_strategy/207-prepare-for-major-difficulties.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

@@ -987,6 +987,15 @@ Current contents:
 ### 223《文汇报的资产阶级方向应当批判》(1957-07-01)
 
 ### 224《打退资产阶级右派的进攻》(1957-07-09)
+
+### 225《一九五七年夏季的形势》(1957-07)
+- `inspiration_on_today_life/judgement_and_decision/225-both-centralization-and-democracy-in-life.md`
+- `inspiration_on_software_development/iteration_and_delivery/225-seek-truth-from-facts-and-user-line.md`
+- `inspiration_on_running_a_company/strategy_and_execution/225-look-further-ahead-long-termism.md`
+- `inspiration_on_stock_investing/research_and_thesis/225-do-not-underestimate-yourself-overestimate-risks.md`
+- `inspiration_on_making_money/execution_and_delivery/225-trust-the-majority-of-your-customers.md`
+- `inspiration_on_embedded_coding/engineering_strategy/225-face-technical-contradictions-head-on.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/225-criticism-with-facts-and-reasoning.md`
 - `inspiration_on_today_life/judgement_and_decision/224-bite-the-bullet-and-listen-to-criticism.md`
 - `inspiration_on_software_development/iteration_and_delivery/224-regularly-stress-test-your-system.md`
 - `inspiration_on_running_a_company/strategy_and_execution/224-most-people-are-good-trust-your-team.md`

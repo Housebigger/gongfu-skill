@@ -158,6 +158,7 @@ Focus:
 - [222 灵活运用策略](engineering_strategy/222-flexible-strategy-and-deployment.md)
 - [223 设计要透明](engineering_strategy/223-transparent-design-not-covert.md)
 - [224 代码要真锤真炼](engineering_strategy/224-code-must-be-forged-and-tempered.md)
+- [225 直面技术矛盾](engineering_strategy/225-face-technical-contradictions-head-on.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

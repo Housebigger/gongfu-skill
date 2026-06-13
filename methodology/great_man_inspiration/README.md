@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 224（001—224 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1493 |
-| 顺序学习已连续覆盖范围 | 001—224 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—224 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—224 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 225（001—225 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1500 |
+| 顺序学习已连续覆盖范围 | 001—225 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—225 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—225 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—224 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—225 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—224 顺序主线已连续建立关联        [DONE]
+001—225 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -307,7 +307,8 @@
 221 《中国共产党是全中国人民的领导核心》 [DONE: 7/7]
 222 《组织力量反击右派分子的猖狂进攻》 [DONE: 7/7]
 223 《文汇报的资产阶级方向应当批判》 [DONE: 7/7]
-224 《打退资产阶级右派的进攻》 [NEXT]
+224 《打退资产阶级右派的进攻》 [DONE: 7/7]
+225 《一九五七年夏季的形势》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -551,6 +552,7 @@
 | 222 | 《组织力量反击右派分子的猖狂进攻》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570608.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/222-do-not-be-intimidated-by-darkness.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/222-separate-constructive-from-destructive-criticism.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/222-passive-in-form-active-in-substance.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/222-let-the-bad-news-out-fully.md) | [MM](./inspiration_on_making_money/execution_and_delivery/222-squeeze-out-the-abscess-it-is-greatly-beneficial.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/222-flexible-strategy-and-deployment.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/222-let-both-sides-be-heard-in-education.md) |
 | 223 | 《文汇报的资产阶级方向应当批判》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570701.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/223-no-middle-ground-on-direction.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/223-bugs-must-surface-before-you-can-fix-them.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/223-passive-can-become-active-by-correcting-mistakes.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/223-greed-makes-you-lose-judgment.md) | [MM](./inspiration_on_making_money/execution_and_delivery/223-quality-debts-will-be-collected.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/223-transparent-design-not-covert.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/223-sincere-apology-not-acting.md) |
 | 224 | 《打退资产阶级右派的进攻》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/224-bite-the-bullet-and-listen-to-criticism.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/224-regularly-stress-test-your-system.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/224-most-people-are-good-trust-your-team.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/224-assess-achievements-vs-mistakes-look-at-mainstream.md) | [MM](./inspiration_on_making_money/execution_and_delivery/224-adversity-is-your-crucible.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/224-code-must-be-forged-and-tempered.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/224-reform-both-systems-and-people.md) |
+| 225 | 《一九五七年夏季的形势》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195707.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/225-both-centralization-and-democracy-in-life.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/225-seek-truth-from-facts-and-user-line.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/225-look-further-ahead-long-termism.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/225-do-not-underestimate-yourself-overestimate-risks.md) | [MM](./inspiration_on_making_money/execution_and_delivery/225-trust-the-majority-of-your-customers.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/225-face-technical-contradictions-head-on.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/225-criticism-with-facts-and-reasoning.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -3021,6 +3023,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/224-adversity-is-your-crucible.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/224-code-must-be-forged-and-tempered.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/224-reform-both-systems-and-people.md`
+
+## 225 《一九五七年夏季的形势》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195707.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/225-both-centralization-and-democracy-in-life.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/225-seek-truth-from-facts-and-user-line.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/225-look-further-ahead-long-termism.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/225-do-not-underestimate-yourself-overestimate-risks.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/225-trust-the-majority-of-your-customers.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/225-face-technical-contradictions-head-on.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/225-criticism-with-facts-and-reasoning.md`
 
 ## 6. 使用建议
 

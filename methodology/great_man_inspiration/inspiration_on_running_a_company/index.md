@@ -289,6 +289,7 @@ This folder focuses on:
 - [222 形式被动实质主动](strategy_and_execution/222-passive-in-form-active-in-substance.md)
 - [223 被动转主动](strategy_and_execution/223-passive-can-become-active-by-correcting-mistakes.md)
 - [224 多数人是好人](strategy_and_execution/224-most-people-are-good-trust-your-team.md)
+- [225 看得远一些](strategy_and_execution/225-look-further-ahead-long-termism.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

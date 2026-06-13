@@ -218,6 +218,7 @@ Purpose:
 - [226 三年小改五年大改](research_and_thesis/226-review-and-adjust-strategy-periodically.md)
 - [227 正确评估风险](research_and_thesis/227-assess-risk-accurately-not-too-small-not-too-scary.md)
 - [228 善于妥协](research_and_thesis/228-the-art-of-compromise-in-investing.md)
+- [229 战略信念的力量](research_and_thesis/229-the-power-of-strategic-conviction.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -995,6 +995,15 @@ Current contents:
 ### 227《坚定地相信群众的大多数》(1957-10-13)
 
 ### 228《党内团结的辩证方法》(1957-11-18)
+
+### 229《一切反动派都是纸老虎》(1957-11-18)
+- `inspiration_on_today_life/judgement_and_decision/229-strategic-contempt-tactical-seriousness.md`
+- `inspiration_on_software_development/iteration_and_delivery/229-break-it-down-and-conquer-one-by-one.md`
+- `inspiration_on_running_a_company/strategy_and_execution/229-companies-losing-customers-are-paper-tigers.md`
+- `inspiration_on_stock_investing/research_and_thesis/229-the-power-of-strategic-conviction.md`
+- `inspiration_on_making_money/execution_and_delivery/229-opportunism-is-the-error-of-not-daring.md`
+- `inspiration_on_embedded_coding/engineering_strategy/229-tactical-seriousness-on-every-detail.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/229-confidence-is-the-best-education.md`
 - `inspiration_on_today_life/judgement_and_decision/228-a-hero-needs-three-helpers.md`
 - `inspiration_on_software_development/iteration_and_delivery/228-criticize-then-help-dialectical-code-review.md`
 - `inspiration_on_running_a_company/strategy_and_execution/228-principle-and-flexibility-as-unity-of-opposites.md`

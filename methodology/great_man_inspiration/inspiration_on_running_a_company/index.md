@@ -293,6 +293,7 @@ This folder focuses on:
 - [226 大胆彻底坚决地改](strategy_and_execution/226-reform-boldly-thoroughly-resolutely.md)
 - [227 争取中间变成98%](strategy_and_execution/227-win-over-the-middle-to-reach-98-percent.md)
 - [228 原则性和灵活性的统一](strategy_and_execution/228-principle-and-flexibility-as-unity-of-opposites.md)
+- [229 脱离客户就是纸老虎](strategy_and_execution/229-companies-losing-customers-are-paper-tigers.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

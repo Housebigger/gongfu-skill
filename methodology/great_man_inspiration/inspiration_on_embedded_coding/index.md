@@ -162,6 +162,7 @@ Focus:
 - [226 嵌入式靠精耕细作](engineering_strategy/226-embedded-is-intensive-cultivation.md)
 - [227 好工具易学易用](engineering_strategy/227-good-tools-are-quick-to-learn.md)
 - [228 对立统一无处不在](engineering_strategy/228-unity-of-opposites-in-engineering-tradeoffs.md)
+- [229 每个细节都要认真](engineering_strategy/229-tactical-seriousness-on-every-detail.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

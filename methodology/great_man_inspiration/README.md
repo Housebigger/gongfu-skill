@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 228（001—228 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1521 |
-| 顺序学习已连续覆盖范围 | 001—228 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—228 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—228 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 229（001—229 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1528 |
+| 顺序学习已连续覆盖范围 | 001—229 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—229 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—229 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—228 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—229 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—228 顺序主线已连续建立关联        [DONE]
+001—229 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -311,7 +311,8 @@
 225 《一九五七年夏季的形势》 [DONE: 7/7]
 226 《做革命的促进派》 [DONE: 7/7]
 227 《坚定地相信群众的大多数》 [DONE: 7/7]
-228 《党内团结的辩证方法》 [NEXT]
+228 《党内团结的辩证方法》 [DONE: 7/7]
+229 《一切反动派都是纸老虎》 [DONE: 7/7] — 全部完成！
 ```
 ## 3. 主题缩写图例
 
@@ -559,6 +560,7 @@
 | 226 | 《做革命的促进派》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/226-a-plan-is-better-than-no-plan.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/226-find-the-right-form-and-things-get-easier.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/226-reform-boldly-thoroughly-resolutely.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/226-review-and-adjust-strategy-periodically.md) | [MM](./inspiration_on_making_money/execution_and_delivery/226-three-layers-of-savings-make-you-rich.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/226-embedded-is-intensive-cultivation.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/226-comprehensive-planning-and-hands-on-leadership.md) |
 | 227 | 《坚定地相信群众的大多数》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571013.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/227-do-not-fear-being-criticized.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/227-new-challenges-need-new-methods.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/227-win-over-the-middle-to-reach-98-percent.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/227-assess-risk-accurately-not-too-small-not-too-scary.md) | [MM](./inspiration_on_making_money/execution_and_delivery/227-openness-does-not-cause-chaos.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/227-good-tools-are-quick-to-learn.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/227-believe-in-the-majority-of-students.md) |
 | 228 | 《党内团结的辩证方法》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/228-a-hero-needs-three-helpers.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/228-criticize-then-help-dialectical-code-review.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/228-principle-and-flexibility-as-unity-of-opposites.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/228-the-art-of-compromise-in-investing.md) | [MM](./inspiration_on_making_money/execution_and_delivery/228-failure-is-normal-keep-going.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/228-unity-of-opposites-in-engineering-tradeoffs.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/228-dialectics-should-reach-the-people.md) |
+| 229 | 《一切反动派都是纸老虎》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118b.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/229-strategic-contempt-tactical-seriousness.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/229-break-it-down-and-conquer-one-by-one.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/229-companies-losing-customers-are-paper-tigers.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/229-the-power-of-strategic-conviction.md) | [MM](./inspiration_on_making_money/execution_and_delivery/229-opportunism-is-the-error-of-not-daring.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/229-tactical-seriousness-on-every-detail.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/229-confidence-is-the-best-education.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -3069,6 +3071,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/228-failure-is-normal-keep-going.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/228-unity-of-opposites-in-engineering-tradeoffs.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/228-dialectics-should-reach-the-people.md`
+
+## 229 《一切反动派都是纸老虎》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118b.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/229-strategic-contempt-tactical-seriousness.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/229-break-it-down-and-conquer-one-by-one.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/229-companies-losing-customers-are-paper-tigers.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/229-the-power-of-strategic-conviction.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/229-opportunism-is-the-error-of-not-daring.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/229-tactical-seriousness-on-every-detail.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/229-confidence-is-the-best-education.md`
 
 ## 6. 使用建议
 

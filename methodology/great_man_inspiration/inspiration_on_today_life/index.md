@@ -308,6 +308,7 @@ Purpose:
 - [226 有规划比没有好](judgement_and_decision/226-a-plan-is-better-than-no-plan.md)
 - [227 不怕被批评](judgement_and_decision/227-do-not-fear-being-criticized.md)
 - [228 一个好汉三个帮](judgement_and_decision/228-a-hero-needs-three-helpers.md)
+- [229 战略藐视战术重视](judgement_and_decision/229-strategic-contempt-tactical-seriousness.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

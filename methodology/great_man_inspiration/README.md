@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 221（001—221 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1472 |
-| 顺序学习已连续覆盖范围 | 001—221 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—221 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—221 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 222（001—222 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1479 |
+| 顺序学习已连续覆盖范围 | 001—222 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—222 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—222 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—221 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—222 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—221 顺序主线已连续建立关联        [DONE]
+001—222 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -304,7 +304,8 @@
 218 《在全国宣传工作会议上的讲话》 [DONE: 7/7]
 219 《坚持艰苦奋斗，密切联系群众》 [DONE: 7/7]
 220 《事情正在起变化》 [DONE: 7/7]
-221 《中国共产党是全中国人民的领导核心》 [NEXT]
+221 《中国共产党是全中国人民的领导核心》 [DONE: 7/7]
+222 《组织力量反击右派分子的猖狂进攻》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -545,6 +546,7 @@
 | 219 | 《坚持艰苦奋斗，密切联系群众》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/219-rely-on-correctness-not-seniority.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/219-keep-that-fighting-spirit-in-stable-times.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/219-do-not-fight-over-personal-gain.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/219-rely-on-current-judgment-not-past-record.md) | [MM](./inspiration_on_making_money/execution_and_delivery/219-give-it-your-all-not-two-thirds.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/219-let-subordinates-criticize-superiors.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/219-connect-closely-with-students-be-on-the-same-level.md) |
 | 220 | 《事情正在起变化》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570515.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/220-extremes-reverse-let-things-reach-their-peak.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/220-weeds-and-flowers-grow-together.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/220-unity-through-struggle-not-avoidance.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/220-the-swing-voters-decide-the-market.md) | [MM](./inspiration_on_making_money/execution_and_delivery/220-competition-is-universal-embrace-it.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/220-distinguish-good-faith-from-bad-faith-criticism.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/220-understand-the-motive-behind-criticism.md) |
 | 221 | 《中国共产党是全中国人民的领导核心》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570525.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/221-without-a-core-nothing-succeeds.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/221-team-unity-comes-before-technology.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/221-everything-off-core-is-completely-wrong.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/221-investment-needs-a-core-thesis.md) | [MM](./inspiration_on_making_money/execution_and_delivery/221-unity-is-the-foundation-of-success.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/221-system-needs-a-core-architecture.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/221-education-must-build-consensus.md) |
+| 222 | 《组织力量反击右派分子的猖狂进攻》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570608.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/222-do-not-be-intimidated-by-darkness.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/222-separate-constructive-from-destructive-criticism.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/222-passive-in-form-active-in-substance.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/222-let-the-bad-news-out-fully.md) | [MM](./inspiration_on_making_money/execution_and_delivery/222-squeeze-out-the-abscess-it-is-greatly-beneficial.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/222-flexible-strategy-and-deployment.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/222-let-both-sides-be-heard-in-education.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2985,6 +2987,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/221-unity-is-the-foundation-of-success.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/221-system-needs-a-core-architecture.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/221-education-must-build-consensus.md`
+
+## 222 《组织力量反击右派分子的猖狂进攻》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570608.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/222-do-not-be-intimidated-by-darkness.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/222-separate-constructive-from-destructive-criticism.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/222-passive-in-form-active-in-substance.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/222-let-the-bad-news-out-fully.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/222-squeeze-out-the-abscess-it-is-greatly-beneficial.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/222-flexible-strategy-and-deployment.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/222-let-both-sides-be-heard-in-education.md`
 
 ## 6. 使用建议
 

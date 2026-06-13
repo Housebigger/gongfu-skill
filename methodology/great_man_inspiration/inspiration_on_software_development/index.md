@@ -330,6 +330,7 @@ Purpose:
 - [219 保持那股劲](iteration_and_delivery/219-keep-that-fighting-spirit-in-stable-times.md)
 - [220 毒草香花同生](iteration_and_delivery/220-weeds-and-flowers-grow-together.md)
 - [221 团结先于技术](iteration_and_delivery/221-team-unity-comes-before-technology.md)
+- [222 区分建设性破坏性批评](iteration_and_delivery/222-separate-constructive-from-destructive-criticism.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

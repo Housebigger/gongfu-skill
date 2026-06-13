@@ -286,6 +286,7 @@ This folder focuses on:
 - [219 别为个人利益斤斤计较](strategy_and_execution/219-do-not-fight-over-personal-gain.md)
 - [220 以斗争达团结](strategy_and_execution/220-unity-through-struggle-not-avoidance.md)
 - [221 偏离核心完全错误](strategy_and_execution/221-everything-off-core-is-completely-wrong.md)
+- [222 形式被动实质主动](strategy_and_execution/222-passive-in-form-active-in-substance.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

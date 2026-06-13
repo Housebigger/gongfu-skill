@@ -981,6 +981,15 @@ Current contents:
 ### 220《事情正在起变化》(1957-05-15)
 
 ### 221《中国共产党是全中国人民的领导核心》(1957-05-25)
+
+### 222《组织力量反击右派分子的猖狂进攻》(1957-06-08)
+- `inspiration_on_today_life/judgement_and_decision/222-do-not-be-intimidated-by-darkness.md`
+- `inspiration_on_software_development/iteration_and_delivery/222-separate-constructive-from-destructive-criticism.md`
+- `inspiration_on_running_a_company/strategy_and_execution/222-passive-in-form-active-in-substance.md`
+- `inspiration_on_stock_investing/research_and_thesis/222-let-the-bad-news-out-fully.md`
+- `inspiration_on_making_money/execution_and_delivery/222-squeeze-out-the-abscess-it-is-greatly-beneficial.md`
+- `inspiration_on_embedded_coding/engineering_strategy/222-flexible-strategy-and-deployment.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/222-let-both-sides-be-heard-in-education.md`
 - `inspiration_on_today_life/judgement_and_decision/221-without-a-core-nothing-succeeds.md`
 - `inspiration_on_software_development/iteration_and_delivery/221-team-unity-comes-before-technology.md`
 - `inspiration_on_running_a_company/strategy_and_execution/221-everything-off-core-is-completely-wrong.md`

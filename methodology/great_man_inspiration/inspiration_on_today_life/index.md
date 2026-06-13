@@ -301,6 +301,7 @@ Purpose:
 - [219 靠正确不靠资格](judgement_and_decision/219-rely-on-correctness-not-seniority.md)
 - [220 物极必反](judgement_and_decision/220-extremes-reverse-let-things-reach-their-peak.md)
 - [221 没有核心不能胜利](judgement_and_decision/221-without-a-core-nothing-succeeds.md)
+- [222 不被天昏地暗吓倒](judgement_and_decision/222-do-not-be-intimidated-by-darkness.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

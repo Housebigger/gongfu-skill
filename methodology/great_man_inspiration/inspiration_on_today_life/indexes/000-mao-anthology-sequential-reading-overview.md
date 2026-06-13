@@ -1016,7 +1016,7 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/180-find-the-critical-path-optimize-only-that.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/180-identify-the-main-problem-of-your-school.md`
 
-- 182《祝贺中国人民志愿军的重大胜利》
+- 181《团结起来，划清敌我界限》
   - `../judgement_and_decision/181-draw-clear-boundaries-know-who-is-with-you.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/181-classify-dependencies-core-optional-harmful.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/181-classify-employees-core-developable-harmful.md`
@@ -1024,6 +1024,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/181-classify-income-core-side-loss.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/181-classify-modules-core-replaceable-buggy.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/181-classify-courses-core-supplementary-outdated.md`
+
+- 183《反对官僚主义、命令主义和违法乱纪》
+  - `../judgement_and_decision/182-concentrate-force-one-goal-at-a-time.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/182-one-sprint-one-focus.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/182-one-market-at-a-time.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/182-deep-research-few-stocks-not-many.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/182-master-one-skill-at-a-time.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/182-one-module-at-a-time.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/182-one-reform-at-a-time.md`
   - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》

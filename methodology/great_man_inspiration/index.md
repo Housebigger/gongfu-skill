@@ -901,6 +901,15 @@ Current contents:
 ### 180《工人阶级与资产阶级的矛盾是国内的主要矛盾》(1952-06-06)
 
 ### 181《团结起来，划清敌我界限》(1952-08-04)
+
+### 182《祝贺中国人民志愿军的重大胜利》(1952-10-24)
+- `inspiration_on_today_life/judgement_and_decision/182-concentrate-force-one-goal-at-a-time.md`
+- `inspiration_on_software_development/iteration_and_delivery/182-one-sprint-one-focus.md`
+- `inspiration_on_running_a_company/strategy_and_execution/182-one-market-at-a-time.md`
+- `inspiration_on_stock_investing/research_and_thesis/182-deep-research-few-stocks-not-many.md`
+- `inspiration_on_making_money/execution_and_delivery/182-master-one-skill-at-a-time.md`
+- `inspiration_on_embedded_coding/engineering_strategy/182-one-module-at-a-time.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/182-one-reform-at-a-time.md`
 - `inspiration_on_today_life/judgement_and_decision/181-draw-clear-boundaries-know-who-is-with-you.md`
 - `inspiration_on_software_development/iteration_and_delivery/181-classify-dependencies-core-optional-harmful.md`
 - `inspiration_on_running_a_company/strategy_and_execution/181-classify-employees-core-developable-harmful.md`

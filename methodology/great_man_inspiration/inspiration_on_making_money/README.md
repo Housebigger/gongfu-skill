@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—181 连续覆盖，下一篇为 182《祝贺中国人民志愿军的重大胜利》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—182 连续覆盖，下一篇为 183《反对官僚主义、命令主义和违法乱纪》。

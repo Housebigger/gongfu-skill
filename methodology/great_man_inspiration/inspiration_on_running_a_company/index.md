@@ -246,6 +246,7 @@ This folder focuses on:
 - [179 别急扩张](strategy_and_execution/179-when-not-ready-delay-expansion.md)
 - [180 认清主要矛盾](strategy_and_execution/180-identify-the-main-problem-of-your-company.md)
 - [181 分类员工](strategy_and_execution/181-classify-employees-core-developable-harmful.md)
+- [182 一个市场](strategy_and_execution/182-one-market-at-a-time.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

@@ -290,6 +290,7 @@ Purpose:
 - [179 别赶发布](iteration_and_delivery/179-when-quality-not-ready-delay-release.md)
 - [180 找瓶颈](iteration_and_delivery/180-find-the-bottleneck-optimize-only-that.md)
 - [181 分类依赖](iteration_and_delivery/181-classify-dependencies-core-optional-harmful.md)
+- [182 一个sprint一个重点](iteration_and_delivery/182-one-sprint-one-focus.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

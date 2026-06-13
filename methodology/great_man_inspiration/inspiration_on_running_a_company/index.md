@@ -279,6 +279,7 @@ This folder focuses on:
 - [212 团结一切人](strategy_and_execution/212-unite-everyone-not-just-the-core.md)
 - [213 有理有利有节](strategy_and_execution/213-rational-favorable-restrained-three-principles.md)
 - [214 谦虚永远](strategy_and_execution/214-be-humble-forever-even-in-success.md)
+- [215 别泼冷水](strategy_and_execution/215-do-not-pour-cold-water-on-enthusiasm.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

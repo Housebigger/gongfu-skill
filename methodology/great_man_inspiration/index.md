@@ -967,6 +967,15 @@ Current contents:
 ### 213《我们党的一些历史经验》(1956-09-25)
 
 ### 214《纪念孙中山先生》(1956-11-12)
+
+### 215《在八届二中全会上的讲话》(1956-11-15)
+- `inspiration_on_today_life/judgement_and_decision/215-wave-like-progress-not-a-straight-line.md`
+- `inspiration_on_software_development/iteration_and_delivery/215-experience-is-never-enough-embrace-mistakes.md`
+- `inspiration_on_running_a_company/strategy_and_execution/215-do-not-pour-cold-water-on-enthusiasm.md`
+- `inspiration_on_stock_investing/research_and_thesis/215-bad-things-have-two-sides-failure-breeds-success.md`
+- `inspiration_on_making_money/execution_and_delivery/215-three-rounds-of-review-for-big-decisions.md`
+- `inspiration_on_embedded_coding/engineering_strategy/215-dynamic-balance-is-absolute.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/215-share-joys-and-hardships-with-students.md`
 - `inspiration_on_today_life/judgement_and_decision/214-dedicate-yourself-fully.md`
 - `inspiration_on_software_development/iteration_and_delivery/214-things-always-evolve-stay-adaptable.md`
 - `inspiration_on_running_a_company/strategy_and_execution/214-be-humble-forever-even-in-success.md`

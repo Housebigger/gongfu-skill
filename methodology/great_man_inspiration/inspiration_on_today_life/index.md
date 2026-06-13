@@ -294,6 +294,7 @@ Purpose:
 - [212 理论与实践要统一](judgement_and_decision/212-theory-and-practice-must-unite.md)
 - [213 走马看花和下马看花](judgement_and_decision/213-two-ways-to-investigate-surface-and-depth.md)
 - [214 鞠躬尽瘁死而后已](judgement_and_decision/214-dedicate-yourself-fully.md)
+- [215 波浪式地前进](judgement_and_decision/215-wave-like-progress-not-a-straight-line.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

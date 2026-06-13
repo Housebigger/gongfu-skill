@@ -244,6 +244,7 @@ Additional focus:
 - [195 小惠解决不了大问题](execution_and_delivery/195-small-favors-cannot-solve-big-problems.md)
 - [196 共同加特殊](execution_and_delivery/196-common-rules-plus-individual-adaptation.md)
 - [197 互勉互助](execution_and_delivery/197-mutual-help-beats-going-solo.md)
+- [198 不和错误的人合作](execution_and_delivery/198-do-not-partner-with-wrong-people.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

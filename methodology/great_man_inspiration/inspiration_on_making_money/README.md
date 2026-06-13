@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—197 连续覆盖，下一篇为 198《关于《红楼梦》研究问题的信》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—198 连续覆盖，下一篇为 199《原子弹向不倒中国人民》。

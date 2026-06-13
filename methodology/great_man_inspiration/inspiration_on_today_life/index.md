@@ -277,6 +277,7 @@ Purpose:
 - [195 纲举目张](judgement_and_decision/195-grasp-the-main-thread-everything-follows.md)
 - [196 原则加灵活](judgement_and_decision/196-principle-plus-flexibility.md)
 - [197 正义的事业攻不破](judgement_and_decision/197-just-cause-is-unstoppable.md)
+- [198 重视小人物](judgement_and_decision/198-listen-to-little-people-challenge-authority.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

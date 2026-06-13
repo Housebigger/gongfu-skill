@@ -933,6 +933,15 @@ Current contents:
 ### 196《关于中华人民共和国宪法草案》(1954-06-14)
 
 ### 197《为建设一个伟大的社会主义国家而奋斗》(1954-09-15)
+
+### 198《关于《红楼梦》研究问题的信》(1954-10-16)
+- `inspiration_on_today_life/judgement_and_decision/198-listen-to-little-people-challenge-authority.md`
+- `inspiration_on_software_development/iteration_and_delivery/198-juniors-can-challenge-legacy-code.md`
+- `inspiration_on_running_a_company/strategy_and_execution/198-unite-people-but-criticize-errors.md`
+- `inspiration_on_stock_investing/research_and_thesis/198-do-not-be-intimidated-by-authority.md`
+- `inspiration_on_making_money/execution_and_delivery/198-do-not-partner-with-wrong-people.md`
+- `inspiration_on_embedded_coding/engineering_strategy/198-do-not-ignore-feedback.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/198-support-students-critical-thinking.md`
 - `inspiration_on_today_life/judgement_and_decision/197-just-cause-is-unstoppable.md`
 - `inspiration_on_software_development/iteration_and_delivery/197-be-honest-work-hard-no-hype.md`
 - `inspiration_on_running_a_company/strategy_and_execution/197-doing-what-no-one-has-done-before.md`

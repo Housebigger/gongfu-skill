@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—163。
+- 当前已完成连续主线：001—164。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：164—229，共 66 篇；163 已完成。
+- 主文章未来仍待落实：165—229，共 65 篇；164 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -82,7 +82,7 @@
 | 161 | 161 | 第五卷 社会主义革命和社会主义建设时期（一） | 2 | 《中国人民大团结万岁》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930.htm) | 已完成 |
 | 162 | 162 | 第五卷 社会主义革命和社会主义建设时期（一） | 3 | 《人民英雄们永垂不朽》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930b.htm) | 已完成 |
 | 163 | 163 | 第五卷 社会主义革命和社会主义建设时期（一） | 4 | 《永远保持艰苦奋斗的作风》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19491026.htm) | 已完成 |
-| 164 | 164 | 第五卷 社会主义革命和社会主义建设时期（一） | 5 | 《征询对待富农策略问题的意见》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500312.htm) | 待落实 |
+| 164 | 164 | 第五卷 社会主义革命和社会主义建设时期（一） | 5 | 《征询对待富农策略问题的意见》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500312.htm) | 已完成 |
 | 165 | 165 | 第五卷 社会主义革命和社会主义建设时期（一） | 6 | 《为争取国家财政经济状况的基本好转而斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm) | 待落实 |
 | 166 | 166 | 第五卷 社会主义革命和社会主义建设时期（一） | 7 | 《不要四面出击》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606b.htm) | 待落实 |
 | 167 | 167 | 第五卷 社会主义革命和社会主义建设时期（一） | 8 | 《做一个完全的革命派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500623.htm) | 待落实 |

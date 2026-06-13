@@ -97,6 +97,7 @@ Focus:
 - [161 软硬件协同](engineering_strategy/161-hardware-software-co-design-unite-the-teams.md)
 - [162 别忘硬件坑](engineering_strategy/162-remember-every-hardware-bug-build-a-knowledge-base.md)
 - [163 量产不是终点](engineering_strategy/163-mass-production-is-not-the-end-keep-improving.md)
+- [164 分步迁移](engineering_strategy/164-migrate-platform-in-steps-validate-each.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—163 连续覆盖，下一篇为 164《征询对待富农策略问题的意见》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—164 连续覆盖，下一篇为 165《为争取国家财政经济状况的基本好转而斗争》。

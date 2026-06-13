@@ -272,6 +272,7 @@ Purpose:
 - [161 跨职能团结](iteration_and_delivery/161-cross-functional-unity-break-down-silos.md)
 - [162 别忘开源贡献者](iteration_and_delivery/162-remember-open-source-contributors-give-back.md)
 - [163 上线不是终点](iteration_and_delivery/163-launch-is-the-start-not-the-end.md)
+- [164 分步重构](iteration_and_delivery/164-incremental-refactor-do-not-rewrite-everything.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

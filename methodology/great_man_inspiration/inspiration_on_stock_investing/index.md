@@ -153,6 +153,7 @@ Purpose:
 - [161 多资产团结](research_and_thesis/161-diversify-unite-all-asset-classes.md)
 - [162 别忘亏损教训](research_and_thesis/162-remember-your-losses-every-trade-is-tuition.md)
 - [163 赚钱更要守纪律](research_and_thesis/163-winning-does-not-mean-relax-keep-risk-control.md)
+- [164 分步建仓](research_and_thesis/164-scale-in-slowly-do-not-go-all-in.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

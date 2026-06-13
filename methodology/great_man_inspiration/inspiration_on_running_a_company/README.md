@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—163 连续覆盖，下一篇为 164《征询对待富农策略问题的意见》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—164 连续覆盖，下一篇为 165《为争取国家财政经济状况的基本好转而斗争》。

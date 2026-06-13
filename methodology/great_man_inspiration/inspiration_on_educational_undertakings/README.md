@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—189 连续覆盖，下一篇为 190《党在过渡时期的总路线》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—190 连续覆盖，下一篇为 191《反对党内的资产阶级思想》。

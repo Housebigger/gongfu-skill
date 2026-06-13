@@ -179,6 +179,7 @@ Purpose:
 - [187 守住投资主线](research_and_thesis/187-stick-to-investment-thesis-do-not-chase-trends.md)
 - [188 差异化策略](research_and_thesis/188-different-strategies-for-different-stocks.md)
 - [189 改造仓位](research_and_thesis/189-transform-losing-positions-do-not-panic-sell.md)
+- [190 遵守投资体系](research_and_thesis/190-stick-to-your-investment-system.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -298,6 +298,7 @@ Purpose:
 - [187 守住产品主线](iteration_and_delivery/187-stick-to-product-vision-do-not-scope-creep.md)
 - [188 分级管理](iteration_and_delivery/188-manage-by-level-trust-juniors-balance-delivery-and-growth.md)
 - [189 改造遗留](iteration_and_delivery/189-refactor-legacy-do-not-rewrite-from-scratch.md)
+- [190 遵守架构决策](iteration_and_delivery/190-follow-architecture-decisions-do-not-fork.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

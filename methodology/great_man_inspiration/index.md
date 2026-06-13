@@ -917,6 +917,15 @@ Current contents:
 ### 188《青年团的工作要照顾青年的特点》(1953-06-30)
 
 ### 189《关于国家资本主义》(1953-07-09)
+
+### 190《党在过渡时期的总路线》(1953-08)
+- `inspiration_on_today_life/judgement_and_decision/190-follow-your-plan-do-not-improvise.md`
+- `inspiration_on_software_development/iteration_and_delivery/190-follow-architecture-decisions-do-not-fork.md`
+- `inspiration_on_running_a_company/strategy_and_execution/190-align-all-departments-to-strategy.md`
+- `inspiration_on_stock_investing/research_and_thesis/190-stick-to-your-investment-system.md`
+- `inspiration_on_making_money/execution_and_delivery/190-stick-to-career-plan-do-not-jump.md`
+- `inspiration_on_embedded_coding/engineering_strategy/190-follow-design-standards-do-not-improvise.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/190-stick-to-educational-policy-do-not-change.md`
 - `inspiration_on_today_life/judgement_and_decision/189-transform-rather-than-destroy.md`
 - `inspiration_on_software_development/iteration_and_delivery/189-refactor-legacy-do-not-rewrite-from-scratch.md`
 - `inspiration_on_running_a_company/strategy_and_execution/189-transform-competitors-into-partners.md`

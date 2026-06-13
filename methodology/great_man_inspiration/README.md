@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 189（001—189 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1248 |
-| 顺序学习已连续覆盖范围 | 001—189 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—189 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—189 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 190（001—190 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1255 |
+| 顺序学习已连续覆盖范围 | 001—190 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—190 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—190 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—189 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—190 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—189 顺序主线已连续建立关联        [DONE]
+001—190 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -272,7 +272,8 @@
 186 《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》 [DONE: 7/7]
 187 《批判离开总路线的右倾观点》 [DONE: 7/7]
 188 《青年团的工作要照顾青年的特点》 [DONE: 7/7]
-189 《关于国家资本主义》 [NEXT]
+189 《关于国家资本主义》 [DONE: 7/7]
+190 《党在过渡时期的总路线》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -481,6 +482,7 @@
 | 187 | 《批判离开总路线的右倾观点》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530615.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/187-stick-to-your-main-line-do-not-deviate.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/187-stick-to-product-vision-do-not-scope-creep.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/187-stick-to-strategy-do-not-drift.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/187-stick-to-investment-thesis-do-not-chase-trends.md) | [MM](./inspiration_on_making_money/execution_and_delivery/187-stick-to-core-skill-do-not-chase-fads.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/187-stick-to-architecture-roadmap-do-not-hop-tech.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/187-stick-to-educational-vision-do-not-fad-hop.md) |
 | 188 | 《青年团的工作要照顾青年的特点》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530630.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/188-accommodate-different-needs-balance-work-and-rest.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/188-manage-by-level-trust-juniors-balance-delivery-and-growth.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/188-motivate-by-generation-trust-young-employees.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/188-different-strategies-for-different-stocks.md) | [MM](./inspiration_on_making_money/execution_and_delivery/188-adapt-earning-strategy-to-your-stage.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/188-adapt-dev-strategy-to-product-phase.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/188-teach-by-individual-needs-balance-study-and-health.md) |
 | 189 | 《关于国家资本主义》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530709.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/189-transform-rather-than-destroy.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/189-refactor-legacy-do-not-rewrite-from-scratch.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/189-transform-competitors-into-partners.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/189-transform-losing-positions-do-not-panic-sell.md) | [MM](./inspiration_on_making_money/execution_and_delivery/189-transform-spending-into-investing.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/189-iterate-on-old-design-do-not-redo-from-scratch.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/189-reform-traditional-methods-do-not-abolish.md) |
+| 190 | 《党在过渡时期的总路线》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195308.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/190-follow-your-plan-do-not-improvise.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/190-follow-architecture-decisions-do-not-fork.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/190-align-all-departments-to-strategy.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/190-stick-to-your-investment-system.md) | [MM](./inspiration_on_making_money/execution_and_delivery/190-stick-to-career-plan-do-not-jump.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/190-follow-design-standards-do-not-improvise.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/190-stick-to-educational-policy-do-not-change.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2601,6 +2603,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/189-transform-spending-into-investing.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/189-iterate-on-old-design-do-not-redo-from-scratch.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/189-reform-traditional-methods-do-not-abolish.md`
+
+## 190 《党在过渡时期的总路线》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195308.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/190-follow-your-plan-do-not-improvise.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/190-follow-architecture-decisions-do-not-fork.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/190-align-all-departments-to-strategy.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/190-stick-to-your-investment-system.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/190-stick-to-career-plan-do-not-jump.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/190-follow-design-standards-do-not-improvise.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/190-stick-to-educational-policy-do-not-change.md`
 
 ## 6. 使用建议
 

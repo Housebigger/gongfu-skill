@@ -321,6 +321,7 @@ Purpose:
 - [210 真想还是假想](iteration_and_delivery/210-real-vs-fake-commitment-to-fundamentals.md)
 - [211 战略藐视战术重视](iteration_and_delivery/211-strategic-contempt-tactical-vigilance.md)
 - [212 反主观主义](iteration_and_delivery/212-fight-subjectivism-know-your-users.md)
+- [213 别硬搬经验](iteration_and_delivery/213-never-blindly-copy-others-experience.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

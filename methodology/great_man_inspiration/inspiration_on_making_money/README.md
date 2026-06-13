@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—212 连续覆盖，下一篇为 213《关于单独领导分工的问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—213 连续覆盖，下一篇为 214《纪念孙中山先生》。

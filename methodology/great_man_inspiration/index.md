@@ -963,6 +963,15 @@ Current contents:
 ### 211《美帝国主义是纸老虎》(1956-07-14)
 
 ### 212《增强党的团结，继承党的传统》(1956-08-30)
+
+### 213《我们党的一些历史经验》(1956-09-25)
+- `inspiration_on_today_life/judgement_and_decision/213-two-ways-to-investigate-surface-and-depth.md`
+- `inspiration_on_software_development/iteration_and_delivery/213-never-blindly-copy-others-experience.md`
+- `inspiration_on_running_a_company/strategy_and_execution/213-rational-favorable-restrained-three-principles.md`
+- `inspiration_on_stock_investing/research_and_thesis/213-dissect-one-sparrow-is-enough.md`
+- `inspiration_on_making_money/execution_and_delivery/213-use-contradictions-to-win-one-by-one.md`
+- `inspiration_on_embedded_coding/engineering_strategy/213-from-flat-view-to-three-dimensional-view.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/213-attitude-determines-trust.md`
 - `inspiration_on_today_life/judgement_and_decision/212-theory-and-practice-must-unite.md`
 - `inspiration_on_software_development/iteration_and_delivery/212-fight-subjectivism-know-your-users.md`
 - `inspiration_on_running_a_company/strategy_and_execution/212-unite-everyone-not-just-the-core.md`

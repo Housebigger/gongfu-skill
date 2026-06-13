@@ -259,6 +259,7 @@ Additional focus:
 - [210 用老底子支持新方向](execution_and_delivery/210-use-existing-strengths-to-expand.md)
 - [211 大目标分小步](execution_and_delivery/211-break-big-goals-into-small-steps.md)
 - [212 问题反复出现](execution_and_delivery/212-problems-recur-keep-solving-them.md)
+- [213 利用矛盾各个击破](execution_and_delivery/213-use-contradictions-to-win-one-by-one.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

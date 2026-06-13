@@ -278,6 +278,7 @@ Purpose:
 - [167 技术栈跟到底](iteration_and_delivery/167-pick-a-tech-stack-and-stick-with-it.md)
 - [168 做10x工程师](iteration_and_delivery/168-be-a-10x-engineer-keep-learning.md)
 - [169 三条工程纪律](iteration_and_delivery/169-three-engineering-disciplines-when-you-get-a-requirement.md)
+- [170 尊重代码库](iteration_and_delivery/170-respect-the-codebase-read-before-you-change.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

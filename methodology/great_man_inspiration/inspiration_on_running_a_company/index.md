@@ -234,6 +234,7 @@ This folder focuses on:
 - [167 赛道跟到底](strategy_and_execution/167-pick-a-market-and-stay-the-course.md)
 - [168 做行业标杆](strategy_and_execution/168-be-an-industry-benchmark-keep-evolving.md)
 - [169 三条执行纪律](strategy_and_execution/169-three-execution-disciplines-when-you-get-a-strategy.md)
+- [170 尊重当地市场](strategy_and_execution/170-respect-local-market-be-a-student-first.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

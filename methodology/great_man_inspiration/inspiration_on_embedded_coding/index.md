@@ -103,6 +103,7 @@ Focus:
 - [167 方案跟到底](engineering_strategy/167-pick-an-architecture-and-stick-with-it.md)
 - [168 做技术标杆](engineering_strategy/168-be-a-technical-benchmark-keep-learning-new-chips.md)
 - [169 三条硬件纪律](engineering_strategy/169-three-hw-disciplines-when-you-start-a-project.md)
+- [170 尊重硬件](engineering_strategy/170-respect-hardware-constraints-optimize-within-them.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

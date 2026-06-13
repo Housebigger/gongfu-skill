@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—169 连续覆盖，下一篇为 170《中国人民志愿军要爱护朝鲜的一山一水一草一木》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—170 连续覆盖，下一篇为 171《中共中央政治局扩大会议决议要点》。

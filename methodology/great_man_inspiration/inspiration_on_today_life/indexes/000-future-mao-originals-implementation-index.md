@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—169。
+- 当前已完成连续主线：001—170。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：170—229，共 60 篇；169 已完成。
+- 主文章未来仍待落实：171—229，共 59 篇；170 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -88,7 +88,7 @@
 | 167 | 167 | 第五卷 社会主义革命和社会主义建设时期（一） | 8 | 《做一个完全的革命派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500623.htm) | 已完成 |
 | 168 | 168 | 第五卷 社会主义革命和社会主义建设时期（一） | 9 | 《你们是全民族的模范人物》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500925.htm) | 已完成 |
 | 169 | 169 | 第五卷 社会主义革命和社会主义建设时期（一） | 10 | 《给中国人民志愿军的命令》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm) | 已完成 |
-| 170 | 170 | 第五卷 社会主义革命和社会主义建设时期（一） | 11 | 《中国人民志愿军要爱护朝鲜的一山一水一草一木》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510119.htm) | 待落实 |
+| 170 | 170 | 第五卷 社会主义革命和社会主义建设时期（一） | 11 | 《中国人民志愿军要爱护朝鲜的一山一水一草一木》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510119.htm) | 已完成 |
 | 171 | 171 | 第五卷 社会主义革命和社会主义建设时期（一） | 12 | 《中共中央政治局扩大会议决议要点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm) | 待落实 |
 | 172 | 172 | 第五卷 社会主义革命和社会主义建设时期（一） | 13 | 《镇压反革命必须实行党的群众路线》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510515.htm) | 待落实 |
 | 173 | 173 | 第五卷 社会主义革命和社会主义建设时期（一） | 14 | 《镇压反革命必须打得稳，打得准，打得狠》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195012.htm) | 待落实 |

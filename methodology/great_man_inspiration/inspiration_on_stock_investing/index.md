@@ -159,6 +159,7 @@ Purpose:
 - [167 投资体系跟到底](research_and_thesis/167-pick-an-investment-system-and-stick-with-it.md)
 - [168 做模范投资者](research_and_thesis/168-be-a-model-investor-keep-reviewing.md)
 - [169 三条交易纪律](research_and_thesis/169-three-trading-disciplines-when-you-get-a-signal.md)
+- [170 尊重市场](research_and_thesis/170-respect-the-market-do-not-fight-it.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

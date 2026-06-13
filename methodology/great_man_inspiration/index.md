@@ -857,6 +857,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/169-three-hw-disciplines-when-you-start-a-project.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/169-three-prep-disciplines-when-you-get-a-new-course.md`
 
+### 170《中国人民志愿军要爱护朝鲜的一山一水一草一木》(1951-01-19)
+- `inspiration_on_today_life/judgement_and_decision/170-respect-others-turf-when-you-enter-new-territory.md`
+- `inspiration_on_software_development/iteration_and_delivery/170-respect-the-codebase-read-before-you-change.md`
+- `inspiration_on_running_a_company/strategy_and_execution/170-respect-local-market-be-a-student-first.md`
+- `inspiration_on_stock_investing/research_and_thesis/170-respect-the-market-do-not-fight-it.md`
+- `inspiration_on_making_money/execution_and_delivery/170-respect-the-industry-be-an-apprentice-first.md`
+- `inspiration_on_embedded_coding/engineering_strategy/170-respect-hardware-constraints-optimize-within-them.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/170-respect-every-student-adapt-your-methods.md`
+
 
 ## Naming convention
 

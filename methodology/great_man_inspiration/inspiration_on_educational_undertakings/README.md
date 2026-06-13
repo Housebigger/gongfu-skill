@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—167 连续覆盖，下一篇为 168《你们是全民族的模范人物》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—168 连续覆盖，下一篇为 169《给中国人民志愿军的命令》。

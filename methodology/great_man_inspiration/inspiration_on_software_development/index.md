@@ -276,6 +276,7 @@ Purpose:
 - [165 定义稳定](iteration_and_delivery/165-define-stable-with-sli-slo-numbers.md)
 - [166 不要同时重构](iteration_and_delivery/166-do-not-refactor-everything-at-once.md)
 - [167 技术栈跟到底](iteration_and_delivery/167-pick-a-tech-stack-and-stick-with-it.md)
+- [168 做10x工程师](iteration_and_delivery/168-be-a-10x-engineer-keep-learning.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

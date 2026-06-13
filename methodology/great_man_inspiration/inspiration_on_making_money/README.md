@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—167 连续覆盖，下一篇为 168《你们是全民族的模范人物》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—168 连续覆盖，下一篇为 169《给中国人民志愿军的命令》。

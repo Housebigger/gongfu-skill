@@ -839,6 +839,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/167-pick-an-architecture-and-stick-with-it.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/167-pick-a-teaching-philosophy-and-stay-the-course.md`
 
+### 168《你们是全民族的模范人物》(1950-09-25)
+- `inspiration_on_today_life/judgement_and_decision/168-be-a-role-model-keep-learning-never-be-complacent.md`
+- `inspiration_on_software_development/iteration_and_delivery/168-be-a-10x-engineer-keep-learning.md`
+- `inspiration_on_running_a_company/strategy_and_execution/168-be-an-industry-benchmark-keep-evolving.md`
+- `inspiration_on_stock_investing/research_and_thesis/168-be-a-model-investor-keep-reviewing.md`
+- `inspiration_on_making_money/execution_and_delivery/168-be-an-earning-role-model-keep-iterating.md`
+- `inspiration_on_embedded_coding/engineering_strategy/168-be-a-technical-benchmark-keep-learning-new-chips.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/168-be-a-model-teacher-keep-training.md`
+
 
 ## Naming convention
 

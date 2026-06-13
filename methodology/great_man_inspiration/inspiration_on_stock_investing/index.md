@@ -182,6 +182,7 @@ Purpose:
 - [190 遵守投资体系](research_and_thesis/190-stick-to-your-investment-system.md)
 - [191 立场不摇摆](research_and_thesis/191-know-what-you-rely-on-do-not-waver.md)
 - [192 出于自愿](research_and_thesis/192-invest-voluntarily-do-not-force-yourself.md)
+- [193 小资金也能赢](research_and_thesis/193-small-capital-can-win-with-right-strategy.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

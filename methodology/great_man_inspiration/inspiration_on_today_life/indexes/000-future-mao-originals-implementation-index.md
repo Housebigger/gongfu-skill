@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—192。
+- 当前已完成连续主线：001—193。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：193—229，共 37 篇；192 已完成。
+- 主文章未来仍待落实：194—229，共 36 篇；193 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -111,7 +111,7 @@
 | 190 | 190 | 第五卷 社会主义革命和社会主义建设时期（一） | 31 | 《党在过渡时期的总路线》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195308.htm) | 已完成 |
 | 191 | 191 | 第五卷 社会主义革命和社会主义建设时期（一） | 32 | 《反对党内的资产阶级思想》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530812.htm) | 已完成 |
 | 192 | 192 | 第五卷 社会主义革命和社会主义建设时期（一） | 33 | 《改造资本主义工商业的必经之路》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530907.htm) | 已完成 |
-| 193 | 193 | 第五卷 社会主义革命和社会主义建设时期（一） | 34 | 《抗美援朝的伟大胜利和今后的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530912.htm) | 待落实 |
+| 193 | 193 | 第五卷 社会主义革命和社会主义建设时期（一） | 34 | 《抗美援朝的伟大胜利和今后的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530912.htm) | 已完成 |
 | 194 | 194 | 第五卷 社会主义革命和社会主义建设时期（一） | 35 | 《批判梁漱溟的反动思想》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530916.htm) | 待落实 |
 | 195 | 195 | 第五卷 社会主义革命和社会主义建设时期（一） | 36 | 《关于农业互助合作的两次谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19531015.htm) | 待落实 |
 | 196 | 196 | 第五卷 社会主义革命和社会主义建设时期（一） | 37 | 《关于中华人民共和国宪法草案》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm) | 待落实 |

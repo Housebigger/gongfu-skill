@@ -126,6 +126,7 @@ Focus:
 - [190 遵守设计规范](engineering_strategy/190-follow-design-standards-do-not-improvise.md)
 - [191 兼顾交付和团队](engineering_strategy/191-balance-delivery-and-team-welfare.md)
 - [192 定时间表](engineering_strategy/192-set-timeline-oppose-both-delay-and-rushing.md)
+- [193 越战越强](engineering_strategy/193-solve-problems-one-by-one-grow-stronger-each-time.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

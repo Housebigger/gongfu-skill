@@ -301,6 +301,7 @@ Purpose:
 - [190 遵守架构决策](iteration_and_delivery/190-follow-architecture-decisions-do-not-fork.md)
 - [191 反对主观主义](iteration_and_delivery/191-oppose-subjectivism-both-rushing-and-conservatism.md)
 - [192 渐进迁移](iteration_and_delivery/192-gradual-migration-not-big-bang-rewrite.md)
+- [193 别怕新技术](iteration_and_delivery/193-fear-no-new-tech-touch-it-and-know-it.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

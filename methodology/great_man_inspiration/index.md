@@ -923,6 +923,15 @@ Current contents:
 ### 191《反对党内的资产阶级思想》(1953-08-12)
 
 ### 192《改造资本主义工商业的必经之路》(1953-09-07)
+
+### 193《抗美援朝的伟大胜利和今后的任务》(1953-09-12)
+- `inspiration_on_today_life/judgement_and_decision/193-big-picture-vs-small-comfort-focus-on-long-term.md`
+- `inspiration_on_software_development/iteration_and_delivery/193-fear-no-new-tech-touch-it-and-know-it.md`
+- `inspiration_on_running_a_company/strategy_and_execution/193-frontline-employees-have-best-solutions.md`
+- `inspiration_on_stock_investing/research_and_thesis/193-small-capital-can-win-with-right-strategy.md`
+- `inspiration_on_making_money/execution_and_delivery/193-invest-in-core-competency-your-heavy-industry.md`
+- `inspiration_on_embedded_coding/engineering_strategy/193-solve-problems-one-by-one-grow-stronger-each-time.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/193-teach-big-principles-not-just-small-ones.md`
 - `inspiration_on_today_life/judgement_and_decision/192-steady-progress-not-too-fast-not-too-slow.md`
 - `inspiration_on_software_development/iteration_and_delivery/192-gradual-migration-not-big-bang-rewrite.md`
 - `inspiration_on_running_a_company/strategy_and_execution/192-fair-profit-distribution-three-quarters-public.md`

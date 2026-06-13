@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—190 连续覆盖，下一篇为 191《反对党内的资产阶级思想》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—191 连续覆盖，下一篇为 192《改造资本主义工商业的必经之路》。

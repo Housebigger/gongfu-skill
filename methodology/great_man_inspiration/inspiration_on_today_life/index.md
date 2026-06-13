@@ -270,6 +270,7 @@ Purpose:
 - [188 照顾特点](judgement_and_decision/188-accommodate-different-needs-balance-work-and-rest.md)
 - [189 改造而非消灭](judgement_and_decision/189-transform-rather-than-destroy.md)
 - [190 遵守既定方针](judgement_and_decision/190-follow-your-plan-do-not-improvise.md)
+- [191 区分错误级别](judgement_and_decision/191-distinguish-minor-mistakes-from-principle-errors.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

@@ -255,6 +255,7 @@ This folder focuses on:
 - [188 差异化激励](strategy_and_execution/188-motivate-by-generation-trust-young-employees.md)
 - [189 竞合改造](strategy_and_execution/189-transform-competitors-into-partners.md)
 - [190 对齐战略](strategy_and_execution/190-align-all-departments-to-strategy.md)
+- [191 集体领导](strategy_and_execution/191-collective-leadership-oppose-departmentalism.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

@@ -299,6 +299,7 @@ Purpose:
 - [188 分级管理](iteration_and_delivery/188-manage-by-level-trust-juniors-balance-delivery-and-growth.md)
 - [189 改造遗留](iteration_and_delivery/189-refactor-legacy-do-not-rewrite-from-scratch.md)
 - [190 遵守架构决策](iteration_and_delivery/190-follow-architecture-decisions-do-not-fork.md)
+- [191 反对主观主义](iteration_and_delivery/191-oppose-subjectivism-both-rushing-and-conservatism.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

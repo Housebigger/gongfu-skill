@@ -124,6 +124,7 @@ Focus:
 - [188 按阶段调整](engineering_strategy/188-adapt-dev-strategy-to-product-phase.md)
 - [189 改造旧设计](engineering_strategy/189-iterate-on-old-design-do-not-redo-from-scratch.md)
 - [190 遵守设计规范](engineering_strategy/190-follow-design-standards-do-not-improvise.md)
+- [191 兼顾交付和团队](engineering_strategy/191-balance-delivery-and-team-welfare.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

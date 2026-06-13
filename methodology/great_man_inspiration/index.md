@@ -919,6 +919,15 @@ Current contents:
 ### 189《关于国家资本主义》(1953-07-09)
 
 ### 190《党在过渡时期的总路线》(1953-08)
+
+### 191《反对党内的资产阶级思想》(1953-08-12)
+- `inspiration_on_today_life/judgement_and_decision/191-distinguish-minor-mistakes-from-principle-errors.md`
+- `inspiration_on_software_development/iteration_and_delivery/191-oppose-subjectivism-both-rushing-and-conservatism.md`
+- `inspiration_on_running_a_company/strategy_and_execution/191-collective-leadership-oppose-departmentalism.md`
+- `inspiration_on_stock_investing/research_and_thesis/191-know-what-you-rely-on-do-not-waver.md`
+- `inspiration_on_making_money/execution_and_delivery/191-go-to-the-frontline-do-not-guess-market.md`
+- `inspiration_on_embedded_coding/engineering_strategy/191-balance-delivery-and-team-welfare.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/191-correct-to-help-not-to-destroy.md`
 - `inspiration_on_today_life/judgement_and_decision/190-follow-your-plan-do-not-improvise.md`
 - `inspiration_on_software_development/iteration_and_delivery/190-follow-architecture-decisions-do-not-fork.md`
 - `inspiration_on_running_a_company/strategy_and_execution/190-align-all-departments-to-strategy.md`

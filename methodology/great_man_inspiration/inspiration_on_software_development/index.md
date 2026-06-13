@@ -326,6 +326,7 @@ Purpose:
 - [215 经验永远学不足](iteration_and_delivery/215-experience-is-never-enough-embrace-mistakes.md)
 - [216 一点风雨就说不行](iteration_and_delivery/216-do-not-abandon-direction-over-small-problems.md)
 - [217 团结批评团结](iteration_and_delivery/217-unity-criticism-unity-formula.md)
+- [218 说服不是强迫](iteration_and_delivery/218-persuasion-not-coercion-for-tech-adoption.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

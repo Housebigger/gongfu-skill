@@ -264,6 +264,7 @@ Additional focus:
 - [215 三榜定案](execution_and_delivery/215-three-rounds-of-review-for-big-decisions.md)
 - [216 泄气就打点气](execution_and_delivery/216-when-demoralized-pump-yourself-up.md)
 - [217 百花齐放多元发展](execution_and_delivery/217-let-a-hundred-flowers-bloom-diversify.md)
+- [218 逐步推广](execution_and_delivery/218-gradual-promotion-makes-people-want-to-accept.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

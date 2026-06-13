@@ -973,6 +973,15 @@ Current contents:
 ### 216《在省市自治区党委书记会议上的讲话》(1957-01)
 
 ### 217《关于正确处理人民内部矛盾的问题》(1957-02-27)
+
+### 218《在全国宣传工作会议上的讲话》(1957-03-12)
+- `inspiration_on_today_life/judgement_and_decision/218-existence-determines-consciousness.md`
+- `inspiration_on_software_development/iteration_and_delivery/218-persuasion-not-coercion-for-tech-adoption.md`
+- `inspiration_on_running_a_company/strategy_and_execution/218-new-systems-need-time-to-consolidate.md`
+- `inspiration_on_stock_investing/research_and_thesis/218-three-stances-firm-wavering-opposing.md`
+- `inspiration_on_making_money/execution_and_delivery/218-gradual-promotion-makes-people-want-to-accept.md`
+- `inspiration_on_embedded_coding/engineering_strategy/218-assess-the-mainstream-is-it-basically-healthy.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/218-educators-must-know-their-own-stance.md`
 - `inspiration_on_today_life/judgement_and_decision/217-no-contradiction-is-naive-they-are-everywhere.md`
 - `inspiration_on_software_development/iteration_and_delivery/217-unity-criticism-unity-formula.md`
 - `inspiration_on_running_a_company/strategy_and_execution/217-distinguish-enemy-from-internal-disputes.md`

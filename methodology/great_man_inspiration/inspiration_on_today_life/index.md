@@ -297,6 +297,7 @@ Purpose:
 - [215 波浪式地前进](judgement_and_decision/215-wave-like-progress-not-a-straight-line.md)
 - [216 风吹两边倒](judgement_and_decision/216-do-not-be-a-fence-sitter.md)
 - [217 没有矛盾是天真的](judgement_and_decision/217-no-contradiction-is-naive-they-are-everywhere.md)
+- [218 存在决定意识](judgement_and_decision/218-existence-determines-consciousness.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

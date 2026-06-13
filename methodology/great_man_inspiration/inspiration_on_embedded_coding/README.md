@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—217 连续覆盖，下一篇为 218《事物都是一分为二的》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—218 连续覆盖，下一篇为 219《党的文艺工作者必须深入群众》。

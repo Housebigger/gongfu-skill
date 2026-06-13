@@ -282,6 +282,7 @@ This folder focuses on:
 - [215 别泼冷水](strategy_and_execution/215-do-not-pour-cold-water-on-enthusiasm.md)
 - [216 比贡献不比待遇](strategy_and_execution/216-compete-on-contribution-not-on-perks.md)
 - [217 分清敌我和是非](strategy_and_execution/217-distinguish-enemy-from-internal-disputes.md)
+- [218 新制度需要巩固时间](strategy_and_execution/218-new-systems-need-time-to-consolidate.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

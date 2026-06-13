@@ -921,6 +921,15 @@ Current contents:
 ### 190《党在过渡时期的总路线》(1953-08)
 
 ### 191《反对党内的资产阶级思想》(1953-08-12)
+
+### 192《改造资本主义工商业的必经之路》(1953-09-07)
+- `inspiration_on_today_life/judgement_and_decision/192-steady-progress-not-too-fast-not-too-slow.md`
+- `inspiration_on_software_development/iteration_and_delivery/192-gradual-migration-not-big-bang-rewrite.md`
+- `inspiration_on_running_a_company/strategy_and_execution/192-fair-profit-distribution-three-quarters-public.md`
+- `inspiration_on_stock_investing/research_and_thesis/192-invest-voluntarily-do-not-force-yourself.md`
+- `inspiration_on_making_money/execution_and_delivery/192-cultivate-early-adopters-to-persuade-majority.md`
+- `inspiration_on_embedded_coding/engineering_strategy/192-set-timeline-oppose-both-delay-and-rushing.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/192-train-talent-through-practice-not-theory-only.md`
 - `inspiration_on_today_life/judgement_and_decision/191-distinguish-minor-mistakes-from-principle-errors.md`
 - `inspiration_on_software_development/iteration_and_delivery/191-oppose-subjectivism-both-rushing-and-conservatism.md`
 - `inspiration_on_running_a_company/strategy_and_execution/191-collective-leadership-oppose-departmentalism.md`

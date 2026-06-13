@@ -238,6 +238,7 @@ Additional focus:
 - [189 消费转投资](execution_and_delivery/189-transform-spending-into-investing.md)
 - [190 遵守职业规划](execution_and_delivery/190-stick-to-career-plan-do-not-jump.md)
 - [191 深入一线](execution_and_delivery/191-go-to-the-frontline-do-not-guess-market.md)
+- [192 培养标杆](execution_and_delivery/192-cultivate-early-adopters-to-persuade-majority.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

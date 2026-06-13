@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—191 连续覆盖，下一篇为 192《改造资本主义工商业的必经之路》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—192 连续覆盖，下一篇为 193《批判梅腐的治国理念》。

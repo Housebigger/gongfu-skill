@@ -989,6 +989,15 @@ Current contents:
 ### 224《打退资产阶级右派的进攻》(1957-07-09)
 
 ### 225《一九五七年夏季的形势》(1957-07)
+
+### 226《做革命的促进派》(1957-10-09)
+- `inspiration_on_today_life/judgement_and_decision/226-a-plan-is-better-than-no-plan.md`
+- `inspiration_on_software_development/iteration_and_delivery/226-find-the-right-form-and-things-get-easier.md`
+- `inspiration_on_running_a_company/strategy_and_execution/226-reform-boldly-thoroughly-resolutely.md`
+- `inspiration_on_stock_investing/research_and_thesis/226-review-and-adjust-strategy-periodically.md`
+- `inspiration_on_making_money/execution_and_delivery/226-three-layers-of-savings-make-you-rich.md`
+- `inspiration_on_embedded_coding/engineering_strategy/226-embedded-is-intensive-cultivation.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/226-comprehensive-planning-and-hands-on-leadership.md`
 - `inspiration_on_today_life/judgement_and_decision/225-both-centralization-and-democracy-in-life.md`
 - `inspiration_on_software_development/iteration_and_delivery/225-seek-truth-from-facts-and-user-line.md`
 - `inspiration_on_running_a_company/strategy_and_execution/225-look-further-ahead-long-termism.md`

@@ -215,6 +215,7 @@ Purpose:
 - [223 利令智昏](research_and_thesis/223-greed-makes-you-lose-judgment.md)
 - [224 成绩为主还是错误为主](research_and_thesis/224-assess-achievements-vs-mistakes-look-at-mainstream.md)
 - [225 不低估自己不高估风险](research_and_thesis/225-do-not-underestimate-yourself-overestimate-risks.md)
+- [226 三年小改五年大改](research_and_thesis/226-review-and-adjust-strategy-periodically.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -334,6 +334,7 @@ Purpose:
 - [223 Bug暴露才能修复](iteration_and_delivery/223-bugs-must-surface-before-you-can-fix-them.md)
 - [224 定期放火锻炼](iteration_and_delivery/224-regularly-stress-test-your-system.md)
 - [225 实事求是用户路线](iteration_and_delivery/225-seek-truth-from-facts-and-user-line.md)
+- [226 找到适合的形式](iteration_and_delivery/226-find-the-right-form-and-things-get-easier.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

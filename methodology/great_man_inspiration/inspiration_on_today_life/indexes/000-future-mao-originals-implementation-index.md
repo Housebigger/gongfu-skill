@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—225。
+- 当前已完成连续主线：001—226。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：226—229，共 4 篇；225 已完成。
+- 主文章未来仍待落实：227—229，共 3 篇；226 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -144,7 +144,7 @@
 | 223 | 223 | 第五卷 社会主义革命和社会主义建设时期（一） | 64 | 《文汇报的资产阶级方向应当批判》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570701.htm) | 已完成 |
 | 224 | 224 | 第五卷 社会主义革命和社会主义建设时期（一） | 65 | 《打退资产阶级右派的进攻》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm) | 已完成 |
 | 225 | 225 | 第五卷 社会主义革命和社会主义建设时期（一） | 66 | 《一九五七年夏季的形势》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195707.htm) | 已完成 |
-| 226 | 226 | 第五卷 社会主义革命和社会主义建设时期（一） | 67 | 《做革命的促进派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm) | 待落实 |
+| 226 | 226 | 第五卷 社会主义革命和社会主义建设时期（一） | 67 | 《做革命的促进派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm) | 已完成 |
 | 227 | 227 | 第五卷 社会主义革命和社会主义建设时期（一） | 68 | 《坚定地相信群众的大多数》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571013.htm) | 待落实 |
 | 228 | 228 | 第五卷 社会主义革命和社会主义建设时期（一） | 69 | 《党内团结的辩证方法》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118.htm) | 待落实 |
 | 229 | 229 | 第五卷 社会主义革命和社会主义建设时期（一） | 70 | 《一切反动派都是纸老虎》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118a.htm) | 待落实 |

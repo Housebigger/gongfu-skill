@@ -266,6 +266,7 @@ This folder focuses on:
 - [199 和对手共存](strategy_and_execution/199-coexist-with-competitors.md)
 - [200 集体领导加个人负责](strategy_and_execution/200-collective-leadership-plus-individual-accountability.md)
 - [201 内部辩论外部统一](strategy_and_execution/201-internal-debate-external-uniformity.md)
+- [202 改正或堕落](strategy_and_execution/202-two-roads-reform-or-decline.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

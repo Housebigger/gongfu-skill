@@ -941,6 +941,15 @@ Current contents:
 ### 200《在中国共产党全国代表会议上的讲话》(1955-03)
 
 ### 201《驳“舆论一律”》(1955-05-24)
+
+### 202《《关于胡风反革命集团的材料》的序言和按语》(1955-05)
+- `inspiration_on_today_life/judgement_and_decision/202-improve-discrimination-skills.md`
+- `inspiration_on_software_development/iteration_and_delivery/202-clean-up-the-codebase-regularly.md`
+- `inspiration_on_running_a_company/strategy_and_execution/202-two-roads-reform-or-decline.md`
+- `inspiration_on_stock_investing/research_and_thesis/202-bears-always-overestimate-themselves.md`
+- `inspiration_on_making_money/execution_and_delivery/202-counterattack-when-disadvantaged.md`
+- `inspiration_on_embedded_coding/engineering_strategy/202-do-not-neglect-quality-under-pressure.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/202-teach-judgment-not-just-knowledge.md`
 - `inspiration_on_today_life/judgement_and_decision/201-two-voices-always-compete.md`
 - `inspiration_on_software_development/iteration_and_delivery/201-rigorous-engineering-takes-effort.md`
 - `inspiration_on_running_a_company/strategy_and_execution/201-internal-debate-external-uniformity.md`

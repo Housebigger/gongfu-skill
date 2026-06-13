@@ -110,6 +110,7 @@ Focus:
 - [174 别恋旧架构](engineering_strategy/174-do-not-cling-to-bare-metal-upgrade-arch.md)
 - [175 跨部门协作](engineering_strategy/175-hw-project-victory-comes-from-cross-team-unity.md)
 - [176 BOM审计](engineering_strategy/176-bom-audit-clean-up-redundant-parts.md)
+- [177 可靠性](engineering_strategy/177-take-reliability-testing-seriously.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

@@ -256,6 +256,7 @@ Purpose:
 - [174 别歌颂旧事物](judgement_and_decision/174-do-not-romanticize-the-past-move-on.md)
 - [175 团结胜利](judgement_and_decision/175-victory-comes-from-unity-not-isolation.md)
 - [176 自我清理](judgement_and_decision/176-self-audit-clean-up-bad-habits-regularly.md)
+- [177 当大事做](judgement_and_decision/177-treat-important-things-as-big-things.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 176（001—176 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1157 |
-| 顺序学习已连续覆盖范围 | 001—176 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—176 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—176 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 177（001—177 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1164 |
+| 顺序学习已连续覆盖范围 | 001—177 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—177 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—177 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—176 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—177 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—176 顺序主线已连续建立关联        [DONE]
+001—177 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -259,7 +259,8 @@
 173 《镇压反革命必须打得稳，打得准，打得狠》 [DONE: 7/7]
 174 《应当重视电影《武训传》的讨论》 [DONE: 7/7]
 175 《三大运动的伟大胜利》 [DONE: 7/7]
-176 《关于“三反”、“五反”的斗争》 [NEXT]
+176 《关于“三反”、“五反”的斗争》 [DONE: 7/7]
+177 《把农业互助合作当作一件大事去做》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -455,6 +456,7 @@
 | 174 | 《应当重视电影《武训传》的讨论》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510520.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/174-do-not-romanticize-the-past-move-on.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/174-do-not-cling-to-legacy-tech-upgrade.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/174-do-not-cling-to-old-business-models.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/174-do-not-cling-to-old-investment-logic.md) | [MM](./inspiration_on_making_money/execution_and_delivery/174-do-not-cling-to-old-earning-methods.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/174-do-not-cling-to-bare-metal-upgrade-arch.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/174-do-not-cling-to-old-teaching-methods.md) |
 | 175 | 《三大运动的伟大胜利》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511023.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/175-victory-comes-from-unity-not-isolation.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/175-team-victory-comes-from-collaboration.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/175-company-victory-comes-from-employee-unity.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/175-investing-victory-comes-from-your-circle.md) | [MM](./inspiration_on_making_money/execution_and_delivery/175-earning-victory-comes-from-network.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/175-hw-project-victory-comes-from-cross-team-unity.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/175-school-victory-comes-from-home-school-community.md) |
 | 176 | 《关于“三反”、“五反”的斗争》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/176-self-audit-clean-up-bad-habits-regularly.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/176-code-audit-clean-up-tech-debt-regularly.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/176-internal-audit-clean-up-corruption-and-waste.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/176-investment-audit-clean-up-bad-positions.md) | [MM](./inspiration_on_making_money/execution_and_delivery/176-financial-audit-cut-useless-spending.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/176-bom-audit-clean-up-redundant-parts.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/176-teaching-audit-clean-up-ineffective-courses.md) |
+| 177 | 《把农业互助合作当作一件大事去做》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511215.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/177-treat-important-things-as-big-things.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/177-focus-on-core-feature-treat-it-as-big-thing.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/177-focus-on-core-business-treat-it-as-big-thing.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/177-take-research-seriously-do-deep-dive.md) | [MM](./inspiration_on_making_money/execution_and_delivery/177-master-one-skill-treat-it-as-big-thing.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/177-take-reliability-testing-seriously.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/177-take-teaching-quality-seriously.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2445,6 +2447,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/176-financial-audit-cut-useless-spending.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/176-bom-audit-clean-up-redundant-parts.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/176-teaching-audit-clean-up-ineffective-courses.md`
+
+## 177 《把农业互助合作当作一件大事去做》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511215.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/177-treat-important-things-as-big-things.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/177-focus-on-core-feature-treat-it-as-big-thing.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/177-focus-on-core-business-treat-it-as-big-thing.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/177-take-research-seriously-do-deep-dive.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/177-master-one-skill-treat-it-as-big-thing.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/177-take-reliability-testing-seriously.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/177-take-teaching-quality-seriously.md`
 
 ## 6. 使用建议
 

@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—176 连续覆盖，下一篇为 177《把农业互助合作当作一件大事去做》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—177 连续覆盖，下一篇为 178《元旦祝词》。

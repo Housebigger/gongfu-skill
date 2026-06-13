@@ -891,6 +891,15 @@ Current contents:
 ### 175《三大运动的伟大胜利》(1951-10-23)
 
 ### 176《关于“三反”、“五反”的斗争》(1951-11~1952-03)
+
+### 177《把农业互助合作当作一件大事去做》(1951-12-15)
+- `inspiration_on_today_life/judgement_and_decision/177-treat-important-things-as-big-things.md`
+- `inspiration_on_software_development/iteration_and_delivery/177-focus-on-core-feature-treat-it-as-big-thing.md`
+- `inspiration_on_running_a_company/strategy_and_execution/177-focus-on-core-business-treat-it-as-big-thing.md`
+- `inspiration_on_stock_investing/research_and_thesis/177-take-research-seriously-do-deep-dive.md`
+- `inspiration_on_making_money/execution_and_delivery/177-master-one-skill-treat-it-as-big-thing.md`
+- `inspiration_on_embedded_coding/engineering_strategy/177-take-reliability-testing-seriously.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/177-take-teaching-quality-seriously.md`
 - `inspiration_on_today_life/judgement_and_decision/176-self-audit-clean-up-bad-habits-regularly.md`
 - `inspiration_on_software_development/iteration_and_delivery/176-code-audit-clean-up-tech-debt-regularly.md`
 - `inspiration_on_running_a_company/strategy_and_execution/176-internal-audit-clean-up-corruption-and-waste.md`

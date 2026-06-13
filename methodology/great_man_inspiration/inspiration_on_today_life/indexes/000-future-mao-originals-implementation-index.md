@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—176。
+- 当前已完成连续主线：001—177。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：177—229，共 53 篇；176 已完成。
+- 主文章未来仍待落实：178—229，共 52 篇；177 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -95,7 +95,7 @@
 | 174 | 174 | 第五卷 社会主义革命和社会主义建设时期（一） | 15 | 《应当重视电影《武训传》的讨论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510520.htm) | 已完成 |
 | 175 | 175 | 第五卷 社会主义革命和社会主义建设时期（一） | 16 | 《三大运动的伟大胜利》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511023.htm) | 已完成 |
 | 176 | 176 | 第五卷 社会主义革命和社会主义建设时期（一） | 17 | 《关于“三反”、“五反”的斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm) | 已完成 |
-| 177 | 177 | 第五卷 社会主义革命和社会主义建设时期（一） | 18 | 《把农业互助合作当作一件大事去做》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511215.htm) | 待落实 |
+| 177 | 177 | 第五卷 社会主义革命和社会主义建设时期（一） | 18 | 《把农业互助合作当作一件大事去做》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511215.htm) | 已完成 |
 | 178 | 178 | 第五卷 社会主义革命和社会主义建设时期（一） | 19 | 《元旦祝词》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520101.htm) | 待落实 |
 | 179 | 179 | 第五卷 社会主义革命和社会主义建设时期（一） | 20 | 《中共中央关于西藏工作方针的指示》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520406.htm) | 待落实 |
 | 180 | 180 | 第五卷 社会主义革命和社会主义建设时期（一） | 21 | 《工人阶级与资产阶级的矛盾是国内的主要矛盾》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520606.htm) | 待落实 |

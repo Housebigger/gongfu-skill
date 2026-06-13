@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—176 连续覆盖，下一篇为 177《把农业互助合作当作一件大事去做》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—177 连续覆盖，下一篇为 178《元旦祝词》。

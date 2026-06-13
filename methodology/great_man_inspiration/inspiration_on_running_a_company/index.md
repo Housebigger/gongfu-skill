@@ -241,6 +241,7 @@ This folder focuses on:
 - [174 别恋旧模式](strategy_and_execution/174-do-not-cling-to-old-business-models.md)
 - [175 全员工心](strategy_and_execution/175-company-victory-comes-from-employee-unity.md)
 - [176 内部审计](strategy_and_execution/176-internal-audit-clean-up-corruption-and-waste.md)
+- [177 核心业务](strategy_and_execution/177-focus-on-core-business-treat-it-as-big-thing.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

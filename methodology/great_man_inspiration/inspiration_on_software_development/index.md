@@ -285,6 +285,7 @@ Purpose:
 - [174 别恋旧技术](iteration_and_delivery/174-do-not-cling-to-legacy-tech-upgrade.md)
 - [175 团队协作](iteration_and_delivery/175-team-victory-comes-from-collaboration.md)
 - [176 代码审计](iteration_and_delivery/176-code-audit-clean-up-tech-debt-regularly.md)
+- [177 核心功能](iteration_and_delivery/177-focus-on-core-feature-treat-it-as-big-thing.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

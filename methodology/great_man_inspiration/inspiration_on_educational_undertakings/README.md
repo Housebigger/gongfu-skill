@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—210 连续覆盖，下一篇为 211《在最高国务会议上的讲话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—211 连续覆盖，下一篇为 212《增强党的团结，继承党的传统》。

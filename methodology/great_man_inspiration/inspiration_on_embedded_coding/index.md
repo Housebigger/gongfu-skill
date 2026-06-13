@@ -143,7 +143,8 @@ Focus:
 - [207 准备对付重大困难](engineering_strategy/207-prepare-for-major-difficulties.md)
 - [208 分阶段路线图](engineering_strategy/208-phased-product-roadmap.md)
 - [209 团队规模一百人为宜](engineering_strategy/209-reasonable-team-size.md)
-- [210 总部与一线适当分权](engineering_strategy/210-proper-delegation-between-hq-and-frontline.md)
+- [210 总部与一线分权](engineering_strategy/210-proper-delegation-between-hq-and-frontline.md)
+- [211 小团队联系一线就强](engineering_strategy/211-small-teams-can-win-with-customer-connection.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

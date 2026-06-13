@@ -959,6 +959,15 @@ Current contents:
 ### 209《加快手工业的社会主义改造》(1956-03-04)
 
 ### 210《论十大关系》(1956-04-25)
+
+### 211《美帝国主义是纸老虎》(1956-07-14)
+- `inspiration_on_today_life/judgement_and_decision/211-everything-changes-do-not-be-intimidated.md`
+- `inspiration_on_software_development/iteration_and_delivery/211-strategic-contempt-tactical-vigilance.md`
+- `inspiration_on_running_a_company/strategy_and_execution/211-strong-fails-when-disconnected-from-people.md`
+- `inspiration_on_stock_investing/research_and_thesis/211-learn-from-failure-cases.md`
+- `inspiration_on_making_money/execution_and_delivery/211-break-big-goals-into-small-steps.md`
+- `inspiration_on_embedded_coding/engineering_strategy/211-small-teams-can-win-with-customer-connection.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/211-small-people-can-achieve-great-things.md`
 - `inspiration_on_today_life/judgement_and_decision/210-mobilize-all-positive-factors.md`
 - `inspiration_on_software_development/iteration_and_delivery/210-real-vs-fake-commitment-to-fundamentals.md`
 - `inspiration_on_running_a_company/strategy_and_execution/210-learn-from-others-mistakes-not-just-successes.md`

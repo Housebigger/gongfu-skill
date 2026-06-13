@@ -273,6 +273,7 @@ Purpose:
 - [162 别忘开源贡献者](iteration_and_delivery/162-remember-open-source-contributors-give-back.md)
 - [163 上线不是终点](iteration_and_delivery/163-launch-is-the-start-not-the-end.md)
 - [164 分步重构](iteration_and_delivery/164-incremental-refactor-do-not-rewrite-everything.md)
+- [165 定义稳定](iteration_and_delivery/165-define-stable-with-sli-slo-numbers.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

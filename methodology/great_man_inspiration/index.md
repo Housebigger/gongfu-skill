@@ -812,6 +812,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/164-migrate-platform-in-steps-validate-each.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/164-reform-teaching-in-steps-validate-each-change.md`
 
+### 165《为争取国家财政经济状况的基本好转而斗争》(1950-06-06)
+- `inspiration_on_today_life/judgement_and_decision/165-define-what-recovery-looks-like-three-conditions.md`
+- `inspiration_on_software_development/iteration_and_delivery/165-define-stable-with-sli-slo-numbers.md`
+- `inspiration_on_running_a_company/strategy_and_execution/165-define-company-health-with-kpi-numbers.md`
+- `inspiration_on_stock_investing/research_and_thesis/165-define-investment-health-with-metrics.md`
+- `inspiration_on_making_money/execution_and_delivery/165-define-financial-health-three-conditions.md`
+- `inspiration_on_embedded_coding/engineering_strategy/165-define-mass-production-ready-three-conditions.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/165-define-teaching-health-with-metrics.md`
+
 
 ## Naming convention
 

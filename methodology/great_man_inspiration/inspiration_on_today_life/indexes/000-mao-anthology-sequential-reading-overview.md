@@ -863,7 +863,7 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/163-mass-production-is-not-the-end-keep-improving.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/163-good-scores-are-past-always-improve-teaching.md`
 
-- 165《为争取国家财政经济状况的基本好转而斗争》
+- 164《征询对待富农策略问题的意见》
   - `../judgement_and_decision/164-solve-problems-in-steps-do-not-boil-the-ocean.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/164-incremental-refactor-do-not-rewrite-everything.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/164-reform-in-steps-preserve-stability-first.md`
@@ -871,6 +871,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/164-monetize-one-skill-first-then-expand.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/164-migrate-platform-in-steps-validate-each.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/164-reform-teaching-in-steps-validate-each-change.md`
+
+- 166《不要四面出击》
+  - `../judgement_and_decision/165-define-what-recovery-looks-like-three-conditions.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/165-define-stable-with-sli-slo-numbers.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/165-define-company-health-with-kpi-numbers.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/165-define-investment-health-with-metrics.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/165-define-financial-health-three-conditions.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/165-define-mass-production-ready-three-conditions.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/165-define-teaching-health-with-metrics.md`
   - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》

@@ -256,6 +256,7 @@ Additional focus:
 - [207 发现隐藏需求](execution_and_delivery/207-discover-hidden-market-demand.md)
 - [208 先粗版再迭代](execution_and_delivery/208-start-rough-iterate-to-good.md)
 - [209 各行各业都有价值](execution_and_delivery/209-every-niche-has-value.md)
+- [210 用老底子支持新方向](execution_and_delivery/210-use-existing-strengths-to-expand.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

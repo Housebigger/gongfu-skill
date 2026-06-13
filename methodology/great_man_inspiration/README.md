@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 209（001—209 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1388 |
-| 顺序学习已连续覆盖范围 | 001—209 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—209 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—209 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 210（001—210 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1395 |
+| 顺序学习已连续覆盖范围 | 001—210 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—210 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—210 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—209 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—210 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—209 顺序主线已连续建立关联        [DONE]
+001—210 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -292,7 +292,8 @@
 206 《《中国农村的社会主义高潮》的序言》 [DONE: 7/7]
 207 《《中国农村的社会主义高潮》的按语》 [DONE: 7/7]
 208 《征询对农业十七条的意见》 [DONE: 7/7]
-209 《加快手工业的社会主义改造》 [NEXT]
+209 《加快手工业的社会主义改造》 [DONE: 7/7]
+210 《论十大关系》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -521,6 +522,7 @@
 | 207 | 《《中国农村的社会主义高潮》的按语》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/207-poor-but-hardworking-changes-destiny.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/207-leaders-must-get-hands-dirty.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/207-do-not-dodge-problems-face-them.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/207-take-control-of-your-own-destiny.md) | [MM](./inspiration_on_making_money/execution_and_delivery/207-discover-hidden-market-demand.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/207-prepare-for-major-difficulties.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/207-break-superstitions-believe-in-students.md) |
 | 208 | 《征询对农业十七条的意见》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19551221.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/208-make-a-comprehensive-life-plan.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/208-feasibility-review-three-angles.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/208-build-a-best-practices-library.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/208-verify-each-investment-thesis-point.md) | [MM](./inspiration_on_making_money/execution_and_delivery/208-start-rough-iterate-to-good.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/208-phased-product-roadmap.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/208-set-quantifiable-education-goals.md) |
 | 209 | 《加快手工业的社会主义改造》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560304.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/209-preserve-good-traditions-forever.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/209-move-toward-automation-and-tools.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/209-give-first-take-later.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/209-industry-cycles-are-normal.md) | [MM](./inspiration_on_making_money/execution_and_delivery/209-every-niche-has-value.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/209-reasonable-team-size.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/209-protect-traditional-crafts-and-artists.md) |
+| 210 | 《论十大关系》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/210-mobilize-all-positive-factors.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/210-real-vs-fake-commitment-to-fundamentals.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/210-learn-from-others-mistakes-not-just-successes.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/210-optimize-offense-defense-balance.md) | [MM](./inspiration_on_making_money/execution_and_delivery/210-use-existing-strengths-to-expand.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/210-proper-delegation-between-hq-and-frontline.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/210-balance-collective-and-individual-interests.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2841,6 +2843,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/209-every-niche-has-value.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/209-reasonable-team-size.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/209-protect-traditional-crafts-and-artists.md`
+
+## 210 《论十大关系》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/210-mobilize-all-positive-factors.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/210-real-vs-fake-commitment-to-fundamentals.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/210-learn-from-others-mistakes-not-just-successes.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/210-optimize-offense-defense-balance.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/210-use-existing-strengths-to-expand.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/210-proper-delegation-between-hq-and-frontline.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/210-balance-collective-and-individual-interests.md`
 
 ## 6. 使用建议
 

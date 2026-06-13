@@ -957,6 +957,15 @@ Current contents:
 ### 208《征询对农业十七条的意见》(1955-12-21)
 
 ### 209《加快手工业的社会主义改造》(1956-03-04)
+
+### 210《论十大关系》(1956-04-25)
+- `inspiration_on_today_life/judgement_and_decision/210-mobilize-all-positive-factors.md`
+- `inspiration_on_software_development/iteration_and_delivery/210-real-vs-fake-commitment-to-fundamentals.md`
+- `inspiration_on_running_a_company/strategy_and_execution/210-learn-from-others-mistakes-not-just-successes.md`
+- `inspiration_on_stock_investing/research_and_thesis/210-optimize-offense-defense-balance.md`
+- `inspiration_on_making_money/execution_and_delivery/210-use-existing-strengths-to-expand.md`
+- `inspiration_on_embedded_coding/engineering_strategy/210-proper-delegation-between-hq-and-frontline.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/210-balance-collective-and-individual-interests.md`
 - `inspiration_on_today_life/judgement_and_decision/209-preserve-good-traditions-forever.md`
 - `inspiration_on_software_development/iteration_and_delivery/209-move-toward-automation-and-tools.md`
 - `inspiration_on_running_a_company/strategy_and_execution/209-give-first-take-later.md`

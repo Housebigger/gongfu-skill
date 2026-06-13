@@ -318,6 +318,7 @@ Purpose:
 - [207 领导要亲自下场](iteration_and_delivery/207-leaders-must-get-hands-dirty.md)
 - [208 可行性研究三角度](iteration_and_delivery/208-feasibility-review-three-angles.md)
 - [209 向自动化和工具化发展](iteration_and_delivery/209-move-toward-automation-and-tools.md)
+- [210 真想还是假想](iteration_and_delivery/210-real-vs-fake-commitment-to-fundamentals.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

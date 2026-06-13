@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—209。
+- 当前已完成连续主线：001—210。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：210—229，共 20 篇；209 已完成。
+- 主文章未来仍待落实：211—229，共 19 篇；210 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -128,7 +128,7 @@
 | 207 | 207 | 第五卷 社会主义革命和社会主义建设时期（一） | 48 | 《《中国农村的社会主义高潮》的按语》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm) | 已完成 |
 | 208 | 208 | 第五卷 社会主义革命和社会主义建设时期（一） | 49 | 《征询对农业十七条的意见》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19551221.htm) | 已完成 |
 | 209 | 209 | 第五卷 社会主义革命和社会主义建设时期（一） | 50 | 《加快手工业的社会主义改造》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560304.htm) | 已完成 |
-| 210 | 210 | 第五卷 社会主义革命和社会主义建设时期（一） | 51 | 《论十大关系》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm) | 待落实 |
+| 210 | 210 | 第五卷 社会主义革命和社会主义建设时期（一） | 51 | 《论十大关系》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm) | 已完成 |
 | 211 | 211 | 第五卷 社会主义革命和社会主义建设时期（一） | 52 | 《美帝国主义是纸老虎》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560714.htm) | 待落实 |
 | 212 | 212 | 第五卷 社会主义革命和社会主义建设时期（一） | 53 | 《增强党的团结，继承党的传统》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560830.htm) | 待落实 |
 | 213 | 213 | 第五卷 社会主义革命和社会主义建设时期（一） | 54 | 《我们党的—些历史经验》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195600925.htm) | 待落实 |

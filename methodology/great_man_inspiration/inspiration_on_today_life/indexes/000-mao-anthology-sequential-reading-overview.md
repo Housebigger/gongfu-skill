@@ -953,7 +953,7 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/173-pcb-tapeout-steady-accurate-resolute.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/173-reform-steady-accurate-resolute.md`
 
-- 175《三大运动的伟大胜利》
+- 174《应当重视电影《武训传》的讨论》
   - `../judgement_and_decision/174-do-not-romanticize-the-past-move-on.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/174-do-not-cling-to-legacy-tech-upgrade.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/174-do-not-cling-to-old-business-models.md`
@@ -961,6 +961,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/174-do-not-cling-to-old-earning-methods.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/174-do-not-cling-to-bare-metal-upgrade-arch.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/174-do-not-cling-to-old-teaching-methods.md`
+
+- 176《关于“三反”、“五反”的斗争》
+  - `../judgement_and_decision/175-victory-comes-from-unity-not-isolation.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/175-team-victory-comes-from-collaboration.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/175-company-victory-comes-from-employee-unity.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/175-investing-victory-comes-from-your-circle.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/175-earning-victory-comes-from-network.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/175-hw-project-victory-comes-from-cross-team-unity.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/175-school-victory-comes-from-home-school-community.md`
   - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》

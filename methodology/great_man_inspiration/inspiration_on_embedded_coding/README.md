@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—174 连续覆盖，下一篇为 175《三大运动的伟大胜利》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—175 连续覆盖，下一篇为 176《关于“三反”、“五反”的斗争》。

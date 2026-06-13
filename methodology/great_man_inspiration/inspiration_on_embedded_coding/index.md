@@ -108,6 +108,7 @@ Focus:
 - [172 硬件保守](engineering_strategy/172-be-conservative-with-hw-changes-when-in-doubt.md)
 - [173 投板稳准狠](engineering_strategy/173-pcb-tapeout-steady-accurate-resolute.md)
 - [174 别恋旧架构](engineering_strategy/174-do-not-cling-to-bare-metal-upgrade-arch.md)
+- [175 跨部门协作](engineering_strategy/175-hw-project-victory-comes-from-cross-team-unity.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

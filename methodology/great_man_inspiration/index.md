@@ -887,6 +887,15 @@ Current contents:
 ### 173《镇压反革命必须打得稳，打得准，打得狠》(1950-12~1951-09)
 
 ### 174《应当重视电影《武训传》的讨论》(1951-05-20)
+
+### 175《三大运动的伟大胜利》(1951-10-23)
+- `inspiration_on_today_life/judgement_and_decision/175-victory-comes-from-unity-not-isolation.md`
+- `inspiration_on_software_development/iteration_and_delivery/175-team-victory-comes-from-collaboration.md`
+- `inspiration_on_running_a_company/strategy_and_execution/175-company-victory-comes-from-employee-unity.md`
+- `inspiration_on_stock_investing/research_and_thesis/175-investing-victory-comes-from-your-circle.md`
+- `inspiration_on_making_money/execution_and_delivery/175-earning-victory-comes-from-network.md`
+- `inspiration_on_embedded_coding/engineering_strategy/175-hw-project-victory-comes-from-cross-team-unity.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/175-school-victory-comes-from-home-school-community.md`
 - `inspiration_on_today_life/judgement_and_decision/174-do-not-romanticize-the-past-move-on.md`
 - `inspiration_on_software_development/iteration_and_delivery/174-do-not-cling-to-legacy-tech-upgrade.md`
 - `inspiration_on_running_a_company/strategy_and_execution/174-do-not-cling-to-old-business-models.md`

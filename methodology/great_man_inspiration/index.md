@@ -949,6 +949,15 @@ Current contents:
 ### 204《农业合作化必须依靠党团员和贫农下中农》(1955-09-07)
 
 ### 205《农业合作化的一场辩论和当前的阶级斗争》(1955-10-11)
+
+### 206《《中国农村的社会主义高潮》的序言》(1955-09/12)
+- `inspiration_on_today_life/judgement_and_decision/206-stop-wavering-in-decisions.md`
+- `inspiration_on_software_development/iteration_and_delivery/206-stop-piecemeal-work-plan-holistically.md`
+- `inspiration_on_running_a_company/strategy_and_execution/206-use-case-studies-to-persuade.md`
+- `inspiration_on_stock_investing/research_and_thesis/206-adjust-when-fundamentals-fundamentally-change.md`
+- `inspiration_on_making_money/execution_and_delivery/206-show-people-their-future.md`
+- `inspiration_on_embedded_coding/engineering_strategy/206-management-must-catch-up-with-frontline.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/206-broad-and-powerful-communication-before-reform.md`
 - `inspiration_on_today_life/judgement_and_decision/205-debate-to-break-superstitions.md`
 - `inspiration_on_software_development/iteration_and_delivery/205-big-development-not-self-limiting.md`
 - `inspiration_on_running_a_company/strategy_and_execution/205-distinguish-primary-from-temporary-alliances.md`

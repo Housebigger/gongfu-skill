@@ -252,6 +252,7 @@ Additional focus:
 - [203 珍惜微小积极性](execution_and_delivery/203-cherish-every-bit-of-momentum.md)
 - [204 培养5%核心人脉](execution_and_delivery/204-cultivate-your-core-five-percent.md)
 - [205 别死守过时模式](execution_and_delivery/205-do-not-cling-to-outdated-models.md)
+- [206 让人看见前途](execution_and_delivery/206-show-people-their-future.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

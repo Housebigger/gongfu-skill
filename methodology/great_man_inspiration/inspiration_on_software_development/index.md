@@ -314,6 +314,7 @@ Purpose:
 - [203 充分准备再动手](iteration_and_delivery/203-prepare-fully-before-starting.md)
 - [204 先依靠核心骨干](iteration_and_delivery/204-rely-on-core-engineers-first.md)
 - [205 大发展别自我设限](iteration_and_delivery/205-big-development-not-self-limiting.md)
+- [206 别零敲碎打要全局规划](iteration_and_delivery/206-stop-piecemeal-work-plan-holistically.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

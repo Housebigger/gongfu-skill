@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—205 连续覆盖，下一篇为 206《《中国农村的社会主义高潮》的序言》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—206 连续覆盖，下一篇为 207《《中国农村的社会主义高潮》的按语》。

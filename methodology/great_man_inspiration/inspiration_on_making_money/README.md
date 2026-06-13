@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—205 连续覆盖，下一篇为 206《《中国农村的社会主义高潮》的序言》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—206 连续覆盖，下一篇为 207《《中国农村的社会主义高潮》的按语》。

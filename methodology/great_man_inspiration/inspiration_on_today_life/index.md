@@ -285,6 +285,7 @@ Purpose:
 - [203 在行动中成长](judgement_and_decision/203-grow-through-action-not-fear.md)
 - [204 搞清楚依靠谁](judgement_and_decision/204-know-who-to-rely-on.md)
 - [205 大辩论破除迷信](judgement_and_decision/205-debate-to-break-superstitions.md)
+- [206 别摇摆不定](judgement_and_decision/206-stop-wavering-in-decisions.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

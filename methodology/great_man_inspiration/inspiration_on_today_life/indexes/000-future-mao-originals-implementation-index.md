@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—205。
+- 当前已完成连续主线：001—206。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：206—229，共 24 篇；205 已完成。
+- 主文章未来仍待落实：207—229，共 23 篇；206 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -124,7 +124,7 @@
 | 203 | 203 | 第五卷 社会主义革命和社会主义建设时期（一） | 44 | 《关于农业合作化问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550731.htm) | 已完成 |
 | 204 | 204 | 第五卷 社会主义革命和社会主义建设时期（一） | 45 | 《农业合作化必须依靠党团员和贫农下中农》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550907.htm) | 已完成 |
 | 205 | 205 | 第五卷 社会主义革命和社会主义建设时期（一） | 46 | 《农业合作化的一场辩论和当前的阶级斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19551011.htm) | 已完成 |
-| 206 | 206 | 第五卷 社会主义革命和社会主义建设时期（一） | 47 | 《《中国农村的社会主义高潮》的序言》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509.htm) | 待落实 |
+| 206 | 206 | 第五卷 社会主义革命和社会主义建设时期（一） | 47 | 《《中国农村的社会主义高潮》的序言》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509.htm) | 已完成 |
 | 207 | 207 | 第五卷 社会主义革命和社会主义建设时期（一） | 48 | 《《中国农村的社会主义高潮》的按语》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm) | 待落实 |
 | 208 | 208 | 第五卷 社会主义革命和社会主义建设时期（一） | 49 | 《征询对农业十七条的意见》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19551221.htm) | 待落实 |
 | 209 | 209 | 第五卷 社会主义革命和社会主义建设时期（一） | 50 | 《加快手工业的社会主义改造》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560304.htm) | 待落实 |

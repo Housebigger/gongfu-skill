@@ -303,6 +303,7 @@ Purpose:
 - [192 渐进迁移](iteration_and_delivery/192-gradual-migration-not-big-bang-rewrite.md)
 - [193 别怕新技术](iteration_and_delivery/193-fear-no-new-tech-touch-it-and-know-it.md)
 - [194 议而决决而行](iteration_and_delivery/194-decide-and-execute-do-not-endlessly-discuss.md)
+- [195 主动占领阵地](iteration_and_delivery/195-seize-the-territory-be-proactive-in-architecture.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

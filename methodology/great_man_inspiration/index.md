@@ -927,6 +927,15 @@ Current contents:
 ### 193《抗美援朝的伟大胜利和今后的任务》(1953-09-12)
 
 ### 194《批判梁漱溟的反动思想》(1953-09-16)
+
+### 195《关于农业互助合作的两次谈话》(1953-10-15)
+- `inspiration_on_today_life/judgement_and_decision/195-grasp-the-main-thread-everything-follows.md`
+- `inspiration_on_software_development/iteration_and_delivery/195-seize-the-territory-be-proactive-in-architecture.md`
+- `inspiration_on_running_a_company/strategy_and_execution/195-scale-plus-quality-plus-efficiency.md`
+- `inspiration_on_stock_investing/research_and_thesis/195-be-realistic-match-goals-with-capacity.md`
+- `inspiration_on_making_money/execution_and_delivery/195-small-favors-cannot-solve-big-problems.md`
+- `inspiration_on_embedded_coding/engineering_strategy/195-feet-are-for-walking-move-forward.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/195-correct-without-harming-the-motivated.md`
 - `inspiration_on_today_life/judgement_and_decision/194-tail-cannot-be-hidden-true-vs-fake.md`
 - `inspiration_on_software_development/iteration_and_delivery/194-decide-and-execute-do-not-endlessly-discuss.md`
 - `inspiration_on_running_a_company/strategy_and_execution/194-evaluate-by-contribution-not-self-promotion.md`

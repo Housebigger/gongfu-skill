@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—194 连续覆盖，下一篇为 195《关于改革示范田地制度问题的一些意见》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—195 连续覆盖，下一篇为 196《关于文艺工作者的两个问题》。

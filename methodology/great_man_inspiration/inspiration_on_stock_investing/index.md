@@ -184,6 +184,7 @@ Purpose:
 - [192 出于自愿](research_and_thesis/192-invest-voluntarily-do-not-force-yourself.md)
 - [193 小资金也能赢](research_and_thesis/193-small-capital-can-win-with-right-strategy.md)
 - [194 区分真假信号](research_and_thesis/194-distinguish-true-and-fake-signals.md)
+- [195 切合实际](research_and_thesis/195-be-realistic-match-goals-with-capacity.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—162 连续覆盖，下一篇为 163《永远保持艰苦奋斗的作风》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—163 连续覆盖，下一篇为 164《征询对待富农策略问题的意见》。

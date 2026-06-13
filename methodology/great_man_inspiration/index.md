@@ -794,6 +794,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/162-remember-every-hardware-bug-build-a-knowledge-base.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/162-remember-education-pioneers-stand-on-their-shoulders.md`
 
+### 163《永远保持艰苦奋斗的作风》(1949-10-26)
+- `inspiration_on_today_life/judgement_and_decision/163-comfort-zone-is-the-start-of-decline.md`
+- `inspiration_on_software_development/iteration_and_delivery/163-launch-is-the-start-not-the-end.md`
+- `inspiration_on_running_a_company/strategy_and_execution/163-profitable-does-not-mean-relax-stay-lean.md`
+- `inspiration_on_stock_investing/research_and_thesis/163-winning-does-not-mean-relax-keep-risk-control.md`
+- `inspiration_on_making_money/execution_and_delivery/163-first-profit-is-not-the-end-keep-evolving.md`
+- `inspiration_on_embedded_coding/engineering_strategy/163-mass-production-is-not-the-end-keep-improving.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/163-good-scores-are-past-always-improve-teaching.md`
+
 
 ## Naming convention
 

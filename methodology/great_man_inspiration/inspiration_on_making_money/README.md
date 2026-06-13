@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—162 连续覆盖，下一篇为 163《永远保持艰苦奋斗的作风》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—163 连续覆盖，下一篇为 164《征询对待富农策略问题的意见》。

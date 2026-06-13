@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—162 连续覆盖，下一篇为 163《永远保持艰苦奋斗的作风》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—163 连续覆盖，下一篇为 164《征询对待富农策略问题的意见》。

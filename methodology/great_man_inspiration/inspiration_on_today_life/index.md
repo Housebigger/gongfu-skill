@@ -242,6 +242,7 @@ Purpose:
 - [160 站起来](judgement_and_decision/160-stand-up-from-passive-to-active-control.md)
 - [161 团结一切力量](judgement_and_decision/161-unite-everyone-you-can-organize-your-life.md)
 - [162 别忘帮你的人](judgement_and_decision/162-remember-those-who-helped-you-gratitude-is-foundation.md)
+- [163 舒适区是退步](judgement_and_decision/163-comfort-zone-is-the-start-of-decline.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

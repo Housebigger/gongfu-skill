@@ -209,6 +209,7 @@ Additional focus:
 - [160 从打工到独立赚钱](execution_and_delivery/160-from-employee-to-independent-earner.md)
 - [161 多渠道收入](execution_and_delivery/161-multiple-income-streams-unite-your-earnings.md)
 - [162 别忘踩过的坑](execution_and_delivery/162-remember-every-pitfall-each-one-builds-your-moat.md)
+- [163 赚到了更要持续](execution_and_delivery/163-first-profit-is-not-the-end-keep-evolving.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 162（001—162 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1059 |
-| 顺序学习已连续覆盖范围 | 001—162 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—162 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—162 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 163（001—163 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1066 |
+| 顺序学习已连续覆盖范围 | 001—163 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—163 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—163 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—162 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—163 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—162 顺序主线已连续建立关联        [DONE]
+001—163 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -245,7 +245,8 @@
 159 《唯心历史观的破产》 [DONE: 7/7]
 160 《中国人民站起来了》 [DONE: 7/7]
 161 《中国人民大团结万岁》 [DONE: 7/7]
-162 《人民英雄们永垂不朽》 [NEXT]
+162 《人民英雄们永垂不朽》 [DONE: 7/7]
+163 《永远保持艰苦奋斗的作风》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -427,6 +428,7 @@
 | 160 | 《中国人民站起来了》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490921.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/160-stand-up-from-passive-to-active-control.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/160-ship-it-from-demo-to-real-product.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/160-from-outsourcing-to-own-brand-stand-up.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/160-from-following-signals-to-independent-judgment.md) | [MM](./inspiration_on_making_money/execution_and_delivery/160-from-employee-to-independent-earner.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/160-from-reference-design-to-own-architecture.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/160-from-textbook-reading-to-independent-teaching.md) |
 | 161 | 《中国人民大团结万岁》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/161-unite-everyone-you-can-organize-your-life.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/161-cross-functional-unity-break-down-silos.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/161-align-the-whole-company-under-one-goal.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/161-diversify-unite-all-asset-classes.md) | [MM](./inspiration_on_making_money/execution_and_delivery/161-multiple-income-streams-unite-your-earnings.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/161-hardware-software-co-design-unite-the-teams.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/161-unite-parents-and-teachers-same-trench.md) |
 | 162 | 《人民英雄们永垂不朽》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930b.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/162-remember-those-who-helped-you-gratitude-is-foundation.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/162-remember-open-source-contributors-give-back.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/162-remember-early-team-members-they-are-the-foundation.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/162-remember-your-losses-every-trade-is-tuition.md) | [MM](./inspiration_on_making_money/execution_and_delivery/162-remember-every-pitfall-each-one-builds-your-moat.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/162-remember-every-hardware-bug-build-a-knowledge-base.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/162-remember-education-pioneers-stand-on-their-shoulders.md) |
+| 163 | 《永远保持艰苦奋斗的作风》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19491026.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/163-comfort-zone-is-the-start-of-decline.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/163-launch-is-the-start-not-the-end.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/163-profitable-does-not-mean-relax-stay-lean.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/163-winning-does-not-mean-relax-keep-risk-control.md) | [MM](./inspiration_on_making_money/execution_and_delivery/163-first-profit-is-not-the-end-keep-evolving.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/163-mass-production-is-not-the-end-keep-improving.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/163-good-scores-are-past-always-improve-teaching.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2277,6 +2279,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/162-remember-every-pitfall-each-one-builds-your-moat.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/162-remember-every-hardware-bug-build-a-knowledge-base.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/162-remember-education-pioneers-stand-on-their-shoulders.md`
+
+## 163 《永远保持艰苦奋斗的作风》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19491026.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/163-comfort-zone-is-the-start-of-decline.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/163-launch-is-the-start-not-the-end.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/163-profitable-does-not-mean-relax-stay-lean.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/163-winning-does-not-mean-relax-keep-risk-control.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/163-first-profit-is-not-the-end-keep-evolving.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/163-mass-production-is-not-the-end-keep-improving.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/163-good-scores-are-past-always-improve-teaching.md`
 
 ## 6. 使用建议
 

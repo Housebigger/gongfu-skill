@@ -227,6 +227,7 @@ This folder focuses on:
 - [160 从外包到自主品牌](strategy_and_execution/160-from-outsourcing-to-own-brand-stand-up.md)
 - [161 全公司一个目标](strategy_and_execution/161-align-the-whole-company-under-one-goal.md)
 - [162 别忘老员工](strategy_and_execution/162-remember-early-team-members-they-are-the-foundation.md)
+- [163 盈利更要节俭](strategy_and_execution/163-profitable-does-not-mean-relax-stay-lean.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

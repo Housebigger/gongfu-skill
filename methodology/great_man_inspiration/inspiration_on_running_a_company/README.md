@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—216 连续覆盖，下一篇为 217《关于正确处理人民内部矛盾的问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—217 连续覆盖，下一篇为 218《事物都是一分为二的》。

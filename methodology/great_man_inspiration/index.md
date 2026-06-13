@@ -971,6 +971,15 @@ Current contents:
 ### 215《在八届二中全会上的讲话》(1956-11-15)
 
 ### 216《在省市自治区党委书记会议上的讲话》(1957-01)
+
+### 217《关于正确处理人民内部矛盾的问题》(1957-02-27)
+- `inspiration_on_today_life/judgement_and_decision/217-no-contradiction-is-naive-they-are-everywhere.md`
+- `inspiration_on_software_development/iteration_and_delivery/217-unity-criticism-unity-formula.md`
+- `inspiration_on_running_a_company/strategy_and_execution/217-distinguish-enemy-from-internal-disputes.md`
+- `inspiration_on_stock_investing/research_and_thesis/217-properly-handled-risks-can-be-resolved.md`
+- `inspiration_on_making_money/execution_and_delivery/217-let-a-hundred-flowers-bloom-diversify.md`
+- `inspiration_on_embedded_coding/engineering_strategy/217-overall-planning-and-proper-arrangement.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/217-balance-collective-and-individual-interests-in-education.md`
 - `inspiration_on_today_life/judgement_and_decision/216-do-not-be-a-fence-sitter.md`
 - `inspiration_on_software_development/iteration_and_delivery/216-do-not-abandon-direction-over-small-problems.md`
 - `inspiration_on_running_a_company/strategy_and_execution/216-compete-on-contribution-not-on-perks.md`

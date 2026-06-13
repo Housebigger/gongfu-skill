@@ -206,6 +206,7 @@ Purpose:
 - [214 不苛求前人](research_and_thesis/214-do-not-judge-past-decisions-with-hindsight.md)
 - [215 坏事有两重性](research_and_thesis/215-bad-things-have-two-sides-failure-breeds-success.md)
 - [216 一个典型打倒怪论](research_and_thesis/216-one-good-example-beats-a-hundred-arguments.md)
+- [217 风险可以化解](research_and_thesis/217-properly-handled-risks-can-be-resolved.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -255,6 +255,7 @@ Purpose:
 - [173 稳准狠](judgement_and_decision/173-steady-accurate-resolute-three-principles.md)
 - [174 别歌颂旧事物](judgement_and_decision/174-do-not-romanticize-the-past-move-on.md)
 - [175 团结胜利](judgement_and_decision/175-victory-comes-from-unity-not-isolation.md)
+- [176 自我清理](judgement_and_decision/176-self-audit-clean-up-bad-habits-regularly.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

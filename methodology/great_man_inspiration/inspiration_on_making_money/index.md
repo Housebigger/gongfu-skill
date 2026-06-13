@@ -222,6 +222,7 @@ Additional focus:
 - [173 转型稳准狠](execution_and_delivery/173-career-pivot-steady-accurate-resolute.md)
 - [174 别恋旧方式](execution_and_delivery/174-do-not-cling-to-old-earning-methods.md)
 - [175 人脉赚钱](execution_and_delivery/175-earning-victory-comes-from-network.md)
+- [176 财务审计](execution_and_delivery/176-financial-audit-cut-useless-spending.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

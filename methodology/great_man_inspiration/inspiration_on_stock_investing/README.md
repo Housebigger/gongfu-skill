@@ -118,4 +118,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—175 连续覆盖，下一篇为 176《关于“三反”、“五反”的斗争》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—176 连续覆盖，下一篇为 177《把农业互助合作当作一件大事去做》。

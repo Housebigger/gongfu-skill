@@ -889,6 +889,15 @@ Current contents:
 ### 174《应当重视电影《武训传》的讨论》(1951-05-20)
 
 ### 175《三大运动的伟大胜利》(1951-10-23)
+
+### 176《关于“三反”、“五反”的斗争》(1951-11~1952-03)
+- `inspiration_on_today_life/judgement_and_decision/176-self-audit-clean-up-bad-habits-regularly.md`
+- `inspiration_on_software_development/iteration_and_delivery/176-code-audit-clean-up-tech-debt-regularly.md`
+- `inspiration_on_running_a_company/strategy_and_execution/176-internal-audit-clean-up-corruption-and-waste.md`
+- `inspiration_on_stock_investing/research_and_thesis/176-investment-audit-clean-up-bad-positions.md`
+- `inspiration_on_making_money/execution_and_delivery/176-financial-audit-cut-useless-spending.md`
+- `inspiration_on_embedded_coding/engineering_strategy/176-bom-audit-clean-up-redundant-parts.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/176-teaching-audit-clean-up-ineffective-courses.md`
 - `inspiration_on_today_life/judgement_and_decision/175-victory-comes-from-unity-not-isolation.md`
 - `inspiration_on_software_development/iteration_and_delivery/175-team-victory-comes-from-collaboration.md`
 - `inspiration_on_running_a_company/strategy_and_execution/175-company-victory-comes-from-employee-unity.md`

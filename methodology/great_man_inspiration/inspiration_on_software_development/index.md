@@ -307,6 +307,7 @@ Purpose:
 - [196 领导加群众智慧](iteration_and_delivery/196-leadership-plus-crowd-wisdom-in-design.md)
 - [197 老老实实力戒虚夸](iteration_and_delivery/197-be-honest-work-hard-no-hype.md)
 - [198 新人挑战祖传代码](iteration_and_delivery/198-juniors-can-challenge-legacy-code.md)
+- [199 不惹事不怂](iteration_and_delivery/199-two-principles-do-not-provoke-but-fight-back.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

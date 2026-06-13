@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—198 连续覆盖，下一篇为 199《原子弹向不倒中国人民》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—199 连续覆盖，下一篇为 200《在中国共产党全国代表会议上的讲话》。

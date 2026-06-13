@@ -935,6 +935,15 @@ Current contents:
 ### 197《为建设一个伟大的社会主义国家而奋斗》(1954-09-15)
 
 ### 198《关于《红楼梦》研究问题的信》(1954-10-16)
+
+### 199《原子弹吓不倒中国人民》(1955-01-28)
+- `inspiration_on_today_life/judgement_and_decision/199-do-not-fear-overwhelming-threats.md`
+- `inspiration_on_software_development/iteration_and_delivery/199-two-principles-do-not-provoke-but-fight-back.md`
+- `inspiration_on_running_a_company/strategy_and_execution/199-coexist-with-competitors.md`
+- `inspiration_on_stock_investing/research_and_thesis/199-manipulators-destroy-themselves.md`
+- `inspiration_on_making_money/execution_and_delivery/199-put-troubles-in-cosmic-perspective.md`
+- `inspiration_on_embedded_coding/engineering_strategy/199-win-with-limited-resources.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/199-just-reform-will-gain-support.md`
 - `inspiration_on_today_life/judgement_and_decision/198-listen-to-little-people-challenge-authority.md`
 - `inspiration_on_software_development/iteration_and_delivery/198-juniors-can-challenge-legacy-code.md`
 - `inspiration_on_running_a_company/strategy_and_execution/198-unite-people-but-criticize-errors.md`

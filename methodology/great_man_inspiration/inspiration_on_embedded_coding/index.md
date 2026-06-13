@@ -132,6 +132,7 @@ Focus:
 - [196 意见分三类](engineering_strategy/196-triage-feedback-into-three-categories.md)
 - [197 核心和标准](engineering_strategy/197-project-needs-core-leadership-and-standards.md)
 - [198 别忽视反馈](engineering_strategy/198-do-not-ignore-feedback.md)
+- [199 资源不够也能赢](engineering_strategy/199-win-with-limited-resources.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

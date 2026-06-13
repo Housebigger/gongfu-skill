@@ -263,6 +263,7 @@ This folder focuses on:
 - [196 总章程](strategy_and_execution/196-company-needs-a-fundamental-charter.md)
 - [197 前人没做过的事](strategy_and_execution/197-doing-what-no-one-has-done-before.md)
 - [198 团结但批判错误](strategy_and_execution/198-unite-people-but-criticize-errors.md)
+- [199 和对手共存](strategy_and_execution/199-coexist-with-competitors.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

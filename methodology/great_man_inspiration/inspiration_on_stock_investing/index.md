@@ -188,6 +188,7 @@ Purpose:
 - [196 总结历史经验](research_and_thesis/196-learn-from-history-positive-and-negative.md)
 - [197 向高手学](research_and_thesis/197-learn-from-the-best-humbly.md)
 - [198 别被权威吓住](research_and_thesis/198-do-not-be-intimidated-by-authority.md)
+- [199 操纵者自取灭亡](research_and_thesis/199-manipulators-destroy-themselves.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

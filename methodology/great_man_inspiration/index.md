@@ -915,6 +915,15 @@ Current contents:
 ### 187《批判离开总路线的右倾观点》(1953-06-15)
 
 ### 188《青年团的工作要照顾青年的特点》(1953-06-30)
+
+### 189《关于国家资本主义》(1953-07-09)
+- `inspiration_on_today_life/judgement_and_decision/189-transform-rather-than-destroy.md`
+- `inspiration_on_software_development/iteration_and_delivery/189-refactor-legacy-do-not-rewrite-from-scratch.md`
+- `inspiration_on_running_a_company/strategy_and_execution/189-transform-competitors-into-partners.md`
+- `inspiration_on_stock_investing/research_and_thesis/189-transform-losing-positions-do-not-panic-sell.md`
+- `inspiration_on_making_money/execution_and_delivery/189-transform-spending-into-investing.md`
+- `inspiration_on_embedded_coding/engineering_strategy/189-iterate-on-old-design-do-not-redo-from-scratch.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/189-reform-traditional-methods-do-not-abolish.md`
 - `inspiration_on_today_life/judgement_and_decision/188-accommodate-different-needs-balance-work-and-rest.md`
 - `inspiration_on_software_development/iteration_and_delivery/188-manage-by-level-trust-juniors-balance-delivery-and-growth.md`
 - `inspiration_on_running_a_company/strategy_and_execution/188-motivate-by-generation-trust-young-employees.md`

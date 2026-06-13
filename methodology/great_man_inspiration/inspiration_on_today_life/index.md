@@ -268,6 +268,7 @@ Purpose:
 - [186 守纪律](judgement_and_decision/186-do-not-speak-for-others-without-authorization.md)
 - [187 守住主线](judgement_and_decision/187-stick-to-your-main-line-do-not-deviate.md)
 - [188 照顾特点](judgement_and_decision/188-accommodate-different-needs-balance-work-and-rest.md)
+- [189 改造而非消灭](judgement_and_decision/189-transform-rather-than-destroy.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

@@ -235,6 +235,7 @@ Additional focus:
 - [186 守纪律](execution_and_delivery/186-no-spending-without-budget.md)
 - [187 守住核心技能](execution_and_delivery/187-stick-to-core-skill-do-not-chase-fads.md)
 - [188 按阶段调整](execution_and_delivery/188-adapt-earning-strategy-to-your-stage.md)
+- [189 消费转投资](execution_and_delivery/189-transform-spending-into-investing.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

@@ -250,6 +250,7 @@ Purpose:
 - [168 做模范](judgement_and_decision/168-be-a-role-model-keep-learning-never-be-complacent.md)
 - [169 三条纪律](judgement_and_decision/169-three-disciplines-when-you-get-a-task.md)
 - [170 尊重别人地盘](judgement_and_decision/170-respect-others-turf-when-you-enter-new-territory.md)
+- [171 要点清单](judgement_and_decision/171-use-a-checklist-to-manage-multiple-priorities.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

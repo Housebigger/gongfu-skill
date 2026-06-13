@@ -118,4 +118,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—170 连续覆盖，下一篇为 171《中共中央政治局扩大会议决议要点》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—171 连续覆盖，下一篇为 172《镇压反革命必须实行党的群众路线》。

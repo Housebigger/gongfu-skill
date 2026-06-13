@@ -866,6 +866,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/170-respect-hardware-constraints-optimize-within-them.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/170-respect-every-student-adapt-your-methods.md`
 
+### 171《中共中央政治局扩大会议决议要点》(1951-02-18)
+- `inspiration_on_today_life/judgement_and_decision/171-use-a-checklist-to-manage-multiple-priorities.md`
+- `inspiration_on_software_development/iteration_and_delivery/171-sprint-planning-keep-it-to-six-items.md`
+- `inspiration_on_running_a_company/strategy_and_execution/171-quarterly-okr-keep-it-to-six-priorities.md`
+- `inspiration_on_stock_investing/research_and_thesis/171-use-a-checklist-before-every-trade.md`
+- `inspiration_on_making_money/execution_and_delivery/171-manage-income-sources-with-a-checklist.md`
+- `inspiration_on_embedded_coding/engineering_strategy/171-use-a-checklist-to-manage-hw-subsystems.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/171-manage-semester-goals-with-a-checklist.md`
+
 
 ## Naming convention
 

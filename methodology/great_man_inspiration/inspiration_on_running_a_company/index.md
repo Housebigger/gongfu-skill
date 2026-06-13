@@ -252,6 +252,7 @@ This folder focuses on:
 - [185 精简](strategy_and_execution/185-simplify-cut-okrs-meetings-reports.md)
 - [186 守纪律](strategy_and_execution/186-no-commitment-without-authorization.md)
 - [187 守住战略](strategy_and_execution/187-stick-to-strategy-do-not-drift.md)
+- [188 差异化激励](strategy_and_execution/188-motivate-by-generation-trust-young-employees.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

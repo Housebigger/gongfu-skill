@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—187。
+- 当前已完成连续主线：001—188。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：188—229，共 42 篇；187 已完成。
+- 主文章未来仍待落实：189—229，共 41 篇；188 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -106,7 +106,7 @@
 | 185 | 185 | 第五卷 社会主义革命和社会主义建设时期（一） | 26 | 《解决“五多”问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530319.htm) | 已完成 |
 | 186 | 186 | 第五卷 社会主义革命和社会主义建设时期（一） | 27 | 《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530519.htm) | 已完成 |
 | 187 | 187 | 第五卷 社会主义革命和社会主义建设时期（一） | 28 | 《批判离开总路线的右倾观点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530615.htm) | 已完成 |
-| 188 | 188 | 第五卷 社会主义革命和社会主义建设时期（一） | 29 | 《青年团的工作要照顾青年的特点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530630.htm) | 待落实 |
+| 188 | 188 | 第五卷 社会主义革命和社会主义建设时期（一） | 29 | 《青年团的工作要照顾青年的特点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530630.htm) | 已完成 |
 | 189 | 189 | 第五卷 社会主义革命和社会主义建设时期（一） | 30 | 《关于国家资本主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530709.htm) | 待落实 |
 | 190 | 190 | 第五卷 社会主义革命和社会主义建设时期（一） | 31 | 《党在过渡时期的总路线》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195308.htm) | 待落实 |
 | 191 | 191 | 第五卷 社会主义革命和社会主义建设时期（一） | 32 | 《反对党内的资产阶级思想》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530812.htm) | 待落实 |

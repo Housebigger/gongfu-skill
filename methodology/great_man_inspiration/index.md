@@ -913,6 +913,15 @@ Current contents:
 ### 186《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》(1953-05-19)
 
 ### 187《批判离开总路线的右倾观点》(1953-06-15)
+
+### 188《青年团的工作要照顾青年的特点》(1953-06-30)
+- `inspiration_on_today_life/judgement_and_decision/188-accommodate-different-needs-balance-work-and-rest.md`
+- `inspiration_on_software_development/iteration_and_delivery/188-manage-by-level-trust-juniors-balance-delivery-and-growth.md`
+- `inspiration_on_running_a_company/strategy_and_execution/188-motivate-by-generation-trust-young-employees.md`
+- `inspiration_on_stock_investing/research_and_thesis/188-different-strategies-for-different-stocks.md`
+- `inspiration_on_making_money/execution_and_delivery/188-adapt-earning-strategy-to-your-stage.md`
+- `inspiration_on_embedded_coding/engineering_strategy/188-adapt-dev-strategy-to-product-phase.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/188-teach-by-individual-needs-balance-study-and-health.md`
 - `inspiration_on_today_life/judgement_and_decision/187-stick-to-your-main-line-do-not-deviate.md`
 - `inspiration_on_software_development/iteration_and_delivery/187-stick-to-product-vision-do-not-scope-creep.md`
 - `inspiration_on_running_a_company/strategy_and_execution/187-stick-to-strategy-do-not-drift.md`

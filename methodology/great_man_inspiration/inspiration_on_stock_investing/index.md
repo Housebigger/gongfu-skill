@@ -177,6 +177,7 @@ Purpose:
 - [185 精简](research_and_thesis/185-simplify-fewer-stocks-fewer-trades-deeper-research.md)
 - [186 守纪律](research_and_thesis/186-no-trade-without-a-plan.md)
 - [187 守住投资主线](research_and_thesis/187-stick-to-investment-thesis-do-not-chase-trends.md)
+- [188 差异化策略](research_and_thesis/188-different-strategies-for-different-stocks.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

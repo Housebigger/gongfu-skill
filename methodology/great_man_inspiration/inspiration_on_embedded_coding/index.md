@@ -120,6 +120,7 @@ Focus:
 - [184 测试边缘场景](engineering_strategy/184-test-edge-cases-extreme-conditions.md)
 - [185 精简](engineering_strategy/185-simplify-cut-features-components-bom.md)
 - [186 守纪律](engineering_strategy/186-no-pcb-without-verification-no-ship-without-test.md)
+- [187 守住架构](engineering_strategy/187-stick-to-architecture-roadmap-do-not-hop-tech.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

@@ -233,6 +233,7 @@ Additional focus:
 - [184 探索利基](execution_and_delivery/184-explore-niche-markets-do-not-follow-crowds.md)
 - [185 精简](execution_and_delivery/185-simplify-one-income-source-deep-focus.md)
 - [186 守纪律](execution_and_delivery/186-no-spending-without-budget.md)
+- [187 守住核心技能](execution_and_delivery/187-stick-to-core-skill-do-not-chase-fads.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

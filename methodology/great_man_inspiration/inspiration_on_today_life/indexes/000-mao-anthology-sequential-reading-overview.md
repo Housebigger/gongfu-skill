@@ -1025,7 +1025,7 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/181-classify-modules-core-replaceable-buggy.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/181-classify-courses-core-supplementary-outdated.md`
 
-- 187《批判离开总路线的右倾观点》
+- 188《青年团的工作要照顾青年的特点》
   - `../judgement_and_decision/182-concentrate-force-one-goal-at-a-time.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/182-one-sprint-one-focus.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/182-one-market-at-a-time.md`

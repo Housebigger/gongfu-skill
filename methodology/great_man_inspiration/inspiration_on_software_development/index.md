@@ -295,6 +295,7 @@ Purpose:
 - [184 别忽视边缘用户](iteration_and_delivery/184-do-not-ignore-edge-users-accessibility.md)
 - [185 精简](iteration_and_delivery/185-simplify-cut-meetings-docs-overengineering.md)
 - [186 守纪律](iteration_and_delivery/186-no-release-without-approval-no-merge-without-review.md)
+- [187 守住产品主线](iteration_and_delivery/187-stick-to-product-vision-do-not-scope-creep.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

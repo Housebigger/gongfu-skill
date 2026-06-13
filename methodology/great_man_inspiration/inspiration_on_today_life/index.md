@@ -266,6 +266,7 @@ Purpose:
 - [184 别忽视少数](judgement_and_decision/184-do-not-ignore-the-minority-listen-to-them.md)
 - [185 精简五多](judgement_and_decision/185-simplify-cut-the-five-excesses.md)
 - [186 守纪律](judgement_and_decision/186-do-not-speak-for-others-without-authorization.md)
+- [187 守住主线](judgement_and_decision/187-stick-to-your-main-line-do-not-deviate.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

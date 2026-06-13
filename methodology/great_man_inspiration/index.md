@@ -911,6 +911,15 @@ Current contents:
 ### 185《解决“五多”问题》(1953-03-19)
 
 ### 186《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》(1953-05-19)
+
+### 187《批判离开总路线的右倾观点》(1953-06-15)
+- `inspiration_on_today_life/judgement_and_decision/187-stick-to-your-main-line-do-not-deviate.md`
+- `inspiration_on_software_development/iteration_and_delivery/187-stick-to-product-vision-do-not-scope-creep.md`
+- `inspiration_on_running_a_company/strategy_and_execution/187-stick-to-strategy-do-not-drift.md`
+- `inspiration_on_stock_investing/research_and_thesis/187-stick-to-investment-thesis-do-not-chase-trends.md`
+- `inspiration_on_making_money/execution_and_delivery/187-stick-to-core-skill-do-not-chase-fads.md`
+- `inspiration_on_embedded_coding/engineering_strategy/187-stick-to-architecture-roadmap-do-not-hop-tech.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/187-stick-to-educational-vision-do-not-fad-hop.md`
 - `inspiration_on_today_life/judgement_and_decision/186-do-not-speak-for-others-without-authorization.md`
 - `inspiration_on_software_development/iteration_and_delivery/186-no-release-without-approval-no-merge-without-review.md`
 - `inspiration_on_running_a_company/strategy_and_execution/186-no-commitment-without-authorization.md`

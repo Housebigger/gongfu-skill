@@ -275,6 +275,7 @@ Purpose:
 - [193 大仁政小仁政](judgement_and_decision/193-big-picture-vs-small-comfort-focus-on-long-term.md)
 - [194 尾巴藏不住](judgement_and_decision/194-tail-cannot-be-hidden-true-vs-fake.md)
 - [195 纲举目张](judgement_and_decision/195-grasp-the-main-thread-everything-follows.md)
+- [196 原则加灵活](judgement_and_decision/196-principle-plus-flexibility.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

@@ -929,6 +929,15 @@ Current contents:
 ### 194《批判梁漱溟的反动思想》(1953-09-16)
 
 ### 195《关于农业互助合作的两次谈话》(1953-10-15)
+
+### 196《关于中华人民共和国宪法草案》(1954-06-14)
+- `inspiration_on_today_life/judgement_and_decision/196-principle-plus-flexibility.md`
+- `inspiration_on_software_development/iteration_and_delivery/196-leadership-plus-crowd-wisdom-in-design.md`
+- `inspiration_on_running_a_company/strategy_and_execution/196-company-needs-a-fundamental-charter.md`
+- `inspiration_on_stock_investing/research_and_thesis/196-learn-from-history-positive-and-negative.md`
+- `inspiration_on_making_money/execution_and_delivery/196-common-rules-plus-individual-adaptation.md`
+- `inspiration_on_embedded_coding/engineering_strategy/196-triage-feedback-into-three-categories.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/196-reform-gradually-only-write-what-you-can-do.md`
 - `inspiration_on_today_life/judgement_and_decision/195-grasp-the-main-thread-everything-follows.md`
 - `inspiration_on_software_development/iteration_and_delivery/195-seize-the-territory-be-proactive-in-architecture.md`
 - `inspiration_on_running_a_company/strategy_and_execution/195-scale-plus-quality-plus-efficiency.md`

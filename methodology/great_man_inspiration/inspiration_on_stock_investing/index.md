@@ -185,6 +185,7 @@ Purpose:
 - [193 小资金也能赢](research_and_thesis/193-small-capital-can-win-with-right-strategy.md)
 - [194 区分真假信号](research_and_thesis/194-distinguish-true-and-fake-signals.md)
 - [195 切合实际](research_and_thesis/195-be-realistic-match-goals-with-capacity.md)
+- [196 总结历史经验](research_and_thesis/196-learn-from-history-positive-and-negative.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

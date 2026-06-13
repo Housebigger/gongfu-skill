@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—195 连续覆盖，下一篇为 196《关于文艺工作者的两个问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—196 连续覆盖，下一篇为 197《为建设一个伟大的社会主义国家而奋斗》。

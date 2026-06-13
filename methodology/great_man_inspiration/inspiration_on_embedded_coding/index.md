@@ -129,6 +129,7 @@ Focus:
 - [193 越战越强](engineering_strategy/193-solve-problems-one-by-one-grow-stronger-each-time.md)
 - [194 先复盘再追责](engineering_strategy/194-post-mortem-analysis-before-blame.md)
 - [195 脚是用来走路的](engineering_strategy/195-feet-are-for-walking-move-forward.md)
+- [196 意见分三类](engineering_strategy/196-triage-feedback-into-three-categories.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

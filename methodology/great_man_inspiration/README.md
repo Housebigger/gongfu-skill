@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 183（001—183 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1206 |
-| 顺序学习已连续覆盖范围 | 001—183 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—183 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—183 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 184（001—184 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1213 |
+| 顺序学习已连续覆盖范围 | 001—184 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—184 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—184 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—183 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—184 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—183 顺序主线已连续建立关联        [DONE]
+001—184 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -266,7 +266,8 @@
 180 《工人阶级与资产阶级的矛盾是国内的主要矛盾》 [DONE: 7/7]
 181 《团结起来，划清敌我界限》 [DONE: 7/7]
 182 《祝贺中国人民志愿军的重大胜利》 [DONE: 7/7]
-183 《反对官僚主义、命令主义和违法乱纪》 [NEXT]
+183 《反对官僚主义、命令主义和违法乱纪》 [DONE: 7/7]
+184 《批判大汉族主义》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -469,6 +470,7 @@
 | 181 | 《团结起来，划清敌我界限》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520804.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/181-draw-clear-boundaries-know-who-is-with-you.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/181-classify-dependencies-core-optional-harmful.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/181-classify-employees-core-developable-harmful.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/181-classify-holdings-core-speculative-junk.md) | [MM](./inspiration_on_making_money/execution_and_delivery/181-classify-income-core-side-loss.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/181-classify-modules-core-replaceable-buggy.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/181-classify-courses-core-supplementary-outdated.md) |
 | 182 | 《祝贺中国人民志愿军的重大胜利》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19521024.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/182-concentrate-force-one-goal-at-a-time.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/182-one-sprint-one-focus.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/182-one-market-at-a-time.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/182-deep-research-few-stocks-not-many.md) | [MM](./inspiration_on_making_money/execution_and_delivery/182-master-one-skill-at-a-time.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/182-one-module-at-a-time.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/182-one-reform-at-a-time.md) |
 | 183 | 《反对官僚主义、命令主义和违法乱纪》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530105.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/183-listen-to-real-feedback-do-not-ignore-it.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/183-process-user-feedback-do-not-backlog-it.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/183-listen-to-frontline-employees-and-customers.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/183-do-your-own-research-do-not-rely-on-reports.md) | [MM](./inspiration_on_making_money/execution_and_delivery/183-listen-to-customers-do-not-guess-needs.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/183-listen-to-test-and-production-feedback.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/183-listen-to-students-and-parents.md) |
+| 184 | 《批判大汉族主义》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530316.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/184-do-not-ignore-the-minority-listen-to-them.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/184-do-not-ignore-edge-users-accessibility.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/184-do-not-ignore-small-customers-and-niche-markets.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/184-pay-attention-to-contrarian-signals.md) | [MM](./inspiration_on_making_money/execution_and_delivery/184-explore-niche-markets-do-not-follow-crowds.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/184-test-edge-cases-extreme-conditions.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/184-help-struggling-students-investigate-needs.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2529,6 +2531,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/183-listen-to-customers-do-not-guess-needs.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/183-listen-to-test-and-production-feedback.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/183-listen-to-students-and-parents.md`
+
+## 184 《批判大汉族主义》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530316.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/184-do-not-ignore-the-minority-listen-to-them.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/184-do-not-ignore-edge-users-accessibility.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/184-do-not-ignore-small-customers-and-niche-markets.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/184-pay-attention-to-contrarian-signals.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/184-explore-niche-markets-do-not-follow-crowds.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/184-test-edge-cases-extreme-conditions.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/184-help-struggling-students-investigate-needs.md`
 
 ## 6. 使用建议
 

@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—183 连续覆盖，下一篇为 184《批判大汉族主义》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—184 连续覆盖，下一篇为 185《解决“五多”问题》。

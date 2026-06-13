@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—183。
+- 当前已完成连续主线：001—184。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：184—229，共 46 篇；183 已完成。
+- 主文章未来仍待落实：185—229，共 45 篇；184 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -102,7 +102,7 @@
 | 181 | 181 | 第五卷 社会主义革命和社会主义建设时期（一） | 22 | 《团结起来，划清敌我界限》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520804.htm) | 已完成 |
 | 182 | 182 | 第五卷 社会主义革命和社会主义建设时期（一） | 23 | 《祝贺中国人民志愿军的重大胜利》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19521024.htm) | 已完成 |
 | 183 | 183 | 第五卷 社会主义革命和社会主义建设时期（一） | 24 | 《反对官僚主义、命令主义和违法乱纪》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530105.htm) | 已完成 |
-| 184 | 184 | 第五卷 社会主义革命和社会主义建设时期（一） | 25 | 《批判大汉族主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530316.htm) | 待落实 |
+| 184 | 184 | 第五卷 社会主义革命和社会主义建设时期（一） | 25 | 《批判大汉族主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530316.htm) | 已完成 |
 | 185 | 185 | 第五卷 社会主义革命和社会主义建设时期（一） | 26 | 《解决“五多”问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530319.htm) | 待落实 |
 | 186 | 186 | 第五卷 社会主义革命和社会主义建设时期（一） | 27 | 《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530519.htm) | 待落实 |
 | 187 | 187 | 第五卷 社会主义革命和社会主义建设时期（一） | 28 | 《批判离开总路线的右倾观点》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530615.htm) | 待落实 |

@@ -909,6 +909,15 @@ Current contents:
 ### 184《批判大汉族主义》(1953-03-16)
 
 ### 185《解决“五多”问题》(1953-03-19)
+
+### 186《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》(1953-05-19)
+- `inspiration_on_today_life/judgement_and_decision/186-do-not-speak-for-others-without-authorization.md`
+- `inspiration_on_software_development/iteration_and_delivery/186-no-release-without-approval-no-merge-without-review.md`
+- `inspiration_on_running_a_company/strategy_and_execution/186-no-commitment-without-authorization.md`
+- `inspiration_on_stock_investing/research_and_thesis/186-no-trade-without-a-plan.md`
+- `inspiration_on_making_money/execution_and_delivery/186-no-spending-without-budget.md`
+- `inspiration_on_embedded_coding/engineering_strategy/186-no-pcb-without-verification-no-ship-without-test.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/186-no-new-method-without-evaluation.md`
 - `inspiration_on_today_life/judgement_and_decision/185-simplify-cut-the-five-excesses.md`
 - `inspiration_on_software_development/iteration_and_delivery/185-simplify-cut-meetings-docs-overengineering.md`
 - `inspiration_on_running_a_company/strategy_and_execution/185-simplify-cut-okrs-meetings-reports.md`

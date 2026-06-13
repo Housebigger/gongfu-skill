@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—185 连续覆盖，下一篇为 186《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—186 连续覆盖，下一篇为 187《批判离开总路线的右倾观点》。

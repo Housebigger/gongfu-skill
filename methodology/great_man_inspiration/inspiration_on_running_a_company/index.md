@@ -250,6 +250,7 @@ This folder focuses on:
 - [183 倾听一线](strategy_and_execution/183-listen-to-frontline-employees-and-customers.md)
 - [184 别忽视小客户](strategy_and_execution/184-do-not-ignore-small-customers-and-niche-markets.md)
 - [185 精简](strategy_and_execution/185-simplify-cut-okrs-meetings-reports.md)
+- [186 守纪律](strategy_and_execution/186-no-commitment-without-authorization.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

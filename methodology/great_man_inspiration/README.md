@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 185（001—185 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1220 |
-| 顺序学习已连续覆盖范围 | 001—185 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—185 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—185 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 186（001—186 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1227 |
+| 顺序学习已连续覆盖范围 | 001—186 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—186 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—186 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—185 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—186 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—185 顺序主线已连续建立关联        [DONE]
+001—186 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -268,7 +268,8 @@
 182 《祝贺中国人民志愿军的重大胜利》 [DONE: 7/7]
 183 《反对官僚主义、命令主义和违法乱纪》 [DONE: 7/7]
 184 《批判大汉族主义》 [DONE: 7/7]
-185 《解决“五多”问题》 [NEXT]
+185 《解决“五多”问题》 [DONE: 7/7]
+186 《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -473,6 +474,7 @@
 | 183 | 《反对官僚主义、命令主义和违法乱纪》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530105.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/183-listen-to-real-feedback-do-not-ignore-it.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/183-process-user-feedback-do-not-backlog-it.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/183-listen-to-frontline-employees-and-customers.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/183-do-your-own-research-do-not-rely-on-reports.md) | [MM](./inspiration_on_making_money/execution_and_delivery/183-listen-to-customers-do-not-guess-needs.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/183-listen-to-test-and-production-feedback.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/183-listen-to-students-and-parents.md) |
 | 184 | 《批判大汉族主义》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530316.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/184-do-not-ignore-the-minority-listen-to-them.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/184-do-not-ignore-edge-users-accessibility.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/184-do-not-ignore-small-customers-and-niche-markets.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/184-pay-attention-to-contrarian-signals.md) | [MM](./inspiration_on_making_money/execution_and_delivery/184-explore-niche-markets-do-not-follow-crowds.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/184-test-edge-cases-extreme-conditions.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/184-help-struggling-students-investigate-needs.md) |
 | 185 | 《解决“五多”问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530319.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/185-simplify-cut-the-five-excesses.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/185-simplify-cut-meetings-docs-overengineering.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/185-simplify-cut-okrs-meetings-reports.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/185-simplify-fewer-stocks-fewer-trades-deeper-research.md) | [MM](./inspiration_on_making_money/execution_and_delivery/185-simplify-one-income-source-deep-focus.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/185-simplify-cut-features-components-bom.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/185-simplify-cut-meetings-forms-focus-on-teaching.md) |
+| 186 | 《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530519.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/186-do-not-speak-for-others-without-authorization.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/186-no-release-without-approval-no-merge-without-review.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/186-no-commitment-without-authorization.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/186-no-trade-without-a-plan.md) | [MM](./inspiration_on_making_money/execution_and_delivery/186-no-spending-without-budget.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/186-no-pcb-without-verification-no-ship-without-test.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/186-no-new-method-without-evaluation.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2553,6 +2555,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/185-simplify-one-income-source-deep-focus.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/185-simplify-cut-features-components-bom.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/185-simplify-cut-meetings-forms-focus-on-teaching.md`
+
+## 186 《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530519.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/186-do-not-speak-for-others-without-authorization.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/186-no-release-without-approval-no-merge-without-review.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/186-no-commitment-without-authorization.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/186-no-trade-without-a-plan.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/186-no-spending-without-budget.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/186-no-pcb-without-verification-no-ship-without-test.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/186-no-new-method-without-evaluation.md`
 
 ## 6. 使用建议
 

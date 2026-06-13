@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—185 连续覆盖，下一篇为 186《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—186 连续覆盖，下一篇为 187《批判离开总路线的右倾观点》。

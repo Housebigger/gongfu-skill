@@ -294,6 +294,7 @@ Purpose:
 - [183 处理反馈](iteration_and_delivery/183-process-user-feedback-do-not-backlog-it.md)
 - [184 别忽视边缘用户](iteration_and_delivery/184-do-not-ignore-edge-users-accessibility.md)
 - [185 精简](iteration_and_delivery/185-simplify-cut-meetings-docs-overengineering.md)
+- [186 守纪律](iteration_and_delivery/186-no-release-without-approval-no-merge-without-review.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

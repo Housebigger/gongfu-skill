@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—208 连续覆盖，下一篇为 209《加强农业生产合作社内部生产资料所有制的试衋》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—209 连续覆盖，下一篇为 210《论十大关系》。

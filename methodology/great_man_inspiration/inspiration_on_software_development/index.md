@@ -317,6 +317,7 @@ Purpose:
 - [206 别零敲碎打要全局规划](iteration_and_delivery/206-stop-piecemeal-work-plan-holistically.md)
 - [207 领导要亲自下场](iteration_and_delivery/207-leaders-must-get-hands-dirty.md)
 - [208 可行性研究三角度](iteration_and_delivery/208-feasibility-review-three-angles.md)
+- [209 向自动化和工具化发展](iteration_and_delivery/209-move-toward-automation-and-tools.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

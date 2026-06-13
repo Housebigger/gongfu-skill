@@ -198,6 +198,7 @@ Purpose:
 - [206 基本面根本变化要调整](research_and_thesis/206-adjust-when-fundamentals-fundamentally-change.md)
 - [207 掌握自己命运](research_and_thesis/207-take-control-of-your-own-destiny.md)
 - [208 逐条验证投资逻辑](research_and_thesis/208-verify-each-investment-thesis-point.md)
+- [209 分久必合合久必分](research_and_thesis/209-industry-cycles-are-normal.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -112,4 +112,4 @@
 - `execution_and_delivery/111-side-hustles-need-a-clear-offer-program-and-differentiated-collaboration-policy.md`
 - `execution_and_delivery/112-side-hustles-need-simple-customer-discipline-that-protects-trust-and-cashflow.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—208 连续覆盖，下一篇为 209《加强农业生产合作社内部生产资料所有制的试衋》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—209 连续覆盖，下一篇为 210《论十大关系》。

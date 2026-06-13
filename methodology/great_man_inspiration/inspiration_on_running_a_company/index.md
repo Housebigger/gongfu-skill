@@ -273,6 +273,7 @@ This folder focuses on:
 - [206 用案例说服人](strategy_and_execution/206-use-case-studies-to-persuade.md)
 - [207 别绕开走要直面](strategy_and_execution/207-do-not-dodge-problems-face-them.md)
 - [208 建最佳实践库](strategy_and_execution/208-build-a-best-practices-library.md)
+- [209 将欲取之必先与之](strategy_and_execution/209-give-first-take-later.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

@@ -955,6 +955,15 @@ Current contents:
 ### 207《《中国农村的社会主义高潮》的按语》(1955-09/12)
 
 ### 208《征询对农业十七条的意见》(1955-12-21)
+
+### 209《加快手工业的社会主义改造》(1956-03-04)
+- `inspiration_on_today_life/judgement_and_decision/209-preserve-good-traditions-forever.md`
+- `inspiration_on_software_development/iteration_and_delivery/209-move-toward-automation-and-tools.md`
+- `inspiration_on_running_a_company/strategy_and_execution/209-give-first-take-later.md`
+- `inspiration_on_stock_investing/research_and_thesis/209-industry-cycles-are-normal.md`
+- `inspiration_on_making_money/execution_and_delivery/209-every-niche-has-value.md`
+- `inspiration_on_embedded_coding/engineering_strategy/209-reasonable-team-size.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/209-protect-traditional-crafts-and-artists.md`
 - `inspiration_on_today_life/judgement_and_decision/208-make-a-comprehensive-life-plan.md`
 - `inspiration_on_software_development/iteration_and_delivery/208-feasibility-review-three-angles.md`
 - `inspiration_on_running_a_company/strategy_and_execution/208-build-a-best-practices-library.md`

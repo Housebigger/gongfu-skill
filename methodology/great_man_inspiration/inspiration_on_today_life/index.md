@@ -288,6 +288,7 @@ Purpose:
 - [206 别摇摆不定](judgement_and_decision/206-stop-wavering-in-decisions.md)
 - [207 穷棒子也能翻身](judgement_and_decision/207-poor-but-hardworking-changes-destiny.md)
 - [208 十七条全面规划](judgement_and_decision/208-make-a-comprehensive-life-plan.md)
+- [209 好传统一万年不要搞掉](judgement_and_decision/209-preserve-good-traditions-forever.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

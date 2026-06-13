@@ -969,6 +969,15 @@ Current contents:
 ### 214《纪念孙中山先生》(1956-11-12)
 
 ### 215《在八届二中全会上的讲话》(1956-11-15)
+
+### 216《在省市自治区党委书记会议上的讲话》(1957-01)
+- `inspiration_on_today_life/judgement_and_decision/216-do-not-be-a-fence-sitter.md`
+- `inspiration_on_software_development/iteration_and_delivery/216-do-not-abandon-direction-over-small-problems.md`
+- `inspiration_on_running_a_company/strategy_and_execution/216-compete-on-contribution-not-on-perks.md`
+- `inspiration_on_stock_investing/research_and_thesis/216-one-good-example-beats-a-hundred-arguments.md`
+- `inspiration_on_making_money/execution_and_delivery/216-when-demoralized-pump-yourself-up.md`
+- `inspiration_on_embedded_coding/engineering_strategy/216-let-different-technical-views-be-heard.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/216-be-patient-with-beginners.md`
 - `inspiration_on_today_life/judgement_and_decision/215-wave-like-progress-not-a-straight-line.md`
 - `inspiration_on_software_development/iteration_and_delivery/215-experience-is-never-enough-embrace-mistakes.md`
 - `inspiration_on_running_a_company/strategy_and_execution/215-do-not-pour-cold-water-on-enthusiasm.md`

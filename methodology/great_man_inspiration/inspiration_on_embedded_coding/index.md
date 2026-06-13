@@ -149,6 +149,7 @@ Focus:
 - [213 从平面看到立体看](engineering_strategy/213-from-flat-view-to-three-dimensional-view.md)
 - [214 继承前人事业](engineering_strategy/214-build-on-predecessors-work.md)
 - [215 动态平衡](engineering_strategy/215-dynamic-balance-is-absolute.md)
+- [216 百花齐放百家争鸣](engineering_strategy/216-let-different-technical-views-be-heard.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

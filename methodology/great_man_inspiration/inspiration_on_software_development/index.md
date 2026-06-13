@@ -324,6 +324,7 @@ Purpose:
 - [213 别硬搬经验](iteration_and_delivery/213-never-blindly-copy-others-experience.md)
 - [214 事物总是发展的](iteration_and_delivery/214-things-always-evolve-stay-adaptable.md)
 - [215 经验永远学不足](iteration_and_delivery/215-experience-is-never-enough-embrace-mistakes.md)
+- [216 一点风雨就说不行](iteration_and_delivery/216-do-not-abandon-direction-over-small-problems.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -935,7 +935,7 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/171-use-a-checklist-to-manage-hw-subsystems.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/171-manage-semester-goals-with-a-checklist.md`
 
-- 173《镇压反革命必须打得稳，打得准，打得狠》
+- 172《镇压反革命必须实行党的群众路线》
   - `../judgement_and_decision/172-when-in-doubt-do-not-act-have-a-bottom-line.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/172-soft-delete-always-never-hard-delete.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/172-do-not-fire-when-in-doubt-train-first.md`
@@ -943,6 +943,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/172-go-slow-do-not-lose-capital.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/172-be-conservative-with-hw-changes-when-in-doubt.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/172-do-not-label-students-give-them-chances.md`
+
+- 174《应当重视电影《武训传》的讨论》
+  - `../judgement_and_decision/173-steady-accurate-resolute-three-principles.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/173-release-steady-accurate-resolute.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/173-layoff-steady-accurate-resolute.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/173-stop-loss-steady-accurate-resolute.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/173-career-pivot-steady-accurate-resolute.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/173-pcb-tapeout-steady-accurate-resolute.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/173-reform-steady-accurate-resolute.md`
   - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》

@@ -252,6 +252,7 @@ Purpose:
 - [170 尊重别人地盘](judgement_and_decision/170-respect-others-turf-when-you-enter-new-territory.md)
 - [171 要点清单](judgement_and_decision/171-use-a-checklist-to-manage-multiple-priorities.md)
 - [172 宁可漏不可错](judgement_and_decision/172-when-in-doubt-do-not-act-have-a-bottom-line.md)
+- [173 稳准狠](judgement_and_decision/173-steady-accurate-resolute-three-principles.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

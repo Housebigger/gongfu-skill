@@ -281,6 +281,7 @@ Purpose:
 - [170 尊重代码库](iteration_and_delivery/170-respect-the-codebase-read-before-you-change.md)
 - [171 Sprint规划](iteration_and_delivery/171-sprint-planning-keep-it-to-six-items.md)
 - [172 软删除](iteration_and_delivery/172-soft-delete-always-never-hard-delete.md)
+- [173 发布稳准狠](iteration_and_delivery/173-release-steady-accurate-resolute.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

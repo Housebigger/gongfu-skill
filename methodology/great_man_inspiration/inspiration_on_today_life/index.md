@@ -259,6 +259,7 @@ Purpose:
 - [177 当大事做](judgement_and_decision/177-treat-important-things-as-big-things.md)
 - [178 年度盘点](judgement_and_decision/178-annual-review-celebrate-wins-plan-new-fronts.md)
 - [179 等条件成熟](judgement_and_decision/179-when-conditions-are-not-ready-wait-and-prepare.md)
+- [180 认清主要矛盾](judgement_and_decision/180-identify-your-main-problem-first.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

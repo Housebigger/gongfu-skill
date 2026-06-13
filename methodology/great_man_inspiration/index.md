@@ -897,6 +897,15 @@ Current contents:
 ### 178《元旦祝词》(1952-01-01)
 
 ### 179《中共中央关于西藏工作方针的指示》(1952-04-06)
+
+### 180《工人阶级与资产阶级的矛盾是国内的主要矛盾》(1952-06-06)
+- `inspiration_on_today_life/judgement_and_decision/180-identify-your-main-problem-first.md`
+- `inspiration_on_software_development/iteration_and_delivery/180-find-the-bottleneck-optimize-only-that.md`
+- `inspiration_on_running_a_company/strategy_and_execution/180-identify-the-main-problem-of-your-company.md`
+- `inspiration_on_stock_investing/research_and_thesis/180-find-the-key-factor-ignore-the-noise.md`
+- `inspiration_on_making_money/execution_and_delivery/180-find-the-main-barrier-to-earning.md`
+- `inspiration_on_embedded_coding/engineering_strategy/180-find-the-critical-path-optimize-only-that.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/180-identify-the-main-problem-of-your-school.md`
 - `inspiration_on_today_life/judgement_and_decision/179-when-conditions-are-not-ready-wait-and-prepare.md`
 - `inspiration_on_software_development/iteration_and_delivery/179-when-quality-not-ready-delay-release.md`
 - `inspiration_on_running_a_company/strategy_and_execution/179-when-not-ready-delay-expansion.md`

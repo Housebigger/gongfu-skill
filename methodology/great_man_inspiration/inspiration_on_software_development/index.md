@@ -288,6 +288,7 @@ Purpose:
 - [177 核心功能](iteration_and_delivery/177-focus-on-core-feature-treat-it-as-big-thing.md)
 - [178 年度盘点](iteration_and_delivery/178-annual-review-celebrate-wins-plan-new-fronts.md)
 - [179 别赶发布](iteration_and_delivery/179-when-quality-not-ready-delay-release.md)
+- [180 找瓶颈](iteration_and_delivery/180-find-the-bottleneck-optimize-only-that.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

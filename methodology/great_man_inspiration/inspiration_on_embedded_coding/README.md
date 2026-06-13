@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—179 连续覆盖，下一篇为 180《工人阶级与资产阶级的矛盾是国内的主要矛盾》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—180 连续覆盖，下一篇为 181《团结起来，划清敌我界限》。

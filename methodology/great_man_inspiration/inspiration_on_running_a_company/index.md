@@ -272,6 +272,7 @@ This folder focuses on:
 - [205 分清主要和暂时联盟](strategy_and_execution/205-distinguish-primary-from-temporary-alliances.md)
 - [206 用案例说服人](strategy_and_execution/206-use-case-studies-to-persuade.md)
 - [207 别绕开走要直面](strategy_and_execution/207-do-not-dodge-problems-face-them.md)
+- [208 建最佳实践库](strategy_and_execution/208-build-a-best-practices-library.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

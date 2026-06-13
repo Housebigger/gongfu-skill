@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—207 连续覆盖，下一篇为 208《征询对农业十七条的意见》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—208 连续覆盖，下一篇为 209《加强农业生产合作社内部生产资料所有制的试衋》。

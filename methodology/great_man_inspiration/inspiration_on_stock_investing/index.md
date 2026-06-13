@@ -197,6 +197,7 @@ Purpose:
 - [205 货真价实别冤枉好公司](research_and_thesis/205-do-not-falsely-accuse-good-companies.md)
 - [206 基本面根本变化要调整](research_and_thesis/206-adjust-when-fundamentals-fundamentally-change.md)
 - [207 掌握自己命运](research_and_thesis/207-take-control-of-your-own-destiny.md)
+- [208 逐条验证投资逻辑](research_and_thesis/208-verify-each-investment-thesis-point.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

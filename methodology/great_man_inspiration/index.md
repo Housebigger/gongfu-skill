@@ -953,6 +953,15 @@ Current contents:
 ### 206《《中国农村的社会主义高潮》的序言》(1955-09/12)
 
 ### 207《《中国农村的社会主义高潮》的按语》(1955-09/12)
+
+### 208《征询对农业十七条的意见》(1955-12-21)
+- `inspiration_on_today_life/judgement_and_decision/208-make-a-comprehensive-life-plan.md`
+- `inspiration_on_software_development/iteration_and_delivery/208-feasibility-review-three-angles.md`
+- `inspiration_on_running_a_company/strategy_and_execution/208-build-a-best-practices-library.md`
+- `inspiration_on_stock_investing/research_and_thesis/208-verify-each-investment-thesis-point.md`
+- `inspiration_on_making_money/execution_and_delivery/208-start-rough-iterate-to-good.md`
+- `inspiration_on_embedded_coding/engineering_strategy/208-phased-product-roadmap.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/208-set-quantifiable-education-goals.md`
 - `inspiration_on_today_life/judgement_and_decision/207-poor-but-hardworking-changes-destiny.md`
 - `inspiration_on_software_development/iteration_and_delivery/207-leaders-must-get-hands-dirty.md`
 - `inspiration_on_running_a_company/strategy_and_execution/207-do-not-dodge-problems-face-them.md`

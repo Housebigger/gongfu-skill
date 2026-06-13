@@ -303,6 +303,7 @@ Purpose:
 - [221 没有核心不能胜利](judgement_and_decision/221-without-a-core-nothing-succeeds.md)
 - [222 不被天昏地暗吓倒](judgement_and_decision/222-do-not-be-intimidated-by-darkness.md)
 - [223 方向没有调和](judgement_and_decision/223-no-middle-ground-on-direction.md)
+- [224 硬着头皮顶住](judgement_and_decision/224-bite-the-bullet-and-listen-to-criticism.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

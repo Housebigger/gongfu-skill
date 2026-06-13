@@ -985,6 +985,15 @@ Current contents:
 ### 222《组织力量反击右派分子的猖狂进攻》(1957-06-08)
 
 ### 223《文汇报的资产阶级方向应当批判》(1957-07-01)
+
+### 224《打退资产阶级右派的进攻》(1957-07-09)
+- `inspiration_on_today_life/judgement_and_decision/224-bite-the-bullet-and-listen-to-criticism.md`
+- `inspiration_on_software_development/iteration_and_delivery/224-regularly-stress-test-your-system.md`
+- `inspiration_on_running_a_company/strategy_and_execution/224-most-people-are-good-trust-your-team.md`
+- `inspiration_on_stock_investing/research_and_thesis/224-assess-achievements-vs-mistakes-look-at-mainstream.md`
+- `inspiration_on_making_money/execution_and_delivery/224-adversity-is-your-crucible.md`
+- `inspiration_on_embedded_coding/engineering_strategy/224-code-must-be-forged-and-tempered.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/224-reform-both-systems-and-people.md`
 - `inspiration_on_today_life/judgement_and_decision/223-no-middle-ground-on-direction.md`
 - `inspiration_on_software_development/iteration_and_delivery/223-bugs-must-surface-before-you-can-fix-them.md`
 - `inspiration_on_running_a_company/strategy_and_execution/223-passive-can-become-active-by-correcting-mistakes.md`

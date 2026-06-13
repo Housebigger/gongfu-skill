@@ -270,6 +270,7 @@ Additional focus:
 - [221 团结是成功基石](execution_and_delivery/221-unity-is-the-foundation-of-success.md)
 - [222 挤出脓包利益极大](execution_and_delivery/222-squeeze-out-the-abscess-it-is-greatly-beneficial.md)
 - [223 质量欠债要还](execution_and_delivery/223-quality-debts-will-be-collected.md)
+- [224 逆境是八卦炉](execution_and_delivery/224-adversity-is-your-crucible.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

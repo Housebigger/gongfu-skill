@@ -136,6 +136,7 @@ Focus:
 - [200 准备应付突然事变](engineering_strategy/200-prepare-for-sudden-changes.md)
 - [201 说服不用命令](engineering_strategy/201-persuasion-over-command.md)
 - [202 别因赶进度忘质量](engineering_strategy/202-do-not-neglect-quality-under-pressure.md)
+- [203 领导要跟上趋势](engineering_strategy/203-leaders-must-stay-ahead.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

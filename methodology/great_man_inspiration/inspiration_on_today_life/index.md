@@ -282,6 +282,7 @@ Purpose:
 - [200 战略藐视战术重视](judgement_and_decision/200-strategic-contempt-tactical-seriousness.md)
 - [201 两种声音竞赛](judgement_and_decision/201-two-voices-always-compete.md)
 - [202 提高辨别力](judgement_and_decision/202-improve-discrimination-skills.md)
+- [203 在行动中成长](judgement_and_decision/203-grow-through-action-not-fear.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

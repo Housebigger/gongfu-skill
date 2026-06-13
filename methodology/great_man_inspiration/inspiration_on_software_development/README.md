@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—166 连续覆盖，下一篇为 167《做一个完全的革命派》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—167 连续覆盖，下一篇为 168《你们是全民族的模范人物》。

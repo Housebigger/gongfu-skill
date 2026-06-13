@@ -100,6 +100,7 @@ Focus:
 - [164 分步迁移](engineering_strategy/164-migrate-platform-in-steps-validate-each.md)
 - [165 定义量产就绪](engineering_strategy/165-define-mass-production-ready-three-conditions.md)
 - [166 一次改一个](engineering_strategy/166-change-one-thing-at-a-time.md)
+- [167 方案跟到底](engineering_strategy/167-pick-an-architecture-and-stick-with-it.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

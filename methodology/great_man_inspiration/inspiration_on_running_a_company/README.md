@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—166 连续覆盖，下一篇为 167《做一个完全的革命派》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—167 连续覆盖，下一篇为 168《你们是全民族的模范人物》。

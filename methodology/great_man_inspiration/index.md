@@ -830,6 +830,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/166-change-one-thing-at-a-time.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/166-change-one-aspect-of-teaching-at-a-time.md`
 
+### 167《做一个完全的革命派》(1950-06-23)
+- `inspiration_on_today_life/judgement_and_decision/167-pick-a-side-and-stay-until-the-end.md`
+- `inspiration_on_software_development/iteration_and_delivery/167-pick-a-tech-stack-and-stick-with-it.md`
+- `inspiration_on_running_a_company/strategy_and_execution/167-pick-a-market-and-stay-the-course.md`
+- `inspiration_on_stock_investing/research_and_thesis/167-pick-an-investment-system-and-stick-with-it.md`
+- `inspiration_on_making_money/execution_and_delivery/167-pick-one-way-to-earn-and-stay-the-course.md`
+- `inspiration_on_embedded_coding/engineering_strategy/167-pick-an-architecture-and-stick-with-it.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/167-pick-a-teaching-philosophy-and-stay-the-course.md`
+
 
 ## Naming convention
 

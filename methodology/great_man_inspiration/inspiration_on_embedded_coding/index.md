@@ -145,6 +145,7 @@ Focus:
 - [209 团队规模一百人为宜](engineering_strategy/209-reasonable-team-size.md)
 - [210 总部与一线分权](engineering_strategy/210-proper-delegation-between-hq-and-frontline.md)
 - [211 小团队联系一线就强](engineering_strategy/211-small-teams-can-win-with-customer-connection.md)
+- [212 反技术宗派主义](engineering_strategy/212-fight-technical-factionalism.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

@@ -276,6 +276,7 @@ This folder focuses on:
 - [209 将欲取之必先与之](strategy_and_execution/209-give-first-take-later.md)
 - [210 以别人为鉴戒](strategy_and_execution/210-learn-from-others-mistakes-not-just-successes.md)
 - [211 脱离用户就失败](strategy_and_execution/211-strong-fails-when-disconnected-from-people.md)
+- [212 团结一切人](strategy_and_execution/212-unite-everyone-not-just-the-core.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

@@ -201,6 +201,7 @@ Purpose:
 - [209 分久必合合久必分](research_and_thesis/209-industry-cycles-are-normal.md)
 - [210 优化攻守平衡](research_and_thesis/210-optimize-offense-defense-balance.md)
 - [211 从失败案例学习](research_and_thesis/211-learn-from-failure-cases.md)
+- [212 不进步就开除球籍](research_and_thesis/212-no-progress-means-no-reason-to-exist.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

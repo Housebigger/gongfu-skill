@@ -961,6 +961,15 @@ Current contents:
 ### 210《论十大关系》(1956-04-25)
 
 ### 211《美帝国主义是纸老虎》(1956-07-14)
+
+### 212《增强党的团结，继承党的传统》(1956-08-30)
+- `inspiration_on_today_life/judgement_and_decision/212-theory-and-practice-must-unite.md`
+- `inspiration_on_software_development/iteration_and_delivery/212-fight-subjectivism-know-your-users.md`
+- `inspiration_on_running_a_company/strategy_and_execution/212-unite-everyone-not-just-the-core.md`
+- `inspiration_on_stock_investing/research_and_thesis/212-no-progress-means-no-reason-to-exist.md`
+- `inspiration_on_making_money/execution_and_delivery/212-problems-recur-keep-solving-them.md`
+- `inspiration_on_embedded_coding/engineering_strategy/212-fight-technical-factionalism.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/212-summarize-by-key-points-not-listing.md`
 - `inspiration_on_today_life/judgement_and_decision/211-everything-changes-do-not-be-intimidated.md`
 - `inspiration_on_software_development/iteration_and_delivery/211-strategic-contempt-tactical-vigilance.md`
 - `inspiration_on_running_a_company/strategy_and_execution/211-strong-fails-when-disconnected-from-people.md`

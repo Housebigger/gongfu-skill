@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—211 连续覆盖，下一篇为 212《增强党的团结，继承党的传统》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—212 连续覆盖，下一篇为 213《关于单独领导分工的问题》。

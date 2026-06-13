@@ -320,6 +320,7 @@ Purpose:
 - [209 向自动化和工具化发展](iteration_and_delivery/209-move-toward-automation-and-tools.md)
 - [210 真想还是假想](iteration_and_delivery/210-real-vs-fake-commitment-to-fundamentals.md)
 - [211 战略藐视战术重视](iteration_and_delivery/211-strategic-contempt-tactical-vigilance.md)
+- [212 反主观主义](iteration_and_delivery/212-fight-subjectivism-know-your-users.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -291,6 +291,7 @@ Purpose:
 - [209 好传统一万年不要搞掉](judgement_and_decision/209-preserve-good-traditions-forever.md)
 - [210 调动一切积极因素](judgement_and_decision/210-mobilize-all-positive-factors.md)
 - [211 一切会有变化](judgement_and_decision/211-everything-changes-do-not-be-intimidated.md)
+- [212 理论与实践要统一](judgement_and_decision/212-theory-and-practice-must-unite.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

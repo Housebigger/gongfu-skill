@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—199 连续覆盖，下一篇为 200《在中国共产党全国代表会议上的讲话》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—200 连续覆盖，下一篇为 201《驳“舆论一律”》。

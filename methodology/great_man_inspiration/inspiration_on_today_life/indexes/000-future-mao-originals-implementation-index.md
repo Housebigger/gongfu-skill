@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—199。
+- 当前已完成连续主线：001—200。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：200—229，共 30 篇；199 已完成。
+- 主文章未来仍待落实：201—229，共 29 篇；200 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -118,7 +118,7 @@
 | 197 | 197 | 第五卷 社会主义革命和社会主义建设时期（一） | 38 | 《为建设一个伟大的社会主义国家而奋斗》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540915.htm) | 已完成 |
 | 198 | 198 | 第五卷 社会主义革命和社会主义建设时期（一） | 39 | 《关于《红楼梦》研究问题的信》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19541016.htm) | 已完成 |
 | 199 | 199 | 第五卷 社会主义革命和社会主义建设时期（一） | 40 | 《原子弹吓不倒中国人民》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550128.htm) | 已完成 |
-| 200 | 200 | 第五卷 社会主义革命和社会主义建设时期（一） | 41 | 《在中国共产党全国代表会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195503.htm) | 待落实 |
+| 200 | 200 | 第五卷 社会主义革命和社会主义建设时期（一） | 41 | 《在中国共产党全国代表会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195503.htm) | 已完成 |
 | 201 | 201 | 第五卷 社会主义革命和社会主义建设时期（一） | 42 | 《驳“舆论一律”》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550524.htm) | 待落实 |
 | 202 | 202 | 第五卷 社会主义革命和社会主义建设时期（一） | 43 | 《《关于胡风反革命集团的材料》的序言和按语》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195505.htm) | 待落实 |
 | 203 | 203 | 第五卷 社会主义革命和社会主义建设时期（一） | 44 | 《关于农业合作化问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550731.htm) | 待落实 |

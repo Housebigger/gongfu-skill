@@ -246,6 +246,7 @@ Additional focus:
 - [197 互勉互助](execution_and_delivery/197-mutual-help-beats-going-solo.md)
 - [198 不和错误的人合作](execution_and_delivery/198-do-not-partner-with-wrong-people.md)
 - [199 宇宙视角看困难](execution_and_delivery/199-put-troubles-in-cosmic-perspective.md)
+- [200 保持谦虚](execution_and_delivery/200-stay-humble-keep-learning.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

@@ -273,6 +273,7 @@ Purpose:
 - [191 区分错误级别](judgement_and_decision/191-distinguish-minor-mistakes-from-principle-errors.md)
 - [192 稳步前进](judgement_and_decision/192-steady-progress-not-too-fast-not-too-slow.md)
 - [193 大仁政小仁政](judgement_and_decision/193-big-picture-vs-small-comfort-focus-on-long-term.md)
+- [194 尾巴藏不住](judgement_and_decision/194-tail-cannot-be-hidden-true-vs-fake.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

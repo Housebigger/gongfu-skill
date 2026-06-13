@@ -302,6 +302,7 @@ Purpose:
 - [191 反对主观主义](iteration_and_delivery/191-oppose-subjectivism-both-rushing-and-conservatism.md)
 - [192 渐进迁移](iteration_and_delivery/192-gradual-migration-not-big-bang-rewrite.md)
 - [193 别怕新技术](iteration_and_delivery/193-fear-no-new-tech-touch-it-and-know-it.md)
+- [194 议而决决而行](iteration_and_delivery/194-decide-and-execute-do-not-endlessly-discuss.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -240,6 +240,7 @@ Additional focus:
 - [191 深入一线](execution_and_delivery/191-go-to-the-frontline-do-not-guess-market.md)
 - [192 培养标杆](execution_and_delivery/192-cultivate-early-adopters-to-persuade-majority.md)
 - [193 投资核心竞争力](execution_and_delivery/193-invest-in-core-competency-your-heavy-industry.md)
+- [194 班门弄斧要知耻](execution_and_delivery/194-know-your-limits-do-not-show-off-before-experts.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 193（001—193 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1276 |
-| 顺序学习已连续覆盖范围 | 001—193 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—193 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—193 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 194（001—194 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1283 |
+| 顺序学习已连续覆盖范围 | 001—194 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—194 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—194 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—193 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—194 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—193 顺序主线已连续建立关联        [DONE]
+001—194 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -276,7 +276,8 @@
 190 《党在过渡时期的总路线》 [DONE: 7/7]
 191 《反对党内的资产阶级思想》 [DONE: 7/7]
 192 《改造资本主义工商业的必经之路》 [DONE: 7/7]
-193 《抗美援朝的伟大胜利和今后的任务》 [NEXT]
+193 《抗美援朝的伟大胜利和今后的任务》 [DONE: 7/7]
+194 《批判梁漱溟的反动思想》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -489,6 +490,7 @@
 | 191 | 《反对党内的资产阶级思想》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530812.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/191-distinguish-minor-mistakes-from-principle-errors.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/191-oppose-subjectivism-both-rushing-and-conservatism.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/191-collective-leadership-oppose-departmentalism.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/191-know-what-you-rely-on-do-not-waver.md) | [MM](./inspiration_on_making_money/execution_and_delivery/191-go-to-the-frontline-do-not-guess-market.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/191-balance-delivery-and-team-welfare.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/191-correct-to-help-not-to-destroy.md) |
 | 192 | 《改造资本主义工商业的必经之路》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530907.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/192-steady-progress-not-too-fast-not-too-slow.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/192-gradual-migration-not-big-bang-rewrite.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/192-fair-profit-distribution-three-quarters-public.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/192-invest-voluntarily-do-not-force-yourself.md) | [MM](./inspiration_on_making_money/execution_and_delivery/192-cultivate-early-adopters-to-persuade-majority.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/192-set-timeline-oppose-both-delay-and-rushing.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/192-train-talent-through-practice-not-theory-only.md) |
 | 193 | 《抗美援朝的伟大胜利和今后的任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530912.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/193-big-picture-vs-small-comfort-focus-on-long-term.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/193-fear-no-new-tech-touch-it-and-know-it.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/193-frontline-employees-have-best-solutions.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/193-small-capital-can-win-with-right-strategy.md) | [MM](./inspiration_on_making_money/execution_and_delivery/193-invest-in-core-competency-your-heavy-industry.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/193-solve-problems-one-by-one-grow-stronger-each-time.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/193-teach-big-principles-not-just-small-ones.md) |
+| 194 | 《批判梁漱溟的反动思想》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530916.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/194-tail-cannot-be-hidden-true-vs-fake.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/194-decide-and-execute-do-not-endlessly-discuss.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/194-evaluate-by-contribution-not-self-promotion.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/194-distinguish-true-and-fake-signals.md) | [MM](./inspiration_on_making_money/execution_and_delivery/194-know-your-limits-do-not-show-off-before-experts.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/194-post-mortem-analysis-before-blame.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/194-teach-sincerity-not-two-facedness.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2649,6 +2651,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/193-invest-in-core-competency-your-heavy-industry.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/193-solve-problems-one-by-one-grow-stronger-each-time.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/193-teach-big-principles-not-just-small-ones.md`
+
+## 194 《批判梁漱溟的反动思想》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530916.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/194-tail-cannot-be-hidden-true-vs-fake.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/194-decide-and-execute-do-not-endlessly-discuss.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/194-evaluate-by-contribution-not-self-promotion.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/194-distinguish-true-and-fake-signals.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/194-know-your-limits-do-not-show-off-before-experts.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/194-post-mortem-analysis-before-blame.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/194-teach-sincerity-not-two-facedness.md`
 
 ## 6. 使用建议
 

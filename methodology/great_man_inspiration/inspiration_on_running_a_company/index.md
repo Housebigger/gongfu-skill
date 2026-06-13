@@ -258,6 +258,7 @@ This folder focuses on:
 - [191 集体领导](strategy_and_execution/191-collective-leadership-oppose-departmentalism.md)
 - [192 利润合理分配](strategy_and_execution/192-fair-profit-distribution-three-quarters-public.md)
 - [193 一线智慧](strategy_and_execution/193-frontline-employees-have-best-solutions.md)
+- [194 看实际贡献](strategy_and_execution/194-evaluate-by-contribution-not-self-promotion.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

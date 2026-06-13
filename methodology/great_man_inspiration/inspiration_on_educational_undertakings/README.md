@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—193 连续覆盖，下一篇为 194《批判梁漱深的反动思想》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—194 连续覆盖，下一篇为 195《关于改革示范田地制度问题的一些意见》。

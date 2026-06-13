@@ -118,4 +118,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—193 连续覆盖，下一篇为 194《批判梁漱深的反动思想》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—194 连续覆盖，下一篇为 195《关于改革示范田地制度问题的一些意见》。

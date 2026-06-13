@@ -925,6 +925,15 @@ Current contents:
 ### 192《改造资本主义工商业的必经之路》(1953-09-07)
 
 ### 193《抗美援朝的伟大胜利和今后的任务》(1953-09-12)
+
+### 194《批判梁漱溟的反动思想》(1953-09-16)
+- `inspiration_on_today_life/judgement_and_decision/194-tail-cannot-be-hidden-true-vs-fake.md`
+- `inspiration_on_software_development/iteration_and_delivery/194-decide-and-execute-do-not-endlessly-discuss.md`
+- `inspiration_on_running_a_company/strategy_and_execution/194-evaluate-by-contribution-not-self-promotion.md`
+- `inspiration_on_stock_investing/research_and_thesis/194-distinguish-true-and-fake-signals.md`
+- `inspiration_on_making_money/execution_and_delivery/194-know-your-limits-do-not-show-off-before-experts.md`
+- `inspiration_on_embedded_coding/engineering_strategy/194-post-mortem-analysis-before-blame.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/194-teach-sincerity-not-two-facedness.md`
 - `inspiration_on_today_life/judgement_and_decision/193-big-picture-vs-small-comfort-focus-on-long-term.md`
 - `inspiration_on_software_development/iteration_and_delivery/193-fear-no-new-tech-touch-it-and-know-it.md`
 - `inspiration_on_running_a_company/strategy_and_execution/193-frontline-employees-have-best-solutions.md`

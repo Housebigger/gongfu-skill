@@ -190,6 +190,7 @@ Purpose:
 - [198 别被权威吓住](research_and_thesis/198-do-not-be-intimidated-by-authority.md)
 - [199 操纵者自取灭亡](research_and_thesis/199-manipulators-destroy-themselves.md)
 - [200 新生力量不可战胜](research_and_thesis/200-new-forces-are-invincible.md)
+- [201 矛盾不断市场前进](research_and_thesis/201-contradictions-keep-emerging-markets-advance.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

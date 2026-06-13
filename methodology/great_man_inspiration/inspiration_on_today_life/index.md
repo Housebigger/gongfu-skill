@@ -280,6 +280,7 @@ Purpose:
 - [198 重视小人物](judgement_and_decision/198-listen-to-little-people-challenge-authority.md)
 - [199 别被原子弹吓倒](judgement_and_decision/199-do-not-fear-overwhelming-threats.md)
 - [200 战略藐视战术重视](judgement_and_decision/200-strategic-contempt-tactical-seriousness.md)
+- [201 两种声音竞赛](judgement_and_decision/201-two-voices-always-compete.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

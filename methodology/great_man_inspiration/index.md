@@ -939,6 +939,15 @@ Current contents:
 ### 199《原子弹吓不倒中国人民》(1955-01-28)
 
 ### 200《在中国共产党全国代表会议上的讲话》(1955-03)
+
+### 201《驳“舆论一律”》(1955-05-24)
+- `inspiration_on_today_life/judgement_and_decision/201-two-voices-always-compete.md`
+- `inspiration_on_software_development/iteration_and_delivery/201-rigorous-engineering-takes-effort.md`
+- `inspiration_on_running_a_company/strategy_and_execution/201-internal-debate-external-uniformity.md`
+- `inspiration_on_stock_investing/research_and_thesis/201-contradictions-keep-emerging-markets-advance.md`
+- `inspiration_on_making_money/execution_and_delivery/201-unity-is-strength.md`
+- `inspiration_on_embedded_coding/engineering_strategy/201-persuasion-over-command.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/201-allow-academic-freedom-and-criticism.md`
 - `inspiration_on_today_life/judgement_and_decision/200-strategic-contempt-tactical-seriousness.md`
 - `inspiration_on_software_development/iteration_and_delivery/200-dive-deep-become-an-expert.md`
 - `inspiration_on_running_a_company/strategy_and_execution/200-collective-leadership-plus-individual-accountability.md`

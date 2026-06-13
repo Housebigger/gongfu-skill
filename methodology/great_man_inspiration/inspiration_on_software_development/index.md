@@ -309,6 +309,7 @@ Purpose:
 - [198 新人挑战祖传代码](iteration_and_delivery/198-juniors-can-challenge-legacy-code.md)
 - [199 不惹事不怂](iteration_and_delivery/199-two-principles-do-not-provoke-but-fight-back.md)
 - [200 钻进去成内行](iteration_and_delivery/200-dive-deep-become-an-expert.md)
+- [201 严谨要用气力](iteration_and_delivery/201-rigorous-engineering-takes-effort.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

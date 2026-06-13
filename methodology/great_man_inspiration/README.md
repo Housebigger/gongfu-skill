@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 200（001—200 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1325 |
-| 顺序学习已连续覆盖范围 | 001—200 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—200 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—200 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 201（001—201 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1332 |
+| 顺序学习已连续覆盖范围 | 001—201 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—201 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—201 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—200 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—201 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—200 顺序主线已连续建立关联        [DONE]
+001—201 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -283,7 +283,8 @@
 197 《为建设一个伟大的社会主义国家而奋斗》 [DONE: 7/7]
 198 《关于《红楼梦》研究问题的信》 [DONE: 7/7]
 199 《原子弹吓不倒中国人民》 [DONE: 7/7]
-200 《在中国共产党全国代表会议上的讲话》 [NEXT]
+200 《在中国共产党全国代表会议上的讲话》 [DONE: 7/7]
+201 《驳“舆论一律”》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -503,6 +504,7 @@
 | 198 | 《关于《红楼梦》研究问题的信》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19541016.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/198-listen-to-little-people-challenge-authority.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/198-juniors-can-challenge-legacy-code.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/198-unite-people-but-criticize-errors.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/198-do-not-be-intimidated-by-authority.md) | [MM](./inspiration_on_making_money/execution_and_delivery/198-do-not-partner-with-wrong-people.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/198-do-not-ignore-feedback.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/198-support-students-critical-thinking.md) |
 | 199 | 《原子弹吓不倒中国人民》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550128.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/199-do-not-fear-overwhelming-threats.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/199-two-principles-do-not-provoke-but-fight-back.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/199-coexist-with-competitors.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/199-manipulators-destroy-themselves.md) | [MM](./inspiration_on_making_money/execution_and_delivery/199-put-troubles-in-cosmic-perspective.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/199-win-with-limited-resources.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/199-just-reform-will-gain-support.md) |
 | 200 | 《在中国共产党全国代表会议上的讲话》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195503.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/200-strategic-contempt-tactical-seriousness.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/200-dive-deep-become-an-expert.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/200-collective-leadership-plus-individual-accountability.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/200-new-forces-are-invincible.md) | [MM](./inspiration_on_making_money/execution_and_delivery/200-stay-humble-keep-learning.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/200-prepare-for-sudden-changes.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/200-be-open-and-honest.md) |
+| 201 | 《驳“舆论一律”》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550524.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/201-two-voices-always-compete.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/201-rigorous-engineering-takes-effort.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/201-internal-debate-external-uniformity.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/201-contradictions-keep-emerging-markets-advance.md) | [MM](./inspiration_on_making_money/execution_and_delivery/201-unity-is-strength.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/201-persuasion-over-command.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/201-allow-academic-freedom-and-criticism.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2733,6 +2735,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/200-stay-humble-keep-learning.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/200-prepare-for-sudden-changes.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/200-be-open-and-honest.md`
+
+## 201 《驳“舆论一律”》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550524.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/201-two-voices-always-compete.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/201-rigorous-engineering-takes-effort.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/201-internal-debate-external-uniformity.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/201-contradictions-keep-emerging-markets-advance.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/201-unity-is-strength.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/201-persuasion-over-command.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/201-allow-academic-freedom-and-criticism.md`
 
 ## 6. 使用建议
 

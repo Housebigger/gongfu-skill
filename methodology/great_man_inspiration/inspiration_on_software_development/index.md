@@ -282,6 +282,7 @@ Purpose:
 - [171 Sprint规划](iteration_and_delivery/171-sprint-planning-keep-it-to-six-items.md)
 - [172 软删除](iteration_and_delivery/172-soft-delete-always-never-hard-delete.md)
 - [173 发布稳准狠](iteration_and_delivery/173-release-steady-accurate-resolute.md)
+- [174 别恋旧技术](iteration_and_delivery/174-do-not-cling-to-legacy-tech-upgrade.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -238,6 +238,7 @@ This folder focuses on:
 - [171 季度OKR](strategy_and_execution/171-quarterly-okr-keep-it-to-six-priorities.md)
 - [172 人事底线](strategy_and_execution/172-do-not-fire-when-in-doubt-train-first.md)
 - [173 裁员稳准狠](strategy_and_execution/173-layoff-steady-accurate-resolute.md)
+- [174 别恋旧模式](strategy_and_execution/174-do-not-cling-to-old-business-models.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

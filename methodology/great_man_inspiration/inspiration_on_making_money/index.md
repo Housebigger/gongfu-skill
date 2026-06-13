@@ -220,6 +220,7 @@ Additional focus:
 - [171 赚钱清单](execution_and_delivery/171-manage-income-sources-with-a-checklist.md)
 - [172 宁可慢不可亏](execution_and_delivery/172-go-slow-do-not-lose-capital.md)
 - [173 转型稳准狠](execution_and_delivery/173-career-pivot-steady-accurate-resolute.md)
+- [174 别恋旧方式](execution_and_delivery/174-do-not-cling-to-old-earning-methods.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

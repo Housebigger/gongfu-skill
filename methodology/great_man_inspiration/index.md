@@ -885,6 +885,15 @@ Current contents:
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/172-do-not-label-students-give-them-chances.md`
 
 ### 173《镇压反革命必须打得稳，打得准，打得狠》(1950-12~1951-09)
+
+### 174《应当重视电影《武训传》的讨论》(1951-05-20)
+- `inspiration_on_today_life/judgement_and_decision/174-do-not-romanticize-the-past-move-on.md`
+- `inspiration_on_software_development/iteration_and_delivery/174-do-not-cling-to-legacy-tech-upgrade.md`
+- `inspiration_on_running_a_company/strategy_and_execution/174-do-not-cling-to-old-business-models.md`
+- `inspiration_on_stock_investing/research_and_thesis/174-do-not-cling-to-old-investment-logic.md`
+- `inspiration_on_making_money/execution_and_delivery/174-do-not-cling-to-old-earning-methods.md`
+- `inspiration_on_embedded_coding/engineering_strategy/174-do-not-cling-to-bare-metal-upgrade-arch.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/174-do-not-cling-to-old-teaching-methods.md`
 - `inspiration_on_today_life/judgement_and_decision/173-steady-accurate-resolute-three-principles.md`
 - `inspiration_on_software_development/iteration_and_delivery/173-release-steady-accurate-resolute.md`
 - `inspiration_on_running_a_company/strategy_and_execution/173-layoff-steady-accurate-resolute.md`

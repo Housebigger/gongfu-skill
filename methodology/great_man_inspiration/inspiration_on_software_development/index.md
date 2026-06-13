@@ -331,6 +331,7 @@ Purpose:
 - [220 毒草香花同生](iteration_and_delivery/220-weeds-and-flowers-grow-together.md)
 - [221 团结先于技术](iteration_and_delivery/221-team-unity-comes-before-technology.md)
 - [222 区分建设性破坏性批评](iteration_and_delivery/222-separate-constructive-from-destructive-criticism.md)
+- [223 Bug暴露才能修复](iteration_and_delivery/223-bugs-must-surface-before-you-can-fix-them.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

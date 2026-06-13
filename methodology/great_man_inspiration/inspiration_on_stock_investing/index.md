@@ -212,6 +212,7 @@ Purpose:
 - [220 摇摆资金决定方向](research_and_thesis/220-the-swing-voters-decide-the-market.md)
 - [221 投资要有核心逻辑](research_and_thesis/221-investment-needs-a-core-thesis.md)
 - [222 利空出尽是利好](research_and_thesis/222-let-the-bad-news-out-fully.md)
+- [223 利令智昏](research_and_thesis/223-greed-makes-you-lose-judgment.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

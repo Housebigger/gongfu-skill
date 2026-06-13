@@ -302,6 +302,7 @@ Purpose:
 - [220 物极必反](judgement_and_decision/220-extremes-reverse-let-things-reach-their-peak.md)
 - [221 没有核心不能胜利](judgement_and_decision/221-without-a-core-nothing-succeeds.md)
 - [222 不被天昏地暗吓倒](judgement_and_decision/222-do-not-be-intimidated-by-darkness.md)
+- [223 方向没有调和](judgement_and_decision/223-no-middle-ground-on-direction.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

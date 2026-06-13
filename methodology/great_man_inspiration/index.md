@@ -983,6 +983,15 @@ Current contents:
 ### 221《中国共产党是全中国人民的领导核心》(1957-05-25)
 
 ### 222《组织力量反击右派分子的猖狂进攻》(1957-06-08)
+
+### 223《文汇报的资产阶级方向应当批判》(1957-07-01)
+- `inspiration_on_today_life/judgement_and_decision/223-no-middle-ground-on-direction.md`
+- `inspiration_on_software_development/iteration_and_delivery/223-bugs-must-surface-before-you-can-fix-them.md`
+- `inspiration_on_running_a_company/strategy_and_execution/223-passive-can-become-active-by-correcting-mistakes.md`
+- `inspiration_on_stock_investing/research_and_thesis/223-greed-makes-you-lose-judgment.md`
+- `inspiration_on_making_money/execution_and_delivery/223-quality-debts-will-be-collected.md`
+- `inspiration_on_embedded_coding/engineering_strategy/223-transparent-design-not-covert.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/223-sincere-apology-not-acting.md`
 - `inspiration_on_today_life/judgement_and_decision/222-do-not-be-intimidated-by-darkness.md`
 - `inspiration_on_software_development/iteration_and_delivery/222-separate-constructive-from-destructive-criticism.md`
 - `inspiration_on_running_a_company/strategy_and_execution/222-passive-in-form-active-in-substance.md`

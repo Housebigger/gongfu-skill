@@ -230,6 +230,7 @@ This folder focuses on:
 - [163 盈利更要节俭](strategy_and_execution/163-profitable-does-not-mean-relax-stay-lean.md)
 - [164 分步改革](strategy_and_execution/164-reform-in-steps-preserve-stability-first.md)
 - [165 定义健康](strategy_and_execution/165-define-company-health-with-kpi-numbers.md)
+- [166 不要多线作战](strategy_and_execution/166-do-not-open-multiple-markets-at-once.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

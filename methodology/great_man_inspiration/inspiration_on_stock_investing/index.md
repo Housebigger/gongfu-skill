@@ -155,6 +155,7 @@ Purpose:
 - [163 赚钱更要守纪律](research_and_thesis/163-winning-does-not-mean-relax-keep-risk-control.md)
 - [164 分步建仓](research_and_thesis/164-scale-in-slowly-do-not-go-all-in.md)
 - [165 定义体系健康](research_and_thesis/165-define-investment-health-with-metrics.md)
+- [166 集中持仓](research_and_thesis/166-concentrate-positions-stay-in-circle-of-competence.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

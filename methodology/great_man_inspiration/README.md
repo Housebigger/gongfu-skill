@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 165（001—165 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1080 |
-| 顺序学习已连续覆盖范围 | 001—165 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—165 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—165 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 166（001—166 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1087 |
+| 顺序学习已连续覆盖范围 | 001—166 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—166 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—166 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—165 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—166 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—165 顺序主线已连续建立关联        [DONE]
+001—166 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -248,7 +248,8 @@
 162 《人民英雄们永垂不朽》 [DONE: 7/7]
 163 《永远保持艰苦奋斗的作风》 [DONE: 7/7]
 164 《征询对待富农策略问题的意见》 [DONE: 7/7]
-165 《为争取国家财政经济状况的基本好转而斗争》 [NEXT]
+165 《为争取国家财政经济状况的基本好转而斗争》 [DONE: 7/7]
+166 《不要四面出击》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -433,6 +434,7 @@
 | 163 | 《永远保持艰苦奋斗的作风》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19491026.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/163-comfort-zone-is-the-start-of-decline.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/163-launch-is-the-start-not-the-end.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/163-profitable-does-not-mean-relax-stay-lean.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/163-winning-does-not-mean-relax-keep-risk-control.md) | [MM](./inspiration_on_making_money/execution_and_delivery/163-first-profit-is-not-the-end-keep-evolving.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/163-mass-production-is-not-the-end-keep-improving.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/163-good-scores-are-past-always-improve-teaching.md) |
 | 164 | 《征询对待富农策略问题的意见》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500312.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/164-solve-problems-in-steps-do-not-boil-the-ocean.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/164-incremental-refactor-do-not-rewrite-everything.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/164-reform-in-steps-preserve-stability-first.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/164-scale-in-slowly-do-not-go-all-in.md) | [MM](./inspiration_on_making_money/execution_and_delivery/164-monetize-one-skill-first-then-expand.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/164-migrate-platform-in-steps-validate-each.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/164-reform-teaching-in-steps-validate-each-change.md) |
 | 165 | 《为争取国家财政经济状况的基本好转而斗争》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/165-define-what-recovery-looks-like-three-conditions.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/165-define-stable-with-sli-slo-numbers.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/165-define-company-health-with-kpi-numbers.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/165-define-investment-health-with-metrics.md) | [MM](./inspiration_on_making_money/execution_and_delivery/165-define-financial-health-three-conditions.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/165-define-mass-production-ready-three-conditions.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/165-define-teaching-health-with-metrics.md) |
+| 166 | 《不要四面出击》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606b.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/166-do-not-fight-on-all-fronts-focus.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/166-do-not-refactor-everything-at-once.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/166-do-not-open-multiple-markets-at-once.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/166-concentrate-positions-stay-in-circle-of-competence.md) | [MM](./inspiration_on_making_money/execution_and_delivery/166-do-not-juggle-five-side-projects-pick-one.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/166-change-one-thing-at-a-time.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/166-change-one-aspect-of-teaching-at-a-time.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2313,6 +2315,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/165-define-financial-health-three-conditions.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/165-define-mass-production-ready-three-conditions.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/165-define-teaching-health-with-metrics.md`
+
+## 166 《不要四面出击》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606b.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/166-do-not-fight-on-all-fronts-focus.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/166-do-not-refactor-everything-at-once.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/166-do-not-open-multiple-markets-at-once.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/166-concentrate-positions-stay-in-circle-of-competence.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/166-do-not-juggle-five-side-projects-pick-one.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/166-change-one-thing-at-a-time.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/166-change-one-aspect-of-teaching-at-a-time.md`
 
 ## 6. 使用建议
 

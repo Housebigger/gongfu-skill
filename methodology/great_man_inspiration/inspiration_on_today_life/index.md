@@ -245,6 +245,7 @@ Purpose:
 - [163 舒适区是退步](judgement_and_decision/163-comfort-zone-is-the-start-of-decline.md)
 - [164 分步走](judgement_and_decision/164-solve-problems-in-steps-do-not-boil-the-ocean.md)
 - [165 定义好转](judgement_and_decision/165-define-what-recovery-looks-like-three-conditions.md)
+- [166 不要四面出击](judgement_and_decision/166-do-not-fight-on-all-fronts-focus.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

@@ -821,6 +821,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/165-define-mass-production-ready-three-conditions.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/165-define-teaching-health-with-metrics.md`
 
+### 166《不要四面出击》(1950-06-06)
+- `inspiration_on_today_life/judgement_and_decision/166-do-not-fight-on-all-fronts-focus.md`
+- `inspiration_on_software_development/iteration_and_delivery/166-do-not-refactor-everything-at-once.md`
+- `inspiration_on_running_a_company/strategy_and_execution/166-do-not-open-multiple-markets-at-once.md`
+- `inspiration_on_stock_investing/research_and_thesis/166-concentrate-positions-stay-in-circle-of-competence.md`
+- `inspiration_on_making_money/execution_and_delivery/166-do-not-juggle-five-side-projects-pick-one.md`
+- `inspiration_on_embedded_coding/engineering_strategy/166-change-one-thing-at-a-time.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/166-change-one-aspect-of-teaching-at-a-time.md`
+
 
 ## Naming convention
 

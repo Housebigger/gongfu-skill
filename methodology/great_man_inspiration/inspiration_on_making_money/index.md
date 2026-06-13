@@ -212,6 +212,7 @@ Additional focus:
 - [163 赚到了更要持续](execution_and_delivery/163-first-profit-is-not-the-end-keep-evolving.md)
 - [164 分步变现](execution_and_delivery/164-monetize-one-skill-first-then-expand.md)
 - [165 定义财务健康](execution_and_delivery/165-define-financial-health-three-conditions.md)
+- [166 不要同时搞五个副业](execution_and_delivery/166-do-not-juggle-five-side-projects-pick-one.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

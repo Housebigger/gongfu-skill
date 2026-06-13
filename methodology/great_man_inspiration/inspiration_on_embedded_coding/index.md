@@ -105,6 +105,7 @@ Focus:
 - [169 三条硬件纪律](engineering_strategy/169-three-hw-disciplines-when-you-start-a-project.md)
 - [170 尊重硬件](engineering_strategy/170-respect-hardware-constraints-optimize-within-them.md)
 - [171 项目清单](engineering_strategy/171-use-a-checklist-to-manage-hw-subsystems.md)
+- [172 硬件保守](engineering_strategy/172-be-conservative-with-hw-changes-when-in-doubt.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

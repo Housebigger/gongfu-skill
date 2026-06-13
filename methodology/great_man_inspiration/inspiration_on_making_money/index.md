@@ -218,6 +218,7 @@ Additional focus:
 - [169 三条行动纪律](execution_and_delivery/169-three-action-disciplines-when-you-spot-an-opportunity.md)
 - [170 尊重行业](execution_and_delivery/170-respect-the-industry-be-an-apprentice-first.md)
 - [171 赚钱清单](execution_and_delivery/171-manage-income-sources-with-a-checklist.md)
+- [172 宁可慢不可亏](execution_and_delivery/172-go-slow-do-not-lose-capital.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

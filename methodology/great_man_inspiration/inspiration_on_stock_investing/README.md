@@ -118,4 +118,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—171 连续覆盖，下一篇为 172《镇压反革命必须实行党的群众路线》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—172 连续覆盖，下一篇为 173《镇压反革命必须打得稳，打得准，打得狠》。

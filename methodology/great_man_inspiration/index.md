@@ -875,6 +875,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/171-use-a-checklist-to-manage-hw-subsystems.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/171-manage-semester-goals-with-a-checklist.md`
 
+### 172《镇压反革命必须实行党的群众路线》(1951-05-15)
+- `inspiration_on_today_life/judgement_and_decision/172-when-in-doubt-do-not-act-have-a-bottom-line.md`
+- `inspiration_on_software_development/iteration_and_delivery/172-soft-delete-always-never-hard-delete.md`
+- `inspiration_on_running_a_company/strategy_and_execution/172-do-not-fire-when-in-doubt-train-first.md`
+- `inspiration_on_stock_investing/research_and_thesis/172-miss-a-trade-do-not-make-a-bad-one.md`
+- `inspiration_on_making_money/execution_and_delivery/172-go-slow-do-not-lose-capital.md`
+- `inspiration_on_embedded_coding/engineering_strategy/172-be-conservative-with-hw-changes-when-in-doubt.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/172-do-not-label-students-give-them-chances.md`
+
 
 ## Naming convention
 

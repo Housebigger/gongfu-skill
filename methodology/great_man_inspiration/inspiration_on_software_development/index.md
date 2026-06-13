@@ -322,6 +322,7 @@ Purpose:
 - [211 战略藐视战术重视](iteration_and_delivery/211-strategic-contempt-tactical-vigilance.md)
 - [212 反主观主义](iteration_and_delivery/212-fight-subjectivism-know-your-users.md)
 - [213 别硬搬经验](iteration_and_delivery/213-never-blindly-copy-others-experience.md)
+- [214 事物总是发展的](iteration_and_delivery/214-things-always-evolve-stay-adaptable.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

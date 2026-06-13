@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 213（001—213 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1416 |
-| 顺序学习已连续覆盖范围 | 001—213 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—213 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—213 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 214（001—214 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1423 |
+| 顺序学习已连续覆盖范围 | 001—214 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—214 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—214 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—213 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—214 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—213 顺序主线已连续建立关联        [DONE]
+001—214 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -296,7 +296,8 @@
 210 《论十大关系》 [DONE: 7/7]
 211 《美帝国主义是纸老虎》 [DONE: 7/7]
 212 《增强党的团结，继承党的传统》 [DONE: 7/7]
-213 《我们党的一些历史经验》 [NEXT]
+213 《我们党的一些历史经验》 [DONE: 7/7]
+214 《纪念孙中山先生》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -529,6 +530,7 @@
 | 211 | 《美帝国主义是纸老虎》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560714.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/211-everything-changes-do-not-be-intimidated.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/211-strategic-contempt-tactical-vigilance.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/211-strong-fails-when-disconnected-from-people.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/211-learn-from-failure-cases.md) | [MM](./inspiration_on_making_money/execution_and_delivery/211-break-big-goals-into-small-steps.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/211-small-teams-can-win-with-customer-connection.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/211-small-people-can-achieve-great-things.md) |
 | 212 | 《增强党的团结，继承党的传统》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560830.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/212-theory-and-practice-must-unite.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/212-fight-subjectivism-know-your-users.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/212-unite-everyone-not-just-the-core.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/212-no-progress-means-no-reason-to-exist.md) | [MM](./inspiration_on_making_money/execution_and_delivery/212-problems-recur-keep-solving-them.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/212-fight-technical-factionalism.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/212-summarize-by-key-points-not-listing.md) |
 | 213 | 《我们党的一些历史经验》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560925.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/213-two-ways-to-investigate-surface-and-depth.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/213-never-blindly-copy-others-experience.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/213-rational-favorable-restrained-three-principles.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/213-dissect-one-sparrow-is-enough.md) | [MM](./inspiration_on_making_money/execution_and_delivery/213-use-contradictions-to-win-one-by-one.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/213-from-flat-view-to-three-dimensional-view.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/213-attitude-determines-trust.md) |
+| 214 | 《纪念孙中山先生》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561112.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/214-dedicate-yourself-fully.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/214-things-always-evolve-stay-adaptable.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/214-be-humble-forever-even-in-success.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/214-do-not-judge-past-decisions-with-hindsight.md) | [MM](./inspiration_on_making_money/execution_and_delivery/214-make-greater-contributions-to-earn-more.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/214-build-on-predecessors-work.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/214-study-history-reality-and-international-trends.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2889,6 +2891,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/213-use-contradictions-to-win-one-by-one.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/213-from-flat-view-to-three-dimensional-view.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/213-attitude-determines-trust.md`
+
+## 214 《纪念孙中山先生》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561112.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/214-dedicate-yourself-fully.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/214-things-always-evolve-stay-adaptable.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/214-be-humble-forever-even-in-success.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/214-do-not-judge-past-decisions-with-hindsight.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/214-make-greater-contributions-to-earn-more.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/214-build-on-predecessors-work.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/214-study-history-reality-and-international-trends.md`
 
 ## 6. 使用建议
 

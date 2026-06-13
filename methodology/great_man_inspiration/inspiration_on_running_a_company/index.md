@@ -278,6 +278,7 @@ This folder focuses on:
 - [211 脱离用户就失败](strategy_and_execution/211-strong-fails-when-disconnected-from-people.md)
 - [212 团结一切人](strategy_and_execution/212-unite-everyone-not-just-the-core.md)
 - [213 有理有利有节](strategy_and_execution/213-rational-favorable-restrained-three-principles.md)
+- [214 谦虚永远](strategy_and_execution/214-be-humble-forever-even-in-success.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

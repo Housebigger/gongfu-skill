@@ -293,6 +293,7 @@ Purpose:
 - [211 一切会有变化](judgement_and_decision/211-everything-changes-do-not-be-intimidated.md)
 - [212 理论与实践要统一](judgement_and_decision/212-theory-and-practice-must-unite.md)
 - [213 走马看花和下马看花](judgement_and_decision/213-two-ways-to-investigate-surface-and-depth.md)
+- [214 鞠躬尽瘁死而后已](judgement_and_decision/214-dedicate-yourself-fully.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

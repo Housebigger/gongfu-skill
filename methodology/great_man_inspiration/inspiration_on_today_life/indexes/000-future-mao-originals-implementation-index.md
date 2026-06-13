@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—213。
+- 当前已完成连续主线：001—214。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：214—229，共 16 篇；213 已完成。
+- 主文章未来仍待落实：215—229，共 15 篇；214 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -132,7 +132,7 @@
 | 211 | 211 | 第五卷 社会主义革命和社会主义建设时期（一） | 52 | 《美帝国主义是纸老虎》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560714.htm) | 已完成 |
 | 212 | 212 | 第五卷 社会主义革命和社会主义建设时期（一） | 53 | 《增强党的团结，继承党的传统》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560830.htm) | 已完成 |
 | 213 | 213 | 第五卷 社会主义革命和社会主义建设时期（一） | 54 | 《我们党的—些历史经验》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195600925.htm) | 待落实 |
-| 214 | 214 | 第五卷 社会主义革命和社会主义建设时期（一） | 55 | 《纪念孙中山先生》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561112.htm) | 待落实 |
+| 214 | 214 | 第五卷 社会主义革命和社会主义建设时期（一） | 55 | 《纪念孙中山先生》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561112.htm) | 已完成 |
 | 215 | 215 | 第五卷 社会主义革命和社会主义建设时期（一） | 56 | 《在中国共产党第八届中央委员会第二次全体会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561115.htm) | 待落实 |
 | 216 | 216 | 第五卷 社会主义革命和社会主义建设时期（一） | 57 | 《在省市自治区党委书记会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm) | 待落实 |
 | 217 | 217 | 第五卷 社会主义革命和社会主义建设时期（一） | 58 | 《关于正确处理人民内部矛盾的问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm) | 待落实；官网附注：讲话稿 按此 |

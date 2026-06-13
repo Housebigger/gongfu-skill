@@ -965,6 +965,15 @@ Current contents:
 ### 212《增强党的团结，继承党的传统》(1956-08-30)
 
 ### 213《我们党的一些历史经验》(1956-09-25)
+
+### 214《纪念孙中山先生》(1956-11-12)
+- `inspiration_on_today_life/judgement_and_decision/214-dedicate-yourself-fully.md`
+- `inspiration_on_software_development/iteration_and_delivery/214-things-always-evolve-stay-adaptable.md`
+- `inspiration_on_running_a_company/strategy_and_execution/214-be-humble-forever-even-in-success.md`
+- `inspiration_on_stock_investing/research_and_thesis/214-do-not-judge-past-decisions-with-hindsight.md`
+- `inspiration_on_making_money/execution_and_delivery/214-make-greater-contributions-to-earn-more.md`
+- `inspiration_on_embedded_coding/engineering_strategy/214-build-on-predecessors-work.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/214-study-history-reality-and-international-trends.md`
 - `inspiration_on_today_life/judgement_and_decision/213-two-ways-to-investigate-surface-and-depth.md`
 - `inspiration_on_software_development/iteration_and_delivery/213-never-blindly-copy-others-experience.md`
 - `inspiration_on_running_a_company/strategy_and_execution/213-rational-favorable-restrained-three-principles.md`

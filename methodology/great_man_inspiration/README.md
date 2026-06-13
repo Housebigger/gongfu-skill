@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 168（001—168 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1101 |
-| 顺序学习已连续覆盖范围 | 001—168 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—168 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—168 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 169（001—169 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1108 |
+| 顺序学习已连续覆盖范围 | 001—169 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—169 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—169 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—168 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—169 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—168 顺序主线已连续建立关联        [DONE]
+001—169 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -251,7 +251,8 @@
 165 《为争取国家财政经济状况的基本好转而斗争》 [DONE: 7/7]
 166 《不要四面出击》 [DONE: 7/7]
 167 《做一个完全的革命派》 [DONE: 7/7]
-168 《你们是全民族的模范人物》 [NEXT]
+168 《你们是全民族的模范人物》 [DONE: 7/7]
+169 《给中国人民志愿军的命令》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -439,6 +440,7 @@
 | 166 | 《不要四面出击》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606b.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/166-do-not-fight-on-all-fronts-focus.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/166-do-not-refactor-everything-at-once.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/166-do-not-open-multiple-markets-at-once.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/166-concentrate-positions-stay-in-circle-of-competence.md) | [MM](./inspiration_on_making_money/execution_and_delivery/166-do-not-juggle-five-side-projects-pick-one.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/166-change-one-thing-at-a-time.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/166-change-one-aspect-of-teaching-at-a-time.md) |
 | 167 | 《做一个完全的革命派》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500623.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/167-pick-a-side-and-stay-until-the-end.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/167-pick-a-tech-stack-and-stick-with-it.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/167-pick-a-market-and-stay-the-course.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/167-pick-an-investment-system-and-stick-with-it.md) | [MM](./inspiration_on_making_money/execution_and_delivery/167-pick-one-way-to-earn-and-stay-the-course.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/167-pick-an-architecture-and-stick-with-it.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/167-pick-a-teaching-philosophy-and-stay-the-course.md) |
 | 168 | 《你们是全民族的模范人物》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500925.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/168-be-a-role-model-keep-learning-never-be-complacent.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/168-be-a-10x-engineer-keep-learning.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/168-be-an-industry-benchmark-keep-evolving.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/168-be-a-model-investor-keep-reviewing.md) | [MM](./inspiration_on_making_money/execution_and_delivery/168-be-an-earning-role-model-keep-iterating.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/168-be-a-technical-benchmark-keep-learning-new-chips.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/168-be-a-model-teacher-keep-training.md) |
+| 169 | 《给中国人民志愿军的命令》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/169-three-disciplines-when-you-get-a-task.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/169-three-engineering-disciplines-when-you-get-a-requirement.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/169-three-execution-disciplines-when-you-get-a-strategy.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/169-three-trading-disciplines-when-you-get-a-signal.md) | [MM](./inspiration_on_making_money/execution_and_delivery/169-three-action-disciplines-when-you-spot-an-opportunity.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/169-three-hw-disciplines-when-you-start-a-project.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/169-three-prep-disciplines-when-you-get-a-new-course.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2349,6 +2351,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/168-be-an-earning-role-model-keep-iterating.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/168-be-a-technical-benchmark-keep-learning-new-chips.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/168-be-a-model-teacher-keep-training.md`
+
+## 169 《给中国人民志愿军的命令》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/169-three-disciplines-when-you-get-a-task.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/169-three-engineering-disciplines-when-you-get-a-requirement.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/169-three-execution-disciplines-when-you-get-a-strategy.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/169-three-trading-disciplines-when-you-get-a-signal.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/169-three-action-disciplines-when-you-spot-an-opportunity.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/169-three-hw-disciplines-when-you-start-a-project.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/169-three-prep-disciplines-when-you-get-a-new-course.md`
 
 ## 6. 使用建议
 

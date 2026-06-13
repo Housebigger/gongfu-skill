@@ -848,6 +848,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/168-be-a-technical-benchmark-keep-learning-new-chips.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/168-be-a-model-teacher-keep-training.md`
 
+### 169《给中国人民志愿军的命令》(1950-10-08)
+- `inspiration_on_today_life/judgement_and_decision/169-three-disciplines-when-you-get-a-task.md`
+- `inspiration_on_software_development/iteration_and_delivery/169-three-engineering-disciplines-when-you-get-a-requirement.md`
+- `inspiration_on_running_a_company/strategy_and_execution/169-three-execution-disciplines-when-you-get-a-strategy.md`
+- `inspiration_on_stock_investing/research_and_thesis/169-three-trading-disciplines-when-you-get-a-signal.md`
+- `inspiration_on_making_money/execution_and_delivery/169-three-action-disciplines-when-you-spot-an-opportunity.md`
+- `inspiration_on_embedded_coding/engineering_strategy/169-three-hw-disciplines-when-you-start-a-project.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/169-three-prep-disciplines-when-you-get-a-new-course.md`
+
 
 ## Naming convention
 

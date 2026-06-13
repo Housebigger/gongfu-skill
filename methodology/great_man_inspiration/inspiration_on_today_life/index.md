@@ -248,6 +248,7 @@ Purpose:
 - [166 不要四面出击](judgement_and_decision/166-do-not-fight-on-all-fronts-focus.md)
 - [167 站队到底](judgement_and_decision/167-pick-a-side-and-stay-until-the-end.md)
 - [168 做模范](judgement_and_decision/168-be-a-role-model-keep-learning-never-be-complacent.md)
+- [169 三条纪律](judgement_and_decision/169-three-disciplines-when-you-get-a-task.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

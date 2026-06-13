@@ -215,6 +215,7 @@ Additional focus:
 - [166 不要同时搞五个副业](execution_and_delivery/166-do-not-juggle-five-side-projects-pick-one.md)
 - [167 赚钱方式跟到底](execution_and_delivery/167-pick-one-way-to-earn-and-stay-the-course.md)
 - [168 做赚钱模范](execution_and_delivery/168-be-an-earning-role-model-keep-iterating.md)
+- [169 三条行动纪律](execution_and_delivery/169-three-action-disciplines-when-you-spot-an-opportunity.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

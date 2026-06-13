@@ -899,7 +899,7 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/167-pick-an-architecture-and-stick-with-it.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/167-pick-a-teaching-philosophy-and-stay-the-course.md`
 
-- 169《给中国人民志愿军的命令》
+- 168《你们是全民族的模范人物》
   - `../judgement_and_decision/168-be-a-role-model-keep-learning-never-be-complacent.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/168-be-a-10x-engineer-keep-learning.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/168-be-an-industry-benchmark-keep-evolving.md`
@@ -907,6 +907,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/168-be-an-earning-role-model-keep-iterating.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/168-be-a-technical-benchmark-keep-learning-new-chips.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/168-be-a-model-teacher-keep-training.md`
+
+- 170《中国人民志愿军要爱护朝鲜的一山一水一草一木》
+  - `../judgement_and_decision/169-three-disciplines-when-you-get-a-task.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/169-three-engineering-disciplines-when-you-get-a-requirement.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/169-three-execution-disciplines-when-you-get-a-strategy.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/169-three-trading-disciplines-when-you-get-a-signal.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/169-three-action-disciplines-when-you-spot-an-opportunity.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/169-three-hw-disciplines-when-you-start-a-project.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/169-three-prep-disciplines-when-you-get-a-new-course.md`
   - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》

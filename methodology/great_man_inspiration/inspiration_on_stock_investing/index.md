@@ -208,6 +208,7 @@ Purpose:
 - [216 一个典型打倒怪论](research_and_thesis/216-one-good-example-beats-a-hundred-arguments.md)
 - [217 风险可以化解](research_and_thesis/217-properly-handled-risks-can-be-resolved.md)
 - [218 三种立场](research_and_thesis/218-three-stances-firm-wavering-opposing.md)
+- [219 靠当前判断不靠过去业绩](research_and_thesis/219-rely-on-current-judgment-not-past-record.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

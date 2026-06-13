@@ -975,6 +975,15 @@ Current contents:
 ### 217《关于正确处理人民内部矛盾的问题》(1957-02-27)
 
 ### 218《在全国宣传工作会议上的讲话》(1957-03-12)
+
+### 219《坚持艰苦奋斗，密切联系群众》(1957-03)
+- `inspiration_on_today_life/judgement_and_decision/219-rely-on-correctness-not-seniority.md`
+- `inspiration_on_software_development/iteration_and_delivery/219-keep-that-fighting-spirit-in-stable-times.md`
+- `inspiration_on_running_a_company/strategy_and_execution/219-do-not-fight-over-personal-gain.md`
+- `inspiration_on_stock_investing/research_and_thesis/219-rely-on-current-judgment-not-past-record.md`
+- `inspiration_on_making_money/execution_and_delivery/219-give-it-your-all-not-two-thirds.md`
+- `inspiration_on_embedded_coding/engineering_strategy/219-let-subordinates-criticize-superiors.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/219-connect-closely-with-students-be-on-the-same-level.md`
 - `inspiration_on_today_life/judgement_and_decision/218-existence-determines-consciousness.md`
 - `inspiration_on_software_development/iteration_and_delivery/218-persuasion-not-coercion-for-tech-adoption.md`
 - `inspiration_on_running_a_company/strategy_and_execution/218-new-systems-need-time-to-consolidate.md`

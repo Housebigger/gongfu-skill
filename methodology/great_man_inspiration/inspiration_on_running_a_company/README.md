@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—218 连续覆盖，下一篇为 219《党的文艺工作者必须深入群众》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—219 连续覆盖，下一篇为 220《东边出变》。

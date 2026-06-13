@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—218 连续覆盖，下一篇为 219《党的文艺工作者必须深入群众》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—219 连续覆盖，下一篇为 220《东边出变》。

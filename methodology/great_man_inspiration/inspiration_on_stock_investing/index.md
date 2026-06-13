@@ -150,6 +150,7 @@ Purpose:
 - [158 复盘每笔亏损](research_and_thesis/158-review-every-loss-trade-it-is-your-white-paper.md)
 - [159 别怪庄家操控](research_and_thesis/159-stop-blaming-manipulators-fix-your-process.md)
 - [160 从跟风到独立判断](research_and_thesis/160-from-following-signals-to-independent-judgment.md)
+- [161 多资产团结](research_and_thesis/161-diversify-unite-all-asset-classes.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

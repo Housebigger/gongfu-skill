@@ -776,6 +776,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/160-from-reference-design-to-own-architecture.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/160-from-textbook-reading-to-independent-teaching.md`
 
+### 161《中国人民大团结万岁》(1949-09-30)
+- `inspiration_on_today_life/judgement_and_decision/161-unite-everyone-you-can-organize-your-life.md`
+- `inspiration_on_software_development/iteration_and_delivery/161-cross-functional-unity-break-down-silos.md`
+- `inspiration_on_running_a_company/strategy_and_execution/161-align-the-whole-company-under-one-goal.md`
+- `inspiration_on_stock_investing/research_and_thesis/161-diversify-unite-all-asset-classes.md`
+- `inspiration_on_making_money/execution_and_delivery/161-multiple-income-streams-unite-your-earnings.md`
+- `inspiration_on_embedded_coding/engineering_strategy/161-hardware-software-co-design-unite-the-teams.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/161-unite-parents-and-teachers-same-trench.md`
+
 
 ## Naming convention
 

@@ -269,6 +269,7 @@ Purpose:
 - [158 无指责事后复盘](iteration_and_delivery/158-blameless-postmortems-turn-incidents-into-education.md)
 - [159 别怪需求变了](iteration_and_delivery/159-stop-blaming-requirements-find-root-causes.md)
 - [160 从demo到产品](iteration_and_delivery/160-ship-it-from-demo-to-real-product.md)
+- [161 跨职能团结](iteration_and_delivery/161-cross-functional-unity-break-down-silos.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

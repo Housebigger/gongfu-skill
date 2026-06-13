@@ -20,9 +20,9 @@
 - 执行下一篇时，默认只推进 `156《别了，司徒雷登》`；不要跳到“其它”条目，除非豪哥明确要求做补充材料。
 
 边界核验：
-- 当前已完成连续主线：001—160。
+- 当前已完成连续主线：001—161。
 - 下一篇主线：156《别了，司徒雷登》。
-- 主文章未来仍待落实：161—229，共 69 篇；160 已完成。
+- 主文章未来仍待落实：162—229，共 68 篇；161 已完成。
 - 附加“其它”编号条目：X230—X231，共 2 篇。
 - 本文件总行项目：112 篇。
 
@@ -79,7 +79,7 @@
 | 158 | 158 | 第四卷 第三次国内革命战争时期 | 69 | 《为什么要讨论白皮书》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490828.htm) | 已完成 |
 | 159 | 159 | 第四卷 第三次国内革命战争时期 | 70 | 《唯心历史观的破产》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490916.htm) | 已完成 |
 | 160 | 160 | 第五卷 社会主义革命和社会主义建设时期（一） | 1 | 《中国人民站起来了》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490921.htm) | 已完成 |
-| 161 | 161 | 第五卷 社会主义革命和社会主义建设时期（一） | 2 | 《中国人民大团结万岁》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930.htm) | 待落实 |
+| 161 | 161 | 第五卷 社会主义革命和社会主义建设时期（一） | 2 | 《中国人民大团结万岁》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930.htm) | 已完成 |
 | 162 | 162 | 第五卷 社会主义革命和社会主义建设时期（一） | 3 | 《人民英雄们永垂不朽》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930b.htm) | 待落实 |
 | 163 | 163 | 第五卷 社会主义革命和社会主义建设时期（一） | 4 | 《永远保持艰苦奋斗的作风》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19491026.htm) | 待落实 |
 | 164 | 164 | 第五卷 社会主义革命和社会主义建设时期（一） | 5 | 《征询对待富农策略问题的意见》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500312.htm) | 待落实 |

@@ -264,6 +264,7 @@ Purpose:
 - [182 集中优势兵力](judgement_and_decision/182-concentrate-force-one-goal-at-a-time.md)
 - [183 倾听反馈](judgement_and_decision/183-listen-to-real-feedback-do-not-ignore-it.md)
 - [184 别忽视少数](judgement_and_decision/184-do-not-ignore-the-minority-listen-to-them.md)
+- [185 精简五多](judgement_and_decision/185-simplify-cut-the-five-excesses.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

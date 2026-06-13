@@ -293,6 +293,7 @@ Purpose:
 - [182 一个sprint一个重点](iteration_and_delivery/182-one-sprint-one-focus.md)
 - [183 处理反馈](iteration_and_delivery/183-process-user-feedback-do-not-backlog-it.md)
 - [184 别忽视边缘用户](iteration_and_delivery/184-do-not-ignore-edge-users-accessibility.md)
+- [185 精简](iteration_and_delivery/185-simplify-cut-meetings-docs-overengineering.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

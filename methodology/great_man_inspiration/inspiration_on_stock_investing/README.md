@@ -118,4 +118,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—184 连续覆盖，下一篇为 185《解决“五多”问题》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—185 连续覆盖，下一篇为 186《对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评》。

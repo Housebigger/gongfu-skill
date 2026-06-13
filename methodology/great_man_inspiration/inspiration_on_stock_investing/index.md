@@ -174,6 +174,7 @@ Purpose:
 - [182 深研少数](research_and_thesis/182-deep-research-few-stocks-not-many.md)
 - [183 自己调研](research_and_thesis/183-do-your-own-research-do-not-rely-on-reports.md)
 - [184 关注反常信号](research_and_thesis/184-pay-attention-to-contrarian-signals.md)
+- [185 精简](research_and_thesis/185-simplify-fewer-stocks-fewer-trades-deeper-research.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

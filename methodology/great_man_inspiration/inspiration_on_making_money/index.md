@@ -231,6 +231,7 @@ Additional focus:
 - [182 一门手艺](execution_and_delivery/182-master-one-skill-at-a-time.md)
 - [183 倾听客户](execution_and_delivery/183-listen-to-customers-do-not-guess-needs.md)
 - [184 探索利基](execution_and_delivery/184-explore-niche-markets-do-not-follow-crowds.md)
+- [185 精简](execution_and_delivery/185-simplify-one-income-source-deep-focus.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

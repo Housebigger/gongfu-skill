@@ -306,6 +306,7 @@ Purpose:
 - [224 硬着头皮顶住](judgement_and_decision/224-bite-the-bullet-and-listen-to-criticism.md)
 - [225 又集中又民主](judgement_and_decision/225-both-centralization-and-democracy-in-life.md)
 - [226 有规划比没有好](judgement_and_decision/226-a-plan-is-better-than-no-plan.md)
+- [227 不怕被批评](judgement_and_decision/227-do-not-fear-being-criticized.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

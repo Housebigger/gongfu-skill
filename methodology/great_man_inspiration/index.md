@@ -991,6 +991,15 @@ Current contents:
 ### 225《一九五七年夏季的形势》(1957-07)
 
 ### 226《做革命的促进派》(1957-10-09)
+
+### 227《坚定地相信群众的大多数》(1957-10-13)
+- `inspiration_on_today_life/judgement_and_decision/227-do-not-fear-being-criticized.md`
+- `inspiration_on_software_development/iteration_and_delivery/227-new-challenges-need-new-methods.md`
+- `inspiration_on_running_a_company/strategy_and_execution/227-win-over-the-middle-to-reach-98-percent.md`
+- `inspiration_on_stock_investing/research_and_thesis/227-assess-risk-accurately-not-too-small-not-too-scary.md`
+- `inspiration_on_making_money/execution_and_delivery/227-openness-does-not-cause-chaos.md`
+- `inspiration_on_embedded_coding/engineering_strategy/227-good-tools-are-quick-to-learn.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/227-believe-in-the-majority-of-students.md`
 - `inspiration_on_today_life/judgement_and_decision/226-a-plan-is-better-than-no-plan.md`
 - `inspiration_on_software_development/iteration_and_delivery/226-find-the-right-form-and-things-get-easier.md`
 - `inspiration_on_running_a_company/strategy_and_execution/226-reform-boldly-thoroughly-resolutely.md`

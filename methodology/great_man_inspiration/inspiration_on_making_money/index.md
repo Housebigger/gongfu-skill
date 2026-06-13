@@ -273,6 +273,7 @@ Additional focus:
 - [224 逆境是八卦炉](execution_and_delivery/224-adversity-is-your-crucible.md)
 - [225 信任客户多数](execution_and_delivery/225-trust-the-majority-of-your-customers.md)
 - [226 三种积累才富裕](execution_and_delivery/226-three-layers-of-savings-make-you-rich.md)
+- [227 开放透明不会乱](execution_and_delivery/227-openness-does-not-cause-chaos.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

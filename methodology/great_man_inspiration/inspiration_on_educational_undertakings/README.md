@@ -129,4 +129,4 @@
 - `school_coordination_and_organization/111-schools-need-a-clear-education-program-and-differentiated-support-policy.md`
 - `school_coordination_and_organization/112-school-cooperation-needs-simple-discipline-that-protects-students-teachers-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—203 连续覆盖，下一篇为 204《农业合作化必须依靠党团员和贫农下中农》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—204 连续覆盖，下一篇为 205《农业合作化的一场辩论和当前的阶级斗争》。

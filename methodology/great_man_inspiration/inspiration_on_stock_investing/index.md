@@ -193,6 +193,7 @@ Purpose:
 - [201 矛盾不断市场前进](research_and_thesis/201-contradictions-keep-emerging-markets-advance.md)
 - [202 空头高估自己](research_and_thesis/202-bears-always-overestimate-themselves.md)
 - [203 少数对的方向成多数](research_and_thesis/203-minority-right-direction-becomes-majority.md)
+- [204 按基本面和态度分类](research_and_thesis/204-classify-by-fundamentals-and-attitude.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

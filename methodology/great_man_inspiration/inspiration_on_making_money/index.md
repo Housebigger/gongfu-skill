@@ -250,6 +250,7 @@ Additional focus:
 - [201 团结就是力量](execution_and_delivery/201-unity-is-strength.md)
 - [202 劣势时以攻为守](execution_and_delivery/202-counterattack-when-disadvantaged.md)
 - [203 珍惜微小积极性](execution_and_delivery/203-cherish-every-bit-of-momentum.md)
+- [204 培养5%核心人脉](execution_and_delivery/204-cultivate-your-core-five-percent.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

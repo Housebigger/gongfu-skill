@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 203（001—203 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1346 |
-| 顺序学习已连续覆盖范围 | 001—203 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—203 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—203 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 204（001—204 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1353 |
+| 顺序学习已连续覆盖范围 | 001—204 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—204 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—204 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—203 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—204 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—203 顺序主线已连续建立关联        [DONE]
+001—204 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -286,7 +286,8 @@
 200 《在中国共产党全国代表会议上的讲话》 [DONE: 7/7]
 201 《驳“舆论一律”》 [DONE: 7/7]
 202 《《关于胡风反革命集团的材料》的序言和按语》 [DONE: 7/7]
-203 《关于农业合作化问题》 [NEXT]
+203 《关于农业合作化问题》 [DONE: 7/7]
+204 《农业合作化必须依靠党团员和贫农下中农》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -509,6 +510,7 @@
 | 201 | 《驳“舆论一律”》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550524.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/201-two-voices-always-compete.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/201-rigorous-engineering-takes-effort.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/201-internal-debate-external-uniformity.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/201-contradictions-keep-emerging-markets-advance.md) | [MM](./inspiration_on_making_money/execution_and_delivery/201-unity-is-strength.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/201-persuasion-over-command.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/201-allow-academic-freedom-and-criticism.md) |
 | 202 | 《《关于胡风反革命集团的材料》的序言和按语》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195505.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/202-improve-discrimination-skills.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/202-clean-up-the-codebase-regularly.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/202-two-roads-reform-or-decline.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/202-bears-always-overestimate-themselves.md) | [MM](./inspiration_on_making_money/execution_and_delivery/202-counterattack-when-disadvantaged.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/202-do-not-neglect-quality-under-pressure.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/202-teach-judgment-not-just-knowledge.md) |
 | 203 | 《关于农业合作化问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550731.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/203-grow-through-action-not-fear.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/203-prepare-fully-before-starting.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/203-two-mistakes-in-success.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/203-minority-right-direction-becomes-majority.md) | [MM](./inspiration_on_making_money/execution_and_delivery/203-cherish-every-bit-of-momentum.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/203-leaders-must-stay-ahead.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/203-trust-students-and-teachers.md) |
+| 204 | 《农业合作化必须依靠党团员和贫农下中农》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550907.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/204-know-who-to-rely-on.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/204-rely-on-core-engineers-first.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/204-do-not-force-people-to-join.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/204-classify-by-fundamentals-and-attitude.md) | [MM](./inspiration_on_making_money/execution_and_delivery/204-cultivate-your-core-five-percent.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/204-core-engineers-must-hold-decision-power.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/204-teach-in-batches-by-readiness.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2769,6 +2771,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/203-cherish-every-bit-of-momentum.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/203-leaders-must-stay-ahead.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/203-trust-students-and-teachers.md`
+
+## 204 《农业合作化必须依靠党团员和贫农下中农》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550907.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/204-know-who-to-rely-on.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/204-rely-on-core-engineers-first.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/204-do-not-force-people-to-join.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/204-classify-by-fundamentals-and-attitude.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/204-cultivate-your-core-five-percent.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/204-core-engineers-must-hold-decision-power.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/204-teach-in-batches-by-readiness.md`
 
 ## 6. 使用建议
 

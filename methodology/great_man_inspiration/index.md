@@ -945,6 +945,15 @@ Current contents:
 ### 202《《关于胡风反革命集团的材料》的序言和按语》(1955-05)
 
 ### 203《关于农业合作化问题》(1955-07-31)
+
+### 204《农业合作化必须依靠党团员和贫农下中农》(1955-09-07)
+- `inspiration_on_today_life/judgement_and_decision/204-know-who-to-rely-on.md`
+- `inspiration_on_software_development/iteration_and_delivery/204-rely-on-core-engineers-first.md`
+- `inspiration_on_running_a_company/strategy_and_execution/204-do-not-force-people-to-join.md`
+- `inspiration_on_stock_investing/research_and_thesis/204-classify-by-fundamentals-and-attitude.md`
+- `inspiration_on_making_money/execution_and_delivery/204-cultivate-your-core-five-percent.md`
+- `inspiration_on_embedded_coding/engineering_strategy/204-core-engineers-must-hold-decision-power.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/204-teach-in-batches-by-readiness.md`
 - `inspiration_on_today_life/judgement_and_decision/203-grow-through-action-not-fear.md`
 - `inspiration_on_software_development/iteration_and_delivery/203-prepare-fully-before-starting.md`
 - `inspiration_on_running_a_company/strategy_and_execution/203-two-mistakes-in-success.md`

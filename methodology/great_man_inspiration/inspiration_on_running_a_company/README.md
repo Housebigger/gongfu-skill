@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—203 连续覆盖，下一篇为 204《农业合作化必须依靠党团员和贫农下中农》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—204 连续覆盖，下一篇为 205《农业合作化的一场辩论和当前的阶级斗争》。

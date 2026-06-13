@@ -262,6 +262,7 @@ Purpose:
 - [180 认清主要矛盾](judgement_and_decision/180-identify-your-main-problem-first.md)
 - [181 划清界限](judgement_and_decision/181-draw-clear-boundaries-know-who-is-with-you.md)
 - [182 集中优势兵力](judgement_and_decision/182-concentrate-force-one-goal-at-a-time.md)
+- [183 倾听反馈](judgement_and_decision/183-listen-to-real-feedback-do-not-ignore-it.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

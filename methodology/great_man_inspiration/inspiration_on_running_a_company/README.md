@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—182 连续覆盖，下一篇为 183《反对官僚主义、命令主义和违法乱纪》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—183 连续覆盖，下一篇为 184《批判大汉族主义》。

@@ -903,6 +903,15 @@ Current contents:
 ### 181《团结起来，划清敌我界限》(1952-08-04)
 
 ### 182《祝贺中国人民志愿军的重大胜利》(1952-10-24)
+
+### 183《反对官僚主义、命令主义和违法乱纪》(1953-01-05)
+- `inspiration_on_today_life/judgement_and_decision/183-listen-to-real-feedback-do-not-ignore-it.md`
+- `inspiration_on_software_development/iteration_and_delivery/183-process-user-feedback-do-not-backlog-it.md`
+- `inspiration_on_running_a_company/strategy_and_execution/183-listen-to-frontline-employees-and-customers.md`
+- `inspiration_on_stock_investing/research_and_thesis/183-do-your-own-research-do-not-rely-on-reports.md`
+- `inspiration_on_making_money/execution_and_delivery/183-listen-to-customers-do-not-guess-needs.md`
+- `inspiration_on_embedded_coding/engineering_strategy/183-listen-to-test-and-production-feedback.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/183-listen-to-students-and-parents.md`
 - `inspiration_on_today_life/judgement_and_decision/182-concentrate-force-one-goal-at-a-time.md`
 - `inspiration_on_software_development/iteration_and_delivery/182-one-sprint-one-focus.md`
 - `inspiration_on_running_a_company/strategy_and_execution/182-one-market-at-a-time.md`

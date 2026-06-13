@@ -229,6 +229,7 @@ Additional focus:
 - [180 找主要障碍](execution_and_delivery/180-find-the-main-barrier-to-earning.md)
 - [181 分类收入](execution_and_delivery/181-classify-income-core-side-loss.md)
 - [182 一门手艺](execution_and_delivery/182-master-one-skill-at-a-time.md)
+- [183 倾听客户](execution_and_delivery/183-listen-to-customers-do-not-guess-needs.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

@@ -172,6 +172,7 @@ Purpose:
 - [180 找关键因素](research_and_thesis/180-find-the-key-factor-ignore-the-noise.md)
 - [181 分类持仓](research_and_thesis/181-classify-holdings-core-speculative-junk.md)
 - [182 深研少数](research_and_thesis/182-deep-research-few-stocks-not-many.md)
+- [183 自己调研](research_and_thesis/183-do-your-own-research-do-not-rely-on-reports.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

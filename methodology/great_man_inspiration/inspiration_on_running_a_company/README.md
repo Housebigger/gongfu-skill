@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—196 连续覆盖，下一篇为 197《为建设一个伟大的社会主义国家而奋斗》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—197 连续覆盖，下一篇为 198《关于《红楼梦》研究问题的信》。

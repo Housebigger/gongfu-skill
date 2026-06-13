@@ -305,6 +305,7 @@ Purpose:
 - [194 议而决决而行](iteration_and_delivery/194-decide-and-execute-do-not-endlessly-discuss.md)
 - [195 主动占领阵地](iteration_and_delivery/195-seize-the-territory-be-proactive-in-architecture.md)
 - [196 领导加群众智慧](iteration_and_delivery/196-leadership-plus-crowd-wisdom-in-design.md)
+- [197 老老实实力戒虚夸](iteration_and_delivery/197-be-honest-work-hard-no-hype.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

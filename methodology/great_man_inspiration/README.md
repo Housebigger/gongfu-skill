@@ -16,18 +16,18 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 196（001—196 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1297 |
-| 顺序学习已连续覆盖范围 | 001—196 |
-| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—196 已按官网真实编号回正 |
-| 顺序覆盖是否连续 | 是：001—196 已连续覆盖 |
+| 当前已建立原文关联的毛文标题数 | 197（001—197 已连续覆盖） |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1304 |
+| 顺序学习已连续覆盖范围 | 001—197 |
+| 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—197 已按官网真实编号回正 |
+| 顺序覆盖是否连续 | 是：001—197 已连续覆盖 |
 | 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已完成编号纠偏与缺口补写：001—196 已按 marxists.org 官方真实顺序连续覆盖。
+- 当前顺序主线已完成编号纠偏与缺口补写：001—197 已按 marxists.org 官方真实顺序连续覆盖。
 - 官方 110—112《解放战争第二年的战略方针》《中国人民解放军宣言》《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》已补齐七主题；原错位 110—116 的七篇已回正为官网 113—119。
 
 ### 2.2 已覆盖毛泽东原文完整对照表
@@ -195,7 +195,7 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—196 顺序主线已连续建立关联        [DONE]
+001—197 顺序主线已连续建立关联        [DONE]
 110 《解放战争第二年的战略方针》 [DONE: 7/7]
 111 《中国人民解放军宣言》 [DONE: 7/7]
 112 《中国人民解放军总部关于重行颁布三大纪律八项注意的训令》 [DONE: 7/7]
@@ -279,7 +279,8 @@
 193 《抗美援朝的伟大胜利和今后的任务》 [DONE: 7/7]
 194 《批判梁漱溟的反动思想》 [DONE: 7/7]
 195 《关于农业互助合作的两次谈话》 [DONE: 7/7]
-196 《关于中华人民共和国宪法草案》 [NEXT]
+196 《关于中华人民共和国宪法草案》 [DONE: 7/7]
+197 《为建设一个伟大的社会主义国家而奋斗》 [NEXT]
 ```
 ## 3. 主题缩写图例
 
@@ -495,6 +496,7 @@
 | 194 | 《批判梁漱溟的反动思想》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530916.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/194-tail-cannot-be-hidden-true-vs-fake.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/194-decide-and-execute-do-not-endlessly-discuss.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/194-evaluate-by-contribution-not-self-promotion.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/194-distinguish-true-and-fake-signals.md) | [MM](./inspiration_on_making_money/execution_and_delivery/194-know-your-limits-do-not-show-off-before-experts.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/194-post-mortem-analysis-before-blame.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/194-teach-sincerity-not-two-facedness.md) |
 | 195 | 《关于农业互助合作的两次谈话》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19531015.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/195-grasp-the-main-thread-everything-follows.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/195-seize-the-territory-be-proactive-in-architecture.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/195-scale-plus-quality-plus-efficiency.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/195-be-realistic-match-goals-with-capacity.md) | [MM](./inspiration_on_making_money/execution_and_delivery/195-small-favors-cannot-solve-big-problems.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/195-feet-are-for-walking-move-forward.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/195-correct-without-harming-the-motivated.md) |
 | 196 | 《关于中华人民共和国宪法草案》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/196-principle-plus-flexibility.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/196-leadership-plus-crowd-wisdom-in-design.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/196-company-needs-a-fundamental-charter.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/196-learn-from-history-positive-and-negative.md) | [MM](./inspiration_on_making_money/execution_and_delivery/196-common-rules-plus-individual-adaptation.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/196-triage-feedback-into-three-categories.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/196-reform-gradually-only-write-what-you-can-do.md) |
+| 197 | 《为建设一个伟大的社会主义国家而奋斗》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540915.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/197-just-cause-is-unstoppable.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/197-be-honest-work-hard-no-hype.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/197-doing-what-no-one-has-done-before.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/197-learn-from-the-best-humbly.md) | [MM](./inspiration_on_making_money/execution_and_delivery/197-mutual-help-beats-going-solo.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/197-project-needs-core-leadership-and-standards.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/197-education-is-a-glorious-mission.md) |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
 ### 001《中国社会各阶级的分析》
@@ -2685,6 +2687,16 @@
   - MM: `inspiration_on_making_money/execution_and_delivery/196-common-rules-plus-individual-adaptation.md`
   - EC: `inspiration_on_embedded_coding/engineering_strategy/196-triage-feedback-into-three-categories.md`
   - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/196-reform-gradually-only-write-what-you-can-do.md`
+
+## 197 《为建设一个伟大的社会主义国家而奋斗》
+  - 原文：[marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540915.htm)
+  - TL: `inspiration_on_today_life/judgement_and_decision/197-just-cause-is-unstoppable.md`
+  - SD: `inspiration_on_software_development/iteration_and_delivery/197-be-honest-work-hard-no-hype.md`
+  - RC: `inspiration_on_running_a_company/strategy_and_execution/197-doing-what-no-one-has-done-before.md`
+  - SI: `inspiration_on_stock_investing/research_and_thesis/197-learn-from-the-best-humbly.md`
+  - MM: `inspiration_on_making_money/execution_and_delivery/197-mutual-help-beats-going-solo.md`
+  - EC: `inspiration_on_embedded_coding/engineering_strategy/197-project-needs-core-leadership-and-standards.md`
+  - ED: `inspiration_on_educational_undertakings/school_coordination_and_organization/197-education-is-a-glorious-mission.md`
 
 ## 6. 使用建议
 

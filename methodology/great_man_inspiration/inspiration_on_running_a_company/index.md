@@ -261,6 +261,7 @@ This folder focuses on:
 - [194 看实际贡献](strategy_and_execution/194-evaluate-by-contribution-not-self-promotion.md)
 - [195 数多质高成本低](strategy_and_execution/195-scale-plus-quality-plus-efficiency.md)
 - [196 总章程](strategy_and_execution/196-company-needs-a-fundamental-charter.md)
+- [197 前人没做过的事](strategy_and_execution/197-doing-what-no-one-has-done-before.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

@@ -128,4 +128,4 @@
 - `team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 - `team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—196 连续覆盖，下一篇为 197《为建设一个伟大的社会主义国家而奋斗》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—197 连续覆盖，下一篇为 198《关于《红楼梦》研究问题的信》。

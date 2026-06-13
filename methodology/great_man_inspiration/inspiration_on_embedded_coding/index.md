@@ -130,6 +130,7 @@ Focus:
 - [194 先复盘再追责](engineering_strategy/194-post-mortem-analysis-before-blame.md)
 - [195 脚是用来走路的](engineering_strategy/195-feet-are-for-walking-move-forward.md)
 - [196 意见分三类](engineering_strategy/196-triage-feedback-into-three-categories.md)
+- [197 核心和标准](engineering_strategy/197-project-needs-core-leadership-and-standards.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

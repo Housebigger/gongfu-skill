@@ -931,6 +931,15 @@ Current contents:
 ### 195《关于农业互助合作的两次谈话》(1953-10-15)
 
 ### 196《关于中华人民共和国宪法草案》(1954-06-14)
+
+### 197《为建设一个伟大的社会主义国家而奋斗》(1954-09-15)
+- `inspiration_on_today_life/judgement_and_decision/197-just-cause-is-unstoppable.md`
+- `inspiration_on_software_development/iteration_and_delivery/197-be-honest-work-hard-no-hype.md`
+- `inspiration_on_running_a_company/strategy_and_execution/197-doing-what-no-one-has-done-before.md`
+- `inspiration_on_stock_investing/research_and_thesis/197-learn-from-the-best-humbly.md`
+- `inspiration_on_making_money/execution_and_delivery/197-mutual-help-beats-going-solo.md`
+- `inspiration_on_embedded_coding/engineering_strategy/197-project-needs-core-leadership-and-standards.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/197-education-is-a-glorious-mission.md`
 - `inspiration_on_today_life/judgement_and_decision/196-principle-plus-flexibility.md`
 - `inspiration_on_software_development/iteration_and_delivery/196-leadership-plus-crowd-wisdom-in-design.md`
 - `inspiration_on_running_a_company/strategy_and_execution/196-company-needs-a-fundamental-charter.md`

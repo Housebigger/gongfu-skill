@@ -7,12 +7,14 @@
 ## 1. `experience_crystallization/`
 用来存放跨文章、跨任务、跨主题的经验结晶。
 
-当前实际保留：12 个 markdown 文件
+当前实际保留：13 个 markdown 文件
 - `excr001-mao-study-execution-wisdom.md`
 - `excr002-theme-summaries-index.md`
 - `101—108` 八个主题化经验汇总
 - `excr011-theme-summary-source-mapping.md`
 - `excr012-third-volume-final-victory-window-stage-summary.md`
+- `excr013-late-stage-governance-batch-production-and-verification.md`
+  - 第四、五卷后段与收尾阶段经验：治理框架升级、批量生产质量底线、连接性核验方法论
 
 适合在以下情况下进入：
 - 你不想先看单篇文章，而想直接看抽象出来的方法线

@@ -32,6 +32,11 @@
 - `excr012-third-volume-final-victory-window-stage-summary.md`
   - 收束第三卷后段从经济工作、生产自给、联合政府、反假协商到最后胜利窗口的组织方法
 
+### F. 后段与收尾经验文件
+- `excr013-late-stage-governance-batch-production-and-verification.md`
+  - 第四、五卷后段（107—229）的治理框架升级、批量生产质量底线、连接性核验方法论
+  - 记录"完成 ≠ 完好"的教训、连接性债务概念、全局核验清单、长期主义操作纪律
+
 ## 当前状态说明
 
 - 这个 `gongfu-skill` 仓库里，当前保留的是“已经可直接使用的稳定主题层”和阶段收束材料

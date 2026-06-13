@@ -112,4 +112,4 @@
 - `strategy_and_execution/111-company-turnarounds-need-a-public-program-and-differentiated-people-policy.md`
 - `organization_design/112-companies-need-simple-operating-discipline-that-protects-customers-and-public-gains.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—177 连续覆盖，下一篇为 178《元旦祝词》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—178 连续覆盖，下一篇为 179《中共中央关于西藏工作方针的指示》。

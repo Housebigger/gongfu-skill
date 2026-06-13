@@ -242,6 +242,7 @@ This folder focuses on:
 - [175 全员工心](strategy_and_execution/175-company-victory-comes-from-employee-unity.md)
 - [176 内部审计](strategy_and_execution/176-internal-audit-clean-up-corruption-and-waste.md)
 - [177 核心业务](strategy_and_execution/177-focus-on-core-business-treat-it-as-big-thing.md)
+- [178 年度盘点](strategy_and_execution/178-annual-review-celebrate-wins-plan-new-fronts.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

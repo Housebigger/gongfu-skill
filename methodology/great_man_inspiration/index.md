@@ -893,6 +893,15 @@ Current contents:
 ### 176《关于“三反”、“五反”的斗争》(1951-11~1952-03)
 
 ### 177《把农业互助合作当作一件大事去做》(1951-12-15)
+
+### 178《元旦祝词》(1952-01-01)
+- `inspiration_on_today_life/judgement_and_decision/178-annual-review-celebrate-wins-plan-new-fronts.md`
+- `inspiration_on_software_development/iteration_and_delivery/178-annual-review-celebrate-wins-plan-new-fronts.md`
+- `inspiration_on_running_a_company/strategy_and_execution/178-annual-review-celebrate-wins-plan-new-fronts.md`
+- `inspiration_on_stock_investing/research_and_thesis/178-annual-review-celebrate-wins-plan-new-fronts.md`
+- `inspiration_on_making_money/execution_and_delivery/178-annual-review-celebrate-wins-plan-new-fronts.md`
+- `inspiration_on_embedded_coding/engineering_strategy/178-annual-review-celebrate-wins-plan-new-fronts.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/178-annual-review-celebrate-wins-plan-new-fronts.md`
 - `inspiration_on_today_life/judgement_and_decision/177-treat-important-things-as-big-things.md`
 - `inspiration_on_software_development/iteration_and_delivery/177-focus-on-core-feature-treat-it-as-big-thing.md`
 - `inspiration_on_running_a_company/strategy_and_execution/177-focus-on-core-business-treat-it-as-big-thing.md`

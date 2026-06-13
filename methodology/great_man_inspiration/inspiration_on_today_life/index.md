@@ -257,6 +257,7 @@ Purpose:
 - [175 团结胜利](judgement_and_decision/175-victory-comes-from-unity-not-isolation.md)
 - [176 自我清理](judgement_and_decision/176-self-audit-clean-up-bad-habits-regularly.md)
 - [177 当大事做](judgement_and_decision/177-treat-important-things-as-big-things.md)
+- [178 年度盘点](judgement_and_decision/178-annual-review-celebrate-wins-plan-new-fronts.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

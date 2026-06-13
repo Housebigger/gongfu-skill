@@ -167,6 +167,7 @@ Purpose:
 - [175 圈子力量](research_and_thesis/175-investing-victory-comes-from-your-circle.md)
 - [176 投资审计](research_and_thesis/176-investment-audit-clean-up-bad-positions.md)
 - [177 深度研究](research_and_thesis/177-take-research-seriously-do-deep-dive.md)
+- [178 年度盘点](research_and_thesis/178-annual-review-celebrate-wins-plan-new-fronts.md)
 Purpose:
 - how investors test agreement announcements against execution power, hidden conflict, and dual-scenario valuation
 - how investors resist replacing reality analysis with big-power fear, war panic, and macro fatalism

@@ -118,4 +118,4 @@
 - `research_and_thesis/111-investment-thesis-needs-a-clear-program-and-differentiated-governance-map.md`
 - `risk_and_position_management/112-investors-need-simple-discipline-that-protects-capital-sources-and-research-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—178 连续覆盖，下一篇为 179《中共中央关于西藏工作方针的指示》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—179 连续覆盖，下一篇为 180《工人阶级与资产阶级的矛盾是国内的主要矛盾》。

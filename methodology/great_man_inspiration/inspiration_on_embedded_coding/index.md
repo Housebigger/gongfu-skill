@@ -112,6 +112,7 @@ Focus:
 - [176 BOM审计](engineering_strategy/176-bom-audit-clean-up-redundant-parts.md)
 - [177 可靠性](engineering_strategy/177-take-reliability-testing-seriously.md)
 - [178 年度盘点](engineering_strategy/178-annual-review-celebrate-wins-plan-new-fronts.md)
+- [179 别急投板](engineering_strategy/179-when-design-not-verified-delay-pcb.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

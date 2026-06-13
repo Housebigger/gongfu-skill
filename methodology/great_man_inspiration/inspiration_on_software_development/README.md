@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—178 连续覆盖，下一篇为 179《中共中央关于西藏工作方针的指示》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—179 连续覆盖，下一篇为 180《工人阶级与资产阶级的矛盾是国内的主要矛盾》。

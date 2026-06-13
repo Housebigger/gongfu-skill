@@ -287,6 +287,7 @@ Purpose:
 - [176 代码审计](iteration_and_delivery/176-code-audit-clean-up-tech-debt-regularly.md)
 - [177 核心功能](iteration_and_delivery/177-focus-on-core-feature-treat-it-as-big-thing.md)
 - [178 年度盘点](iteration_and_delivery/178-annual-review-celebrate-wins-plan-new-fronts.md)
+- [179 别赶发布](iteration_and_delivery/179-when-quality-not-ready-delay-release.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

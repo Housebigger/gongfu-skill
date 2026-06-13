@@ -895,6 +895,15 @@ Current contents:
 ### 177《把农业互助合作当作一件大事去做》(1951-12-15)
 
 ### 178《元旦祝词》(1952-01-01)
+
+### 179《中共中央关于西藏工作方针的指示》(1952-04-06)
+- `inspiration_on_today_life/judgement_and_decision/179-when-conditions-are-not-ready-wait-and-prepare.md`
+- `inspiration_on_software_development/iteration_and_delivery/179-when-quality-not-ready-delay-release.md`
+- `inspiration_on_running_a_company/strategy_and_execution/179-when-not-ready-delay-expansion.md`
+- `inspiration_on_stock_investing/research_and_thesis/179-when-signal-not-clear-do-not-buy.md`
+- `inspiration_on_making_money/execution_and_delivery/179-when-not-ready-delay-startup.md`
+- `inspiration_on_embedded_coding/engineering_strategy/179-when-design-not-verified-delay-pcb.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/179-when-conditions-not-ready-delay-reform.md`
 - `inspiration_on_today_life/judgement_and_decision/178-annual-review-celebrate-wins-plan-new-fronts.md`
 - `inspiration_on_software_development/iteration_and_delivery/178-annual-review-celebrate-wins-plan-new-fronts.md`
 - `inspiration_on_running_a_company/strategy_and_execution/178-annual-review-celebrate-wins-plan-new-fronts.md`

@@ -225,6 +225,7 @@ Additional focus:
 - [176 财务审计](execution_and_delivery/176-financial-audit-cut-useless-spending.md)
 - [177 精通一门](execution_and_delivery/177-master-one-skill-treat-it-as-big-thing.md)
 - [178 年度盘点](execution_and_delivery/178-annual-review-celebrate-wins-plan-new-fronts.md)
+- [179 别急创业](execution_and_delivery/179-when-not-ready-delay-startup.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

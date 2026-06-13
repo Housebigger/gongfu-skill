@@ -87,6 +87,8 @@ Important boundary:
 - `execution_and_delivery/082-side-hustle-turning-points-choose-the-bright-road-and-build-real-income-conditions.md`
 - `execution_and_delivery/083-side-hustle-cooperation-needs-common-program-delivery-alliance-and-correction.md`
 - `execution_and_delivery/084-side-hustle-mountains-move-through-persistent-delivery-and-real-support.md`
+- `execution_and_delivery/mao-044-localize-methods-not-copy.md`
+- `execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

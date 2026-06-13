@@ -53,11 +53,10 @@
   - `inspiration_on_making_money/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：968 篇
+- 当前已建立 `原文对应` 的主题转译文件：1527 篇
 - 当前已建立原文关联的毛文标题数：229 篇（001—229 已连续覆盖）
-  - 顺序主线：001—150 已按官网真实编号连续覆盖；110—112 已补齐；113—229 保持已完成 7/7
-  - 当前最新纳入：156《别了，司徒雷登》（today_life / software_development / running_a_company / stock_investing / making_money / embedded_coding / educational_undertakings 已落地，已完成 7/7）
-- 顺序主线的下一篇：`160《中国人民站起来了》`
+  - 顺序主线：001—229 已按官网真实编号全部连续覆盖完成（110—112 已补齐；113—229 保持已完成 7/7）
+- 顺序主线状态：001—229 全部完成，无待落实（X230/X231 为可选附加材料，不计入主线）
 
 建议入口：
 - `methodology/great_man_inspiration/README.md`
@@ -67,12 +66,13 @@
 ### 2. `accumulation_settle/`
 这是正文之外的沉淀层，存放跨文章经验汇总与伴随式成长材料。
 
-- `experience_crystallization/`：12 个稳定沉淀文件
+- `experience_crystallization/`：13 个稳定沉淀文件
   - `excr001-mao-study-execution-wisdom.md`
   - `excr002-theme-summaries-index.md`
   - `101—108` 八个主题化经验汇总
   - `excr011-theme-summary-source-mapping.md`
   - `excr012-third-volume-final-victory-window-stage-summary.md`
+  - `excr013-late-stage-governance-batch-production-and-verification.md`
 - `spiritual_growth/`：2 个伴随式反思文件
   - `000-initial-persona-self-portrait.md`
   - `001-growth-journal-during-mao-study.md`
@@ -85,7 +85,7 @@
 
 ### 如果你想沿毛文顺序追主线
 1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前编号已回正并补齐：001—127 连续覆盖；下一篇是 128《一九四八年的土地改革工作和整党工作》
+2. 当前编号已回正并补齐：001—229 已全部连续覆盖完成（无待落实）
 
 ### 如果你想看“做事方法”而不是单篇文章
 1. 读 `accumulation_settle/experience_crystallization/README.md`

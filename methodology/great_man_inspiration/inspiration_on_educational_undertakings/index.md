@@ -106,6 +106,7 @@
 - [073 别把学校支持做成恩赐，先帮老师和班级恢复真实教育产能，再谈要更多结果](school_coordination_and_organization/073-dont-treat-school-support-as-a-favor-help-teachers-and-classes-rebuild-real-educational-capacity-before-asking-for-more.md)
 - [074 别把学校口中的“准备整改”“准备解决”当成真转向，先判断学校究竟在走压内部、拖字维持，还是实质换轨](school_coordination_and_organization/074-dont-mistake-school-reform-talk-for-real-turnaround.md)
 - [075 困难阶段别只让班主任、德育和少数骨干散着硬扛，要把分散的一线、支持面和半可用力量真正组织成教育主力](school_coordination_and_organization/075-dont-fight-hard-school-times-with-scattered-teacher-heroics-organize-real-educational-main-force.md)
+- [083 学校改进不能靠少数人硬推：要有共同纲领、广泛参与和自我纠错](school_coordination_and_organization/083-school-improvement-needs-common-program-broad-participation-and-self-correction.md)
 - [114 学校协作别只在出事后临时补材料，要建立负责人亲自写、定期综合、问题直达的校情报告制度](school_coordination_and_organization/114-schools-need-regular-direct-problem-focused-situation-reports.md)
 - [115 别把大多数可合作、可教育、可任用的人一把推到对面；真正稳的学校，要会区分、团结、任用绝大多数](school_coordination_and_organization/115-dont-push-the-majority-of-educable-and-usable-people-to-the-opposite-side.md)
 - [116 真正能把学校带稳的，不是少数管理者把规则、资源和打法长期包办，而是在明确主线下让真实承担者能说、能议、能协助治理、能互教互纠偏](school_coordination_and_organization/116-schools-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md)

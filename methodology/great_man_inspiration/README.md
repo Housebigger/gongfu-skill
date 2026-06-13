@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—159 已连续对齐完成，下一篇为 160《中国人民解放军布告》。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已完成编号纠偏与缺口补写：001—229 已全部连续覆盖完成（无待落实）。
 - 119 之后的未来待落实原文队列已另建防错索引：`inspiration_on_today_life/indexes/000-future-mao-originals-implementation-index.md`，覆盖 144《在中国共产党第七届中央委员会第二次全体会议上的报告》至 X231《纪念巴黎公社的重要意义》。
 - `060《改造我们的学习》` 此前曾有 1 篇较早的非顺序拓展，现已补入顺序主线。
 
@@ -17,11 +17,11 @@
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
 | 当前已建立原文关联的毛文标题数 | 229（001—229 已连续覆盖） |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 1528 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 1527 |
 | 顺序学习已连续覆盖范围 | 001—229 |
 | 顺序覆盖段标题核对结果 | 001—150 与 marxists.org 标题一致；110—112 已补齐；113—229 已按官网真实编号回正 |
 | 顺序覆盖是否连续 | 是：001—229 已连续覆盖 |
-| 顺序主线的下一篇 | 157《为什么要讨论白皮书》 |
+| 顺序主线的下一篇 | 全部完成（001—229 已连续覆盖，无待落实） |
 
 ## 2. 与真实文章列表的比对结论
 
@@ -3086,6 +3086,6 @@
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 
-- 如果要从当前已纳入的最新官方编号继续向下推进，下一篇应是：`144《在中国共产党第七届中央委员会第二次全体会议上的报告》`。
+- 主线 001—229 已全部连续覆盖完成，无待落实；X230/X231 为可选附加材料，不计入主线。
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

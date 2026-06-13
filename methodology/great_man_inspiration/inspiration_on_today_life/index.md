@@ -241,6 +241,7 @@ Purpose:
 - [159 别怪命不好](judgement_and_decision/159-stop-blaming-fate-find-specific-causes.md)
 - [160 站起来](judgement_and_decision/160-stand-up-from-passive-to-active-control.md)
 - [161 团结一切力量](judgement_and_decision/161-unite-everyone-you-can-organize-your-life.md)
+- [162 别忘帮你的人](judgement_and_decision/162-remember-those-who-helped-you-gratitude-is-foundation.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

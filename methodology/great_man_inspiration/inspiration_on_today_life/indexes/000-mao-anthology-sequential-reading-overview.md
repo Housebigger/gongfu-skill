@@ -836,7 +836,7 @@
   - `../../inspiration_on_embedded_coding/engineering_strategy/160-from-reference-design-to-own-architecture.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/160-from-textbook-reading-to-independent-teaching.md`
 
-- 162《人民英雄们永垂不朽》
+- 161《中国人民大团结万岁》
   - `../judgement_and_decision/161-unite-everyone-you-can-organize-your-life.md`
   - `../../inspiration_on_software_development/iteration_and_delivery/161-cross-functional-unity-break-down-silos.md`
   - `../../inspiration_on_running_a_company/strategy_and_execution/161-align-the-whole-company-under-one-goal.md`
@@ -844,6 +844,15 @@
   - `../../inspiration_on_making_money/execution_and_delivery/161-multiple-income-streams-unite-your-earnings.md`
   - `../../inspiration_on_embedded_coding/engineering_strategy/161-hardware-software-co-design-unite-the-teams.md`
   - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/161-unite-parents-and-teachers-same-trench.md`
+
+- 163《永远保持艰苦奋斗的作风》
+  - `../judgement_and_decision/162-remember-those-who-helped-you-gratitude-is-foundation.md`
+  - `../../inspiration_on_software_development/iteration_and_delivery/162-remember-open-source-contributors-give-back.md`
+  - `../../inspiration_on_running_a_company/strategy_and_execution/162-remember-early-team-members-they-are-the-foundation.md`
+  - `../../inspiration_on_stock_investing/research_and_thesis/162-remember-your-losses-every-trade-is-tuition.md`
+  - `../../inspiration_on_making_money/execution_and_delivery/162-remember-every-pitfall-each-one-builds-your-moat.md`
+  - `../../inspiration_on_embedded_coding/engineering_strategy/162-remember-every-hardware-bug-build-a-knowledge-base.md`
+  - `../../inspiration_on_educational_undertakings/school_coordination_and_organization/162-remember-education-pioneers-stand-on-their-shoulders.md`
   - 本轮已完成七个角度：该文把"只有两条路没有第三条（要么跟旧势力一起灭亡要么跟新势力站在一起），对方阵营分三部分人（死硬派/想改但不敢/想两头讨好），行动比空话重要，时间不等人，两个选择都有代价但代价不同，核心问题不解决表面修补没用（庆父不死鲁难未已）"转译为普通人、技术团队、公司经营者、投资者、副业经营者、嵌入式团队和教育工作者的二选一决策方法论，核心理念是不做选择就是最差的选择——骑墙=幻想。
 
 - 126《再克洛阳后给洛阳前线指挥部的电报》

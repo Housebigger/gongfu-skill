@@ -785,6 +785,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/161-hardware-software-co-design-unite-the-teams.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/161-unite-parents-and-teachers-same-trench.md`
 
+### 162《人民英雄们永垂不朽》(1949-09-30)
+- `inspiration_on_today_life/judgement_and_decision/162-remember-those-who-helped-you-gratitude-is-foundation.md`
+- `inspiration_on_software_development/iteration_and_delivery/162-remember-open-source-contributors-give-back.md`
+- `inspiration_on_running_a_company/strategy_and_execution/162-remember-early-team-members-they-are-the-foundation.md`
+- `inspiration_on_stock_investing/research_and_thesis/162-remember-your-losses-every-trade-is-tuition.md`
+- `inspiration_on_making_money/execution_and_delivery/162-remember-every-pitfall-each-one-builds-your-moat.md`
+- `inspiration_on_embedded_coding/engineering_strategy/162-remember-every-hardware-bug-build-a-knowledge-base.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/162-remember-education-pioneers-stand-on-their-shoulders.md`
+
 
 ## Naming convention
 

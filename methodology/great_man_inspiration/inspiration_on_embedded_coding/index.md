@@ -95,6 +95,7 @@ Focus:
 - [159 别怪芯片不行](engineering_strategy/159-stop-blaming-hardware-optimize-within-constraints.md)
 - [160 从参考设计到自主架构](engineering_strategy/160-from-reference-design-to-own-architecture.md)
 - [161 软硬件协同](engineering_strategy/161-hardware-software-co-design-unite-the-teams.md)
+- [162 别忘硬件坑](engineering_strategy/162-remember-every-hardware-bug-build-a-knowledge-base.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

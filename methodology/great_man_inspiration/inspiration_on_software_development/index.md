@@ -270,6 +270,7 @@ Purpose:
 - [159 别怪需求变了](iteration_and_delivery/159-stop-blaming-requirements-find-root-causes.md)
 - [160 从demo到产品](iteration_and_delivery/160-ship-it-from-demo-to-real-product.md)
 - [161 跨职能团结](iteration_and_delivery/161-cross-functional-unity-break-down-silos.md)
+- [162 别忘开源贡献者](iteration_and_delivery/162-remember-open-source-contributors-give-back.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

@@ -226,6 +226,7 @@ This folder focuses on:
 - [159 别怪市场不好](strategy_and_execution/159-stop-blaming-the-market-find-what-you-did-wrong.md)
 - [160 从外包到自主品牌](strategy_and_execution/160-from-outsourcing-to-own-brand-stand-up.md)
 - [161 全公司一个目标](strategy_and_execution/161-align-the-whole-company-under-one-goal.md)
+- [162 别忘老员工](strategy_and_execution/162-remember-early-team-members-they-are-the-foundation.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

@@ -289,6 +289,7 @@ Purpose:
 - [178 年度盘点](iteration_and_delivery/178-annual-review-celebrate-wins-plan-new-fronts.md)
 - [179 别赶发布](iteration_and_delivery/179-when-quality-not-ready-delay-release.md)
 - [180 找瓶颈](iteration_and_delivery/180-find-the-bottleneck-optimize-only-that.md)
+- [181 分类依赖](iteration_and_delivery/181-classify-dependencies-core-optional-harmful.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

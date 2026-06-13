@@ -114,6 +114,7 @@ Focus:
 - [178 年度盘点](engineering_strategy/178-annual-review-celebrate-wins-plan-new-fronts.md)
 - [179 别急投板](engineering_strategy/179-when-design-not-verified-delay-pcb.md)
 - [180 找关键路径](engineering_strategy/180-find-the-critical-path-optimize-only-that.md)
+- [181 分类模块](engineering_strategy/181-classify-modules-core-replaceable-buggy.md)
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`

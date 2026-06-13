@@ -245,6 +245,7 @@ This folder focuses on:
 - [178 年度盘点](strategy_and_execution/178-annual-review-celebrate-wins-plan-new-fronts.md)
 - [179 别急扩张](strategy_and_execution/179-when-not-ready-delay-expansion.md)
 - [180 认清主要矛盾](strategy_and_execution/180-identify-the-main-problem-of-your-company.md)
+- [181 分类员工](strategy_and_execution/181-classify-employees-core-developable-harmful.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

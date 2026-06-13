@@ -899,6 +899,15 @@ Current contents:
 ### 179《中共中央关于西藏工作方针的指示》(1952-04-06)
 
 ### 180《工人阶级与资产阶级的矛盾是国内的主要矛盾》(1952-06-06)
+
+### 181《团结起来，划清敌我界限》(1952-08-04)
+- `inspiration_on_today_life/judgement_and_decision/181-draw-clear-boundaries-know-who-is-with-you.md`
+- `inspiration_on_software_development/iteration_and_delivery/181-classify-dependencies-core-optional-harmful.md`
+- `inspiration_on_running_a_company/strategy_and_execution/181-classify-employees-core-developable-harmful.md`
+- `inspiration_on_stock_investing/research_and_thesis/181-classify-holdings-core-speculative-junk.md`
+- `inspiration_on_making_money/execution_and_delivery/181-classify-income-core-side-loss.md`
+- `inspiration_on_embedded_coding/engineering_strategy/181-classify-modules-core-replaceable-buggy.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/181-classify-courses-core-supplementary-outdated.md`
 - `inspiration_on_today_life/judgement_and_decision/180-identify-your-main-problem-first.md`
 - `inspiration_on_software_development/iteration_and_delivery/180-find-the-bottleneck-optimize-only-that.md`
 - `inspiration_on_running_a_company/strategy_and_execution/180-identify-the-main-problem-of-your-company.md`

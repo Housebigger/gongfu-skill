@@ -947,6 +947,15 @@ Current contents:
 ### 203《关于农业合作化问题》(1955-07-31)
 
 ### 204《农业合作化必须依靠党团员和贫农下中农》(1955-09-07)
+
+### 205《农业合作化的一场辩论和当前的阶级斗争》(1955-10-11)
+- `inspiration_on_today_life/judgement_and_decision/205-debate-to-break-superstitions.md`
+- `inspiration_on_software_development/iteration_and_delivery/205-big-development-not-self-limiting.md`
+- `inspiration_on_running_a_company/strategy_and_execution/205-distinguish-primary-from-temporary-alliances.md`
+- `inspiration_on_stock_investing/research_and_thesis/205-do-not-falsely-accuse-good-companies.md`
+- `inspiration_on_making_money/execution_and_delivery/205-do-not-cling-to-outdated-models.md`
+- `inspiration_on_embedded_coding/engineering_strategy/205-trust-frontline-engineer-inventions.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/205-comprehensive-planning-for-education.md`
 - `inspiration_on_today_life/judgement_and_decision/204-know-who-to-rely-on.md`
 - `inspiration_on_software_development/iteration_and_delivery/204-rely-on-core-engineers-first.md`
 - `inspiration_on_running_a_company/strategy_and_execution/204-do-not-force-people-to-join.md`

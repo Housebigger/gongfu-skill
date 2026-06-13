@@ -130,4 +130,4 @@
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—204 连续覆盖，下一篇为 205《农业合作化的一场辩论和当前的阶级斗争》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—205 连续覆盖，下一篇为 206《《中国农村的社会主义高潮》的序言》。

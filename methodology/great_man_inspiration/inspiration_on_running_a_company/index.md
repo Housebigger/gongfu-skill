@@ -269,6 +269,7 @@ This folder focuses on:
 - [202 改正或堕落](strategy_and_execution/202-two-roads-reform-or-decline.md)
 - [203 胜利时两种错误](strategy_and_execution/203-two-mistakes-in-success.md)
 - [204 不要勉强拉人](strategy_and_execution/204-do-not-force-people-to-join.md)
+- [205 分清主要和暂时联盟](strategy_and_execution/205-distinguish-primary-from-temporary-alliances.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

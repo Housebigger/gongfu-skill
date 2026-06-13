@@ -977,6 +977,15 @@ Current contents:
 ### 218《在全国宣传工作会议上的讲话》(1957-03-12)
 
 ### 219《坚持艰苦奋斗，密切联系群众》(1957-03)
+
+### 220《事情正在起变化》(1957-05-15)
+- `inspiration_on_today_life/judgement_and_decision/220-extremes-reverse-let-things-reach-their-peak.md`
+- `inspiration_on_software_development/iteration_and_delivery/220-weeds-and-flowers-grow-together.md`
+- `inspiration_on_running_a_company/strategy_and_execution/220-unity-through-struggle-not-avoidance.md`
+- `inspiration_on_stock_investing/research_and_thesis/220-the-swing-voters-decide-the-market.md`
+- `inspiration_on_making_money/execution_and_delivery/220-competition-is-universal-embrace-it.md`
+- `inspiration_on_embedded_coding/engineering_strategy/220-distinguish-good-faith-from-bad-faith-criticism.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/220-understand-the-motive-behind-criticism.md`
 - `inspiration_on_today_life/judgement_and_decision/219-rely-on-correctness-not-seniority.md`
 - `inspiration_on_software_development/iteration_and_delivery/219-keep-that-fighting-spirit-in-stable-times.md`
 - `inspiration_on_running_a_company/strategy_and_execution/219-do-not-fight-over-personal-gain.md`

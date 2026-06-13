@@ -284,6 +284,7 @@ This folder focuses on:
 - [217 分清敌我和是非](strategy_and_execution/217-distinguish-enemy-from-internal-disputes.md)
 - [218 新制度需要巩固时间](strategy_and_execution/218-new-systems-need-time-to-consolidate.md)
 - [219 别为个人利益斤斤计较](strategy_and_execution/219-do-not-fight-over-personal-gain.md)
+- [220 以斗争达团结](strategy_and_execution/220-unity-through-struggle-not-avoidance.md)
 - `organization_design/124-build-company-order-from-real-conditions-feedback-and-production-not-subjective-campaigns.md`
 
 ## 110—112 官方缺口补写导航

@@ -268,6 +268,7 @@ Purpose:
 - [157 免费工具还是锁定](iteration_and_delivery/157-free-tool-or-vendor-lock-in-check-the-exit.md)
 - [158 无指责事后复盘](iteration_and_delivery/158-blameless-postmortems-turn-incidents-into-education.md)
 - [159 别怪需求变了](iteration_and_delivery/159-stop-blaming-requirements-find-root-causes.md)
+- [160 从demo到产品](iteration_and_delivery/160-ship-it-from-demo-to-real-product.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

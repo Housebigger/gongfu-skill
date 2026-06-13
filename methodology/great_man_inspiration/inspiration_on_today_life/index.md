@@ -239,6 +239,7 @@ Purpose:
 - [157 友谊还是控制](judgement_and_decision/157-friendship-or-control-look-at-actions-not-words.md)
 - [158 公开讨论失败](judgement_and_decision/158-discuss-failures-openly-it-is-the-best-education.md)
 - [159 别怪命不好](judgement_and_decision/159-stop-blaming-fate-find-specific-causes.md)
+- [160 站起来](judgement_and_decision/160-stand-up-from-passive-to-active-control.md)
 
 Purpose:
 - how ordinary people distinguish bright and dark future paths at major turning points and build the conditions for a better destiny

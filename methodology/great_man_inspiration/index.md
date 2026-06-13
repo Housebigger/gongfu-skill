@@ -767,6 +767,15 @@ Current contents:
 - `inspiration_on_embedded_coding/engineering_strategy/159-stop-blaming-hardware-optimize-within-constraints.md`
 - `inspiration_on_educational_undertakings/school_coordination_and_organization/159-stop-blaming-students-improve-your-teaching.md`
 
+### 160《中国人民站起来了》(1949-09-21)
+- `inspiration_on_today_life/judgement_and_decision/160-stand-up-from-passive-to-active-control.md`
+- `inspiration_on_software_development/iteration_and_delivery/160-ship-it-from-demo-to-real-product.md`
+- `inspiration_on_running_a_company/strategy_and_execution/160-from-outsourcing-to-own-brand-stand-up.md`
+- `inspiration_on_stock_investing/research_and_thesis/160-from-following-signals-to-independent-judgment.md`
+- `inspiration_on_making_money/execution_and_delivery/160-from-employee-to-independent-earner.md`
+- `inspiration_on_embedded_coding/engineering_strategy/160-from-reference-design-to-own-architecture.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/160-from-textbook-reading-to-independent-teaching.md`
+
 
 ## Naming convention
 

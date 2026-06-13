@@ -206,6 +206,7 @@ Additional focus:
 - [157 免费培训还是获客](execution_and_delivery/157-free-training-or-customer-acquisition-know-the-model.md)
 - [158 复盘失败再转向](execution_and_delivery/158-review-failed-projects-before-pivoting.md)
 - [159 别怪没资源](execution_and_delivery/159-stop-blaming-lack-of-resources-maximize-what-you-have.md)
+- [160 从打工到独立赚钱](execution_and_delivery/160-from-employee-to-independent-earner.md)
 
 ## 110—112 官方缺口补写导航
 - `execution_and_delivery/110-when-side-hustle-enters-second-stage-move-from-survival-defense-to-real-demand-battlefields.md`

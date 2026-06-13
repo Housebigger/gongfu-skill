@@ -993,6 +993,15 @@ Current contents:
 ### 226《做革命的促进派》(1957-10-09)
 
 ### 227《坚定地相信群众的大多数》(1957-10-13)
+
+### 228《党内团结的辩证方法》(1957-11-18)
+- `inspiration_on_today_life/judgement_and_decision/228-a-hero-needs-three-helpers.md`
+- `inspiration_on_software_development/iteration_and_delivery/228-criticize-then-help-dialectical-code-review.md`
+- `inspiration_on_running_a_company/strategy_and_execution/228-principle-and-flexibility-as-unity-of-opposites.md`
+- `inspiration_on_stock_investing/research_and_thesis/228-the-art-of-compromise-in-investing.md`
+- `inspiration_on_making_money/execution_and_delivery/228-failure-is-normal-keep-going.md`
+- `inspiration_on_embedded_coding/engineering_strategy/228-unity-of-opposites-in-engineering-tradeoffs.md`
+- `inspiration_on_educational_undertakings/school_coordination_and_organization/228-dialectics-should-reach-the-people.md`
 - `inspiration_on_today_life/judgement_and_decision/227-do-not-fear-being-criticized.md`
 - `inspiration_on_software_development/iteration_and_delivery/227-new-challenges-need-new-methods.md`
 - `inspiration_on_running_a_company/strategy_and_execution/227-win-over-the-middle-to-reach-98-percent.md`

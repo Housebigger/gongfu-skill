@@ -336,6 +336,7 @@ Purpose:
 - [225 实事求是用户路线](iteration_and_delivery/225-seek-truth-from-facts-and-user-line.md)
 - [226 找到适合的形式](iteration_and_delivery/226-find-the-right-form-and-things-get-easier.md)
 - [227 新挑战新方法](iteration_and_delivery/227-new-challenges-need-new-methods.md)
+- [228 一曰斗二曰帮](iteration_and_delivery/228-criticize-then-help-dialectical-code-review.md)
 ### indexes
 Reserved for future series indexes and overview notes.
 

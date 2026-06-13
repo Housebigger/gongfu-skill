@@ -285,4 +285,4 @@ Future notes in this theme should go directly into the appropriate subfolder wit
 - `team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
 - `team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—134 连续覆盖，下一篇为 137《在中国中国共产党第七届中央委员会第二次全体会议上的报告》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—229 全部完成（连续覆盖，无待落实）。

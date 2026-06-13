@@ -359,4 +359,4 @@ Future article-by-article life notes should be filed by practical use:
 - `cooperation_and_organization/111-when-life-enters-a-public-stage-state-your-program-and-distinguish-real-allies.md`
 - `cooperation_and_organization/112-big-life-cooperation-needs-simple-discipline-that-protects-trust.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—155 连续覆盖，下一篇为 157《为什么要讨论白皮书》。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—229 全部完成（连续覆盖，无待落实）。

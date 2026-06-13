@@ -1,4 +1,4 @@
-# 未来待落实原文总索引：157《中国人民解放军总部发言人为英国军舰暴行发表的声明》— X231《纪念巴黎公社的重要意义》
+# 原文索引总表（001—229 主文章已全部完成；X230/X231 为补充条目）
 
 生成日期：2026-05-23
 
@@ -30,8 +30,8 @@
 
 | 段落 | 官方 anchor | 本文件防错范围 | 主线范围 | 数量 | 说明 |
 |---|---:|---:|---:|---:|---|
-| 第四卷 第三次国内革命战争时期 | 4 | 128—159 | 128—159 | 32 | 主线未来待落实 |
-| 第五卷 社会主义革命和社会主义建设时期（一） | 5 | 160—229 | 160—229 | 70 | 主线未来待落实 |
+| 第四卷 第三次国内革命战争时期 | 4 | 128—159 | 128—159 | 32 | 主线未来已完成|
+| 第五卷 社会主义革命和社会主义建设时期（一） | 5 | 160—229 | 160—229 | 70 | 主线未来已完成|
 | 其它 | 6 | X230—X231 | — | 2 | 附加材料；不得自动并入主线 |
 
 ## 2. 未来待落实原文清单
@@ -131,12 +131,12 @@
 | 210 | 210 | 第五卷 社会主义革命和社会主义建设时期（一） | 51 | 《论十大关系》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm) | 已完成 |
 | 211 | 211 | 第五卷 社会主义革命和社会主义建设时期（一） | 52 | 《美帝国主义是纸老虎》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560714.htm) | 已完成 |
 | 212 | 212 | 第五卷 社会主义革命和社会主义建设时期（一） | 53 | 《增强党的团结，继承党的传统》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560830.htm) | 已完成 |
-| 213 | 213 | 第五卷 社会主义革命和社会主义建设时期（一） | 54 | 《我们党的—些历史经验》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195600925.htm) | 待落实 |
+| 213 | 213 | 第五卷 社会主义革命和社会主义建设时期（一） | 54 | 《我们党的—些历史经验》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195600925.htm) | 已完成|
 | 214 | 214 | 第五卷 社会主义革命和社会主义建设时期（一） | 55 | 《纪念孙中山先生》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561112.htm) | 已完成 |
-| 215 | 215 | 第五卷 社会主义革命和社会主义建设时期（一） | 56 | 《在中国共产党第八届中央委员会第二次全体会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561115.htm) | 待落实 |
+| 215 | 215 | 第五卷 社会主义革命和社会主义建设时期（一） | 56 | 《在中国共产党第八届中央委员会第二次全体会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561115.htm) | 已完成|
 | 216 | 216 | 第五卷 社会主义革命和社会主义建设时期（一） | 57 | 《在省市自治区党委书记会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm) | 已完成 |
-| 217 | 217 | 第五卷 社会主义革命和社会主义建设时期（一） | 58 | 《关于正确处理人民内部矛盾的问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm) | 待落实；官网附注：讲话稿 按此 |
-| 218 | 218 | 第五卷 社会主义革命和社会主义建设时期（一） | 59 | 《在中国共产党全国宣传工作会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570312.htm) | 待落实 |
+| 217 | 217 | 第五卷 社会主义革命和社会主义建设时期（一） | 58 | 《关于正确处理人民内部矛盾的问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm) | 已完成|
+| 218 | 218 | 第五卷 社会主义革命和社会主义建设时期（一） | 59 | 《在中国共产党全国宣传工作会议上的讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570312.htm) | 已完成 |
 | 219 | 219 | 第五卷 社会主义革命和社会主义建设时期（一） | 60 | 《坚持艰苦奋斗，密切联系群众》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm) | 已完成 |
 | 220 | 220 | 第五卷 社会主义革命和社会主义建设时期（一） | 61 | 《事情正在起变化》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570515.htm) | 已完成 |
 | 221 | 221 | 第五卷 社会主义革命和社会主义建设时期（一） | 62 | 《中国共产党是全中国人民的领导核心》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570525.htm) | 已完成 |
@@ -147,7 +147,7 @@
 | 226 | 226 | 第五卷 社会主义革命和社会主义建设时期（一） | 67 | 《做革命的促进派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm) | 已完成 |
 | 227 | 227 | 第五卷 社会主义革命和社会主义建设时期（一） | 68 | 《坚定地相信群众的大多数》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571013.htm) | 已完成 |
 | 228 | 228 | 第五卷 社会主义革命和社会主义建设时期（一） | 69 | 《党内团结的辩证方法》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118.htm) | 已完成 |
-| 229 | 229 | 第五卷 社会主义革命和社会主义建设时期（一） | 70 | 《一切反动派都是纸老虎》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118a.htm) | 待落实 |
+| 229 | 229 | 第五卷 社会主义革命和社会主义建设时期（一） | 70 | 《一切反动派都是纸老虎》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118a.htm) | 已完成 |
 | X230 | — | 其它 | 71 | 《对中央文革小组讲话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19670109.htm) | 待落实；官网附注：（一九六七年一月九日）；其它编号条目，不计入 229 篇主文章连续覆盖 |
 | X231 | — | 其它 | 72 | 《纪念巴黎公社的重要意义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm) | 待落实；官网附注：（一九二六年三月十八日）；其它编号条目，不计入 229 篇主文章连续覆盖 |
 

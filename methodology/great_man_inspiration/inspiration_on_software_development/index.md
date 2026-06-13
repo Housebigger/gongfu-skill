@@ -355,4 +355,4 @@ When a future note mainly serves app development, mini program development, or g
 - `team_process_and_quality/111-software-teams-need-a-clear-public-program-and-differentiated-treatment-policy.md`
 - `team_process_and_quality/112-software-teams-need-simple-release-discipline-that-protects-users-and-builders.md`
 
-说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—131 连续覆盖，下一篇为 132。
+说明：官方 110—112 已按本主题完成补写；顺序主线推进为 001—229 全部完成（连续覆盖，无待落实） 连续覆盖，下一篇为 132。

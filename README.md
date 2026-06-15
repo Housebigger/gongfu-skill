@@ -151,6 +151,11 @@
 ### 如果你想看第三阶段（技能共富）准备怎么做
 1. 读 `PHASE3-ROADMAP.md`（从知识仓库到技能共富的路线图）
 
+### 如果你想调用专业判断 skill
+1. 读 `skills/README.md`（已有 skill 清单 + 组合示例）
+2. 进入具体 skill 目录读 `SKILL.md`（industry-scan / startup-feasibility / problem-diagnosis）
+3. 读 `skills/00-skill设计规范.md` 了解如何制作新 skill
+
 ## 维护原则
 
 - 目录导航以每层 `README.md` 为准

@@ -88,9 +88,10 @@
 - `growth_path/`：个人成长地图层——四种起点画像（应届生/产线工人/转行者/县域劳动者）+ 学习地图三层结构——解决「站在我现在的人生位置该怎么走」
 - `new_value/`：新蛋糕机会地图层——十大确定性增量赛道 + 新蛋糕三种类型——解决「2026—2030 年机会在哪」
 - `regional/`：地域 × 产业层——五大区域（三大动力源/新兴增长极/战略腹地西部/东北/县域乡村）的地域 × 机会矩阵——解决「同一个机会在不同地方有什么不同、你应该往哪里去」
+- `perspective/`：前瞻见解层——六大中长期主题（AI 长波冲击/人口巨变/能源转型/机器人/出海/技能即服务）的前瞻判断——解决「5—10 年后这个行业会怎样、大趋势往哪走」
 - `STRATEGY-ROADMAP.md`：strategy 层扩展规划路线图（meta 文档，定义各子层定位与关系）
 
-阅读建议：先读 `strategy/STRATEGY-ROADMAP.md` 了解全貌，再按「analysis → worker_guidance → new_value → entrepreneurship → collaboration → growth_path → regional」的顺序进入。
+阅读建议：先读 `strategy/STRATEGY-ROADMAP.md` 了解全貌，再按「analysis → worker_guidance → new_value → entrepreneurship → collaboration → growth_path → regional → perspective」的顺序进入。
 
 ## 推荐阅读路径
 
@@ -142,6 +143,13 @@
 ### 如果你想看不同地方的机会有什么不同
 1. 读 `strategy/regional/README.md`（含地域 × 机会总矩阵）
 2. 按自己所在/想去的区域读对应篇章（三大动力源/新兴增长极/战略腹地西部/东北/县域乡村）
+
+### 如果你想看 5—10 年后各行业会怎样
+1. 读 `strategy/perspective/README.md`（含六大前瞻主题速查）
+2. 按感兴趣的主题读对应篇章（AI 长波冲击/人口巨变/能源转型/机器人/出海/技能即服务）
+
+### 如果你想看第三阶段（技能共富）准备怎么做
+1. 读 `PHASE3-ROADMAP.md`（从知识仓库到技能共富的路线图）
 
 ## 维护原则
 

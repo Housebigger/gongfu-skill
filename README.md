@@ -52,10 +52,17 @@
 curl -fsSL https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/install.sh | bash
 ```
 
+**Windows（PowerShell）：**
+
+```powershell
+iwr -useb https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/install.ps1 | iex
+```
+
 **已经 clone 了仓库？** 直接运行：
 
 ```bash
-./install.sh
+./install.sh        # macOS / Linux
+.\install.ps1       # Windows PowerShell
 ```
 
 脚本会自动完成克隆/更新、链接插件、启用插件。新开一个 Hermes 会话即可使用。

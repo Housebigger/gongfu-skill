@@ -40,122 +40,94 @@
 
 生而无产，立身以勤；生逢时代，守心以正。我辈劳动者当觉醒本心、自立自强，不甘平庸、不愿受制，以奋斗守护尊严，以实干构筑梦想，众志成城齐心捍卫人人共建、人人共享、人人共富的美好未来。起来，不愿做奴隶的人们。
 
-## 当前仓库实际包含什么
+## Quick Start：安装和使用共富参谋插件
 
-### 1. `methodology/great_man_inspiration/`
-这是仓库当前最主要的正文区。
+共富参谋（gongfu-advisor）是一个 Hermes Agent 插件，把本仓库 1800+ 文件里的行业判断、创业方法、成长规划、协作逻辑和趋势前瞻，蒸馏成一个简约接口——你只需要用大白话描述你的情况，它自动给出看得懂、用得上的判断。
 
-- 7 个主题目录：
-  - `inspiration_on_today_life/`
-  - `inspiration_on_software_development/`
-  - `inspiration_on_running_a_company/`
-  - `inspiration_on_stock_investing/`
-  - `inspiration_on_making_money/`
-  - `inspiration_on_embedded_coding/`
-  - `inspiration_on_educational_undertakings/`
-- 当前已建立 `原文对应` 的主题转译文件：1527 篇
-- 当前已建立原文关联的毛文标题数：229 篇（001—229 已连续覆盖）
-  - 顺序主线：001—229 已按官网真实编号全部连续覆盖完成（110—112 已补齐；113—229 保持已完成 7/7）
-- 顺序主线状态：001—229 全部完成，无待落实（X230/X231 为可选附加材料，不计入主线）
+### 前提条件
 
-建议入口：
-- `methodology/great_man_inspiration/README.md`
-- 各主题目录下自己的 `README.md`
-- `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
+- 已安装 [Hermes Agent](https://hermes-agent.nousresearch.com/)（`hermes --version` 能跑就行）
 
-### 2. `accumulation_settle/`
-这是正文之外的沉淀层，存放跨文章经验汇总与伴随式成长材料。
+### 三步安装
 
-- `experience_crystallization/`：13 个稳定沉淀文件
-  - `excr001-mao-study-execution-wisdom.md`
-  - `excr002-theme-summaries-index.md`
-  - `101—108` 八个主题化经验汇总
-  - `excr011-theme-summary-source-mapping.md`
-  - `excr012-third-volume-final-victory-window-stage-summary.md`
-  - `excr013-late-stage-governance-batch-production-and-verification.md`
-- `spiritual_growth/`：2 个伴随式反思文件
-  - `000-initial-persona-self-portrait.md`
-  - `001-growth-journal-during-mao-study.md`
+```bash
+# 1. 克隆本仓库（如果你正在阅读 GitHub 页面，先 clone 到本地）
+git clone https://github.com/Housebigger/gongfu-skill.git
+cd gongfu-skill
 
-### 3. `strategy/`
-这是面向新时代发展主战场（紧扣「十五五」规划）的战略层，从「国家往哪走」一路下沉到「各行各业劳动者怎么办」「怎么零成本创业」「怎么组织协作」「个人怎么成长」「机会在哪」。包含以下子层：
+# 2. 把插件符号链接到 Hermes 插件目录
+ln -sf "$(pwd)/skills/gongfu-advisor" ~/.hermes/plugins/gongfu-advisor
 
-- `references/`：十五五规划纲要全文（新华社全文，约 18 万字，原料层）
-- `analysis/`：规划逐句解读 7 篇 + 方法论框架——解决「国家往哪走」
-- `worker_guidance/`：16 产业集群（A—P）行动指南 + 跨行业速查表 + 技能转型路线图——解决「某行业的一线劳动者怎么办」
-- `entrepreneurship/`：零成本创业落地层——四条路径（服务化/内容化/电商化/技能出租）+ AI 工具 + 过渡节奏与合规红线 + 诚实劝退——解决「怎么从打工变成自己的事」
-- `collaboration/`：协作与组织层——五种协作形态（技能互换→互助小组→接包小队→合伙→合作社）+ 信任与分配 + 跨行业协同 + 合规红线——解决「怎么把单点连成网」
-- `growth_path/`：个人成长地图层——四种起点画像（应届生/产线工人/转行者/县域劳动者）+ 学习地图三层结构——解决「站在我现在的人生位置该怎么走」
-- `new_value/`：新蛋糕机会地图层——十大确定性增量赛道 + 新蛋糕三种类型——解决「2026—2030 年机会在哪」
-- `regional/`：地域 × 产业层——五大区域（三大动力源/新兴增长极/战略腹地西部/东北/县域乡村）的地域 × 机会矩阵——解决「同一个机会在不同地方有什么不同、你应该往哪里去」
-- `perspective/`：前瞻见解层——六大中长期主题（AI 长波冲击/人口巨变/能源转型/机器人/出海/技能即服务）的前瞻判断——解决「5—10 年后这个行业会怎样、大趋势往哪走」
-- `STRATEGY-ROADMAP.md`：strategy 层扩展规划路线图（meta 文档，定义各子层定位与关系）
+# 3. 启用插件
+hermes plugins enable gongfu-advisor
+```
 
-阅读建议：先读 `strategy/STRATEGY-ROADMAP.md` 了解全貌，再按「analysis → worker_guidance → new_value → entrepreneurship → collaboration → growth_path → regional → perspective」的顺序进入。
+新开一个 Hermes 会话（`/reset` 或重新运行 `hermes`），插件即生效。
 
-## 推荐阅读路径
+### 使用方法
 
-### 如果你想先看全局导航
-1. 读 `methodology/great_man_inspiration/README.md`
-2. 再按主题进入各子目录 `README.md`
+安装后，你不需要记任何命令。直接在 Hermes 对话中用大白话描述你的情况，Hermes 会自动调用共富参谋。也可以手动触发：
 
-### 如果你想沿毛文顺序追主线
-1. 读 `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-2. 当前编号已回正并补齐：001—229 已全部连续覆盖完成（无待落实）
+```
+/gongfu 我30岁在工厂干了10年，最近产线上了机器人，我怕被替代，该怎么办
+```
 
-### 如果你想看“做事方法”而不是单篇文章
-1. 读 `accumulation_settle/experience_crystallization/README.md`
-2. 从 `excr002-theme-summaries-index.md` 进入 101—108 主题汇总
+或者直接说：
 
-### 如果你想先理解这个仓库为什么叫“gongfu”
-1. 先读本页的 `仓库宗旨摘要`
-2. 再读本页的 `共富宣言`
-3. 然后进入 `methodology/` 与 `accumulation_settle/` 看这些方法论如何服务于劳动者成长、协作建设与共富方向
+```
+帮我问问共富参谋：我想在县城开个养老服务机构，不知道行不行
+```
 
-### 如果你想看项目伴随式自我反思
-1. 读 `accumulation_settle/spiritual_growth/README.md`
+共富参谋会自动识别你的意图（行业判断 / 创业评估 / 职业困惑 / 成长规划 / 协作需求 / 趋势前瞻），加载对应的知识库，给出一份完整的判断。
 
-### 如果你想看十五五规划怎么解读
-1. 读 `strategy/analysis/README.md`
-2. 再按 01→07 顺序读各篇逐句解读
+### 它能帮你做什么
 
-### 如果你想看各行各业劳动者该怎么办
-1. 读 `strategy/worker_guidance/README.md`（含跨行业速查表和转型路线图）
-2. 再按自己所在/感兴趣的行业读对应集群
+| 你想了解的 | 示例说法 |
+|---|---|
+| 行业前景 | "做嵌入式开发的前景怎么样" |
+| 创业评估 | "想在县城开个养老服务机构" |
+| 职业困惑 | "同事都走了，我很累，不知道该不该换" |
+| 成长规划 | "我45岁钢铁厂下岗了想转行" |
+| 协作合伙 | "我开维修店想找人合伙怎么分钱" |
+| 趋势前瞻 | "未来5年AI会不会替代我的工作" |
 
-### 如果你想零成本创业
-1. 读 `strategy/entrepreneurship/README.md`
-2. 先读 `00-方法论框架.md`，再按四条路径选一条深入
-3. 务必读 `07-诚实劝退.md` 判断现在是不是你的时机
+你不需要选功能、不需要填表——说人话就行。
 
-### 如果你想找人合作或合伙
-1. 读 `strategy/collaboration/README.md`
-2. 重点读 `03-信任与分配.md`（合作备忘录模板）和 `05-合规与红线.md`
+### 如果不用 Hermes
 
-### 如果你想规划自己的成长路线
-1. 读 `strategy/growth_path/README.md`
-2. 按自己的画像（应届生/产线工人/转行者/县域劳动者）读对应路线
+本仓库的文档本身可以直接阅读。`methodology/`、`strategy/`、`accumulation_settle/` 各目录下都有自己的 `README.md` 作为入口。插件只是把这些文档变成了可调用的判断服务，不是使用的唯一方式。
 
-### 如果你想看 2026—2030 年的机会在哪
-1. 读 `strategy/new_value/README.md`
-2. 读 `01-新蛋糕机会清单.md`（十大确定性增量赛道 + 速查总表）
+---
 
-### 如果你想看不同地方的机会有什么不同
-1. 读 `strategy/regional/README.md`（含地域 × 机会总矩阵）
-2. 按自己所在/想去的区域读对应篇章（三大动力源/新兴增长极/战略腹地西部/东北/县域乡村）
+## 仓库结构速览
 
-### 如果你想看 5—10 年后各行业会怎样
-1. 读 `strategy/perspective/README.md`（含六大前瞻主题速查）
-2. 按感兴趣的主题读对应篇章（AI 长波冲击/人口巨变/能源转型/机器人/出海/技能即服务）
+```
+gongfu-skill/
+├── methodology/            第一阶段：思想武器库（229篇×7主题当代转译）
+│   ├── great_man_inspiration/   7 个主题目录，1547 篇转译
+│   └── reference/               230 篇原文索引
+├── accumulation_settle/    伴随式沉淀（经验结晶 + 成长反思）
+├── strategy/               第二阶段：现实建功（9 个子层，69 文件）
+│   ├── analysis/          十五五规划逐句解读
+│   ├── worker_guidance/   16 产业集群行动指南
+│   ├── entrepreneurship/  零成本创业四条路径
+│   ├── collaboration/     五种协作形态
+│   ├── growth_path/       四种画像成长地图
+│   ├── new_value/         十大确定性增量
+│   ├── regional/          五大区域×机会矩阵
+│   ├── perspective/       六大中长期前瞻
+│   └── references/        规划全文
+├── skills/                第三阶段：技能共富（7 skill + 插件）
+│   ├── gongfu-advisor/    共富参谋插件（简约接口）
+│   ├── data/              7 个结构化知识库（YAML）
+│   ├── problem-diagnosis/ | industry-scan/ | startup-feasibility/
+│   ├── growth-planner/    | collaboration-match/ | opportunity-radar/
+│   ├── situation-triage/  路由层
+│   └── 00-skill设计规范.md
+└── README.md
+```
 
-### 如果你想看第三阶段（技能共富）准备怎么做
-1. 读 `PHASE3-ROADMAP.md`（从知识仓库到技能共富的路线图）
-
-### 如果你想调用专业判断 skill
-1. 读 `skills/README.md`（已有 skill 清单 + 组合示例）
-2. 进入具体 skill 目录读 `SKILL.md`（7 个 skill：industry-scan / startup-feasibility / problem-diagnosis / growth-planner / collaboration-match / opportunity-radar / situation-triage）
-3. 读 `skills/00-skill设计规范.md` 了解如何制作新 skill
-4. 读 `skills/gongfu-advisor/` 了解共富参谋插件（7 skill 环扣体系 + 简约接口，一个工具 `gongfu_consult` 搞定一切）
+各层目录下都有自己的 `README.md`，可以按需进入。
 
 ## 维护原则
 

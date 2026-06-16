@@ -1,0 +1,209 @@
+# 16 产业集群增/转/缩信号表
+# 蒸馏自 strategy/worker_guidance/ README + 00-方法论框架
+# signal: 增=确定性增量 / 转=转型必经路 / 缩=收缩高风险
+
+A-先进制造与硬科技:
+  industries: [集成电路, 工业母机, 高端装备, 新材料, 先进仪器, 基础软件, 生物制造]
+  signal: 增
+  certainty: 5
+  methodology: 丢掉幻想-155
+  planning_position: 卡脖子攻关，决定性突破，新型举国体制
+  growth_roles:
+    - {role: 半导体工艺/设备工程师, fit: 电子/材料/自动化专业}
+    - {role: 工业软件/信创迁移工程师, fit: C++/数据库程序员}
+    - {role: 数控机床操作与编程, fit: 机械/数控技术工人}
+    - {role: 新能源材料工程师, fit: 化工/材料工程师}
+  shrink_roles: [低端组装, 人工目检]
+  transition_from:
+    - {from: 制造业产线操作工, to: 设备维护/编程/质量工程}
+
+B-数字与智能产业:
+  industries: [人工智能, 算力, 软件, 数据要素, 工业互联网, 平台经济]
+  signal: 转
+  certainty: 4
+  methodology: 矛盾论-018
+  planning_position: 人工智能+旗舰行动，智改数转网联
+  growth_roles:
+    - {role: AI应用开发/数据工程, fit: 程序员/数据从业者}
+    - {role: 工业互联网工程师, fit: IT+制造交叉}
+  shrink_roles: [初级文案, 基础翻译, 简单客服, 信息搬运, 纯中间商]
+  transition_from:
+    - {from: 传统软件开发, to: AI辅助+业务理解+架构}
+
+C-绿色能源全链:
+  industries: [光伏, 风电, 水电, 核电, 储能, 电网, 碳市场, 氢能]
+  signal: 增
+  certainty: 5
+  methodology: 论持久战-027
+  planning_position: 非化石能源十年倍增，碳达峰硬约束
+  growth_roles:
+    - {role: 储能系统工程师, fit: 电气/电力电子工程师}
+    - {role: 电网/电力系统, fit: 电力专业/电工}
+    - {role: 电站运维（光伏/风电）, fit: 有电工证/登高证的一线工人}
+    - {role: 碳资产管理/碳交易, fit: 环保/能源/金融背景}
+  shrink_roles: [光伏组件低端产能, 电池片低端产能]
+  notes: 后市场（运维/回收/碳管理）比前市场更大且被低估
+
+D-农业与乡村振兴:
+  industries: [种植养殖, 种业, 农机, 农技, 县域经济, 农产品加工, 农村电商]
+  signal: 增
+  certainty: 4
+  methodology: 关心群众生活-011
+  planning_position: 粮食绝对安全，农业强国，千万工程
+  growth_roles:
+    - {role: 农机操作与服务, fit: 农村劳动力/农学专业}
+    - {role: 农产品电商, fit: 懂农业+懂电商}
+  transition_from:
+    - {from: 传统农民, to: 农机服务/规模化/品牌化}
+
+E-民生服务:
+  industries: [养老, 银发经济, 托育, 医疗健康, 创新药, 家政]
+  signal: 增
+  certainty: 5
+  methodology: [关心群众生活-011, 正确处理人民内部矛盾-217]
+  planning_position: 一老一小，普惠服务，延迟退休，长护险
+  growth_roles:
+    - {role: 养老护理/医养结合, fit: 护士/护理员/转行者}
+    - {role: 托育/育幼, fit: 学前教育/育婴师}
+    - {role: 基层医疗/健康管理, fit: 全科医生/护士/健康管理师}
+    - {role: 创新药CRO/临床, fit: 药学/生物/化学专业}
+  notes: 人口结构决定的最刚性需求，抗AI性最强（必须人到现场）
+
+F-文化创意与出海:
+  industries: [网文, 游戏, 影视, 微短剧, 动漫, 数字内容, 文化科技]
+  signal: 增
+  certainty: 4
+  methodology: 团结起来-181
+  planning_position: 文化强国，文化出海，话语体系
+  growth_roles:
+    - {role: 文化出海（短剧/游戏）, fit: 内容创作者/游戏开发/运营}
+  transition_from:
+    - {from: 影视制作/编剧, to: AI辅助/微短剧/出海}
+
+G-基建物流房地产:
+  industries: [交通, 低空, 物流, 建筑业, 房地产新模式, 城市更新]
+  signal: 转
+  certainty: 3
+  methodology: 必须注意经济工作-008
+  planning_position: 适度超前（不过度），统一大市场，房地产制度重构
+  growth_roles:
+    - {role: 城市更新/老旧改造, fit: 建筑工人/工程管理}
+    - {role: 物业管理/社区运营, fit: 物业/服务管理}
+    - {role: 低空经济（无人机/eVTOL）, fit: 飞行员/航空维修/运营}
+    - {role: 跨境物流/海外仓, fit: 物流+外语}
+  shrink_roles: [传统长途货运, 大基建新建项目]
+  transition_from:
+    - {from: 建筑施工, to: 装配式/绿色建筑/BIM}
+    - {from: 房地产开发销售, to: 物业/城市更新/长租运营}
+    - {from: 外卖/即时配送, to: 持证技能工（过渡跳板）}
+
+H-新兴未来产业:
+  industries: [低空经济, 机器人具身智能, 商业航天, 卫星, 氢能, 量子, 聚变, 脑机接口, 6G]
+  signal: 增
+  certainty: 4
+  methodology: 星星之火-006
+  planning_position: 前瞻布局，沙盒监管，触发式监管
+  growth_roles:
+    - {role: 机器人应用/部署, fit: 自动化/机械/IT}
+    - {role: 低空经济运营, fit: 飞行员/运营}
+  notes: 2025元年，星星之火阶段。工业机器人成熟，服务机器人成长，人形极早期
+
+I-传统矿业与资源开采:
+  industries: [煤炭, 油气, 金属矿, 非金属矿, 砂石, 矿山生态修复]
+  signal: 转
+  certainty: 3
+  methodology: 一切反动派都是纸老虎-229
+  planning_position: 能源转型下的结构性收缩与智能化改造
+  growth_roles:
+    - {role: 战略金属矿（锂/镍/钴/稀土）, fit: 矿工/地质勘探}
+    - {role: 矿山生态修复, fit: 环境工程/生态修复}
+  shrink_roles: [小型煤矿, 小型铁矿, 非金属矿]
+  transition_from:
+    - {from: 煤矿/铁矿矿工, to: 智能矿山设备操作/安全工程/战略金属矿}
+
+J-传统轻纺与日用制造:
+  industries: [纺织服装, 鞋帽皮革, 食品饮料, 家具木材, 造纸印刷, 玩具, 塑料制品, 五金]
+  signal: 转
+  certainty: 3
+  methodology: 矛盾论-018
+  planning_position: 劳动密集出口型，内卷+外迁+AI冲击
+  growth_roles:
+    - {role: 跨境电商运营, fit: 懂工厂+懂电商}
+    - {role: 柔性供应链管理, fit: 制造管理/排产调度}
+  shrink_roles: [传统印染, 制革, 造纸低端产能]
+  transition_from:
+    - {from: 纺织/服装产线工人, to: 智能设备操作/跨境电商运营/工业设计}
+
+K-传统重化工与建材:
+  industries: [钢铁, 有色冶炼, 基础化工, 水泥, 玻璃, 陶瓷, 耐火材料]
+  signal: 转
+  certainty: 3
+  methodology: [论持久战-027, 丢掉幻想-155]
+  planning_position: 产能过剩+绿色低碳硬约束，总量见顶
+  growth_roles:
+    - {role: 新能源材料（正负极/电解液）, fit: 化工/材料工程师}
+  shrink_roles: [建筑钢材, 普通水泥, 平板玻璃]
+  transition_from:
+    - {from: 钢铁/水泥/化工工人, to: 特种钢/高端化学品/绿色工艺/再生资源}
+
+L-商贸零售与餐饮住宿:
+  industries: [批发零售, 百货超市, 便利店, 电商, 餐饮, 酒店民宿, 旅游]
+  signal: 转
+  certainty: 3
+  methodology: 关心群众生活-011
+  planning_position: 消费分级，实体零售承压，即时零售/下沉市场增量
+  growth_roles:
+    - {role: 即时零售运营, fit: 实体零售从业者}
+  shrink_roles: [传统百货, 大卖场]
+  transition_from:
+    - {from: 百货/超市导购收银, to: 会员运营/私域社群/O2O运营}
+
+M-金融与商务服务:
+  industries: [银行, 保险, 证券, 法律, 会计, 咨询, 人力资源, 广告]
+  signal: 转
+  certainty: 3
+  methodology: 矛盾论-018
+  planning_position: 金融供给侧改革，直接融资扩容，AI替代白领
+  shrink_roles: [传统保险代理人, 基础记账, 基础法务, 基础翻译]
+  transition_from:
+    - {from: 银行柜员/保险代理人, to: 财富管理/数据分析/合规/保险经纪}
+
+N-教育与培训:
+  industries: [基础教育, 教培, 职业教育, 技能培训, 在线教育, 考公考研, 素质教育]
+  signal: 转
+  certainty: 3
+  methodology: 改造我们的学习-060
+  planning_position: 双减后教培重构，职业教育扩容，终身学习
+  growth_roles:
+    - {role: 职业教育/双师型教师, fit: 行业工程师/技师转教师}
+    - {role: 考公考研培训, fit: 有教学能力的各行业人}
+  shrink_roles: [K12学科培训, 民办幼儿园]
+  transition_from:
+    - {from: K12学科培训教师, to: 素质教育/成人技能/考公考研/知识付费}
+
+O-居民生活服务:
+  industries: [美容美发, 洗染, 修理, 婚庆殡葬, 宠物, 体育健身, 摄影, 陪伴服务, 家政中介]
+  signal: 增
+  certainty: 4
+  methodology: 关心群众生活-011
+  planning_position: 最贴进人间烟火，门槛低、存量巨大、在升级
+  growth_roles:
+    - {role: 新能源汽车维修, fit: 传统汽修工转三电维修}
+    - {role: 宠物服务（美容/医疗/寄养）, fit: 爱动物+学技能}
+  shrink_roles: [传统婚庆套餐模式]
+  transition_from:
+    - {from: 传统理发/基础美容, to: 高级造型/科技美容/个人品牌}
+
+P-公用事业与市政服务:
+  industries: [环卫, 供水燃气供热, 市政, 园林绿化, 环保, 公交客运, 公共管理]
+  signal: 转
+  certainty: 3
+  methodology: [关心群众生活-011, 必须注意经济工作-008]
+  planning_position: 城市运行保障，智慧城管+绿色市政+公共服务均等化
+  growth_roles:
+    - {role: 污水处理提标/排水防涝, fit: 水务/环保工程师}
+    - {role: 地下管网更新/非开挖修复, fit: 市政工人/管道工}
+  shrink_roles: [人工道路清扫]
+  transition_from:
+    - {from: 人工环卫清扫, to: 机扫车/垃圾分类督导/环卫项目运营}
+    - {from: 公交/出租/网约车司机, to: 轨道交通/特种运输/物流（远期防自动驾驶）}

@@ -1,0 +1,286 @@
+"""Router — situation-triage logic.
+
+Analyzes free-form user text, identifies intent, extracts structured info,
+and routes to the right combination of skills.
+"""
+
+import yaml
+import json
+from pathlib import Path
+
+_DATA_DIR = Path(__file__).parent.parent / "data"
+
+# Load methodology data (contains intent keywords + crisis signals)
+def _load_yaml(filename):
+    filepath = _DATA_DIR / filename
+    if not filepath.exists():
+        return {}
+    with open(filepath, encoding="utf-8") as f:
+        return yaml.safe_load(f) or {}
+
+_METHODOLOGY = _load_yaml("methodology-tools.yaml")
+_INDUSTRY = _load_yaml("industry-signals.yaml")
+_REGIONAL = _load_yaml("regional-matrix.yaml")
+
+# Industry keyword -> cluster mapping
+_INDUSTRY_KEYWORDS = {
+    # A
+    "集成电路": "A-先进制造与硬科技", "半导体": "A-先进制造与硬科技", "芯片": "A-先进制造与硬科技",
+    "工业母机": "A-先进制造与硬科技", "数控": "A-先进制造与硬科技", "cnc": "A-先进制造与硬科技",
+    "高端装备": "A-先进制造与硬科技", "新材料": "A-先进制造与硬科技", "基础软件": "A-先进制造与硬科技",
+    "生物制造": "A-先进制造与硬科技", "嵌入式": "A-先进制造与硬科技", "硬件": "A-先进制造与硬科技",
+    # B
+    "人工智能": "B-数字与智能产业", "ai": "B-数字与智能产业", "算力": "B-数字与智能产业",
+    "软件开发": "B-数字与智能产业", "编程": "B-数字与智能产业", "程序员": "B-数字与智能产业",
+    "数据": "B-数字与智能产业", "工业互联网": "B-数字与智能产业", "平台": "B-数字与智能产业",
+    "前端": "B-数字与智能产业", "后端": "B-数字与智能产业", "java": "B-数字与智能产业",
+    "python": "B-数字与智能产业", "互联网": "B-数字与智能产业",
+    # C
+    "光伏": "C-绿色能源全链", "风电": "C-绿色能源全链", "水电": "C-绿色能源全链",
+    "核电": "C-绿色能源全链", "储能": "C-绿色能源全链", "电网": "C-绿色能源全链",
+    "碳": "C-绿色能源全链", "氢能": "C-绿色能源全链", "新能源": "C-绿色能源全链",
+    "电力": "C-绿色能源全链", "电气": "C-绿色能源全链", "电工": "C-绿色能源全链",
+    # D
+    "农业": "D-农业与乡村振兴", "种植": "D-农业与乡村振兴", "养殖": "D-农业与乡村振兴",
+    "种业": "D-农业与乡村振兴", "农机": "D-农业与乡村振兴", "农技": "D-农业与乡村振兴",
+    "农产品": "D-农业与乡村振兴", "农村": "D-农业与乡村振兴",
+    # E
+    "养老": "E-民生服务", "银发": "E-民生服务", "托育": "E-民生服务", "育婴": "E-民生服务",
+    "医疗": "E-民生服务", "健康": "E-民生服务", "护理": "E-民生服务", "护士": "E-民生服务",
+    "创新药": "E-民生服务", "家政": "E-民生服务", "医药": "E-民生服务",
+    # F
+    "网文": "F-文化创意与出海", "游戏": "F-文化创意与出海", "影视": "F-文化创意与出海",
+    "短剧": "F-文化创意与出海", "动漫": "F-文化创意与出海", "文化": "F-文化创意与出海",
+    "内容创作": "F-文化创意与出海", "出海": "F-文化创意与出海",
+    # G
+    "交通": "G-基建物流房地产", "物流": "G-基建物流房地产", "快递": "G-基建物流房地产",
+    "建筑": "G-基建物流房地产", "房地产": "G-基建物流房地产", "物业": "G-基建物流房地产",
+    "低空": "G-基建物流房地产", "无人机": "G-基建物流房地产", "外卖": "G-基建物流房地产",
+    "骑手": "G-基建物流房地产", "配送": "G-基建物流房地产",
+    # H
+    "机器人": "H-新兴未来产业", "具身智能": "H-新兴未来产业", "商业航天": "H-新兴未来产业",
+    "量子": "H-新兴未来产业", "聚变": "H-新兴未来产业", "6g": "H-新兴未来产业",
+    # I
+    "煤矿": "I-传统矿业与资源开采", "矿业": "I-传统矿业与资源开采", "矿工": "I-传统矿业与资源开采",
+    "油气": "I-传统矿业与资源开采", "金属矿": "I-传统矿业与资源开采",
+    # J
+    "纺织": "J-传统轻纺与日用制造", "服装": "J-传统轻纺与日用制造", "食品饮料": "J-传统轻纺与日用制造",
+    "家具": "J-传统轻纺与日用制造", "玩具": "J-传统轻纺与日用制造", "鞋帽": "J-传统轻纺与日用制造",
+    # K
+    "钢铁": "K-传统重化工与建材", "水泥": "K-传统重化工与建材", "化工": "K-传统重化工与建材",
+    "玻璃": "K-传统重化工与建材", "陶瓷": "K-传统重化工与建材", "有色冶炼": "K-传统重化工与建材",
+    # L
+    "零售": "L-商贸零售与餐饮住宿", "超市": "L-商贸零售与餐饮住宿", "便利店": "L-商贸零售与餐饮住宿",
+    "电商": "L-商贸零售与餐饮住宿", "餐饮": "L-商贸零售与餐饮住宿", "酒店": "L-商贸零售与餐饮住宿",
+    "民宿": "L-商贸零售与餐饮住宿", "旅游": "L-商贸零售与餐饮住宿", "百货": "L-商贸零售与餐饮住宿",
+    # M
+    "银行": "M-金融与商务服务", "保险": "M-金融与商务服务", "证券": "M-金融与商务服务",
+    "法律": "M-金融与商务服务", "会计": "M-金融与商务服务", "咨询": "M-金融与商务服务",
+    "广告": "M-金融与商务服务", "财务": "M-金融与商务服务",
+    # N
+    "教育": "N-教育与培训", "教培": "N-教育与培训", "培训": "N-教育与培训",
+    "老师": "N-教育与培训", "教师": "N-教育与培训", "教学": "N-教育与培训",
+    # O
+    "美容": "O-居民生活服务", "美发": "O-居民生活服务", "理发": "O-居民生活服务",
+    "修理": "O-居民生活服务", "宠物": "O-居民生活服务", "健身": "O-居民生活服务",
+    "婚庆": "O-居民生活服务", "汽修": "O-居民生活服务", "维修": "O-居民生活服务",
+    # P
+    "环卫": "P-公用事业与市政服务", "供水": "P-公用事业与市政服务", "燃气": "P-公用事业与市政服务",
+    "市政": "P-公用事业与市政服务", "环保": "P-公用事业与市政服务", "公交": "P-公用事业与市政服务",
+}
+
+# Region keyword mapping
+_REGION_KEYWORDS = {
+    "①三大动力源": [
+        "北京", "上海", "深圳", "广州", "杭州", "苏州", "天津", "南京", "无锡", "宁波",
+        "东莞", "佛山", "珠海", "中山", "大湾区", "长三角", "京津冀", "珠三角",
+        "宝安", "南山", "福田", "浦东", "海淀", "朝阳",
+    ],
+    "②新兴增长极": [
+        "成都", "重庆", "武汉", "长沙", "合肥", "西安", "郑州", "南昌", "昆明", "贵阳",
+        "成渝", "长江中游", "中部",
+    ],
+    "③战略腹地与西部": [
+        "新疆", "西藏", "青海", "甘肃", "宁夏", "内蒙古", "南宁", "兰州", "乌鲁木齐",
+        "西部", "西北", "西南",
+    ],
+    "④东北老工业基地": [
+        "黑龙江", "吉林", "辽宁", "哈尔滨", "长春", "沈阳", "大连", "东北",
+    ],
+    "⑤县域与乡村": [
+        "县", "乡镇", "村", "农村", "老家", "返乡", "回乡", "县城",
+    ],
+}
+
+
+def triage(situation_text: str) -> dict:
+    """Main routing function: analyze user text and return triage result."""
+    text_lower = situation_text.lower()
+
+    # Step 1: Crisis check (highest priority)
+    crisis_signals = _METHODOLOGY.get("crisis_signals", {})
+    crisis_kw = crisis_signals.get("危机", [])
+    exhaustion_kw = crisis_signals.get("耗竭", [])
+
+    crisis_hit = [kw for kw in crisis_kw if kw in situation_text]
+    exhaustion_hit = [kw for kw in exhaustion_kw if kw in situation_text]
+
+    if crisis_hit:
+        return {
+            "special_handling": "crisis",
+            "message": (
+                "检测到情绪危机信号。此时不做任何职业判断。\n"
+                "如果你正在经历困难，请拨打24小时心理援助热线：400-161-9995 或北京心理危机研究与干预中心：010-82951332。\n"
+                "你不是一个人。状态不对时做的决策不可靠，先照顾好自己。"
+            ),
+            "route_to": [],
+        }
+
+    # Step 2: Intent identification
+    intent_keywords = _METHODOLOGY.get("intent_keywords", {})
+    detected_intents = []
+    for intent, keywords in intent_keywords.items():
+        hits = [kw for kw in keywords if kw in situation_text]
+        if hits:
+            detected_intents.append({"intent": intent, "matched_keywords": hits})
+
+    # Determine routing priority
+    route_to = []
+    has_exhaustion = bool(exhaustion_hit)
+    has_confusion = any(i["intent"] == "困境迷茫" for i in detected_intents)
+
+    if has_exhaustion or has_confusion:
+        route_to.append("problem-diagnosis")
+
+    # Add other intents (deduplicated)
+    for item in detected_intents:
+        skill_map = {
+            "困境迷茫": "problem-diagnosis",
+            "行业判断": "industry-scan",
+            "创业意向": "startup-feasibility",
+            "成长需求": "growth-planner",
+            "协作需求": "collaboration-match",
+            "趋势前瞻": "opportunity-radar",
+        }
+        skill = skill_map.get(item["intent"])
+        if skill and skill not in route_to:
+            route_to.append(skill)
+
+    # If no intent detected, check if we at least have an industry → default to industry-scan
+    if not route_to:
+        # Pre-scan for industry to decide if we can still help
+        temp_text_lower = situation_text.lower()
+        has_industry = any(kw in temp_text_lower for kw in _INDUSTRY_KEYWORDS)
+        if has_industry:
+            route_to.append("industry-scan")
+        else:
+            return {
+                "special_handling": "need_more_info",
+                "message": (
+                    "我想更好地帮你。你能告诉我：\n"
+                    "1. 你目前在做什么行业/岗位？\n"
+                    "2. 你在哪个城市？\n"
+                    "3. 你最想了解什么——行业前景？创业？学习成长？还是遇到了什么困难？"
+                ),
+                "route_to": [],
+            }
+
+    # Step 3: Extract structured info
+    extracted = {
+        "industry": None,
+        "cluster": None,
+        "region": None,
+        "region_name": None,
+        "age": None,
+        "finances": None,
+        "family": None,
+        "emotional_state": "正常",
+    }
+
+    # Industry
+    for kw, cluster in _INDUSTRY_KEYWORDS.items():
+        if kw in text_lower:
+            extracted["industry"] = kw
+            extracted["cluster"] = cluster
+            break
+
+    # Region
+    for region, keywords in _REGION_KEYWORDS.items():
+        for kw in keywords:
+            if kw in situation_text:
+                extracted["region"] = region
+                extracted["region_name"] = region
+                break
+        if extracted["region"]:
+            break
+
+    # Age
+    import re
+    age_match = re.search(r'(\d{2})\s*岁', situation_text)
+    if age_match:
+        extracted["age"] = int(age_match.group(1))
+
+    # Finances
+    finance_kw = {"月光": "月光", "负债": "负债", "结余": "有结余", "存款": "有结余",
+                  "房贷": "有房贷", "攒": "有结余"}
+    for kw, status in finance_kw.items():
+        if kw in situation_text:
+            extracted["finances"] = status
+            break
+
+    # Family
+    family_kw = {"妻子": "有伴侣", "老公": "有伴侣", "对象": "有伴侣", "相亲": "有伴侣",
+                 "孩子": "有孩子", "父母": "有父母", "单身": "单身", "结婚": "已婚"}
+    for kw, status in family_kw.items():
+        if kw in situation_text:
+            extracted["family"] = status
+            break
+
+    # Emotional state
+    if exhaustion_hit:
+        extracted["emotional_state"] = "耗竭"
+    elif any(kw in situation_text for kw in ["焦虑", "压力大", "迷茫"]):
+        extracted["emotional_state"] = "焦虑/迷茫"
+
+    # Step 4: Build result
+    result = {
+        "detected_intents": detected_intents,
+        "route_to": route_to,
+        "extracted_info": extracted,
+    }
+
+    if has_exhaustion:
+        result["special_handling"] = "exhaustion"
+        result["special_note"] = (
+            "检测到明显的疲惫/耗竭信号。重要提醒：在疲惫状态下做重大决策容易后悔。"
+            "建议先给自己2-4周「只恢复不决策」的时间——先照顾好自己，再处理职业问题。"
+        )
+
+    return result
+
+
+def get_industry_signal(cluster: str) -> dict:
+    """Get industry signal data for a cluster."""
+    if not cluster or cluster not in _INDUSTRY:
+        return {}
+    data = _INDUSTRY[cluster]
+    return {
+        "cluster": cluster,
+        "signal": data.get("signal", "未知"),
+        "certainty": data.get("certainty", 0),
+        "methodology": data.get("methodology", ""),
+        "growth_roles": data.get("growth_roles", []),
+        "shrink_roles": data.get("shrink_roles", []),
+        "transition_from": data.get("transition_from", []),
+        "notes": data.get("notes", ""),
+    }
+
+
+def get_regional_score(opportunity: str, region: str) -> int:
+    """Get the opportunity score for a region from the matrix."""
+    matrix = _REGIONAL.get("opportunity_matrix", {})
+    opp_data = matrix.get(opportunity, {})
+    region_key = region[0] if region else None  # First char: ①②③④⑤
+    if region_key and region_key in opp_data:
+        return opp_data[region_key]
+    return 0

@@ -1,28 +1,78 @@
-# skills/ —— 第三阶段核心产出：可调用的专业判断 skill
+# skills/ —— 第三阶段核心产出：可调用的专业判断 skill + 共富参谋插件
 
-日期：2026-06-15
+日期：2026-06-15（初版）/ 2026-06-15（插件版更新）
 
 本目录是 gongfu-skill 第三阶段「技能上架、才华流通、智慧共富」的核心产出。它把前两阶段 1800+ 文件里的知识，蒸馏成 AI agent 可以调用的 skill——让普通劳动者不用自己读完这些文件，而是通过 agent 调用 skill，直接获得专业判断服务。
 
 ---
 
-## 已有 skill
+## 7 个 skill（环环相扣的判断体系）
 
 | skill | 解决的问题 | 蒸馏自 |
 |---|---|---|
-| `industry-scan/` | 我这个行业在我这个地方未来行不行 | worker_guidance 16 集群 + regional 五大区域 |
+| `problem-diagnosis/` | 我这个处境的主要矛盾是什么 | methodology 毛泽东战略思维工具箱 |
+| `industry-scan/` | 我这个行业在我这个地方行不行 | worker_guidance 16 集群 + regional 五大区域 |
 | `startup-feasibility/` | 我该不该创业、创什么、怎么起步 | entrepreneurship 四条路径 + 诚实劝退 |
-| `problem-diagnosis/` | 我现在面临一个复杂局面想不清楚怎么办 | methodology 毛泽东战略思维工具箱 |
+| `growth-planner/` | 我该怎么一步步成长 | growth_path 四种画像 + 学习地图 |
+| `collaboration-match/` | 我该找什么合作、怎么分钱 | collaboration 五种形态 + 信任分配 |
+| `opportunity-radar/` | 未来 5—10 年机会在哪 | perspective 六大前瞻 + new_value 十大增量 |
+| `situation-triage/` | 路由层——说了情况，该用上面哪几个 skill | 全局（意图识别+信息提取+路由） |
+
+---
+
+## 共富参谋插件（`gongfu-advisor/`）
+
+7 个 skill 封装成一个 Hermes 插件，对外只有一个简约接口：
+
+**`gongfu_consult(situation="用大白话描述你的情况")`**
+
+插件内部自动：意图识别 → 信息提取 → 路由到合适的 skill 组合 → 加载知识数据 → 组装判断指南。
+
+### 插件结构
+
+```
+gongfu-advisor/
+├── plugin.yaml          # 插件清单
+├── __init__.py          # 注册（工具+hook+skills）
+├── schemas.py           # gongfu_consult 工具 schema
+├── tools.py             # 工具 handler
+├── router.py            # 路由逻辑（situation-triage 的代码版）
+├── skills/              # 内嵌 7 个 SKILL.md
+│   ├── situation-triage/SKILL.md
+│   ├── problem-diagnosis/SKILL.md
+│   ├── industry-scan/SKILL.md
+│   ├── startup-feasibility/SKILL.md
+│   ├── growth-planner/SKILL.md
+│   ├── collaboration-match/SKILL.md
+│   └── opportunity-radar/SKILL.md
+└── data/（在上级 data/ 目录）  # 7 个 YAML 结构化知识库
+```
+
+### 安装
+
+```bash
+# 符号链接到 Hermes plugins 目录
+ln -sf /path/to/gongfu-skill/skills/gongfu-advisor ~/.hermes/plugins/gongfu-advisor
+
+# 启用
+hermes plugins enable gongfu-advisor
+
+# 新开一个 session 即可用（/reset 或新 hermes）
+```
 
 ---
 
 ## skill 组合示例
 
 ```
-用户：「我30岁做Web开发，被AI威胁想转行，又怕」
-  → problem-diagnosis（诊断主要矛盾=技能贬值vs收入需求）
-  → industry-scan（扫描AI/数字产业前景+程序员转型路线）
-  → startup-feasibility（如果还想创业，评估可行性）
+用户：「我30岁做嵌入式开发，同事都走了，很累」
+  → situation-triage 路由：检测到耗竭→特殊处理 + problem-diagnosis
+  → problem-diagnosis（诊断主要矛盾=精力耗竭vs判断力，阶段=相持）
+  → industry-scan（嵌入式/机器人=A集群，增★★★★★）
+
+用户：「想在县城开个养老服务机构」
+  → situation-triage 路由：创业意向→startup-feasibility + 行业=E民生
+  → startup-feasibility（先劝退检查→匹配路径→红线）
 ```
 
 ---
@@ -33,6 +83,7 @@
 2. 参考已有 skill 的 SKILL.md 格式
 3. 按「先干再总结」原则：先做出能跑的 skill，再从实践中提炼规范更新
 4. 每个 skill 必须有至少 3 个测试用例（含一个边界/劝退用例）
+5. 如果 skill 需要数据，蒸馏到 `data/*.yaml`
 
 ---
 
@@ -40,4 +91,5 @@
 
 1. 所有 skill 产出的是**方向参考**，不是就业承诺/投资建议/医疗诊断/法律意见。
 2. skill 的判断基于 2025—2026 年形势，需要持续校准。
-3. 第三阶段的核心假设（文档能蒸馏成可调用的 skill）正在通过这批 skill 验证中。
+3. 插件的路由逻辑不可能 100% 准确——自然语言意图识别有误差，允许路由到多个 skill。
+4. **情绪危机处理优先于职业建议**——检测到耗竭/危机信号时，先处理人再处理事。

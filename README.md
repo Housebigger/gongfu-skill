@@ -153,8 +153,9 @@
 
 ### 如果你想调用专业判断 skill
 1. 读 `skills/README.md`（已有 skill 清单 + 组合示例）
-2. 进入具体 skill 目录读 `SKILL.md`（industry-scan / startup-feasibility / problem-diagnosis）
+2. 进入具体 skill 目录读 `SKILL.md`（7 个 skill：industry-scan / startup-feasibility / problem-diagnosis / growth-planner / collaboration-match / opportunity-radar / situation-triage）
 3. 读 `skills/00-skill设计规范.md` 了解如何制作新 skill
+4. 读 `skills/gongfu-advisor/` 了解共富参谋插件（7 skill 环扣体系 + 简约接口，一个工具 `gongfu_consult` 搞定一切）
 
 ## 维护原则
 

@@ -42,7 +42,7 @@
 
 ## Quick Start：安装和使用共富参谋插件
 
-共富参谋（gongfu-advisor）是一个 Hermes Agent 插件，把本仓库 1800+ 文件里的行业判断、创业方法、成长规划、协作逻辑和趋势前瞻，蒸馏成一个简约接口——你只需要用大白话描述你的情况，它自动给出看得懂、用得上的判断。
+共富参谋（gongfu-consultant）是一个 Hermes Agent 插件，把本仓库 1800+ 文件里的行业判断、创业方法、成长规划、协作逻辑和趋势前瞻，蒸馏成一个简约接口——你只需要用大白话描述你的情况，它自动给出看得懂、用得上的判断。
 
 ### 一行安装
 
@@ -123,7 +123,7 @@ gongfu-skill/
 │   ├── perspective/       六大中长期前瞻
 │   └── references/        规划全文
 ├── skills/                第三阶段：技能共富（7 skill + 插件）
-│   ├── gongfu-advisor/    共富参谋插件（简约接口）
+│   ├── gongfu-consultant/    共富参谋插件（多轮对话+简约接口）
 │   ├── data/              7 个结构化知识库（YAML）
 │   ├── problem-diagnosis/ | industry-scan/ | startup-feasibility/
 │   ├── growth-planner/    | collaboration-match/ | opportunity-radar/

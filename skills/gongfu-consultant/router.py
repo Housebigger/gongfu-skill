@@ -284,3 +284,69 @@ def get_regional_score(opportunity: str, region: str) -> int:
     if region_key and region_key in opp_data:
         return opp_data[region_key]
     return 0
+
+
+def assess_completeness(info: dict, route_to: list) -> dict:
+    """Assess how complete the user's information is for the routed skills.
+
+    Returns a dict with:
+    - ready: bool — enough info to analyze
+    - completeness_pct: 0-100
+    - missing_fields: list of field names that are missing
+    - next_question: the single most important question to ask next
+    """
+    # Define which fields each skill needs
+    skill_needs = {
+        "problem-diagnosis": [],  # works with free text, no required fields
+        "industry-scan": ["cluster", "region"],
+        "startup-feasibility": ["finances", "family"],
+        "growth-planner": ["age"],
+        "collaboration-match": [],
+        "opportunity-radar": [],
+        "situation-triage": [],
+    }
+
+    # Collect all missing fields across routed skills
+    missing = []
+    for skill in route_to:
+        for field in skill_needs.get(skill, []):
+            if not info.get(field) and field not in missing:
+                missing.append(field)
+
+    # Calculate completeness
+    total_possible = len({"cluster", "region", "age", "finances", "family", "industry"})
+    filled = sum(1 for f in ["cluster", "region", "age", "finances", "family", "industry"] if info.get(f))
+    pct = int(filled / total_possible * 100)
+
+    # For problem-diagnosis-only routes, don't require extra fields
+    if route_to == ["problem-diagnosis"] or not route_to:
+        ready = True
+        missing = []
+    else:
+        # Ready if no critical fields missing AND not too many fields missing overall.
+        # Critical = cluster/region (for industry-scan).
+        # For startup-feasibility, finances+family matter for abort checks,
+        # so allow at most 1 missing field before requiring more questions.
+        critical = [f for f in missing if f in ("cluster", "region")]
+        ready = len(critical) == 0 and len(missing) <= 1
+
+    # Determine the single next question (priority order)
+    next_question = None
+    question_map = {
+        "cluster": "你现在在做什么行业？具体是什么岗位？",
+        "region": "你在哪个城市或地区？这会影响我对机会的判断。",
+        "age": "方便告诉我你的年龄吗？不同年龄段的建议会不一样。",
+        "finances": "你现在的经济状况怎么样？比如有没有几个月的生活费结余？",
+        "family": "家里人对你想做的这件事是什么态度？",
+    }
+    for field in ["cluster", "region", "age", "finances", "family"]:
+        if field in missing:
+            next_question = question_map[field]
+            break
+
+    return {
+        "ready": ready,
+        "completeness_pct": pct,
+        "missing_fields": missing,
+        "next_question": next_question,
+    }

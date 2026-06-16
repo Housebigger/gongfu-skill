@@ -9,44 +9,127 @@ logger = logging.getLogger(__name__)
 
 
 def gongfu_consult(args: dict, **kwargs) -> str:
-    """共富参谋主入口。
+    """共富参谋主入口——双模式：intake（收集信息）和 analyze（分析输出）。
 
-    Receives the user's free-form situation text, runs triage routing,
-    loads relevant knowledge data, and returns a structured consultation
-    guide that the LLM uses to produce the final response.
+    交互流程（借鉴 Superpowers brainstorming 模式）：
+    1. intake：分析用户情况 → 识别意图 → 提取已知信息 → 评估完整度
+       → 如果信息不够，返回「已知/未知/下一个该问的问题」让 LLM 继续对话
+       → 如果信息够了，返回「可以分析了」信号
+    2. analyze：加载知识库 → 组装完整判断指南
 
-    The handler does NOT produce the final user-facing text — it returns
-    structured data + knowledge context that the LLM then synthesizes
-    into a personalized, warm response. This is by design: the LLM is
-    better at tone/empathy/language than code, and the code is better at
-    data lookup/routing than the LLM.
+    重要：intake 阶段返回的 next_question 只是一个建议，
+    LLM 应该用自然的对话语气来提问，不要机械地照搬。
+    每次只问一个问题——不要一次性抛出所有缺失信息。
     """
     situation = args.get("situation", "").strip()
+    mode = args.get("mode", "intake")
+
     if not situation:
         return json.dumps({"error": "请描述你的情况"}, ensure_ascii=False)
 
-    # Step 1: Run triage routing
+    # ── 特殊情况检查（危机/情绪） ──
     triage_result = router.triage(situation)
 
-    # Step 2: Handle special cases (crisis, need_more_info)
-    if triage_result.get("special_handling") in ("crisis", "need_more_info"):
+    # 危机信号 → 不做任何职业判断
+    if triage_result.get("special_handling") == "crisis":
         return json.dumps({
             "type": "special",
-            "handling": triage_result["special_handling"],
+            "handling": "crisis",
             "message": triage_result["message"],
             "original_situation": situation,
         }, ensure_ascii=False, indent=2)
 
-    # Step 3: Load relevant knowledge data for routed skills
+    # ── intake 模式：收集信息 ──
+    if mode == "intake":
+        return _handle_intake(situation, triage_result)
+
+    # ── analyze 模式：分析输出 ──
+    return _handle_analyze(situation, triage_result)
+
+
+def _handle_intake(situation: str, triage_result: dict) -> str:
+    """Intake 模式：评估信息完整度，决定追问还是进入分析。"""
+
+    info = triage_result.get("extracted_info", {})
+    route_to = triage_result.get("route_to", [])
+
+    # 需要更多信息
+    if triage_result.get("special_handling") == "need_more_info":
+        return json.dumps({
+            "type": "intake",
+            "phase": "need_basic_info",
+            "message": triage_result["message"],
+            "instruction": (
+                "用户的描述太模糊，无法判断意图。请用自然的方式追问，"
+                "一次只问一个问题，先搞清楚用户最想了解什么。"
+            ),
+        }, ensure_ascii=False, indent=2)
+
+    # 评估信息完整度
+    completeness = router.assess_completeness(info, route_to)
+
+    # 构建用户全景图（已知信息）
+    profile_parts = []
+    if info.get("cluster"):
+        profile_parts.append(f"行业：{info['cluster']}")
+    if info.get("industry"):
+        profile_parts.append(f"具体方向：{info['industry']}")
+    if info.get("region_name"):
+        profile_parts.append(f"地域：{info['region_name']}")
+    if info.get("age"):
+        profile_parts.append(f"年龄：{info['age']}岁")
+    if info.get("finances"):
+        profile_parts.append(f"财务：{info['finances']}")
+    if info.get("family"):
+        profile_parts.append(f"家庭：{info['family']}")
+    if info.get("emotional_state") and info["emotional_state"] != "正常":
+        profile_parts.append(f"情绪状态：{info['emotional_state']}")
+
+    result = {
+        "type": "intake",
+        "phase": "assessing",
+        "user_profile": " ｜ ".join(profile_parts) if profile_parts else "（信息较少）",
+        "detected_intents": [i["intent"] for i in triage_result.get("detected_intents", [])],
+        "route_to": route_to,
+        "completeness": completeness,
+    }
+
+    if triage_result.get("special_note"):
+        result["special_note"] = triage_result["special_note"]
+        result["instruction"] = (
+            "用户明显疲惫/耗竭。你的第一个回复不应该是追问信息，"
+            "而是先表达理解和关心。然后温柔地引导——如果用户愿意聊，再慢慢了解情况。"
+        )
+    elif completeness["ready"]:
+        result["phase"] = "ready_to_analyze"
+        result["instruction"] = (
+            "信息收集充分了。你可以先把用户的「全景图」用简洁的方式复述给用户确认，"
+            "比如「我先确认一下我理解的情况对不对：……」。"
+            "用户确认无误后，调用 gongfu_consult 并传 mode='analyze'。"
+        )
+    else:
+        result["instruction"] = (
+            f"还需要补充信息。用自然的对话方式提问，一次只问一个问题。"
+            f"建议的下一个问题是：{completeness['next_question']}。"
+            f"但不要机械照搬——根据上下文用你自己的话来问。"
+            f"用户回答后，把所有信息拼在一起，再次调用 gongfu_consult(mode='intake')。"
+        )
+
+    return json.dumps(result, ensure_ascii=False, indent=2)
+
+
+def _handle_analyze(situation: str, triage_result: dict) -> str:
+    """Analyze 模式：加载知识库，组装完整判断指南。"""
+
     info = triage_result.get("extracted_info", {})
     route_to = triage_result.get("route_to", [])
     knowledge_context = {}
 
-    # Load industry data if needed
+    # 加载行业数据
     if "industry-scan" in route_to and info.get("cluster"):
         knowledge_context["industry"] = router.get_industry_signal(info["cluster"])
 
-    # Load startup data if needed
+    # 加载创业数据
     if "startup-feasibility" in route_to:
         startup_data = router._load_yaml("startup-paths.yaml")
         knowledge_context["startup"] = {
@@ -58,7 +141,7 @@ def gongfu_consult(args: dict, **kwargs) -> str:
             "red_lines": startup_data.get("red_lines", []),
         }
 
-    # Load growth data if needed
+    # 加载成长数据
     if "growth-planner" in route_to:
         growth_data = router._load_yaml("growth-profiles.yaml")
         knowledge_context["growth"] = {
@@ -69,7 +152,7 @@ def gongfu_consult(args: dict, **kwargs) -> str:
                          for k, v in growth_data.get("profiles", {}).items()},
         }
 
-    # Load collaboration data if needed
+    # 加载协作数据
     if "collaboration-match" in route_to:
         collab_data = router._load_yaml("collaboration-forms.yaml")
         knowledge_context["collaboration"] = {
@@ -79,7 +162,7 @@ def gongfu_consult(args: dict, **kwargs) -> str:
             "red_lines": collab_data.get("red_lines", []),
         }
 
-    # Load opportunity data if needed
+    # 加载机会数据
     if "opportunity-radar" in route_to:
         opp_data = router._load_yaml("opportunities.yaml")
         knowledge_context["opportunities"] = {
@@ -91,7 +174,7 @@ def gongfu_consult(args: dict, **kwargs) -> str:
             "perspectives": {k: v.get("summary") for k, v in opp_data.get("perspectives", {}).items()},
         }
 
-    # Load problem-diagnosis tools if needed
+    # 加载诊断工具
     if "problem-diagnosis" in route_to:
         knowledge_context["diagnosis_tools"] = {
             "stage_judgment": router._METHODOLOGY.get("stage_judgment", {}),
@@ -99,12 +182,11 @@ def gongfu_consult(args: dict, **kwargs) -> str:
                                 for k, v in router._METHODOLOGY.get("tools", {}).items()},
         }
 
-    # Step 4: Build the consultation guide for the LLM
     result = {
-        "type": "consultation",
+        "type": "analysis",
         "user_situation": situation,
         "triage": {
-            "detected_intents": triage_result.get("detected_intents", []),
+            "detected_intents": [i["intent"] for i in triage_result.get("detected_intents", [])],
             "route_to": route_to,
             "extracted_info": info,
         },

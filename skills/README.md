@@ -20,18 +20,20 @@
 
 ---
 
-## 共富参谋插件（`gongfu-advisor/`）
+## 共富参谋插件（`gongfu-consultant/`）
 
-7 个 skill 封装成一个 Hermes 插件，对外只有一个简约接口：
+7 个 skill 封装成一个 Hermes 插件，对外只有一个简约接口，采用多轮对话交互（借鉴 Superpowers brainstorming 模式）：
 
-**`gongfu_consult(situation="用大白话描述你的情况")`**
+**`gongfu_consult(situation="用大白话描述你的情况")`** —— 双模式：
+- `mode="intake"`（默认）：分析用户情况，识别意图和信息缺口，返回需要追问的问题（一次一个）
+- `mode="analyze"`：信息充分后，加载知识库，产出完整判断
 
-插件内部自动：意图识别 → 信息提取 → 路由到合适的 skill 组合 → 加载知识数据 → 组装判断指南。
+交互流程：intake → 自然追问（一次一个问题） → 确认全景图 → analyze → 输出判断
 
 ### 插件结构
 
 ```
-gongfu-advisor/
+gongfu-consultant/
 ├── plugin.yaml          # 插件清单
 ├── __init__.py          # 注册（工具+hook+skills）
 ├── schemas.py           # gongfu_consult 工具 schema
@@ -52,10 +54,10 @@ gongfu-advisor/
 
 ```bash
 # 符号链接到 Hermes plugins 目录
-ln -sf /path/to/gongfu-skill/skills/gongfu-advisor ~/.hermes/plugins/gongfu-advisor
+ln -sf /path/to/gongfu-skill/skills/gongfu-consultant ~/.hermes/plugins/gongfu-consultant
 
 # 启用
-hermes plugins enable gongfu-advisor
+hermes plugins enable gongfu-consultant
 
 # 新开一个 session 即可用（/reset 或新 hermes）
 ```

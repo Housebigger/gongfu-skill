@@ -44,25 +44,23 @@
 
 共富参谋（gongfu-advisor）是一个 Hermes Agent 插件，把本仓库 1800+ 文件里的行业判断、创业方法、成长规划、协作逻辑和趋势前瞻，蒸馏成一个简约接口——你只需要用大白话描述你的情况，它自动给出看得懂、用得上的判断。
 
-### 前提条件
+### 一行安装
 
-- 已安装 [Hermes Agent](https://hermes-agent.nousresearch.com/)（`hermes --version` 能跑就行）
-
-### 三步安装
+**macOS / Linux：**
 
 ```bash
-# 1. 克隆本仓库（如果你正在阅读 GitHub 页面，先 clone 到本地）
-git clone https://github.com/Housebigger/gongfu-skill.git
-cd gongfu-skill
-
-# 2. 把插件符号链接到 Hermes 插件目录
-ln -sf "$(pwd)/skills/gongfu-advisor" ~/.hermes/plugins/gongfu-advisor
-
-# 3. 启用插件
-hermes plugins enable gongfu-advisor
+curl -fsSL https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/install.sh | bash
 ```
 
-新开一个 Hermes 会话（`/reset` 或重新运行 `hermes`），插件即生效。
+**已经 clone 了仓库？** 直接运行：
+
+```bash
+./install.sh
+```
+
+脚本会自动完成克隆/更新、链接插件、启用插件。新开一个 Hermes 会话即可使用。
+
+> 前提：已安装 [Hermes Agent](https://hermes-agent.nousresearch.com/)（`hermes --version` 能跑就行）
 
 ### 使用方法
 

@@ -1,4 +1,4 @@
-"""gongfu-consultant plugin — registration."""
+"""gongfu-skill plugin — registration."""
 
 import logging
 from pathlib import Path
@@ -39,7 +39,7 @@ def register(ctx):
             skill_md = child / "SKILL.md"
             if child.is_dir() and skill_md.exists():
                 ctx.register_skill(child.name, skill_md)
-                logger.debug("gongfu-consultant: registered skill %s", child.name)
+                logger.debug("gongfu-skill: registered skill %s", child.name)
 
-    logger.info("gongfu-consultant: registered gongfu_consult tool + %d skills",
+    logger.info("gongfu-skill: registered gongfu_consult tool + %d skills",
                 len(list(skills_dir.iterdir())) if skills_dir.exists() else 0)

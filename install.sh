@@ -23,7 +23,7 @@ CLONE_DIR="$HOME/.gongfu-skill"
 if [ -n "$GONGFU_SKILL_DIR" ]; then
     # 环境变量指定了仓库路径
     REPO_DIR="$GONGFU_SKILL_DIR"
-elif [ -f "$(dirname "$0")/skills/gongfu-consultant/plugin.yaml" ]; then
+elif [ -f "$(dirname "$0")/skills/gongfu-skill/plugin.yaml" ]; then
     # 本地运行（已 clone，脚本在仓库根目录）
     REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 else
@@ -39,7 +39,7 @@ else
     fi
 fi
 
-PLUGIN_SRC="$REPO_DIR/skills/gongfu-consultant"
+PLUGIN_SRC="$REPO_DIR/skills/gongfu-skill"
 
 if [ ! -f "$PLUGIN_SRC/plugin.yaml" ]; then
     warn "找不到插件文件: $PLUGIN_SRC/plugin.yaml"
@@ -59,7 +59,7 @@ fi
 mkdir -p "$PLUGINS_DIR"
 
 # ── 创建符号链接 ──
-LINK_TARGET="$PLUGINS_DIR/gongfu-consultant"
+LINK_TARGET="$PLUGINS_DIR/gongfu-skill"
 
 if [ -L "$LINK_TARGET" ] || [ -d "$LINK_TARGET" ]; then
     info "更新已有链接..."
@@ -72,10 +72,10 @@ ok "插件已链接: $LINK_TARGET → $PLUGIN_SRC"
 # ── 启用插件 ──
 if command -v hermes &>/dev/null; then
     info "启用插件..."
-    hermes plugins enable gongfu-consultant 2>/dev/null && ok "插件已启用" || warn "启用失败，请手动运行: hermes plugins enable gongfu-consultant"
+    hermes plugins enable gongfu-skill 2>/dev/null && ok "插件已启用" || warn "启用失败，请手动运行: hermes plugins enable gongfu-skill"
 else
     warn "未检测到 hermes 命令，请确认 Hermes Agent 已安装。"
-    warn "安装后手动运行: hermes plugins enable gongfu-consultant"
+    warn "安装后手动运行: hermes plugins enable gongfu-skill"
 fi
 
 # ── 完成 ──

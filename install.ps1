@@ -17,9 +17,9 @@ function Write-Warn($msg)  { Write-Host "[gongfu] $msg" -ForegroundColor Yellow 
 $RepoUrl = "https://github.com/Housebigger/gongfu-skill.git"
 $CloneDir = Join-Path $HOME ".gongfu-skill"
 
-if ($GongfuDir -ne "" -and (Test-Path (Join-Path $GongfuDir "skills\gongfu-consultant\plugin.yaml"))) {
+if ($GongfuDir -ne "" -and (Test-Path (Join-Path $GongfuDir "skills\gongfu-skill\plugin.yaml"))) {
     $RepoDir = $GongfuDir
-} elseif (Test-Path (Join-Path $PWD "skills\gongfu-consultant\plugin.yaml")) {
+} elseif (Test-Path (Join-Path $PWD "skills\gongfu-skill\plugin.yaml")) {
     # 本地运行（已 clone，脚本在仓库根目录）
     $RepoDir = $PWD
 } else {
@@ -37,7 +37,7 @@ if ($GongfuDir -ne "" -and (Test-Path (Join-Path $GongfuDir "skills\gongfu-consu
     }
 }
 
-$PluginSrc = Join-Path $RepoDir "skills\gongfu-consultant"
+$PluginSrc = Join-Path $RepoDir "skills\gongfu-skill"
 $PluginYaml = Join-Path $PluginSrc "plugin.yaml"
 
 if (-not (Test-Path $PluginYaml)) {
@@ -57,7 +57,7 @@ if (-not (Test-Path $PluginsDir)) {
 }
 
 # ── 创建符号链接（Windows 需要开发者模式或管理员权限） ──
-$LinkTarget = Join-Path $PluginsDir "gongfu-consultant"
+$LinkTarget = Join-Path $PluginsDir "gongfu-skill"
 
 # 先清理已有链接
 if (Test-Path $LinkTarget) {
@@ -91,14 +91,14 @@ $hermesCmd = Get-Command hermes -ErrorAction SilentlyContinue
 if ($hermesCmd) {
     Write-Info "启用插件..."
     try {
-        hermes plugins enable gongfu-consultant 2>$null
+        hermes plugins enable gongfu-skill 2>$null
         Write-Ok "插件已启用"
     } catch {
-        Write-Warn "启用失败，请手动运行: hermes plugins enable gongfu-consultant"
+        Write-Warn "启用失败，请手动运行: hermes plugins enable gongfu-skill"
     }
 } else {
     Write-Warn "未检测到 hermes 命令，请确认 Hermes Agent 已安装。"
-    Write-Warn "安装后手动运行: hermes plugins enable gongfu-consultant"
+    Write-Warn "安装后手动运行: hermes plugins enable gongfu-skill"
 }
 
 # ── 完成 ──

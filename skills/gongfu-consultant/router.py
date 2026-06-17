@@ -333,11 +333,11 @@ def assess_completeness(info: dict, route_to: list) -> dict:
     # Determine the single next question (priority order)
     next_question = None
     question_map = {
-        "cluster": "你现在在做什么行业？具体是什么岗位？",
-        "region": "你在哪个城市或地区？这会影响我对机会的判断。",
-        "age": "方便告诉我你的年龄吗？不同年龄段的建议会不一样。",
-        "finances": "你现在的经济状况怎么样？比如有没有几个月的生活费结余？",
-        "family": "家里人对你想做的这件事是什么态度？",
+        "cluster": "你目前在做什么工作？不用很正式，说说你平时主要干些什么就行。",
+        "region": "你在哪个地方？不同城市差别还挺大的，我帮你看看你那边的情况。",
+        "age": "方便告诉我你大概多大了吗？不同年纪，能走的路确实不太一样。",
+        "finances": "现在经济上压力大不大？比如有没有攒下一点备用金？这个会影响我给你的建议。",
+        "family": "家里人对你现在想的事是什么态度？他们的支持挺重要的。",
     }
     for field in ["cluster", "region", "age", "finances", "family"]:
         if field in missing:

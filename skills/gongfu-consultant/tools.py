@@ -1,17 +1,8 @@
 """Tool handlers — the code that runs when the LLM calls gongfu_consult.
 
-交互哲学（融合 Carl Rogers 以人为中心疗法 + Superpowers brainstorming）：
-
-来访者来到共富参谋时，往往已经背负着很大的压力。他们不是来做问卷调查的，
-是在扛不住的时候试着找一条路。所以——
-
-1. 先接住人，再接住问题（情绪优先于信息）
-2. 先倾听，再追问（积极倾听：复述+确认+共情）
-3. 一次只问一个问题（不要像填表）
-4. 不评判（用户已经够自责了，不要再加一层）
-5. 不替用户做决定（帮他看清选项和后果，决定权永远在他手里）
-6. 语气温和、循序渐进（春风化雨，不是雷厉风行）
-7. 真诚（不假惺惺，不灌鸡汤，该说真话的时候温和地说真话）
+第三代交互设计——春风化雨版：
+借鉴心理咨询行业原则（倾听先于提问、确认感受、节奏匹配、不评判、留退路），
+让来找你咨询的劳动者先感到被听到、被理解、被接住，再逐步进入分析。
 """
 
 import json
@@ -21,85 +12,133 @@ from . import router
 
 logger = logging.getLogger(__name__)
 
+# ── 加载心理咨询原则 ──
+_COUNSELING = router._load_yaml("counseling-principles.yaml")
 
-# ── 交互原则常量（贯穿所有模式）──
-TONE_GUIDE = (
-    "【交互语气·最重要】\n"
-    "来找你咨询的人，大多是在生活里扛着很大压力的普通劳动者。他们鼓起勇气开口，"
-    "不是来做问卷调查的，是想找一条路。请记住：\n"
-    "• 先接住人，再接住问题——第一句话永远是回应 ta 的感受，不是追问信息\n"
-    "• 一次只问一个问题——像朋友聊天一样，不要连珠炮\n"
-    "• 用温暖但真诚的语气——不假惺惺，不灌鸡汤，该说真话的时候温和地说真话\n"
-    "• 不评判——不管 ta 的处境多难，你永远不会说'你怎么不早做打算'\n"
-    "• 不替 ta 做决定——你帮 ta 看清选项和后果，但'走哪条路'永远是 ta 自己说了算\n"
-    "• 复述确认——用自己的话把 ta 的处境复述一遍，让 ta 知道你真的听懂了\n"
-    "• 允许沉默和犹豫——如果 ta 回答得简短，不要追问，给 ta 空间"
-)
 
-EMPATHY_RESPONSES = {
-    "耗竭": (
-        "听起来你这段时间真的很累。不是身体累，是心累——那种扛了很久、"
-        "快撑不住的感觉。你能说出来，已经很不容易了。"
-    ),
-    "焦虑/迷茫": (
-        "听起来你现在有些焦虑，不太确定下一步怎么走。这种感觉很正常——"
-        "变化太快的时候，谁都会有这种不确定感。"
-    ),
-    "正常": None,  # 不需要特殊共情
-}
+def _build_tone_instruction(triage_result: dict, phase: str) -> str:
+    """根据用户状态和交互阶段，生成语气/态度的指导指令。"""
+    info = triage_result.get("extracted_info", {})
+    special = triage_result.get("special_handling")
+    special_note = triage_result.get("special_note", "")
+
+    parts = []
+
+    # ── 全局语气基调（每次都提醒）──
+    parts.append(
+        "【语气基调】你在跟一个可能已经在现实中扛了很久的人说话。"
+        "说人话，用温度，不要像机器人在走流程。每句话都先想想：如果对面坐的是你累了一天的亲人，你会怎么说？"
+    )
+
+    # ── 倾听先于提问（intake 阶段的核心原则）──
+    if phase in ("need_basic_info", "assessing"):
+        parts.append(
+            "【倾听先于提问】你的第一句话不应该是追问信息，而应该先确认你听到了用户的感受。"
+            "用你自己的话把用户的核心情绪复述一遍——不是复述事实，是复述感受。"
+            "让用户知道：你在听，你听懂了，你不是在走流程。"
+        )
+
+    # ── 温柔的提问方式 ──
+    if phase == "assessing" and not triage_result.get("special_note"):
+        counseling = _COUNSELING.get("principles", {})
+        gentle = counseling.get("温柔的提问", {})
+        if gentle:
+            parts.append(
+                f"【温柔的提问】避免审问式直接提问。{gentle.get('desc', '')}"
+                "用'方便聊聊''不知道''大概就好'这类软化词，给用户留退路。"
+            )
+
+    # ── 耗竭/焦虑/自责的特殊处理 ──
+    if special == "exhaustion" or "耗竭" in (info.get("emotional_state") or ""):
+        special_handling = _COUNSELING.get("special_handling", {})
+        exhaustion = special_handling.get("耗竭信号", {})
+        parts.append(
+            f"【用户很累——先接住他】{exhaustion.get('first_response_rule', '')}"
+            "\n这一轮完全不追问信息。只做一件事：让他知道他的疲惫被看到了。"
+        )
+    elif info.get("emotional_state") == "焦虑/迷茫":
+        special_handling = _COUNSELING.get("special_handling", {})
+        anxiety = special_handling.get("焦虑信号", {})
+        if anxiety:
+            parts.append(f"【用户很焦虑——先稳住】{anxiety.get('first_response_rule', '')}")
+
+    # ── 分析阶段的语气 ──
+    if phase == "analyzing":
+        parts.append(
+            "【分析阶段的语气】给出判断时要像一个关心你的老朋友，不像一个冷冰冰的顾问。"
+            "先说好消息/优势（优势视角），再说需要注意的。"
+            "每条建议用'你可以试试……'而不是'你应该……'。"
+            "最后一定加一个安全出口：'以上供你参考，不管你怎么选都没关系。'"
+        )
+
+    # ── 不评判原则 ──
+    parts.append(
+        "【不评判】永远不要让用户觉得他的处境是他自己的错。"
+        "不说'你当初应该……'，不说'你怎么会……'。"
+        "他是来参谋下一步的，不是来受审的。"
+    )
+
+    return "\n".join(parts)
 
 
 def gongfu_consult(args: dict, **kwargs) -> str:
-    """共富参谋主入口——双模式：intake（倾听+收集）和 analyze（分析+输出）。"""
+    """共富参谋主入口——春风化雨版。
+
+    交互流程（借鉴 Superpowers brainstorming + 心理咨询原则）：
+    1. intake：先确认用户感受（不急着追问）→ 逐步了解情况 → 确认全景图
+    2. analyze：先说优势再说风险 → 温柔而诚实 → 留退路
+
+    核心改变（vs 第二代）：追问信息不再是第一优先——确认感受才是。
+    """
     situation = args.get("situation", "").strip()
     mode = args.get("mode", "intake")
 
     if not situation:
         return json.dumps({"error": "请描述你的情况"}, ensure_ascii=False)
 
-    # 分诊
     triage_result = router.triage(situation)
 
-    # 危机信号 → 安全第一
+    # ── 危机信号 → 不做任何职业判断 ──
     if triage_result.get("special_handling") == "crisis":
+        crisis = _COUNSELING.get("special_handling", {}).get("危机信号", {})
         return json.dumps({
             "type": "special",
             "handling": "crisis",
-            "message": triage_result["message"],
-            "tone_guide": TONE_GUIDE,
+            "message": crisis.get("rule", triage_result.get("message", "")),
+            "original_situation": situation,
             "instruction": (
-                "用户发出了危机信号。这是最重要的时刻——不要谈职业、不要谈行业、不要追问任何信息。"
-                "用最温和的语气告诉 ta：你听到了，你在乎 ta，ta 不是一个人。"
-                "然后提供专业援助资源。如果 ta 愿意继续说，就倾听。"
+                "【危机处理】用户可能正在经历非常困难的时刻。"
+                "你的回复必须温暖、不慌张、不说教、不分析职业问题。"
+                "表达你在意他，然后温柔地提供热线信息。"
+                "不要用机械的模板语气——像一个真正关心他的人在说话。"
             ),
         }, ensure_ascii=False, indent=2)
 
     if mode == "intake":
         return _handle_intake(situation, triage_result)
-
     return _handle_analyze(situation, triage_result)
 
 
 def _handle_intake(situation: str, triage_result: dict) -> str:
-    """Intake 模式：倾听→共情→了解→确认。不是信息采集，是对话。"""
+    """Intake 模式：春风化雨地收集信息。"""
 
     info = triage_result.get("extracted_info", {})
     route_to = triage_result.get("route_to", [])
-    emotion = info.get("emotional_state", "正常")
+    is_exhausted = (
+        triage_result.get("special_handling") == "exhaustion"
+        or info.get("emotional_state") == "耗竭"
+    )
 
-    # 用户的描述太模糊——但不要直接说"你说不清楚"
+    # 需要基本信息
     if triage_result.get("special_handling") == "need_more_info":
         return json.dumps({
             "type": "intake",
             "phase": "need_basic_info",
-            "tone_guide": TONE_GUIDE,
+            "message": triage_result["message"],
+            "tone_instruction": _build_tone_instruction(triage_result, "need_basic_info"),
             "instruction": (
-                "用户的描述比较简短，你还不太清楚 ta 想聊什么。"
-                "不要说'你的描述不够清楚'——那是填表思维。"
-                "用一个温和的开放式问题开场，比如：\n"
-                "  '谢谢你愿意跟我说。能多聊一点你现在的情况吗？比如你目前在做什么，"
-                "或者最让你烦心的是哪件事？'\n"
-                "让 ta 自己决定从哪里开始讲。"
+                "用户说得比较模糊。但不要急着追问——先回应他说的那一两句话里你感受到的东西。"
+                "然后用最轻的方式，问他最想聊的是什么。一次只问一个，像聊天不像填表。"
             ),
         }, ensure_ascii=False, indent=2)
 
@@ -111,7 +150,7 @@ def _handle_intake(situation: str, triage_result: dict) -> str:
     if info.get("cluster"):
         profile_parts.append(f"行业：{info['cluster']}")
     if info.get("industry"):
-        profile_parts.append(f"方向：{info['industry']}")
+        profile_parts.append(f"具体方向：{info['industry']}")
     if info.get("region_name"):
         profile_parts.append(f"地域：{info['region_name']}")
     if info.get("age"):
@@ -120,68 +159,65 @@ def _handle_intake(situation: str, triage_result: dict) -> str:
         profile_parts.append(f"财务：{info['finances']}")
     if info.get("family"):
         profile_parts.append(f"家庭：{info['family']}")
-    if emotion != "正常":
-        profile_parts.append(f"情绪：{emotion}")
-
-    # 共情回应
-    empathy = EMPATHY_RESPONSES.get(emotion)
+    if info.get("emotional_state") and info["emotional_state"] != "正常":
+        profile_parts.append(f"情绪状态：{info['emotional_state']}")
 
     result = {
         "type": "intake",
         "phase": "assessing",
-        "tone_guide": TONE_GUIDE,
         "user_profile": " ｜ ".join(profile_parts) if profile_parts else "（信息较少）",
         "detected_intents": [i["intent"] for i in triage_result.get("detected_intents", [])],
         "route_to": route_to,
         "completeness": completeness,
-        "empathy_suggestion": empathy,
+        "tone_instruction": _build_tone_instruction(triage_result, "assessing"),
     }
 
-    # 根据情况给出不同的交互指令
-    if emotion in ("耗竭",) :
-        # 情绪优先：第一轮绝不追问信息
+    if is_exhausted:
+        # 耗竭用户：完全不追问，先接住
         result["phase"] = "emotional_first_aid"
         result["instruction"] = (
-            "这是最重要的时刻。用户现在很累——不是身体的累，是心里的累。"
-            "你的第一个回复要做三件事，而且只做这三件事：\n"
-            "1. 让 ta 知道你听到了——用你自己的话复述 ta 的处境（'听起来你最近……'）\n"
-            "2. 正常化 ta 的感受——'扛了这么久，换谁都会累的'\n"
-            "3. 不追问任何信息——如果 ta 想继续说，你就听；如果 ta 只是想找人说说话，那就陪着\n"
-            "不要在这一轮提行业、提建议、提任何'你应该'。人在耗竭状态下听不进去道理，"
-            "ta 只需要知道：有人听到了，有人在乎。"
-        )
-    elif emotion in ("焦虑/迷茫",):
-        result["instruction"] = (
-            "用户现在有些焦虑和迷茫。先回应 ta 的感受（'听起来你现在不太确定……'），"
-            "然后温和地问一个问题开始了解。不要一次问太多——"
-            "ta 需要感觉这是一个安全的、不会被评判的对话。"
+            "【这一轮不要追问任何信息。】用户明显很累。"
+            "你的回复只做一件事：让他知道他说的那些话，你都听到了，而且你理解他为什么累。"
+            "不需要分析、不需要建议、不需要追问。就只是——'我在，我听到了'。"
+            "等他下一轮回复时，看他的能量状态再决定要不要开始了解情况。"
         )
     elif completeness["ready"]:
         result["phase"] = "ready_to_analyze"
         result["instruction"] = (
-            "你已经了解了足够的信息。在给出分析之前，先做一件事：\n"
-            "用你自己的话，温和地复述 ta 的完整情况——就像在说'我先确认一下，我理解得对不对'。\n"
-            "比如：'我先梳理一下你说的——你现在……，最让你头疼的是……，是这样吗？'\n"
-            "等 ta 说'对'或者补充修正后，再调用 mode='analyze'。\n"
-            "这一步看起来多余，但很重要——它让用户感觉被认真对待，也能避免你理解偏差。"
+            "信息收集得差不多了。在进入分析之前，先用你自己的话把用户的情况复述一遍，"
+            "像这样：'我先整理一下你说的情况，你看我理解得对不对——……'。"
+            "复述的时候带温度，不是读清单。确认无误后再调用 analyze。"
         )
     else:
-        result["instruction"] = (
-            f"还需要再了解一些情况，但不要让用户感觉在被审问。\n"
-            f"建议的方向是了解「{completeness['next_question']}」，但你要用聊天的方式问。\n"
-            f"比如不要问'你在哪个城市'，而是说'你目前在哪个地方发展？不同地方情况差别挺大的。'\n"
-            f"先回应 ta 已经说过的内容（哪怕一句'听起来确实不容易'），再自然地引出问题。\n"
-            f"用户回答后，把所有信息拼在一起，再次调用 gongfu_consult(mode='intake')。"
-        )
+        # 需要追问——但要温柔
+        counseling = _COUNSELING.get("principles", {}).get("温柔的提问", {})
+        gentle_examples = counseling.get("examples", {})
+        # 英文字段名 → YAML中文键名映射
+        field_to_cn = {
+            "cluster": "行业", "region": "地域", "age": "年龄",
+            "finances": "财务", "family": "家庭",
+        }
+        hint = ""
+        for field in ["cluster", "region", "age", "finances", "family"]:
+            if field in completeness.get("missing_fields", []):
+                cn_key = field_to_cn.get(field, field)
+                example = gentle_examples.get(cn_key, {})
+                hint = example.get("good", completeness["next_question"])
+                break
+        if not hint:
+            hint = completeness.get("next_question", "")
 
-    if triage_result.get("special_note"):
-        result["special_note"] = triage_result["special_note"]
+        result["instruction"] = (
+            f"还需要补充一些信息，但要温柔地追问，不要审问。"
+            f"建议的问法参考（用你自己的话调整）：{hint}"
+            f"\n记住：一次只问一个。先回应上一轮用户说的话，再自然地引出这个问题。"
+        )
 
     return json.dumps(result, ensure_ascii=False, indent=2)
 
 
 def _handle_analyze(situation: str, triage_result: dict) -> str:
-    """Analyze 模式：加载知识库，组装判断指南。"""
+    """Analyze 模式：温柔而诚实地输出判断。"""
 
     info = triage_result.get("extracted_info", {})
     route_to = triage_result.get("route_to", [])
@@ -189,7 +225,6 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
 
     if "industry-scan" in route_to and info.get("cluster"):
         knowledge_context["industry"] = router.get_industry_signal(info["cluster"])
-
     if "startup-feasibility" in route_to:
         startup_data = router._load_yaml("startup-paths.yaml")
         knowledge_context["startup"] = {
@@ -200,7 +235,6 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
                       for k, v in startup_data.get("paths", {}).items()},
             "red_lines": startup_data.get("red_lines", []),
         }
-
     if "growth-planner" in route_to:
         growth_data = router._load_yaml("growth-profiles.yaml")
         knowledge_context["growth"] = {
@@ -210,7 +244,6 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
                              "routes": [r.get("name", "") + ": " + r.get("desc", "") for r in v.get("routes", [])]}
                          for k, v in growth_data.get("profiles", {}).items()},
         }
-
     if "collaboration-match" in route_to:
         collab_data = router._load_yaml("collaboration-forms.yaml")
         knowledge_context["collaboration"] = {
@@ -219,7 +252,6 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
                       for k, v in collab_data.get("forms", {}).items()},
             "red_lines": collab_data.get("red_lines", []),
         }
-
     if "opportunity-radar" in route_to:
         opp_data = router._load_yaml("opportunities.yaml")
         knowledge_context["opportunities"] = {
@@ -230,7 +262,6 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
                               for k, v in opp_data.get("opportunities", {}).items()},
             "perspectives": {k: v.get("summary") for k, v in opp_data.get("perspectives", {}).items()},
         }
-
     if "problem-diagnosis" in route_to:
         knowledge_context["diagnosis_tools"] = {
             "stage_judgment": router._METHODOLOGY.get("stage_judgment", {}),
@@ -238,16 +269,20 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
                                 for k, v in router._METHODOLOGY.get("tools", {}).items()},
         }
 
+    # 优势视角：提炼用户已经拥有的
+    strengths = _identify_strengths(info, situation)
+    if strengths:
+        knowledge_context["user_strengths"] = strengths
+
     result = {
         "type": "analysis",
-        "tone_guide": TONE_GUIDE,
         "user_situation": situation,
         "triage": {
             "detected_intents": [i["intent"] for i in triage_result.get("detected_intents", [])],
             "route_to": route_to,
             "extracted_info": info,
         },
-        "special_note": triage_result.get("special_note"),
+        "tone_instruction": _build_tone_instruction(triage_result, "analyzing"),
         "knowledge_context": knowledge_context,
         "execution_guide": _build_execution_guide(route_to, info, triage_result),
     }
@@ -255,66 +290,67 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
     return json.dumps(result, ensure_ascii=False, indent=2)
 
 
+def _identify_strengths(info: dict, situation: str) -> list:
+    """从用户信息中识别他已经拥有的优势（优势视角原则）。"""
+    strengths = []
+    # 来咨询本身就是优势
+    strengths.append("愿意主动想办法——很多人在困境里只会忍，你会来寻求帮助，这本身就是行动力")
+    if info.get("age") and 25 <= info["age"] <= 45:
+        strengths.append("正处于职业黄金期——有经验、有力气、还有转变的时间窗口")
+    if info.get("cluster"):
+        strengths.append(f"在{info['cluster']}有行业经验——这是你的底牌，不是包袱")
+    if info.get("family") and info["family"] in ("有伴侣", "已婚"):
+        strengths.append("有家人在身边——不管态度如何，你不是一个人")
+    if info.get("finances") and info["finances"] in ("有结余", "有存款"):
+        strengths.append("有一定的经济缓冲——这给你试错的空间")
+    if any(kw in situation for kw in ["学了", "考了", "在学", "在考", "考了证", "学过"]):
+        strengths.append("已经在学新东西了——你比自以为的更努力")
+    return strengths
+
+
 def _build_execution_guide(route_to: list, info: dict, triage_result: dict) -> str:
-    """Build a text guide telling the LLM how to sequence the skills."""
+    """Build a text guide with warm, counseling-informed tone."""
     steps = []
     step_num = 1
-    emotion = info.get("emotional_state", "正常")
 
-    # 开场：先回到这个人
-    steps.append(
-        f"开场（比所有分析都重要）：用一两句话让用户感到被理解。"
-        "不是客套的'我理解你'，是具体地复述 ta 的处境——"
-        "'你扛了这么久，真的很不容易。现在咱们一起来看看，有哪些路可以走。'"
-    )
-    step_num += 1
+    # Step 0: 先说优势（优势视角）
+    strengths = _identify_strengths(info, triage_result.get("extracted_info", {}).get("situation", ""))
+    if strengths:
+        steps.append(f"第{step_num}步：先说优势。在分析之前，先告诉用户他手里已经有什么牌——"
+                     f"不是安慰，是让他看到自己不是从零开始。")
+        step_num += 1
 
-    # 如果情绪耗竭，在分析前先给 ta 喘息
-    if emotion == "耗竭":
-        steps.append(
-            f"第{step_num}步：温柔地提醒——在开始分析之前，ta 需要知道一件事："
-            "在很累的状态下做的决定，往往不是最好的决定。"
-            "不是劝 ta 不要想这些事，是让 ta 知道'不急着现在就做决定'。"
-            "用相持阶段的逻辑：这不是要速胜也不是要认输，是先歇一歇、攒点力气再走。"
-        )
+    if triage_result.get("special_handling") == "exhaustion":
+        steps.append(f"第{step_num}步：用相持阶段框架——'你现在经历的这段时间，不是你不行，是一个绕不过去的阶段。"
+                     "它叫相持阶段。最难熬，但也最关键。'用持久战的语气，不说速胜也不说速败。")
         step_num += 1
 
     for skill in route_to:
         if skill == "problem-diagnosis":
-            steps.append(f"第{step_num}步：帮 ta 看清——ta 真正的问题是什么？"
-                         "不是表面的'要不要换工作'，是更深的那一层。"
-                         "用矛盾分析：什么是主要矛盾？ta 现在处于哪个阶段（速决/相持/反攻）？"
-                         "但说的时候不要用术语——用人话，像朋友帮 ta 梳理一样。")
+            steps.append(f"第{step_num}步：诊断主要矛盾——但说成'我们来理一理，你现在最卡的那个点到底是什么'，"
+                         "不是'你的主要矛盾是'。用人话，不用术语。")
         elif skill == "industry-scan":
             cluster = info.get("cluster", "未识别")
-            steps.append(f"第{step_num}步：说说 ta 的行业——行业={cluster}。"
-                         "告诉 ta 大方向（增/转/缩），但不要只给冰冷的数据。"
-                         "要说清楚：'这个行业整体在往上走/在转型/在收缩'，然后说'这意味着对你来说……'")
+            steps.append(f"第{step_num}步：聊行业前景——'你这个方向，说实话我是看好的/有担心的/需要转型的'，"
+                         "先给方向再给细节。好消息和坏消息都要说，但先说好的。")
         elif skill == "startup-feasibility":
-            steps.append(f"第{step_num}步：如果 ta 想创业——先做劝退检查。"
-                         "如果命中劝退条件，温和但明确地说：'现在可能不是最好的时机'，"
-                         "并告诉 ta 先做什么（比如先稳定财务/先和家人聊聊/先学一门技能）。"
-                         "如果没命中，给 ta 一条最适合的路和第一步该做什么。"
-                         "红线一定要说，但用'提醒'的语气而不是'警告'。")
+            steps.append(f"第{step_num}步：评估创业——如果劝退，要温柔地说'现在可能不是最好的时机'，"
+                         "不说'你不适合创业'。如果有戏，先说'这个方向是有机会的'再说'但要注意'。")
         elif skill == "growth-planner":
-            steps.append(f"第{step_num}步：给 ta 一条成长路线——"
-                         "不用太长，抓重点：ta 现在在哪一层，下一步该往哪走，第一步做什么。"
-                         "给 ta 希望但不夸大——'这条路需要时间，但走得通'。")
+            steps.append(f"第{step_num}步：规划成长——'你现在的位置其实不差，接下来可以这样走……'，"
+                         "让用户感到是在往前走，不是在追赶。")
         elif skill == "collaboration-match":
-            steps.append(f"第{step_num}步：如果 ta 需要找人合作——"
-                         "告诉 ta 适合哪种协作方式，第一次合作从最松的开始。"
-                         "分钱的事要说清楚——'先小人后君子，反而能走得更远'。")
+            steps.append(f"第{step_num}步：聊合作——'一个人扛确实太重了，也许可以考虑……'，"
+                         "把协作说成减轻负担而不是增加复杂度。")
         elif skill == "opportunity-radar":
-            steps.append(f"第{step_num}步：说说 ta 关心的方向未来会怎样——"
-                         "给方向不预测时间。指出被低估的机会，也诚实说不确定性。")
+            steps.append(f"第{step_num}步：聊趋势——'往远了看，大方向其实是对你有利的/需要警惕的'，"
+                         "给希望但不给幻觉。")
         step_num += 1
 
-    steps.append(
-        f"第{step_num}步（收尾·同样重要）：结尾不是总结，是送 ta 一句话。"
-        "不是'祝你好运'，是一个具体的、有力量的、属于 ta 这个人的收尾。"
-        "让 ta 知道：不管选择走哪条路，这条路都有人在走，而且走得通。\n\n"
-        "格式要求：必须包含主要判断+行动建议+风险红线+一句话收尾。"
-        "说人话，不说术语。温暖但不虚假，真诚但不冷漠。"
-    )
+    steps.append(f"第{step_num}步：收尾。用一句话总结，但不是冷冰冰的结论。"
+                 "像'不管怎样，你能认真想这些就说明你对自己是负责的。"
+                 "以上供你参考——最终怎么走，你自己定。不管选什么，都没关系。'"
+                 "\n记住：你是共富参谋，你的读者是一线劳动者。"
+                 "说人话，有温度，不灌鸡汤，不说术语。先让他感到被尊重，再让他感到被帮助。")
 
     return "\n".join(steps)

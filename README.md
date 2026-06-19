@@ -1,6 +1,6 @@
 # gongfu-skill
 
-<img src="docs/banner.svg" alt="gongfu-skill 共富参谋" width="100%"/>
+<img src="image/20260618-074114.jpeg" alt="gongfu-skill 共富参谋" width="100%"/>
 
 这里的 `gongfu`，取"共富"之意。
 

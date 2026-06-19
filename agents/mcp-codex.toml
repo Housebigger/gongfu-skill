@@ -1,0 +1,8 @@
+# Codex MCP 配置片段
+#
+# 把这段追加到 ~/.codex/config.toml 即可。
+# 记得把 REPO 替换为你的仓库实际路径。
+
+[mcp_servers.gongfu_skill]
+command = "REPO/.venv/bin/python"
+args = ["REPO/mcp_server/server.py"]

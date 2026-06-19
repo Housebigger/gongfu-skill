@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gongfu-skill": {
+      "command": "REPO/.venv/bin/python",
+      "args": ["REPO/mcp_server/server.py"]
+    }
+  }
+}

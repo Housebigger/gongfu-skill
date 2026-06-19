@@ -203,6 +203,50 @@ curl -X POST http://127.0.0.1:8787/consult \
 
 ---
 
+## 适配更多编程 Agent（ZCode / Codex / Claude Code）
+
+共富参谋针对主流编程 Agent 提供了即用的适配文件，都在 `agents/` 目录下。
+
+### 一键安装
+
+```bash
+bash agents/install.sh    # 交互式选择你的平台
+```
+
+### Claude Code
+
+两种方式：
+
+**MCP Server（推荐，动态路由）：**
+```bash
+claude mcp add gongfu-skill -- /你的路径/gongfu-skill/.venv/bin/python /你的路径/gongfu-skill/mcp_server/server.py
+```
+或用现成配置文件 `agents/mcp-claude-code.json`：`claude -p "task" --mcp-config agents/mcp-claude-code.json`
+
+**静态知识包：** 把 `claude-skills/` 目录放入项目，Claude Code 自动读取 `CLAUDE.md`。
+
+### Codex CLI
+
+两种方式：
+
+**MCP Server：** 把 `agents/mcp-codex.toml` 的内容追加到 `~/.codex/config.toml`（记得替换路径）。
+
+**AGENTS.md 指令：** 把 `agents/AGENTS.md` 复制到项目根目录或 `~/.codex/AGENTS.md`，Codex 启动时自动读取。
+
+### ZCode
+
+ZCode 的 skill 格式与现有的 SKILL.md 完全一致。把 `agents/zcode-skills/` 下的各模块复制到 `~/.zcode/skills/`：
+
+```bash
+cp -r agents/zcode-skills/* ~/.zcode/skills/
+```
+
+然后在 ZCode 中：Settings → Skills → Refresh，对话中用 `$industry-scan 分析制造业前景` 调用。
+
+也可以用 ZCode 的 Import 功能，直接从 Claude Code / Codex 导入已有 skill。
+
+---
+
 ## 仓库结构速览
 
 ```
@@ -236,6 +280,12 @@ gongfu-skill/
 │   ├── CLAUDE.md          入口文件
 │   ├── skills/            7 个 SKILL.md
 │   └── data/              8 个 YAML 知识库
+├── agents/                编程 Agent 适配（ZCode / Codex / Claude Code）
+│   ├── install.sh         一键安装脚本（交互式）
+│   ├── AGENTS.md          Codex CLI 自定义指令
+│   ├── mcp-claude-code.json  Claude Code MCP 配置
+│   ├── mcp-codex.toml     Codex MCP 配置片段
+│   └── zcode-skills/      ZCode skill 文件（7 skill + data）
 ├── pyproject.toml         项目配置（MCP + API 双入口）
 └── README.md
 ```

@@ -106,6 +106,59 @@ iwr -useb https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/instal
 
 ---
 
+## 在其他 Agent 平台使用（MCP Server）
+
+共富参谋不止适配 Hermes——它同时是一个标准 **MCP Server**，可以在 Claude Desktop、Cursor、Cline、Windsurf、Continue 等所有支持 MCP 的客户端里直接使用。同一个引擎，同一套知识库，换个壳就能跑。
+
+### 准备环境
+
+```bash
+git clone https://github.com/Housebigger/gongfu-skill.git
+cd gongfu-skill
+uv venv --python 3.12 .venv && source .venv/bin/activate
+uv pip install mcp pyyaml
+```
+
+记下你的仓库路径（下面用 `REPO` 代替），比如 `/Users/你/gongfu-skill`。
+
+### Claude Desktop
+
+编辑 `~/Library/Application Support/Claude/claude_desktop_config.json`：
+
+```json
+{
+  "mcpServers": {
+    "gongfu-skill": {
+      "command": "REPO/.venv/bin/python",
+      "args": ["REPO/mcp_server/server.py"]
+    }
+  }
+}
+```
+
+重启 Claude Desktop，对话里直接说"我想开个维修店不知道行不行"，它会自动调用共富参谋。
+
+### Cursor
+
+编辑 `~/.cursor/mcp.json`（全局）或项目内 `.cursor/mcp.json`：
+
+```json
+{
+  "mcpServers": {
+    "gongfu-skill": {
+      "command": "REPO/.venv/bin/python",
+      "args": ["REPO/mcp_server/server.py"]
+    }
+  }
+}
+```
+
+### Cline / Windsurf / 其他 MCP 客户端
+
+配置格式一样——`command` 指向 venv 里的 python，`args` 指向 `mcp_server/server.py`。
+
+---
+
 ## 仓库结构速览
 
 ```
@@ -131,6 +184,9 @@ gongfu-skill/
 │   ├── growth-planner/    | collaboration-match/ | opportunity-radar/
 │   ├── situation-triage/  路由层
 │   └── 00-skill设计规范.md
+├── mcp_server/            MCP Server（适配 Claude Desktop / Cursor 等）
+│   └── server.py          stdio 传输，复用同一套引擎
+├── pyproject.toml         项目配置 + MCP 依赖
 └── README.md
 ```
 

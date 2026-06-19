@@ -1,6 +1,6 @@
 # gongfu-skill
 
-<img src="image/20260618-074114.jpeg" alt="gongfu-skill 共富参谋" width="100%"/>
+<img src="image/front_pic.png" alt="gongfu-skill 共富参谋" width="100%"/>
 
 全民共享，共同富裕。
 
@@ -159,6 +159,50 @@ uv pip install mcp pyyaml
 
 ---
 
+## 作为 HTTP API 使用
+
+如果你的平台不支持 MCP（比如 Coze / Dify / FastGPT / 自定义 agent），可以直接用 HTTP API。基于 starlette，零额外依赖。
+
+### 启动服务
+
+```bash
+cd gongfu-skill
+source .venv/bin/activate
+python api_server/server.py                  # 默认 127.0.0.1:8787
+python api_server/server.py --port 9000      # 自定义端口
+python api_server/server.py --host 0.0.0.0   # 允许外部访问
+```
+
+### 调用接口
+
+```bash
+curl -X POST http://127.0.0.1:8787/consult \
+  -H "Content-Type: application/json" \
+  -d '{"situation":"我30岁在工厂干了10年，最近产线上了机器人，我怕被替代","mode":"intake"}'
+```
+
+返回 JSON，结构跟 MCP / Hermes 工具完全一致——三个壳共享同一套引擎。
+
+| 接口 | 方法 | 说明 |
+|------|------|------|
+| `/consult` | POST | 主接口，body: `{"situation": "...", "mode": "intake\|analyze"}` |
+| `/health` | GET | 健康检查 |
+| `/` | GET | API 信息 |
+
+---
+
+## 作为 Claude Code 知识包使用
+
+`claude-skills/` 目录是一个自包含的知识包，可以直接放进 Claude Code 项目。包含 7 个 SKILL.md + 8 个 YAML 知识库 + 一个 CLAUDE.md 入口。
+
+### 用法
+
+把 `claude-skills/` 目录放入你的项目，Claude Code 会自动读取 `CLAUDE.md`。然后直接用大白话提问就行——Claude 会根据问题自动匹配对应的知识模块。
+
+也可以手动指定模块：`请读取 skills/industry-scan/SKILL.md，帮我分析制造业产线工人的前景`。
+
+---
+
 ## 仓库结构速览
 
 ```
@@ -186,7 +230,13 @@ gongfu-skill/
 │   └── 00-skill设计规范.md
 ├── mcp_server/            MCP Server（适配 Claude Desktop / Cursor 等）
 │   └── server.py          stdio 传输，复用同一套引擎
-├── pyproject.toml         项目配置 + MCP 依赖
+├── api_server/            HTTP API（适配 Coze / Dify / FastGPT 等）
+│   └── server.py          starlette + uvicorn，零额外依赖
+├── claude-skills/         Claude Code 知识包（自包含，可直接放入项目）
+│   ├── CLAUDE.md          入口文件
+│   ├── skills/            7 个 SKILL.md
+│   └── data/              8 个 YAML 知识库
+├── pyproject.toml         项目配置（MCP + API 双入口）
 └── README.md
 ```
 

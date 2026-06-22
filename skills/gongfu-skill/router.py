@@ -276,6 +276,25 @@ def get_industry_signal(cluster: str) -> dict:
     }
 
 
+# ── 集群认知框架 ──
+_FRAMEWORKS_DIR = Path(__file__).resolve().parent.parent.parent / "methodology" / "cluster_frameworks"
+
+
+def get_cluster_framework(cluster: str) -> str:
+    """Get the cognitive framework text for a cluster.
+
+    Returns the full markdown content of the framework file, or empty string if not found.
+    These frameworks connect methodology (伟人思想) to specific industry clusters,
+    giving workers a "how to think about your industry" cognitive layer.
+    """
+    if not cluster:
+        return ""
+    framework_path = _FRAMEWORKS_DIR / f"{cluster}.md"
+    if not framework_path.exists():
+        return ""
+    return framework_path.read_text(encoding="utf-8")
+
+
 def get_regional_score(opportunity: str, region: str) -> int:
     """Get the opportunity score for a region from the matrix."""
     matrix = _REGIONAL.get("opportunity_matrix", {})

@@ -225,6 +225,10 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
 
     if "industry-scan" in route_to and info.get("cluster"):
         knowledge_context["industry"] = router.get_industry_signal(info["cluster"])
+        # 加载集群认知框架（方法论思想 × 行业挂钩）
+        framework = router.get_cluster_framework(info["cluster"])
+        if framework:
+            knowledge_context["cluster_framework"] = framework
     if "startup-feasibility" in route_to:
         startup_data = router._load_yaml("startup-paths.yaml")
         knowledge_context["startup"] = {

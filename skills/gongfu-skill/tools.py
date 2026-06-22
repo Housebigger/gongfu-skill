@@ -269,9 +269,21 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
     if "problem-diagnosis" in route_to:
         knowledge_context["diagnosis_tools"] = {
             "stage_judgment": router._METHODOLOGY.get("stage_judgment", {}),
-            "tools_available": {k: {"principle": v.get("principle"), "one_liner": v.get("one_liner")}
+            "tools_available": {k: {"principle": v.get("principle", ""), "one_liner": v.get("one_liner", "")}
                                 for k, v in router._METHODOLOGY.get("tools", {}).items()},
         }
+
+    # ── 注入马克思主义工具与启发（与毛泽东工具互补）──
+    marxism_tools = []
+    if info.get("cluster"):
+        marxism_tools = router.get_marxism_tools_for_cluster(info["cluster"])
+    if marxism_tools:
+        knowledge_context["marxism_tools"] = marxism_tools
+
+    # 匹配最相关的马克思主义启发文件
+    marxism_insp = router.get_marxism_inspiration(situation, info.get("cluster"), limit=2)
+    if marxism_insp:
+        knowledge_context["marxism_inspiration"] = marxism_insp
 
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)

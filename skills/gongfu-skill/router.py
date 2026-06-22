@@ -19,6 +19,7 @@ def _load_yaml(filename):
         return yaml.safe_load(f) or {}
 
 _METHODOLOGY = _load_yaml("methodology-tools.yaml")
+_MARXISM_TOOLS = _load_yaml("marxism-tools.yaml")
 _INDUSTRY = _load_yaml("industry-signals.yaml")
 _REGIONAL = _load_yaml("regional-matrix.yaml")
 
@@ -293,6 +294,124 @@ def get_cluster_framework(cluster: str) -> str:
     if not framework_path.exists():
         return ""
     return framework_path.read_text(encoding="utf-8")
+
+
+# ── 马克思主义工具与启发 ──
+_MARXISM_INSPIRATION_DIR = Path(__file__).resolve().parent.parent.parent / "methodology" / "marxism" / "inspiration"
+
+
+def get_marxism_tools_for_cluster(cluster: str) -> list:
+    """Get the most relevant marxism thinking tools for a cluster.
+
+    Returns a list of tool dicts with principle, one_liner, quote_source.
+    """
+    if not cluster:
+        return []
+    cluster_match = _MARXISM_TOOLS.get("cluster_match", {})
+    tool_keys = cluster_match.get(cluster, [])
+    all_tools = _MARXISM_TOOLS.get("tools", {})
+    result = []
+    for key in tool_keys:
+        tool = all_tools.get(key, {})
+        if tool:
+            result.append({
+                "name": key,
+                "principle": tool.get("principle", ""),
+                "one_liner": tool.get("one_liner", ""),
+                "use_when": tool.get("use_when", ""),
+                "quote_source": tool.get("quote_source", ""),
+            })
+    return result
+
+
+def get_marxism_inspiration(situation: str, cluster: str = None, limit: int = 2) -> list:
+    """Find the most relevant marxism inspiration files for a given situation.
+
+    Scans the marxism inspiration directory, matches files by keyword relevance
+    to the user's situation and cluster.
+    Returns a list of {title, excerpt} dicts.
+    """
+    if not _MARXISM_INSPIRATION_DIR.exists():
+        return []
+
+    # Keywords derived from the situation text
+    situation_lower = situation.lower() if situation else ""
+
+    # Cluster-specific keyword boost
+    cluster_keywords = {
+        "A-先进制造与硬科技": ["工厂", "产线", "制造", "设备", "嵌入式", "技能"],
+        "B-数字与智能产业": ["程序员", "代码", "AI", "互联网", "算法"],
+        "C-绿色能源全链": ["光伏", "风电", "电站", "运维", "电工"],
+        "D-农业与乡村振兴": ["农村", "返乡", "种植", "农业", "县城"],
+        "E-民生服务": ["养老", "护理", "服务", "人"],
+        "F-文化创意与出海": ["内容", "创作", "出海", "短剧"],
+        "G-基建物流房地产": ["外卖", "骑手", "快递", "物流", "建筑"],
+        "H-新兴未来产业": ["机器人", "无人机", "AI", "新兴"],
+        "I-传统矿业与资源开采": ["矿", "矿工"],
+        "J-传统轻纺与日用制造": ["纺织", "服装", "工厂"],
+        "K-传统重化工与建材": ["钢铁", "水泥", "化工"],
+        "L-商贸零售与餐饮住宿": ["店", "零售", "餐饮", "电商"],
+        "M-金融与商务服务": ["银行", "金融", "工资", "保险"],
+        "N-教育与培训": ["教师", "教育", "学习", "培训"],
+        "O-居民生活服务": ["美容", "维修", "宠物", "汽修"],
+        "P-公用事业与市政服务": ["环卫", "公交", "司机"],
+    }
+
+    scored_files = []
+    for f in _MARXISM_INSPIRATION_DIR.rglob("*.md"):
+        if f.name in ("README.md", "index.md"):
+            continue
+        try:
+            text = f.read_text(encoding="utf-8")
+        except Exception:
+            continue
+
+        # Score by keyword matches in title + first 800 chars
+        title = f.stem
+        excerpt_zone = (title + " " + text[:800]).lower()
+        score = 0
+
+        # Situation keyword match — use meaningful 2+ char substrings
+        situation_keywords = ["嵌入式", "开发", "深圳", "累", "工资", "前景", "行业",
+                              "机器人", "养老", "护理", "外卖", "骑手", "快递", "矿工",
+                              "纺织", "钢铁", "水泥", "化工", "程序员", "教师", "教育",
+                              "焦虑", "迷茫", "转行", "创业", "开店", "副业", "考证",
+                              "学习", "合作", "合伙", "未来", "趋势", "被替代", "AI",
+                              "光伏", "风电", "农业", "返乡", "县城", "银行", "餐饮",
+                              "汽修", "美容", "宠物", "环卫", "公交", "司机"]
+        for word in situation_keywords:
+            if word in situation_lower and word in excerpt_zone:
+                score += 2
+
+        # Cluster keyword boost
+        if cluster and cluster in cluster_keywords:
+            for kw in cluster_keywords[cluster]:
+                if kw in excerpt_zone:
+                    score += 5
+
+        # Emotional state keywords
+        for kw in ["累", "穷", "焦虑", "迷茫", "不想干", "压力", "加班", "被替代"]:
+            if kw in situation_lower and kw in excerpt_zone:
+                score += 3
+
+        if score > 0:
+            # Extract first meaningful paragraph as excerpt
+            lines = text.split("\n")
+            excerpt_lines = []
+            for line in lines:
+                stripped = line.strip()
+                if stripped and not stripped.startswith("#") and not stripped.startswith(">") and not stripped.startswith("日期") and not stripped.startswith("原文对应") and not stripped.startswith("说明："):
+                    excerpt_lines.append(stripped)
+                    if len(excerpt_lines) >= 2:
+                        break
+            excerpt = " ".join(excerpt_lines)[:300]
+            scored_files.append((score, title, excerpt, str(f.relative_to(_MARXISM_INSPIRATION_DIR))))
+
+    scored_files.sort(key=lambda x: x[0], reverse=True)
+    return [
+        {"title": title, "excerpt": excerpt, "path": path}
+        for _, title, excerpt, path in scored_files[:limit]
+    ]
 
 
 def get_regional_score(opportunity: str, region: str) -> int:

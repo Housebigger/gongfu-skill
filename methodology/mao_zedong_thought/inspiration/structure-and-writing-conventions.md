@@ -9,7 +9,7 @@ Choose the practical application first, then place the file under the appropriat
 
 ## Current root
 
-- `methodology/great_man_inspiration/`
+- `methodology/mao_zedong_thought/inspiration/`
   - `inspiration_on_embedded_coding/`
   - `inspiration_on_software_development/`
   - `inspiration_on_today_life/`
@@ -22,7 +22,7 @@ Choose the practical application first, then place the file under the appropriat
 
 ### If the note is mainly about embedded engineering method
 Place it under:
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/`
 
 Then choose one:
 - `engineering_strategy/`
@@ -35,7 +35,7 @@ Use this only for embedded software, firmware, drivers, hardware-coupled debuggi
 
 ### If the note is mainly about general software development
 Place it under:
-`methodology/great_man_inspiration/inspiration_on_software_development/`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_software_development/`
 
 Then choose one:
 - `product_strategy/`
@@ -49,7 +49,7 @@ Use this for mobile apps, WeChat mini programs, frontend and backend products, w
 
 ### If the note is mainly about ordinary life in the present era
 Place it under:
-`methodology/great_man_inspiration/inspiration_on_today_life/`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_today_life/`
 
 Then choose one:
 - `survival_strategy/`
@@ -66,7 +66,7 @@ Prefer these reserved themes:
 
 ### If the note is mainly about education practice
 Place it under:
-`methodology/great_man_inspiration/inspiration_on_educational_undertakings/`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_educational_undertakings/`
 
 Then choose one:
 - `student_understanding_and_guidance/`
@@ -122,4 +122,4 @@ Practical expectations:
 Whenever a new note is added:
 1. update the local theme `index.md`
 2. update any series index that links to the note
-3. if the note changes the overall structure, update `methodology/great_man_inspiration/index.md`
+3. if the note changes the overall structure, update `methodology/mao_zedong_thought/inspiration/index.md`

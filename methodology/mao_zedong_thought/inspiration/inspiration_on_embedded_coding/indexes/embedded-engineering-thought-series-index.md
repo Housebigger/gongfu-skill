@@ -18,7 +18,7 @@
 ### 1. 从《论持久战》看长周期嵌入式软件工程的方法论启示
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/001-on-protracted-war-long-cycle-embedded-software.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/001-on-protracted-war-long-cycle-embedded-software.md`
 
 核心主题：
 - 反对工程中的“亡国论”和“速胜论”
@@ -30,7 +30,7 @@
 ### 2. 从《实践论》看嵌入式调试中的“知行闭环”
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
 
 核心主题：
 - 调试中的教条主义与经验主义
@@ -41,7 +41,7 @@
 ### 3. 从《矛盾论》看复杂固件系统的主次矛盾与故障排序
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/system_analysis_and_architecture/003-on-contradiction-firmware-fault-ordering.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/system_analysis_and_architecture/003-on-contradiction-firmware-fault-ordering.md`
 
 核心主题：
 - 不要孤立、静止地看待复杂固件问题
@@ -52,7 +52,7 @@
 ### 4. 从《反对本本主义》看驱动开发中的资料主义与实机主义
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/004-against-book-worship-driver-development.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/004-against-book-worship-driver-development.md`
 
 核心主题：
 - 为什么驱动开发最容易陷入资料主义
@@ -63,7 +63,7 @@
 ### 5. 从《改造我们的学习》看工程团队的知识沉淀与技术复盘
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md`
 
 核心主题：
 - 为什么工程团队最常见的问题不是没人干活，而是干完没留下
@@ -75,7 +75,7 @@
 ### 6. 从《和中央社、扫荡报、新民报三记者的谈话》看嵌入式团队：不要把一起扛板级问题的人先当异己，要把工程自力更生、联合调试和边界自卫做成下一阶段准备反攻的结构
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/006-dont-treat-debug-allies-as-outsiders-build-engineering-self-reliance-and-defend-boundaries.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/006-dont-treat-debug-allies-as-outsiders-build-engineering-self-reliance-and-defend-boundaries.md`
 
 核心主题：
 - 为什么嵌入式团队在相持阶段不能把准备反攻误成全面重构或舒服停摆
@@ -86,7 +86,7 @@
 ### 7. 从《反对自由主义》看嵌入式团队：别拿表面和气换工程真相，板级异常、现场坏信号和质量问题必须进机制
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/007-dont-trade-surface-harmony-for-embedded-truth-and-discipline.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/007-dont-trade-surface-harmony-for-embedded-truth-and-discipline.md`
 
 核心主题：
 - 为什么嵌入式项目常死于被纵容的坏信号，而不是单个公开大故障
@@ -97,7 +97,7 @@
 ### 8. 从《陕甘宁边区政府第八路军后方留守处布告》看嵌入式团队：协作期别让临时支援、未授权改动和关系型插手重开工程混乱
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/008-dont-let-unbounded-support-reopen-your-embedded-order.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/008-dont-let-unbounded-support-reopen-your-embedded-order.md`
 
 核心主题：
 - 为什么版本、板卡、产测和 patch 准入规则是嵌入式项目的既得工程成果
@@ -108,7 +108,7 @@
 ### 9. 从《抗日游击战争的战略问题》看资源弱势的嵌入式团队：先建工程根据地，用局部快仗和灵活机动穿过长期压力
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/009-build-embedded-base-areas-and-grow-under-long-pressure.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/009-build-embedded-base-areas-and-grow-under-long-pressure.md`
 
 核心主题：
 - 为什么弱势嵌入式团队不能照着强者的正面工程打法平均铺开所有战线
@@ -119,7 +119,7 @@
 ### 10. 从《战争和战略问题》看嵌入式项目：真正决定成败的不是到处救火，而是识别主战场并围绕主链路组织主力
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/010-major-embedded-battles-need-a-main-battlefield-and-main-force.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/010-major-embedded-battles-need-a-main-battlefield-and-main-force.md`
 
 核心主题：
 - 为什么嵌入式项目关键阶段不能继续用平均主义方式管理所有问题
@@ -130,7 +130,7 @@
 ### 11. 从《统一战线中的独立自主问题》看嵌入式团队：联合调试、供应商协作和跨团队借力都可以更宽，但别把固件主线判断、版本节奏和现场主动权交出去
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/011-cooperate-broadly-without-surrendering-embedded-initiative.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/011-cooperate-broadly-without-surrendering-embedded-initiative.md`
 
 核心主题：
 - 为什么联合调试面越宽，越不能把固件主判断溶解进“大协作气氛”里
@@ -141,7 +141,7 @@
 ### 12. 从《反对投降活动》看嵌入式团队：真正危险的不是外部压力本身，而是内部先用“先和一下”的逻辑拆掉主线、主联盟和验证纪律
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/012-dont-let-appeasement-logic-break-your-embedded-mainline-and-alliance.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/012-dont-let-appeasement-logic-break-your-embedded-mainline-and-alliance.md`
 
 核心主题：
 - 为什么嵌入式项目高压期第一问题不是气氛，而是主线还能不能继续守住
@@ -152,7 +152,7 @@
 ### 13. 从《必须制裁反动派》看嵌入式团队：真正的协作不是让守版本纪律和证据链的人一直吃亏，而是保护建设者、让重复破坏者承担后果
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/013-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/013-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
 
 核心主题：
 - 为什么判断嵌入式协作是真是假，关键要看组织到底在保护谁、处理谁
@@ -163,7 +163,7 @@
 ### 14. 从《关于国际新形势对新华日报记者的谈话》看嵌入式团队：真正的新阶段，不是终于可以松一口气，而是守住主线、升级结构、把系统整到能反攻
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/014-dont-treat-a-new-embedded-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/014-dont-treat-a-new-embedded-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 
 核心主题：
 - 为什么嵌入式项目一旦稍微稳住，最危险的误判往往是“现在终于可以松了”
@@ -175,7 +175,7 @@
 ### 15. 从《反对日本进攻的方针、办法和前途》看嵌入式团队：别只会判断方向正确，还要把人、流程、资源、现场反馈和协同方式真正动员起来
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/015-dont-just-know-the-right-embedded-direction-build-the-mobilization-system.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/015-dont-just-know-the-right-embedded-direction-build-the-mobilization-system.md`
 
 核心主题：
 - 为什么判断清楚主方向，不等于项目已经真正进入正确轨道
@@ -186,7 +186,7 @@
 ### 16. 从《为动员一切力量争取抗战胜利而斗争》看嵌入式团队：关键硬仗别再靠半套协同，要把研发、测试、硬件、工厂和现场力量真正总动员起来
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/016-key-embedded-battles-need-full-system-mobilization-not-half-measures.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/016-key-embedded-battles-need-full-system-mobilization-not-half-measures.md`
 
 核心主题：
 - 为什么关键嵌入式硬仗不能继续打成“单纯研发抗战”
@@ -197,7 +197,7 @@
 ### 17. 从《中国共产党在民族战争中的地位》看嵌入式团队：别急着争“谁是核心团队”，先把自己建设成真正能撑住复杂系统的工程骨干
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/017-dont-claim-the-core-seat-before-becoming-a-real-embedded-backbone.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/017-dont-claim-the-core-seat-before-becoming-a-real-embedded-backbone.md`
 
 核心主题：
 - 为什么真正的核心位置不是先靠头衔和自我认定定出来的
@@ -208,7 +208,7 @@
 ### 18. 从《青年运动的方向》看嵌入式团队：懂系统的人不是全部主力，真正的方向是让先锋认知走进现场、产测、交付和维护主力
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/018-vanguards-must-join-the-real-embedded-main-force.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/018-vanguards-must-join-the-real-embedded-main-force.md`
 
 核心主题：
 - 为什么项目新阶段不是少数专家更懂了，而是更多真实承重力量被动员起来了
@@ -220,7 +220,7 @@
 ### 19. 从《苏联利益和人类利益的一致》看嵌入式团队：别把一次商务往来、联合动作或供应商合作误当成真正同线，要继续分清谁与工程主线长期一致、谁只是阶段交易
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/019-dont-judge-embedded-allies-by-surface-deals-see-whose-interests-really-align.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/019-dont-judge-embedded-allies-by-surface-deals-see-whose-interests-really-align.md`
 
 核心主题：
 - 为什么嵌入式项目不能因为一次原厂支持、联合联调或商务续约，就急着把对方认成长期工程盟友
@@ -231,7 +231,7 @@
 ### 20. 从《共产党人》发刊词看嵌入式团队：项目要赢，不能只有联合战线和关键攻坚，还要把团队建设成能掌握两者的工程主心骨
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/020-embedded-projects-need-alliances-hard-fights-and-an-engineering-core.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/020-embedded-projects-need-alliances-hard-fights-and-an-engineering-core.md`
 
 核心主题：
 - 为什么嵌入式项目不能只靠原厂、工厂、FAE、供应商和现场接口的联合支援，也不能只靠少数骨干猛打关键版本硬仗
@@ -242,7 +242,7 @@
 ### 21. 从《中国工人》发刊词看嵌入式团队推进：很多团队不是没有方向，而是一直没把真正承压的交付主力、会干实事的骨干、外部方法帮助和反馈循环组织起来
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md`
 
 核心主题：
 - 为什么很多嵌入式项目不是没有方向，而是没有把真正承压的交付主力组织起来
@@ -254,7 +254,7 @@
 ### 22. 从《抗日根据地的政权问题》看嵌入式共享治理：很多团队不是没有规则，而是工程公共事务仍然被少数人包办，真正承压的人、中间力量和可合作的人都没有真实位置，最后所谓共享治理只是换了说法的旧控制
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
 
 核心主题：
 - 为什么很多团队不是没有规则，而是工程公共事务仍然被少数人包办
@@ -267,7 +267,7 @@
 ### 23. 从《必须强调团结和进步》看嵌入式协作：很多团队不是败在外部压力太大，而是嘴上要协同，手上却不保护进步、不减少内耗、不支持真正推动升级的人，最后把所谓工程大局做成了慢慢滑向失真和失败的空壳
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/023-dont-call-it-embedded-collaboration-if-it-does-not-protect-progress.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/023-dont-call-it-embedded-collaboration-if-it-does-not-protect-progress.md`
 
 核心主题：
 - 为什么不要把协作理解成只要别起冲突就行
@@ -279,7 +279,7 @@
 ### 24. 从《新民主主义的宪政》看嵌入式治理升级：很多团队不是没有新流程和新口号，而是大多数真正承压的建设者始终没有真实参与权、表达权和共同决定权，最后所谓治理升级只是换了一层包装的旧控制
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/024-dont-call-it-a-new-embedded-order-if-most-builders-still-have-no-real-say.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/024-dont-call-it-a-new-embedded-order-if-most-builders-still-have-no-real-say.md`
 
 核心主题：
 - 真正承压的建设者有没有位置
@@ -290,7 +290,7 @@
 ### 25. 从《向国民党的十点要求》看嵌入式协作：很多团队不是败在没有人喊统一，而是一着急就把协同做成吞并——先压不同声音，先削弱真正做事的人，先让新力量闭嘴，先把阴暗操作藏起来，最后连低效和腐坏都被“大局”保护起来
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/025-dont-call-it-embedded-cooperation-if-it-turns-into-swallowing-builders.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/025-dont-call-it-embedded-cooperation-if-it-turns-into-swallowing-builders.md`
 
 核心主题：
 - 为什么假协同最常见的样子，是用统一和大局之名压掉真实问题
@@ -302,7 +302,7 @@
 ### 26. 从《目前抗日统一战线中的策略问题》看嵌入式协作：支持面要做宽，但不能把工程主方向、主判断和主导责任一起交出去
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/026-broaden-embedded-support-without-dropping-engineering-direction.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/026-broaden-embedded-support-without-dropping-engineering-direction.md`
 
 核心主题：
 - 为什么嵌入式项目进入复杂阶段后，最怕的不是局复杂，而是还在用简单脑子处理复杂系统
@@ -315,7 +315,7 @@
 ### 27. 从《放手发展抗日力量，抵抗反共顽固派的进攻》看嵌入式翻盘：真正能扭转被动的，不是只会守住旧交付，而是敢在压力里把新力量、新支持面和新工程空间真正做大
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
 
 核心主题：
 - 为什么嵌入式项目在承压阶段最危险的，不是问题本身，而是太早切进纯防守模式
@@ -328,7 +328,7 @@
 ### 28. 从《团结到底》看嵌入式协作：真正能把工程系统带到最后的，不是嘴上一直说别分裂，而是既能把真正该坚持的工程主线坚持到底，也能把真正该团结的协作力量团结到底
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/028-unity-that-lasts-needs-holding-the-engineering-mainline-and-keeping-the-embedded-coalition-together.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/028-unity-that-lasts-needs-holding-the-engineering-mainline-and-keeping-the-embedded-coalition-together.md`
 
 核心主题：
 - 为什么很多嵌入式团队把协作理解成别翻脸，却没有把主交付链一起扛到底
@@ -341,7 +341,7 @@
 ### 29. 从《论政策》看嵌入式协作治理：真正成熟的工程政策感，不是只会站队或只会硬顶，而是能把联合、斗争、区别对待和分寸感一起用出来
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/029-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-embedded-teams.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/029-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-embedded-teams.md`
 
 核心主题：
 - 为什么复杂嵌入式局里最怕的不是角色多，而是还在用单线条思维处理一切
@@ -354,7 +354,7 @@
 ### 30. 从《为皖南事变发表的命令和谈话》看嵌入式协作治理：真正成熟的合作观，不是工程核心被公开伤害后还继续装作没事，而是在工程底线被踩穿后，敢于把事实讲明、把责任点名、把修复条件摆清，再决定协作还能不能继续
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/030-when-an-embedded-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/030-when-an-embedded-bottom-line-is-broken-you-must-name-it-demand-accountability-and-rebuild-cooperation-on-clear-terms.md`
 
 核心主题：
 - 为什么复杂嵌入式系统里最危险的，不是普通摩擦，而是底线级伤害被继续包装成一般分歧
@@ -368,7 +368,7 @@
 ### 31. 从《打退第二次反共高潮后的时局》看嵌入式工程：不要把暂时缓和误判成真正稳定，要继续看结构矛盾、争取中间力量，并把窗口期过成项目转机
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/057-dont-mistake-temporary-easing-for-real-embedded-stability-keep-seeing-structure-and-keep-pushing-the-project-forward.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/057-dont-mistake-temporary-easing-for-real-embedded-stability-keep-seeing-structure-and-keep-pushing-the-project-forward.md`
 
 核心主题：
 - 为什么系统刚缓一点时，最危险的错觉不是恐慌，而是松懈
@@ -381,7 +381,7 @@
 ### 32. 从《关于打退第二次反共高潮的总结》看嵌入式工程复杂局判断：真正成熟，不是提前把项目判死，而是既做最坏准备，又守住主矛盾、分类判断和工程转机
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-embedded-turnaround-possibilities.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/058-prepare-for-the-worst-without-losing-the-main-contradiction-and-embedded-turnaround-possibilities.md`
 
 核心主题：
 - 为什么项目刚被重击过后，最危险的不是继续出事，而是团队先在脑子里把整个项目判死
@@ -400,7 +400,7 @@
 ### 33. 从《农村调查》的序言和跋看嵌入式现场问题处理：没有一线调查，就不要急着给板级问题下结论
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/059-no-frontline-investigation-no-right-to-conclude-on-embedded-problems.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/059-no-frontline-investigation-no-right-to-conclude-on-embedded-problems.md`
 
 核心主题：
 - 为什么很多嵌入式误判，不是分析能力太差，而是信息来源太悬空
@@ -414,7 +414,7 @@
 ### 34. 从《揭破远东慕尼黑的阴谋》看嵌入式团队：很多项目不是被正面硬压直接打垮，而是在对方打不动以后，被假缓和、传话和离间慢慢拆掉工程主线
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/061-dont-let-fake-peace-rumors-and-division-break-your-embedded-mainline.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/061-dont-let-fake-peace-rumors-and-division-break-your-embedded-mainline.md`
 
 核心主题：
 - 为什么压力从硬到软时，嵌入式团队反而更容易误判局势已经好转
@@ -434,7 +434,7 @@
 ### 35. 从《关于反法西斯的国际统一战线》看嵌入式团队：当主要威胁已经压到眼前时，要围绕共同主敌组织最广泛的真实工程联盟，不要继续把力量耗在次要分歧上
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/062-build-the-broadest-real-embedded-united-front-against-the-main-threat.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/062-build-the-broadest-real-embedded-united-front-against-the-main-threat.md`
 
 核心主题：
 - 为什么量产风险、认证压力、关键器件问题或现场故障压顶时，团队必须先围绕主威胁重排优先级
@@ -454,7 +454,7 @@
 ### 36. 从《在陕甘宁边区参议会的演说》看嵌入式团队治理：工程公共事务不是少数核心角色和熟人圈的私产，真正想把项目做稳，就要给承担者和不同角色说话机会、学会民主合作并接受监督
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/063-embedded-public-affairs-are-not-private-property-build-democratic-engineering-cooperation.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/063-embedded-public-affairs-are-not-private-property-build-democratic-engineering-cooperation.md`
 
 核心主题：
 - 为什么版本门禁、量产节奏、现场问题处理和协作规则这类工程公共事务，不能长期只由少数核心人关门决定
@@ -473,7 +473,7 @@
 ### 37. 从《整顿党的作风》看嵌入式团队整风：真正该整的，不只是流程样子，而是主观主义、小圈子协作和工程八股
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/064-rectify-embedded-team-style-by-fighting-subjectivism-small-circles-and-engineering-jargon.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/064-rectify-embedded-team-style-by-fighting-subjectivism-small-circles-and-engineering-jargon.md`
 
 核心主题：
 - 为什么团队一边流程越来越全、一边判断却还在靠资历、感觉和二手汇报时，真正该整的是工程作风，而不只是流程表面
@@ -492,7 +492,7 @@
 ### 38. 从《反对党八股》看嵌入式表达治理：别让评审、复盘、周报、量产汇报和问题纪要沦为工程八股，真正有用的表达必须回到板卡、现场、对象与动作
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/065-dont-let-embedded-writing-meetings-and-reviews-decay-into-empty-jargon.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/065-dont-let-embedded-writing-meetings-and-reviews-decay-into-empty-jargon.md`
 
 核心主题：
 - 为什么很多嵌入式团队不是没有材料，而是材料越来越多、真实板卡状态和动作责任却越来越被空话埋掉
@@ -511,7 +511,7 @@
 ### 39. 从《在延安文艺座谈会上的讲话》看嵌入式团队方法：别只按核心工程师自我感觉和技术圈语言做系统、流程与工具，要进入真实承担者、学习现场语言，并从真实交付基础往上长
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/066-serve-real-embedded-builders-learn-frontline-language-and-build-from-real-delivery-basis.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/066-serve-real-embedded-builders-learn-frontline-language-and-build-from-real-delivery-basis.md`
 
 核心主题：
 - 为什么很多嵌入式系统、流程和平台不是没有工程性，而是第一服务对象错了，越来越服务核心圈自我感觉而不是服务真实承担者
@@ -530,7 +530,7 @@
 ### 40. 从《一个极其重要的政策》看嵌入式团队如何在困难阶段精简工程编制：局面越接近最难一段路，越要把嵌入式机器收小、把主交付主力做硬、让系统小一点却更能打
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/067-in-hard-times-shrink-the-embedded-machine-and-keep-the-core-delivery-force-hard.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/067-in-hard-times-shrink-the-embedded-machine-and-keep-the-core-delivery-force-hard.md`
 
 核心主题：
 - 为什么困难阶段最危险的不是问题多，而是团队还按扩张期的规模、节奏和协作厚度继续打仗
@@ -548,7 +548,7 @@
 ### 41. 从《第二次世界大战的转折点》看嵌入式工程识势：不要把最后一轮最凶的嵌入式压力波，误判成项目已被长期打败
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/068-dont-mistake-the-last-fierce-embedded-pressure-wave-for-long-term-project-defeat.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/068-dont-mistake-the-last-fierce-embedded-pressure-wave-for-long-term-project-defeat.md`
 
 核心主题：
 - 为什么项目最难看清转机的时候，往往正是问题看起来还最凶、最密、最像全线失守的时候
@@ -566,7 +566,7 @@
 ### 42. 从《祝十月革命二十五周年》看嵌入式团队：当项目翻盘的曙光已经看得见时，最怕的不是还有硬仗，而是把最后阶段的工程火力重新打散
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/069-when-embedded-dawn-is-visible-concentrate-force-on-the-main-delivery-battle.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/069-when-embedded-dawn-is-visible-concentrate-force-on-the-main-delivery-battle.md`
 
 核心主题：
 - 为什么项目一见亮，最怕的不是还忙，而是团队误以为可以恢复多线并进
@@ -584,7 +584,7 @@
 ### 43. 从《抗日时期的经济问题和财政问题》看嵌入式团队：资源越紧的时候，越不能只围着成本和排期打转，而要把真实工程供给线重新做起来
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/070-when-resources-are-tight-stop-only-cutting-costs-rebuild-real-engineering-supply.md`
 
 核心主题：
 - 为什么嵌入式项目里的资源压力，深处常常不是成本数字问题，而是工程供给系统出了问题
@@ -602,7 +602,7 @@
 ### 44. 从《关于领导方法的若干问题》看嵌入式团队领导：别只发统一方案和总要求，要先在关键板卡与交付样板上打穿，再把一线经验变成全局方法
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/071-dont-just-issue-unified-embedded-plans-break-through-key-board-and-delivery-pilots-first.md`
 
 核心主题：
 - 为什么很多嵌入式团队不是没有方向，而是方向始终停在统一要求层，迟迟压不到关键板卡和关键交付样板上
@@ -620,7 +620,7 @@
 ### 45. 从《质问国民党》看嵌入式团队：如果项目总把火力打向内部骨干、却把真正质量与交付威胁留在背后，就要追问这套打法到底在帮谁
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/072-when-an-embedded-team-keeps-firing-inward-ask-who-benefits.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/072-when-an-embedded-team-keeps-firing-inward-ask-who-benefits.md`
 
 核心主题：
 - 为什么判断一个项目先不要听口号，而要先看主要火力到底打向谁
@@ -638,7 +638,7 @@
 ### 46. 从《评国民党十一中全会和三届二次国民参政会》看嵌入式团队：别把管理层的“准备整顿”“准备解决”当成真收口，先判断项目究竟在走内耗升级、拖字维持，还是实质修复
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/074-dont-mistake-reform-talk-for-real-embedded-turnaround.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/074-dont-mistake-reform-talk-for-real-embedded-turnaround.md`
 
 核心主题：
 - 为什么项目一承压，旧系统几乎都会先把话说软，但说软不等于已经收口
@@ -656,7 +656,7 @@
 ### 47. 从《组织起来》看嵌入式团队协作：困难阶段别只让驱动、测试、FAE 和少数骨干散着补窟窿，要把分散的一线、支持面和半可用力量真正组织成交付主力
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/075-dont-fight-hard-embedded-times-with-scattered-heroics-organize-real-delivery-main-force.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/075-dont-fight-hard-embedded-times-with-scattered-heroics-organize-real-delivery-main-force.md`
 
 核心主题：
 - 为什么很多嵌入式团队不是不忙，而是交付力量一直散着，没有被组织成真正主力
@@ -675,7 +675,7 @@
 ### 48. 从《学习和时局》看嵌入式团队升级：真正要接住更复杂系统责任，不只是继续硬扛，而是学会研究形势、放下包袱、提前准备更大责任
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/076-real-embedded-upgrade-needs-studying-the-situation-dropping-baggage-and-preparing-for-bigger-responsibility.md`
 
 核心主题：
 - 为什么项目走到升级关口，真正缺的往往不是干劲，而是研究形势、判断阶段和识别主矛盾转移的能力
@@ -696,7 +696,7 @@
 ### 49. 从《为人民服务》看嵌入式团队治理：别把组织做成自保机器，要把真正对交付、现场与系统有益的建设者放到中心
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/077-dont-turn-embedded-organizations-into-self-protection-machines-put-real-builders-at-the-center-and-welcome-criticism.md`
 
 核心主题：
 - 为什么嵌入式团队存在的第一理由，不是维持负责人和接口面的控制感，而是持续对产品、交付、现场和系统有用
@@ -717,7 +717,7 @@
 ### 50. 从《解放战争第二年的战略方针》看嵌入式工程：项目进入第二阶段后，主力要从实验室防守转向现场主战场
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/110-when-embedded-project-enters-second-stage-move-main-force-from-lab-defense-to-field-battlefields.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/110-when-embedded-project-enters-second-stage-move-main-force-from-lab-defense-to-field-battlefields.md`
 
 核心主题：
 - 为什么工程阶段变化不是情绪变好，而是主版本、现场、量产和客户问题的主动权结构真的改变
@@ -729,7 +729,7 @@
 ### 51. 从《中国人民解放军宣言》看嵌入式团队：工程转向新阶段，要有清楚纲领和区别对待的协作政策
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/111-embedded-turnarounds-need-a-clear-engineering-program-and-differentiated-team-policy.md`
 
 核心主题：
 - 为什么工程转向新阶段时不能只喊“要打赢”，而要说清服务产品、现场和系统的具体纲领
@@ -741,7 +741,7 @@
 ### 52. 从《重行颁布三大纪律八项注意》看嵌入式现场：现场工程越复杂，越要用简单纪律保护工具、场地和信任
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/112-embedded-field-work-needs-simple-discipline-that-protects-sites-tools-and-trust.md`
 
 核心主题：
 - 为什么嵌入式现场越复杂，越需要少数几条人人能记、人人能执行、人人能监督的小纪律
@@ -753,7 +753,7 @@
 ### 53. 从《目前形势和我们的任务》看嵌入式工程：项目到了真正转折点，别再拿昨天的防守地图组织今天的新阶段
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/113-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/113-when-an-embedded-project-reaches-a-real-turning-point-stop-running-the-new-stage-with-yesterdays-defensive-map.md`
 
 核心主题：
 - 为什么真正的工程转折点，不是群里气氛变好，而是主版本、量产、认证、现场与协作结构已经共同换向
@@ -774,7 +774,7 @@
 ### 54. 从《关于建立报告制度》看嵌入式团队协作：别让现场、测试和研发靠层层传话，要建立负责人亲自写、定期综合、问题直达的工程报告制度
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/114-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/114-embedded-teams-need-regular-direct-problem-focused-engineering-reports.md`
 
 核心主题：
 - 为什么嵌入式项目一旦进入更大规模、更高复杂度和更长协作链路阶段，靠“谁知道谁就顺手说一声”的传话模式会迅速积累失真
@@ -794,7 +794,7 @@
 ### 55. 从《关于目前党的政策中的几个重要问题》看嵌入式团队协作：核心工程主力要带头，但带头不是包办；真正稳的项目，是把测试、制造、现场和中坚力量一起组织成交付主力
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/115-core-embedded-builders-must-lead-by-organizing-the-whole-delivery-main-force.md`
 
 核心主题：
 - 为什么嵌入式项目里的“核心主力带头”如果被做成少数高手长期包办，短期像效率，长期却会把项目做成高度脆弱的人肉系统
@@ -814,7 +814,7 @@
 ### 56. 从《军队内部的民主运动》看嵌入式团队治理：真正稳的工程系统，不是少数核心长期包办，而是在明确主线下把真实承担者组织进治理、互教互议与补位机制
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/116-embedded-teams-get-stronger-when-real-burden-bearers-can-speak-help-decide-and-correct.md`
 
 核心主题：
 - 为什么嵌入式团队真正危险的不是没有 leader，而是把主线、资源、评审、战术和补位长期锁在少数核心手里，导致多数真实承担者只会执行和背结果
@@ -835,7 +835,7 @@
 ### 57. 从《在不同地区实施土地法的不同策略》看嵌入式工程推进：不要把同一套硬办法同时压到所有工程区域；成熟板型、半熟链路和新开局，要分类处理、分阶段推进
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/117-dont-use-the-same-embedded-push-in-every-engineering-zone-classify-maturity-and-advance-by-stage.md`
 
 核心主题：
 - 为什么嵌入式工程的第一步不是宣布全项目统一整改，而是先分清哪些板型、驱动链路、产测环节和现场版本已经成熟，哪些只是半熟推进，哪些还刚开局
@@ -855,7 +855,7 @@
 ### 58. 从《纠正土地改革宣传中的“左”倾错误》看嵌入式团队治理：别让极端工程口号把真实支持面越讲越窄，也别把带头做成命令主义或尾巴主义
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/118-dont-let-extreme-embedded-slogans-shrink-your-real-support-surface-or-hand-away-leadership.md`
 
 核心主题：
 - 为什么嵌入式项目真正危险的，不只是技术问题本身，而是把项目讲成只剩驱动、固件和板级高手才算真正干活，导致硬件、测试、FAE、制造、质量、产测和现场支持这些真实承担者被从主地图上删掉
@@ -875,7 +875,7 @@
 ### 59. 从《新解放区土地改革要点》看嵌入式新局推进：别在新板型和新项目区一上来全面铺开，先立骨干、稳住中间层、做出样板，再波浪式扩展
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/119-dont-roll-out-new-embedded-order-everywhere-at-once-build-backbone-win-the-middle-and-expand-by-waves.md`
 
 核心主题：
 - 为什么嵌入式新板型、新客户项目和新交付区域的第一步，不是全线同步切换，而是先看条件、控节奏，避免把本该分阶段出现的摩擦压缩成一次性爆炸
@@ -915,7 +915,7 @@
 ### 60. 从《关于工商业政策》看嵌入式现场工程：单一硬招不能替代供给链和生产链判断
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/120-dont-use-one-hard-move-to-break-embedded-supply-and-production-chains.md`
 
 核心主题：
 - 为什么嵌入式现场工程不能把一种事故期硬招搬到所有工程场景
@@ -927,7 +927,7 @@
 ### 61. 从《关于民族资产阶级和开明绅士问题》看嵌入式协作：别把非核心但关键的中间力量推出交付系统
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/121-dont-push-non-core-but-critical-middle-forces-out-of-the-embedded-delivery-system.md`
 
 核心主题：
 - 为什么嵌入式项目不能只认核心写手，而要把测试、制造、FAE、现场和供应链接口这些中间承担者稳稳留在交付主线周围
@@ -937,7 +937,7 @@
 ### 62. 从《评西北大捷兼论解放军的新式整军运动》看嵌入式团队协作：关键战役打穿后，要趁窗口期整军，把一次突围变成连续交付能力
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/122-after-a-critical-embedded-breakthrough-reorganize-for-sustained-delivery-not-just-another-save.md`
 
 核心主题：
 - 为什么嵌入式项目在关键战役打穿后，不能继续把胜利理解成少数主将的偶发硬扛，而要及时判断项目是否已经进入新阶段
@@ -947,7 +947,7 @@
 ### 63. 从《关于情况的通报》看嵌入式工程：系统进入新阶段后，先纠正最伤主线的工程偏差，不在条件未熟时抢做大升级
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/123-correct-the-main-engineering-deviation-first-and-dont-upgrade-before-the-system-is-ready.md`
 
 核心主题：
 - 为什么嵌入式项目刚出现阶段转机时，最危险的不是外部还难，而是内部仍按旧救火偏差乱跑却已经急着喊全面升级
@@ -957,7 +957,7 @@
 ### 64. 从《在晋绥干部会议上的讲话》看嵌入式团队治理：系统进入新阶段后，不能靠主观推动和流程运动硬撑，要按真实条件纠偏并把交付秩序重新建起来
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/124-embedded-teams-need-real-condition-based-governance-not-subjective-pushes-or-empty-process-campaigns.md`
 
 核心主题：
 - 为什么项目进入新阶段后，最危险的不是问题多，而是拿主观推动、流程运动和全面整顿硬撑局面转机
@@ -967,7 +967,7 @@
 ### 65. 从《对晋绥日报编辑人员的谈话》看嵌入式团队协同：别把规格、边界和修复方法只锁在核心骨干脑子里，要讲到现场和协同方真听懂，还得从一线日志里学回来
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/125-dont-keep-specs-and-decisions-inside-core-engineers.md`
 
 核心主题：
 - 为什么规格、边界和问题处理方法如果只停在少数核心工程师脑中，团队就不可能真正稳定交付
@@ -977,7 +977,7 @@
 ### 66. 从《再克洛阳后给洛阳前线指挥部的电报》看嵌入式接手：接管旧项目、旧板型或客户现场时，先分类、保供给、稳现场，别用运动式换血和全面重构开局
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/126-when-taking-over-an-embedded-project-first-classify-assets-keep-field-supply-running-and-plan-long.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/126-when-taking-over-an-embedded-project-first-classify-assets-keep-field-supply-running-and-plan-long.md`
 
 核心主题：
 - 为什么嵌入式接手最怕的不是旧系统复杂，而是还没分清主破坏点就把所有旧硬件、旧固件、旧维护者和旧供应链一起打成主敌
@@ -987,7 +987,7 @@
 ### 67. 从《新解放区农村工作的策略问题》看嵌入式新局治理：别跳过必要过渡阶段；先让多数承担者得到实益，再等条件成熟进入更深换轨
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/127-dont-skip-the-necessary-transition-stage-in-a-new-engineering-zone.md`
+`methodology/mao_zedong_thought/inspiration/inspiration_on_embedded_coding/engineering_strategy/127-dont-skip-the-necessary-transition-stage-in-a-new-engineering-zone.md`
 
 核心主题：
 - 为什么嵌入式新局最危险的常常不是整顿不够彻底，而是刚接手新板型、新客户现场或新平台区就跳过必要过渡阶段，直接全面换轨

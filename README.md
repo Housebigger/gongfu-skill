@@ -251,9 +251,12 @@ cp -r agents/zcode-skills/* ~/.zcode/skills/
 
 ```
 gongfu-skill/
-├── methodology/            第一阶段：思想武器库（229篇×7主题当代转译）
-│   ├── great_man_inspiration/   7 个主题目录，1547 篇转译
-│   └── reference/               230 篇原文索引
+├── methodology/            第一阶段：思想武器库（多思想体系 × 16集群认知框架）
+│   ├── mao_zedong_thought/     毛泽东思想
+│   │   ├── reference/          230 篇原文
+│   │   └── inspiration/        1547 篇当代转译 × 7 主题
+│   ├── marxism/                马克思主义（原料库 + 启发库）
+│   └── cluster_frameworks/     16 集群认知框架（跨体系引用）
 ├── accumulation_settle/    伴随式沉淀（经验结晶 + 成长反思）
 ├── strategy/               第二阶段：现实建功（9 个子层，69 文件）
 │   ├── analysis/          十五五规划逐句解读

@@ -161,9 +161,9 @@ metadata:
 
 | 本 skill 的判断来源 | 源文档 |
 |---|---|
-| 矛盾分析方法论 | methodology/great_man_inspiration/（矛盾论/正确处理人民内部矛盾相关转译） |
-| 持久战阶段判断 | methodology/great_man_inspiration/（论持久战相关转译） |
-| 集中优势兵力原则 | methodology/great_man_inspiration/（集中优势兵力相关转译） |
+| 矛盾分析方法论 | methodology/mao_zedong_thought/inspiration/（矛盾论/正确处理人民内部矛盾相关转译） |
+| 持久战阶段判断 | methodology/mao_zedong_thought/inspiration/（论持久战相关转译） |
+| 集中优势兵力原则 | methodology/mao_zedong_thought/inspiration/（集中优势兵力相关转译） |
 | 方法论工具箱速查 | strategy/worker_guidance/README.md（第四节） |
 | 行业判断交叉验证 | strategy/worker_guidance/ + strategy/entrepreneurship/ |
 

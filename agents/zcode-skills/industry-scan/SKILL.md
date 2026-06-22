@@ -169,7 +169,7 @@ metadata:
 | 技能转型路线图 | strategy/worker_guidance/README.md（第三节） |
 | 地域差异 | strategy/regional/01—05 + 地域×机会总矩阵 |
 | 十大确定性方向 | strategy/new_value/01 |
-| 方法论工具 | methodology/great_man_inspiration/ |
+| 方法论工具 | methodology/mao_zedong_thought/inspiration/ |
 
 ## 诚实的边界
 

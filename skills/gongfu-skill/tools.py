@@ -285,6 +285,17 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
     if marxism_insp:
         knowledge_context["marxism_inspiration"] = marxism_insp
 
+    # ── 注入邓小平理论工具与启发（务实行动层）──
+    deng_tools = []
+    if info.get("cluster"):
+        deng_tools = router.get_deng_tools_for_cluster(info["cluster"])
+    if deng_tools:
+        knowledge_context["deng_tools"] = deng_tools
+
+    deng_insp = router.get_deng_inspiration(situation, info.get("cluster"), limit=2)
+    if deng_insp:
+        knowledge_context["deng_inspiration"] = deng_insp
+
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)
     if strengths:

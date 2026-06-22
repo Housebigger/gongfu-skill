@@ -256,6 +256,7 @@ gongfu-skill/
 │   │   ├── reference/          230 篇原文
 │   │   └── inspiration/        1547 篇当代转译 × 7 主题
 │   ├── marxism/                马克思主义（原料库 + 启发库）
+│   ├── deng_xiaoping_theory/   邓小平理论（原料库 + 启发库）
 │   └── cluster_frameworks/     16 集群认知框架（跨体系引用）
 ├── accumulation_settle/    伴随式沉淀（经验结晶 + 成长反思）
 ├── strategy/               第二阶段：现实建功（9 个子层，69 文件）

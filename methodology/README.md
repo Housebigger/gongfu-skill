@@ -22,6 +22,10 @@ methodology/
 │   │   └── lenin/                   列宁著作
 │   └── inspiration/                 启发库（当代转译，主题与毛泽东启发库对齐）
 │
+├── deng_xiaoping_theory/           邓小平理论
+│   ├── reference/                  原料库（8 篇核心讲话/谈话原文摘录）
+│   └── inspiration/                启发库（当代转译 × 7 主题）
+│
 └── README.md                        本文件
 ```
 

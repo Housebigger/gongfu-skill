@@ -20,6 +20,7 @@ def _load_yaml(filename):
 
 _METHODOLOGY = _load_yaml("methodology-tools.yaml")
 _MARXISM_TOOLS = _load_yaml("marxism-tools.yaml")
+_DENG_TOOLS = _load_yaml("deng-tools.yaml")
 _INDUSTRY = _load_yaml("industry-signals.yaml")
 _REGIONAL = _load_yaml("regional-matrix.yaml")
 
@@ -406,6 +407,86 @@ def get_marxism_inspiration(situation: str, cluster: str = None, limit: int = 2)
                         break
             excerpt = " ".join(excerpt_lines)[:300]
             scored_files.append((score, title, excerpt, str(f.relative_to(_MARXISM_INSPIRATION_DIR))))
+
+    scored_files.sort(key=lambda x: x[0], reverse=True)
+    return [
+        {"title": title, "excerpt": excerpt, "path": path}
+        for _, title, excerpt, path in scored_files[:limit]
+    ]
+
+
+# ── 邓小平理论工具与启发 ──
+_DENG_INSPIRATION_DIR = Path(__file__).resolve().parent.parent.parent / "methodology" / "deng_xiaoping_theory" / "inspiration"
+
+
+def get_deng_tools_for_cluster(cluster: str) -> list:
+    """Get the most relevant deng xiaoping theory tools for a cluster."""
+    if not cluster:
+        return []
+    cluster_match = _DENG_TOOLS.get("cluster_match", {})
+    tool_keys = cluster_match.get(cluster, [])
+    all_tools = _DENG_TOOLS.get("tools", {})
+    result = []
+    for key in tool_keys:
+        tool = all_tools.get(key, {})
+        if tool:
+            result.append({
+                "name": key,
+                "principle": tool.get("principle", ""),
+                "one_liner": tool.get("one_liner", ""),
+                "use_when": tool.get("use_when", ""),
+                "quote_source": tool.get("quote_source", ""),
+            })
+    return result
+
+
+def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) -> list:
+    """Find the most relevant deng xiaoping theory inspiration files."""
+    if not _DENG_INSPIRATION_DIR.exists():
+        return []
+
+    situation_lower = situation.lower() if situation else ""
+
+    scored_files = []
+    for f in _DENG_INSPIRATION_DIR.rglob("*.md"):
+        if f.name in ("README.md", "index.md"):
+            continue
+        try:
+            text = f.read_text(encoding="utf-8")
+        except Exception:
+            continue
+
+        title = f.stem
+        excerpt_zone = (title + " " + text[:800]).lower()
+        score = 0
+
+        situation_keywords = ["嵌入式", "开发", "深圳", "累", "工资", "前景", "行业",
+                              "机器人", "养老", "护理", "外卖", "骑手", "快递", "矿工",
+                              "纺织", "钢铁", "水泥", "化工", "程序员", "教师", "教育",
+                              "焦虑", "迷茫", "转行", "创业", "开店", "副业", "考证",
+                              "学习", "合作", "合伙", "未来", "趋势", "被替代", "AI",
+                              "纠结", "犹豫", "不知道", "怎么选", "准备"]
+        for word in situation_keywords:
+            if word in situation_lower and word in excerpt_zone:
+                score += 2
+
+        emotional_kw = ["累", "穷", "焦虑", "迷茫", "不想干", "压力", "加班", "被替代",
+                        "纠结", "犹豫", "害怕", "不敢"]
+        for kw in emotional_kw:
+            if kw in situation_lower and kw in excerpt_zone:
+                score += 3
+
+        if score > 0:
+            lines = text.split("\n")
+            excerpt_lines = []
+            for line in lines:
+                stripped = line.strip()
+                if stripped and not stripped.startswith("#") and not stripped.startswith(">") and not stripped.startswith("日期") and not stripped.startswith("原文对应") and not stripped.startswith("说明："):
+                    excerpt_lines.append(stripped)
+                    if len(excerpt_lines) >= 2:
+                        break
+            excerpt = " ".join(excerpt_lines)[:300]
+            scored_files.append((score, title, excerpt, str(f.relative_to(_DENG_INSPIRATION_DIR))))
 
     scored_files.sort(key=lambda x: x[0], reverse=True)
     return [

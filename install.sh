@@ -23,7 +23,7 @@ CLONE_DIR="$HOME/.gongfu-skill"
 if [ -n "$GONGFU_SKILL_DIR" ]; then
     # 环境变量指定了仓库路径
     REPO_DIR="$GONGFU_SKILL_DIR"
-elif [ -f "$(dirname "$0")/skills/gongfu-skill/plugin.yaml" ]; then
+elif [ -f "$(dirname "$0")/engine/plugin.yaml" ]; then
     # 本地运行（已 clone，脚本在仓库根目录）
     REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 else
@@ -39,7 +39,7 @@ else
     fi
 fi
 
-PLUGIN_SRC="$REPO_DIR/skills/gongfu-skill"
+PLUGIN_SRC="$REPO_DIR/engine"
 
 if [ ! -f "$PLUGIN_SRC/plugin.yaml" ]; then
     warn "找不到插件文件: $PLUGIN_SRC/plugin.yaml"

@@ -260,6 +260,7 @@ gongfu-skill/
 │   │   └── inspiration/        1547 篇当代转译 × 7 主题
 │   ├── marxism/                马克思主义（原料库 + 启发库）
 │   ├── deng_xiaoping_theory/   邓小平理论（原料库 + 启发库）
+│   ├── xi_jinping_thought/     习近平思想（原料库 + 启发库）
 │   └── cluster_frameworks/     16 集群认知框架（跨体系引用）
 ├── accumulation_settle/    伴随式沉淀（经验结晶 + 成长反思）
 ├── strategy/               第二阶段：现实建功（9 个子层，60 篇内容 + 各层 README）
@@ -272,13 +273,15 @@ gongfu-skill/
 │   ├── regional/          五大区域×机会矩阵
 │   ├── perspective/       六大中长期前瞻
 │   └── references/        规划全文
-├── skills/                第三阶段：技能共富（7 skill + 插件）★单一源
-│   ├── gongfu-skill/    共富参谋插件/引擎（router/tools/schemas；skills/ 子目录为生成副本）
+├── skills/                第三阶段知识源：7 个 SKILL.md + data/（★单一源）
 │   ├── data/              11 个结构化知识库（YAML）← 引擎读取的源
 │   ├── problem-diagnosis/ | industry-scan/ | startup-feasibility/
 │   ├── growth-planner/    | collaboration-match/ | opportunity-radar/
 │   ├── situation-triage/  路由层
 │   └── 00-skill设计规范.md
+├── engine/                共富参谋引擎 / Hermes 插件（install.sh 链接此目录）
+│   ├── router.py·tools.py·schemas.py·__init__.py·plugin.yaml
+│   └── skills/            ⚙生成：内嵌 7 个 SKILL.md
 ├── mcp_server/            MCP Server（适配 Claude Desktop / Cursor 等）
 │   └── server.py          stdio 传输，复用同一套引擎
 ├── api_server/            HTTP API（适配 Coze / Dify / FastGPT 等）
@@ -301,7 +304,7 @@ gongfu-skill/
 
 各层目录下都有自己的 `README.md`，可以按需进入。
 
-> **★单一源 / ⚙生成**：`SKILL.md` 与 `data/*.yaml` 只在 `skills/` 里维护。标 ⚙ 的目录（`claude-skills/skills`、`claude-skills/data`、`agents/zcode-skills`、`skills/gongfu-skill/skills`）由 `scripts/build_packs.py` 生成，已 gitignore，**请勿手动编辑**。安装脚本会自动生成；手动生成运行 `python scripts/build_packs.py`。
+> **★单一源 / ⚙生成**：`SKILL.md` 与 `data/*.yaml` 只在 `skills/` 里维护。标 ⚙ 的目录（`claude-skills/skills`、`claude-skills/data`、`agents/zcode-skills`、`engine/skills`）由 `scripts/build_packs.py` 生成，已 gitignore，**请勿手动编辑**。安装脚本会自动生成；手动生成运行 `python scripts/build_packs.py`。
 
 ## 维护原则
 

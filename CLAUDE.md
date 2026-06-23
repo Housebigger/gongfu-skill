@@ -9,7 +9,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Two things in one repo:
 
 1. **A Chinese-language knowledge base** for front-line workers (行业判断 / 创业 / 成长 / 协作 / 趋势), organized as three "phases": `methodology/` (思想武器库) → `accumulation_settle/` (经验沉淀) → `strategy/` (现实建功). ~2000 markdown files.
-2. **An engine** (`skills/gongfu-skill/`, Python) that distills that knowledge into one callable consulting tool — `gongfu_consult` — exposed through four interchangeable shells.
+2. **An engine** (`engine/`, Python) that distills that knowledge into one callable consulting tool — `gongfu_consult` — exposed through four interchangeable shells.
 
 Almost all content is Chinese. Cluster IDs (`A-先进制造与硬科技` … `P-公用事业与市政服务`), intent names (`困境迷茫`/`行业判断`/`创业意向`/`成长需求`/`协作需求`/`趋势前瞻`), and the 7 inspiration themes are **stable identifiers** referenced from Python and YAML — do not rename them casually.
 
@@ -34,10 +34,9 @@ curl -X POST http://127.0.0.1:8787/consult \
   -H "Content-Type: application/json" \
   -d '{"situation":"我30岁在工厂干了10年，最近产线上了机器人，我怕被替代","mode":"intake"}'
 
-# Smoke-test the engine directly (no server)
-python -c "import sys; sys.path.insert(0,'skills'); \
-import importlib,types; p=types.ModuleType('gongfu_engine'); \
-p.__path__=['skills/gongfu-skill']; sys.modules['gongfu_engine']=p; \
+# Smoke-test the engine directly (no server) — same synthetic-package trick the servers use
+python -c "import sys,importlib,types; p=types.ModuleType('gongfu_engine'); \
+p.__path__=['engine']; sys.modules['gongfu_engine']=p; \
 print(importlib.import_module('gongfu_engine.tools').gongfu_consult({'situation':'我45岁钢铁厂下岗想转行','mode':'analyze'}))"
 
 # Install as a Hermes plugin
@@ -51,14 +50,14 @@ python scripts/build_packs.py
 
 ### One engine, four shells
 
-The engine is `skills/gongfu-skill/` and is the **single source of runtime logic**. The three non-Hermes shells load it verbatim through a synthetic package `gongfu_engine` (see the identical `_ENGINE_DIR` / `sys.modules["gongfu_engine"]` bootstrap in `mcp_server/server.py` and `api_server/server.py`). They are pure adapters — no business logic. Change behavior in the engine once and all shells get it.
+The engine is `engine/` (top-level) and is the **single source of runtime logic**. The three non-Hermes shells load it verbatim through a synthetic package `gongfu_engine` (see the identical `_ENGINE_DIR = _REPO_ROOT / "engine"` / `sys.modules["gongfu_engine"]` bootstrap in `mcp_server/server.py` and `api_server/server.py`). They are pure adapters — no business logic. Change behavior in the engine once and all shells get it.
 
-- `skills/gongfu-skill/` — Hermes plugin + the engine itself
+- `engine/` — Hermes plugin + the engine itself (`install.sh` symlinks this dir into `~/.hermes/plugins/gongfu-skill`)
 - `mcp_server/server.py` — wraps the engine as MCP tool `gongfu_consult`
 - `api_server/server.py` — wraps the engine as `POST /consult` (starlette)
 - `claude-skills/` & `agents/` — static knowledge packs (LLM reads markdown; no Python runs)
 
-### Engine internals (`skills/gongfu-skill/`)
+### Engine internals (`engine/`)
 
 ```
 schemas.py  — the tool description the LLM sees (single source for tool text)
@@ -76,7 +75,7 @@ The tool returns **instructions for the LLM**, not finished prose — `tone_inst
 
 `router.py` reads knowledge from disk at runtime, so **adding content takes effect immediately**:
 
-- `skills/data/*.yaml` — the structured knowledge the engine loads (`_DATA_DIR = router dir/../data`). 11 files: `industry-signals`, `startup-paths`, `growth-profiles`, `collaboration-forms`, `opportunities`, `methodology-tools`, `regional-matrix`, `counseling-principles`, plus `marxism-tools` / `deng-tools` / `xi-tools`.
+- `skills/data/*.yaml` — the structured knowledge the engine loads (`_DATA_DIR = <repo>/skills/data`, resolved from `engine/router.py`). 11 files: `industry-signals`, `startup-paths`, `growth-profiles`, `collaboration-forms`, `opportunities`, `methodology-tools`, `regional-matrix`, `counseling-principles`, plus `marxism-tools` / `deng-tools` / `xi-tools`.
 - `methodology/cluster_frameworks/<cluster>.md` — loaded whole by `get_cluster_framework()`.
 - `methodology/{marxism,deng_xiaoping_theory}/inspiration/*.md` — keyword-scored and excerpted at request time by `get_marxism_inspiration()` / `get_deng_inspiration()`.
 
@@ -89,7 +88,7 @@ Note: Mao Zedong thought is **not** scanned live — its tools are pre-distilled
 | Path | Role |
 |------|------|
 | **`skills/<name>/SKILL.md` + `skills/data/*.yaml`** | **SOURCE — the only place you edit.** The running engine reads `skills/data/` directly. |
-| `skills/gongfu-skill/skills/` | generated (Hermes plugin's bundled skills) — gitignored |
+| `engine/skills/` | generated (Hermes plugin's bundled skills) — gitignored |
 | `claude-skills/skills/` + `claude-skills/data/` | generated (Claude Code static pack) — gitignored |
 | `agents/zcode-skills/` (skills + `data/`) | generated (ZCode pack) — gitignored |
 

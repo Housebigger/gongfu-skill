@@ -17,9 +17,9 @@ function Write-Warn($msg)  { Write-Host "[gongfu] $msg" -ForegroundColor Yellow 
 $RepoUrl = "https://github.com/Housebigger/gongfu-skill.git"
 $CloneDir = Join-Path $HOME ".gongfu-skill"
 
-if ($GongfuDir -ne "" -and (Test-Path (Join-Path $GongfuDir "skills\gongfu-skill\plugin.yaml"))) {
+if ($GongfuDir -ne "" -and (Test-Path (Join-Path $GongfuDir "engine\plugin.yaml"))) {
     $RepoDir = $GongfuDir
-} elseif (Test-Path (Join-Path $PWD "skills\gongfu-skill\plugin.yaml")) {
+} elseif (Test-Path (Join-Path $PWD "engine\plugin.yaml")) {
     # 本地运行（已 clone，脚本在仓库根目录）
     $RepoDir = $PWD
 } else {
@@ -37,7 +37,7 @@ if ($GongfuDir -ne "" -and (Test-Path (Join-Path $GongfuDir "skills\gongfu-skill
     }
 }
 
-$PluginSrc = Join-Path $RepoDir "skills\gongfu-skill"
+$PluginSrc = Join-Path $RepoDir "engine"
 $PluginYaml = Join-Path $PluginSrc "plugin.yaml"
 
 if (-not (Test-Path $PluginYaml)) {

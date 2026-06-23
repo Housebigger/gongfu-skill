@@ -8,7 +8,7 @@ import yaml
 import json
 from pathlib import Path
 
-_DATA_DIR = Path(__file__).parent.parent / "data"
+_DATA_DIR = Path(__file__).resolve().parent.parent / "skills" / "data"
 
 # Load methodology data (contains intent keywords + crisis signals)
 def _load_yaml(filename):
@@ -280,7 +280,7 @@ def get_industry_signal(cluster: str) -> dict:
 
 
 # ── 集群认知框架 ──
-_FRAMEWORKS_DIR = Path(__file__).resolve().parent.parent.parent / "methodology" / "cluster_frameworks"
+_FRAMEWORKS_DIR = Path(__file__).resolve().parent.parent / "methodology" / "cluster_frameworks"
 
 
 def get_cluster_framework(cluster: str) -> str:
@@ -299,7 +299,7 @@ def get_cluster_framework(cluster: str) -> str:
 
 
 # ── 马克思主义工具与启发 ──
-_MARXISM_INSPIRATION_DIR = Path(__file__).resolve().parent.parent.parent / "methodology" / "marxism" / "inspiration"
+_MARXISM_INSPIRATION_DIR = Path(__file__).resolve().parent.parent / "methodology" / "marxism" / "inspiration"
 
 
 def get_marxism_tools_for_cluster(cluster: str) -> list:
@@ -417,7 +417,7 @@ def get_marxism_inspiration(situation: str, cluster: str = None, limit: int = 2)
 
 
 # ── 邓小平理论工具与启发 ──
-_DENG_INSPIRATION_DIR = Path(__file__).resolve().parent.parent.parent / "methodology" / "deng_xiaoping_theory" / "inspiration"
+_DENG_INSPIRATION_DIR = Path(__file__).resolve().parent.parent / "methodology" / "deng_xiaoping_theory" / "inspiration"
 
 
 def get_deng_tools_for_cluster(cluster: str) -> list:

@@ -22,7 +22,7 @@ marxism/
     └── ...（主题与 mao_zedong_thought/inspiration/ 对齐）
 ```
 
-**当前完成度**：原料库 44 篇（marx 9 / engels 12 / lenin 23），启发库 30 篇。启发库被引擎**实时检索**（见 `skills/gongfu-skill/router.py` 的 `get_marxism_inspiration`）。下方「原料库规划 / 启发库规划」是建设方向，非当前清单。
+**当前完成度**：原料库 44 篇（marx 9 / engels 12 / lenin 23），启发库 30 篇。启发库被引擎**实时检索**（见 `engine/router.py` 的 `get_marxism_inspiration`）。下方「原料库规划 / 启发库规划」是建设方向，非当前清单。
 
 ## 与毛泽东思想的关系
 

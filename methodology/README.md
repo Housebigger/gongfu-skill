@@ -75,4 +75,4 @@ methodology/
 2. 内含 `reference/`（原料库）和 `inspiration/`（启发库）
 3. 启发库使用与现有体系对齐的 7 主题结构——**只在有内容时创建对应主题目录，不预建空目录**
 4. 更新本 README 的架构图与「各体系当前完成度」表
-5. 如需引擎实时检索该体系的启发库，在 `skills/gongfu-skill/router.py` 仿照 `get_marxism_inspiration` 增加一个加载函数，并在 `tools.py` 的 `_handle_analyze` 中接入
+5. 如需引擎实时检索该体系的启发库，在 `engine/router.py` 仿照 `get_marxism_inspiration` 增加一个加载函数，并在 `tools.py` 的 `_handle_analyze` 中接入

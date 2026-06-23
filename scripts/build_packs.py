@@ -6,7 +6,7 @@
   - skills/data/*.yaml       结构化知识库
 
 派生目标（generated，已 gitignore，请勿手动编辑——改了会被覆盖）:
-  - skills/gongfu-skill/skills/<name>/SKILL.md   Hermes 插件内嵌的 skill 副本
+  - engine/skills/<name>/SKILL.md                Hermes 插件内嵌的 skill 副本
                                                  （不带 data/，引擎运行时读 skills/data/）
   - claude-skills/skills/<name>/SKILL.md         Claude Code 静态知识包
   - claude-skills/data/*.yaml
@@ -29,17 +29,17 @@ SRC_DATA = SRC_SKILLS / "data"
 
 # (skills 目标目录, data 目标目录或 None)
 TARGETS = [
-    (REPO / "skills" / "gongfu-skill" / "skills", None),
+    (REPO / "engine" / "skills", None),
     (REPO / "claude-skills" / "skills", REPO / "claude-skills" / "data"),
     (REPO / "agents" / "zcode-skills", REPO / "agents" / "zcode-skills" / "data"),
 ]
 
 
 def source_skill_dirs():
-    """skills/ 下含 SKILL.md 的目录，排除 data/ 和引擎目录 gongfu-skill/。"""
+    """skills/ 下含 SKILL.md 的目录（data/ 无 SKILL.md，自动排除）。"""
     return [
         c for c in sorted(SRC_SKILLS.iterdir())
-        if c.is_dir() and c.name != "gongfu-skill" and (c / "SKILL.md").exists()
+        if c.is_dir() and (c / "SKILL.md").exists()
     ]
 
 

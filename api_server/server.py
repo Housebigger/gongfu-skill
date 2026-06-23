@@ -23,7 +23,7 @@ from pathlib import Path
 
 # ── 加载引擎（同 MCP server，合成包方式）──────────────────────────────
 _REPO_ROOT = Path(__file__).resolve().parent.parent
-_ENGINE_DIR = _REPO_ROOT / "skills" / "gongfu-skill"
+_ENGINE_DIR = _REPO_ROOT / "engine"
 
 import importlib
 import types

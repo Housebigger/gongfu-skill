@@ -20,7 +20,9 @@
 
 ---
 
-## 共富参谋插件（`gongfu-skill/`）
+## 共富参谋插件 / 引擎（已移至仓库顶层 `engine/`）
+
+> 引擎/插件代码原先在 `skills/gongfu-skill/`，现已上移到仓库顶层 `engine/`，让"知识源 `skills/`"与"引擎 `engine/`"一眼分清。本目录 `skills/` 现在只放知识源（7 个 `SKILL.md` + `data/` + 设计规范）。
 
 7 个 skill 封装成一个 Hermes 插件，对外只有一个简约接口，采用多轮对话交互（借鉴 Superpowers brainstorming 模式）：
 
@@ -33,28 +35,24 @@
 ### 插件结构
 
 ```
-gongfu-skill/
+engine/                  # 仓库顶层
 ├── plugin.yaml          # 插件清单
 ├── __init__.py          # 注册（工具+hook+skills）
 ├── schemas.py           # gongfu_consult 工具 schema
 ├── tools.py             # 工具 handler
 ├── router.py            # 路由逻辑（situation-triage 的代码版）
-├── skills/              # 内嵌 7 个 SKILL.md
-│   ├── situation-triage/SKILL.md
-│   ├── problem-diagnosis/SKILL.md
-│   ├── industry-scan/SKILL.md
-│   ├── startup-feasibility/SKILL.md
-│   ├── growth-planner/SKILL.md
-│   ├── collaboration-match/SKILL.md
-│   └── opportunity-radar/SKILL.md
-└── data/（在上级 data/ 目录）  # 7 个 YAML 结构化知识库
+└── skills/              # ⚙生成：内嵌 7 个 SKILL.md（由 scripts/build_packs.py 生成，gitignore）
+    ├── situation-triage/SKILL.md
+    └── ...（其余 6 个）
+
+# 数据不在 engine/ 内，引擎运行时读取 skills/data/ 的 11 个 YAML 知识库
 ```
 
 ### 安装
 
 ```bash
-# 符号链接到 Hermes plugins 目录
-ln -sf /path/to/gongfu-skill/skills/gongfu-skill ~/.hermes/plugins/gongfu-skill
+# 符号链接到 Hermes plugins 目录（或直接运行 ./install.sh）
+ln -sf /path/to/gongfu-skill/engine ~/.hermes/plugins/gongfu-skill
 
 # 启用
 hermes plugins enable gongfu-skill

@@ -14,7 +14,7 @@ from pathlib import Path
 
 # ── 1. 加载引擎（通过合成包，不触碰 Hermes 插件）──────────────────────────
 _REPO_ROOT = Path(__file__).resolve().parent.parent
-_ENGINE_DIR = _REPO_ROOT / "skills" / "gongfu-skill"
+_ENGINE_DIR = _REPO_ROOT / "engine"
 
 if "gongfu_engine" not in sys.modules:
     # 创建合成包，让 engine 内部的 `from . import router` 相对导入能正常解析

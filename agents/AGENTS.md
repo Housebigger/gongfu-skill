@@ -39,7 +39,10 @@
 - `growth-profiles.yaml` — 4 种画像成长地图
 - `collaboration-forms.yaml` — 5 种协作形态
 - `opportunities.yaml` — 十大确定性增量 + 中长期前瞻
-- `methodology-tools.yaml` — 思维工具箱（矛盾分析等）
+- `methodology-tools.yaml` — 思维工具箱（毛泽东思想：矛盾分析、持久战等）
+- `marxism-tools.yaml` — 马克思主义工具（剩余价值、劳动异化等）
+- `deng-tools.yaml` — 邓小平理论工具（实事求是、发展优先等）
+- `xi-tools.yaml` — 习近平思想工具（新质生产力、高质量发展等）
 - `regional-matrix.yaml` — 五大区域 × 机会矩阵
 - `counseling-principles.yaml` — 心理咨询原则参考
 

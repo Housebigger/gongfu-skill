@@ -8,6 +8,11 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO="$(dirname "$SCRIPT_DIR")"
 
+# 确保派生知识包已生成（单一源 skills/ → claude-skills / zcode-skills）
+if command -v python3 &>/dev/null; then python3 "$REPO/scripts/build_packs.py" >/dev/null 2>&1 || true
+elif command -v python &>/dev/null; then python "$REPO/scripts/build_packs.py" >/dev/null 2>&1 || true
+fi
+
 echo "共富参谋（gongfu-skill）平台适配安装"
 echo "=========================================="
 echo "仓库路径：$REPO"

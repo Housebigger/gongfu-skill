@@ -26,8 +26,25 @@ methodology/
 │   ├── reference/                  原料库（8 篇核心讲话/谈话原文摘录）
 │   └── inspiration/                启发库（当代转译 × 7 主题）
 │
+├── xi_jinping_thought/             习近平新时代中国特色社会主义思想
+│   ├── reference/                  原料库（10 篇核心论述原文摘录）
+│   └── inspiration/                启发库（当代转译 × 7 主题）
+│
 └── README.md                        本文件
 ```
+
+## 各体系当前完成度
+
+四个思想体系的原料库（reference）与启发库（inspiration）建设进度不一，转译以毛泽东思想为主力、其余体系逐步补齐：
+
+| 体系 | reference | inspiration | 引擎接入方式 |
+|---|---|---|---|
+| 毛泽东思想 | 230 篇 | 1547 篇（7 主题铺满） | 蒸馏进 `skills/data/methodology-tools.yaml`（运行时不直接读启发库） |
+| 马克思主义 | 44 篇（马 9 / 恩 12 / 列 23） | 30 篇 | 启发库被引擎实时检索 + `marxism-tools.yaml` |
+| 邓小平理论 | 8 篇 | 4 篇（仅 3 主题有内容） | 启发库被引擎实时检索 + `deng-tools.yaml` |
+| 习近平思想 | 10 篇 | 2 篇（仅 today_life 有内容） | 蒸馏进 `xi-tools.yaml`（运行时不直接读启发库） |
+
+> 说明：未铺满的主题目录暂不预建空目录——新增转译时再按需创建对应主题目录，避免空目录噪音。引擎实际读取哪些目录见根目录 `CLAUDE.md` 的「Runtime data」一节。
 
 ## 设计原则
 
@@ -52,9 +69,10 @@ methodology/
 
 ## 扩展方式
 
-将来增加新的思想体系（如邓小平理论、习近平思想），按同样模式：
+将来增加新的思想体系，按同样模式：
 
 1. 在 methodology/ 下新建 `<体系名>/` 目录
 2. 内含 `reference/`（原料库）和 `inspiration/`（启发库）
-3. 启发库使用与现有体系对齐的 7 主题结构
-4. 更新本 README 的架构图
+3. 启发库使用与现有体系对齐的 7 主题结构——**只在有内容时创建对应主题目录，不预建空目录**
+4. 更新本 README 的架构图与「各体系当前完成度」表
+5. 如需引擎实时检索该体系的启发库，在 `skills/gongfu-skill/router.py` 仿照 `get_marxism_inspiration` 增加一个加载函数，并在 `tools.py` 的 `_handle_analyze` 中接入

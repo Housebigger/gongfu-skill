@@ -17,6 +17,8 @@ deng_xiaoping_theory/
 └── inspiration/        启发库（当代转译 × 7 主题）
 ```
 
+**当前完成度**：原料库 8 篇，启发库 4 篇（today_life 2 / making_money 1 / educational 1）。启发库被引擎**实时检索**（见 `skills/gongfu-skill/router.py` 的 `get_deng_inspiration`）。未铺满的主题暂不预建空目录，新增转译时再创建。
+
 ## 与毛泽东思想、马克思主义的关系
 
 | 思想体系 | 核心问题 | 对劳动者的价值 |

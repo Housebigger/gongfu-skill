@@ -5,3 +5,10 @@ __pycache__/
 .hermes/sessions/
 .venv/
 *.egg-info/
+
+# 派生知识包——单一源是 skills/（SKILL.md + data/），这些由 scripts/build_packs.py 生成
+# 请勿手动编辑或提交；安装脚本会自动生成
+/skills/gongfu-skill/skills/
+/claude-skills/skills/
+/claude-skills/data/
+/agents/zcode-skills/

@@ -48,6 +48,22 @@ if (-not (Test-Path $PluginYaml)) {
 
 Write-Ok "仓库就绪: $RepoDir"
 
+# ── 生成派生知识包（单一源 skills/ → Hermes 内嵌副本 + 静态包）──
+$BuildScript = Join-Path $RepoDir "scripts\build_packs.py"
+$PyCmd = Get-Command python3 -ErrorAction SilentlyContinue
+if (-not $PyCmd) { $PyCmd = Get-Command python -ErrorAction SilentlyContinue }
+if ($PyCmd -and (Test-Path $BuildScript)) {
+    try {
+        & $PyCmd.Source $BuildScript | Out-Null
+        if ($LASTEXITCODE -eq 0) { Write-Ok "知识包已生成" }
+        else { Write-Warn "知识包生成失败，可手动运行: python scripts\build_packs.py" }
+    } catch {
+        Write-Warn "知识包生成失败，可手动运行: python scripts\build_packs.py"
+    }
+} else {
+    Write-Warn "未找到 python，跳过知识包生成（可手动运行 python scripts\build_packs.py 补齐）"
+}
+
 # ── 定位 Hermes 插件目录 ──
 $HermesHome = if ($env:HERMES_HOME) { $env:HERMES_HOME } else { Join-Path $HOME ".hermes" }
 $PluginsDir = Join-Path $HermesHome "plugins"

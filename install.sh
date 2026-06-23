@@ -49,6 +49,18 @@ fi
 
 ok "仓库就绪: $REPO_DIR"
 
+# ── 生成派生知识包（单一源 skills/ → Hermes 内嵌副本 + 静态包）──
+if command -v python3 &>/dev/null; then GONGFU_PY=python3
+elif command -v python &>/dev/null; then GONGFU_PY=python
+else GONGFU_PY=""; fi
+if [ -n "$GONGFU_PY" ]; then
+    "$GONGFU_PY" "$REPO_DIR/scripts/build_packs.py" >/dev/null 2>&1 \
+        && ok "知识包已生成" \
+        || warn "知识包生成失败，可手动运行: python scripts/build_packs.py"
+else
+    warn "未找到 python，跳过知识包生成（Hermes 内嵌 skill 将缺失，可手动运行 python scripts/build_packs.py 补齐）"
+fi
+
 # ── 定位 Hermes 插件目录 ──
 if [ -n "$HERMES_HOME" ]; then
     PLUGINS_DIR="$HERMES_HOME/plugins"

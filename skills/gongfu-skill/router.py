@@ -21,6 +21,7 @@ def _load_yaml(filename):
 _METHODOLOGY = _load_yaml("methodology-tools.yaml")
 _MARXISM_TOOLS = _load_yaml("marxism-tools.yaml")
 _DENG_TOOLS = _load_yaml("deng-tools.yaml")
+_XI_TOOLS = _load_yaml("xi-tools.yaml")
 _INDUSTRY = _load_yaml("industry-signals.yaml")
 _REGIONAL = _load_yaml("regional-matrix.yaml")
 
@@ -493,6 +494,29 @@ def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) ->
         {"title": title, "excerpt": excerpt, "path": path}
         for _, title, excerpt, path in scored_files[:limit]
     ]
+
+
+# ── 习近平思想工具 ──
+
+def get_xi_tools_for_cluster(cluster: str) -> list:
+    """Get the most relevant xi jinping thought tools for a cluster."""
+    if not cluster:
+        return []
+    cluster_match = _XI_TOOLS.get("cluster_match", {})
+    tool_keys = cluster_match.get(cluster, [])
+    all_tools = _XI_TOOLS.get("tools", {})
+    result = []
+    for key in tool_keys:
+        tool = all_tools.get(key, {})
+        if tool:
+            result.append({
+                "name": key,
+                "principle": tool.get("principle", ""),
+                "one_liner": tool.get("one_liner", ""),
+                "use_when": tool.get("use_when", ""),
+                "quote_source": tool.get("quote_source", ""),
+            })
+    return result
 
 
 def get_regional_score(opportunity: str, region: str) -> int:

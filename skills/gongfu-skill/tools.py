@@ -296,6 +296,13 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
     if deng_insp:
         knowledge_context["deng_inspiration"] = deng_insp
 
+    # ── 注入习近平思想工具（方向层）──
+    xi_tools = []
+    if info.get("cluster"):
+        xi_tools = router.get_xi_tools_for_cluster(info["cluster"])
+    if xi_tools:
+        knowledge_context["xi_tools"] = xi_tools
+
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)
     if strengths:

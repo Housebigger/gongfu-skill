@@ -106,6 +106,12 @@ Rules:
 
 The `skills/00-skill设计规范.md` defines the required `SKILL.md` structure (frontmatter → overview → when-to-use → input → processing → output → **test cases** → source mapping → boundaries) and the five quality bars (可调用/可验证/可组合/可追溯/诚实).
 
+## Versioning & releases
+
+Outward-facing release notes live in **`CHANGELOG.md`** (Keep-a-Changelog, Chinese) — the canonical place to describe a version upgrade. The version is maintained in **three** files that must move together: `pyproject.toml`, `api_server/server.py` (the `/` index `version`), and `engine/plugin.yaml`.
+
+Bump the version only for **engine / interface / distribution-structure** changes — **not** for pure knowledge-content additions (new 转译 / cluster frameworks accumulate under CHANGELOG's `[未发布]` section and ship with the next real release). To cut a release: bump the three version strings → add a `CHANGELOG.md` entry → update the `当前版本 vX.Y.Z` line at the top of `README.md`. Keep `README.md` in sync with the current version.
+
 ## Conventions
 
 - **Chinese first.** Prose, commit messages, and user-facing strings are Chinese. Keep `ensure_ascii=False` on every `json.dumps` (the API has a dedicated `ChineseJSONResponse` for this).

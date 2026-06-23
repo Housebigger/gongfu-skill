@@ -4,6 +4,8 @@
 
 全民共享，共同富裕。
 
+> 当前版本 **v1.2.0** ｜ 升级与变更说明见 [CHANGELOG.md](CHANGELOG.md)
+
 这是一个以“促进广大劳动人民具备零成本创业的意愿和条件”为宗旨的知识仓库。它更关心的，不是个人流水账式记录，而是那些能够被反复调用、持续积累、低门槛传播的方法论、认知框架、经验结晶与伴随式反思。
 
 它也明确服务于一种立场：新技术、新工具、新生产力，不应只成为资本垄断和加剧不公的手段，而应尽可能转化为普通劳动者可以掌握、可以使用、可以据此改善命运的现实条件。
@@ -68,6 +70,8 @@ iwr -useb https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/instal
 ```
 
 脚本会自动完成克隆/更新、链接插件、启用插件。新开一个 Hermes 会话即可使用。
+
+> **从 v1.1.x 升级**：引擎目录已改为 `engine/`，旧的符号链接会失效——重新运行上面的安装脚本即可重新链接。详见 [CHANGELOG.md](CHANGELOG.md)。
 
 > 前提：已安装 [Hermes Agent](https://hermes-agent.nousresearch.com/)（`hermes --version` 能跑就行）
 

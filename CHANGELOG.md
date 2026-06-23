@@ -14,6 +14,15 @@
 
 （暂无）
 
+## [1.3.0] - 2026-06-23
+
+战略库新增第二核心根源——Serenity 产业链分析法，并接入引擎。对终端使用者**功能只增不减**：在行业判断 / 趋势前瞻类咨询中，当识别出产业集群时，会多一组"找产业链卡点"的劳动者版分析视角（`chain_tools`）。
+
+### 新增 Added
+
+- **战略库新增第二核心根源：Serenity 产业链分析法**。在十五五规划之外，新增"读懂任意产业链卡点"的微观方法体系：原文源料 `strategy/references/serenity/`、提炼子层 `strategy/industry_investment/`（瓶颈理论/紫苏叶理论/约束倒推/下钻五步/对抗性验证，全部翻译为劳动者版的行业判断与创业切入工具，剥离个股）。
+- **引擎接入产业链卡点工具**：新增 `skills/data/industrial-chain-tools.yaml`，`engine/router.py` 增 `get_chain_tools_for_cluster`，`gongfu_consult` 在行业判断/趋势前瞻类咨询且识别出集群时注入 `chain_tools`。
+
 ## [1.2.0] - 2026-06-23
 
 一轮仓库梳理：理顺应用层结构、补齐四思想体系的引擎接入、清理文档。对终端使用者（在 Hermes / Claude / Cursor 等里问共富参谋）**功能只增不减**；对维护者和自建部署者有目录结构变化，见下方升级提示。

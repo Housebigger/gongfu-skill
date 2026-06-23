@@ -3,6 +3,9 @@
 # 与 methodology-tools.yaml / marxism-tools.yaml 互补：
 #   思想武器库回答"怎么想"，本文件回答"怎么读一条产业链、找自己的价值卡点"
 # 来源：strategy/references/serenity/ + strategy/industry_investment/
+# 文档层"五大框架"↔本文件"五张卡"对照（命名略有差异）：
+#   瓶颈理论→瓶颈定位（+卡点四问，劳动者执行版，见 industry_investment/01）
+#   紫苏叶理论→紫苏叶切入；约束条件导向+下钻五步→约束倒推（见 02）；对抗性验证→对抗性验证
 # 注意：只含分析框架，不含任何个股/仓位/买卖点。
 
 tools:

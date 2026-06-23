@@ -75,7 +75,7 @@ The tool returns **instructions for the LLM**, not finished prose — `tone_inst
 
 `router.py` reads knowledge from disk at runtime, so **adding content takes effect immediately**:
 
-- `skills/data/*.yaml` — the structured knowledge the engine loads (`_DATA_DIR = <repo>/skills/data`, resolved from `engine/router.py`). 11 files: `industry-signals`, `startup-paths`, `growth-profiles`, `collaboration-forms`, `opportunities`, `methodology-tools`, `regional-matrix`, `counseling-principles`, plus `marxism-tools` / `deng-tools` / `xi-tools`.
+- `skills/data/*.yaml` — the structured knowledge the engine loads (`_DATA_DIR = <repo>/skills/data`, resolved from `engine/router.py`). 12 files: `industry-signals`, `startup-paths`, `growth-profiles`, `collaboration-forms`, `opportunities`, `methodology-tools`, `regional-matrix`, `counseling-principles`, `marxism-tools` / `deng-tools` / `xi-tools`, plus `industrial-chain-tools` (Serenity 产业链卡点分析法，战略库第二根源).
 - `methodology/cluster_frameworks/<cluster>.md` — loaded whole by `get_cluster_framework()`.
 - `methodology/{marxism,deng_xiaoping_theory,mao_zedong_thought,xi_jinping_thought}/inspiration/*.md` — keyword-scored and excerpted at request time by `get_{marxism,deng,mao,xi}_inspiration()`. Mao's library is ~1547 files, so the Mao/Xi loaders go through a module-level cache (`_load_inspiration_dir`): each dir is read from disk **once** (first request that touches it), then scored in memory. marxism/deng (30 / 4 files) still scan per call.
 

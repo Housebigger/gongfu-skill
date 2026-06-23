@@ -496,6 +496,110 @@ def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) ->
     ]
 
 
+# ── 毛泽东 / 习近平启发库（带缓存的实时检索）──
+# 毛泽东启发库有 1500+ 篇，逐请求读盘代价高，因此用模块级缓存：
+# 每个目录只在首次检索时读盘一次，之后在内存中按情境打分。
+_MAO_INSPIRATION_DIR = Path(__file__).resolve().parent.parent / "methodology" / "mao_zedong_thought" / "inspiration"
+_XI_INSPIRATION_DIR = Path(__file__).resolve().parent.parent / "methodology" / "xi_jinping_thought" / "inspiration"
+
+_INSPIRATION_CACHE = {}
+
+
+def _load_inspiration_dir(base_dir):
+    """懒加载并缓存某启发库目录下所有文件的 (title, zone, excerpt, relpath)。
+
+    zone = 小写的「标题 + 正文前 800 字」，用于关键词打分；
+    excerpt = 前两段有意义的正文，用于展示。
+    """
+    key = str(base_dir)
+    if key in _INSPIRATION_CACHE:
+        return _INSPIRATION_CACHE[key]
+    entries = []
+    if base_dir.exists():
+        for f in base_dir.rglob("*.md"):
+            if f.name in ("README.md", "index.md"):
+                continue
+            try:
+                text = f.read_text(encoding="utf-8")
+            except Exception:
+                continue
+            title = f.stem
+            zone = (title + " " + text[:800]).lower()
+            excerpt_lines = []
+            for line in text.split("\n"):
+                stripped = line.strip()
+                if stripped and not stripped.startswith("#") and not stripped.startswith(">") and not stripped.startswith("日期") and not stripped.startswith("原文对应") and not stripped.startswith("说明："):
+                    excerpt_lines.append(stripped)
+                    if len(excerpt_lines) >= 2:
+                        break
+            excerpt = " ".join(excerpt_lines)[:300]
+            entries.append((title, zone, excerpt, str(f.relative_to(base_dir))))
+    _INSPIRATION_CACHE[key] = entries
+    return entries
+
+
+def _score_cached_inspiration(base_dir, situation, cluster, limit):
+    """从缓存的启发库条目里，按情境/集群/情绪关键词选出最相关的几篇。
+
+    打分口径与 get_marxism_inspiration 一致（含集群关键词加权）。
+    """
+    situation_lower = situation.lower() if situation else ""
+    cluster_keywords = {
+        "A-先进制造与硬科技": ["工厂", "产线", "制造", "设备", "嵌入式", "技能"],
+        "B-数字与智能产业": ["程序员", "代码", "AI", "互联网", "算法"],
+        "C-绿色能源全链": ["光伏", "风电", "电站", "运维", "电工"],
+        "D-农业与乡村振兴": ["农村", "返乡", "种植", "农业", "县城"],
+        "E-民生服务": ["养老", "护理", "服务", "人"],
+        "F-文化创意与出海": ["内容", "创作", "出海", "短剧"],
+        "G-基建物流房地产": ["外卖", "骑手", "快递", "物流", "建筑"],
+        "H-新兴未来产业": ["机器人", "无人机", "AI", "新兴"],
+        "I-传统矿业与资源开采": ["矿", "矿工"],
+        "J-传统轻纺与日用制造": ["纺织", "服装", "工厂"],
+        "K-传统重化工与建材": ["钢铁", "水泥", "化工"],
+        "L-商贸零售与餐饮住宿": ["店", "零售", "餐饮", "电商"],
+        "M-金融与商务服务": ["银行", "金融", "工资", "保险"],
+        "N-教育与培训": ["教师", "教育", "学习", "培训"],
+        "O-居民生活服务": ["美容", "维修", "宠物", "汽修"],
+        "P-公用事业与市政服务": ["环卫", "公交", "司机"],
+    }
+    situation_keywords = ["嵌入式", "开发", "深圳", "累", "工资", "前景", "行业",
+                          "机器人", "养老", "护理", "外卖", "骑手", "快递", "矿工",
+                          "纺织", "钢铁", "水泥", "化工", "程序员", "教师", "教育",
+                          "焦虑", "迷茫", "转行", "创业", "开店", "副业", "考证",
+                          "学习", "合作", "合伙", "未来", "趋势", "被替代", "AI",
+                          "光伏", "风电", "农业", "返乡", "县城", "银行", "餐饮",
+                          "汽修", "美容", "宠物", "环卫", "公交", "司机"]
+    emotional_kw = ["累", "穷", "焦虑", "迷茫", "不想干", "压力", "加班", "被替代"]
+
+    scored = []
+    for title, zone, excerpt, relpath in _load_inspiration_dir(base_dir):
+        score = 0
+        for word in situation_keywords:
+            if word in situation_lower and word in zone:
+                score += 2
+        if cluster and cluster in cluster_keywords:
+            for kw in cluster_keywords[cluster]:
+                if kw in zone:
+                    score += 5
+        for kw in emotional_kw:
+            if kw in situation_lower and kw in zone:
+                score += 3
+        if score > 0:
+            scored.append((score, title, excerpt, relpath))
+    scored.sort(key=lambda x: x[0], reverse=True)
+    return [{"title": t, "excerpt": e, "path": p} for _, t, e, p in scored[:limit]]
+
+
+def get_mao_inspiration(situation: str, cluster: str = None, limit: int = 2) -> list:
+    """Find the most relevant Mao Zedong thought inspiration files (cached)."""
+    return _score_cached_inspiration(_MAO_INSPIRATION_DIR, situation, cluster, limit)
+
+
+def get_xi_inspiration(situation: str, cluster: str = None, limit: int = 2) -> list:
+    """Find the most relevant Xi Jinping thought inspiration files (cached)."""
+    return _score_cached_inspiration(_XI_INSPIRATION_DIR, situation, cluster, limit)
+
+
 # ── 习近平思想工具 ──
 
 def get_xi_tools_for_cluster(cluster: str) -> list:

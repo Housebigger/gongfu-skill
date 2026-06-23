@@ -39,10 +39,10 @@ methodology/
 
 | 体系 | reference | inspiration | 引擎接入方式 |
 |---|---|---|---|
-| 毛泽东思想 | 230 篇 | 1547 篇（7 主题铺满） | 蒸馏进 `skills/data/methodology-tools.yaml`（运行时不直接读启发库） |
+| 毛泽东思想 | 230 篇 | 1547 篇（7 主题铺满） | 工具进 `methodology-tools.yaml`；启发库被引擎实时检索（带缓存） |
 | 马克思主义 | 44 篇（马 9 / 恩 12 / 列 23） | 30 篇 | 启发库被引擎实时检索 + `marxism-tools.yaml` |
 | 邓小平理论 | 8 篇 | 4 篇（仅 3 主题有内容） | 启发库被引擎实时检索 + `deng-tools.yaml` |
-| 习近平思想 | 10 篇 | 2 篇（仅 today_life 有内容） | 蒸馏进 `xi-tools.yaml`（运行时不直接读启发库） |
+| 习近平思想 | 10 篇 | 2 篇（仅 today_life 有内容） | 工具进 `xi-tools.yaml`；启发库被引擎实时检索（带缓存） |
 
 > 说明：未铺满的主题目录暂不预建空目录——新增转译时再按需创建对应主题目录，避免空目录噪音。引擎实际读取哪些目录见根目录 `CLAUDE.md` 的「Runtime data」一节。
 

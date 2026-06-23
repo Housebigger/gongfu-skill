@@ -77,9 +77,9 @@ The tool returns **instructions for the LLM**, not finished prose — `tone_inst
 
 - `skills/data/*.yaml` — the structured knowledge the engine loads (`_DATA_DIR = <repo>/skills/data`, resolved from `engine/router.py`). 11 files: `industry-signals`, `startup-paths`, `growth-profiles`, `collaboration-forms`, `opportunities`, `methodology-tools`, `regional-matrix`, `counseling-principles`, plus `marxism-tools` / `deng-tools` / `xi-tools`.
 - `methodology/cluster_frameworks/<cluster>.md` — loaded whole by `get_cluster_framework()`.
-- `methodology/{marxism,deng_xiaoping_theory}/inspiration/*.md` — keyword-scored and excerpted at request time by `get_marxism_inspiration()` / `get_deng_inspiration()`.
+- `methodology/{marxism,deng_xiaoping_theory,mao_zedong_thought,xi_jinping_thought}/inspiration/*.md` — keyword-scored and excerpted at request time by `get_{marxism,deng,mao,xi}_inspiration()`. Mao's library is ~1547 files, so the Mao/Xi loaders go through a module-level cache (`_load_inspiration_dir`): each dir is read from disk **once** (first request that touches it), then scored in memory. marxism/deng (30 / 4 files) still scan per call.
 
-Note: Mao Zedong thought is **not** scanned live — its tools are pre-distilled into `methodology-tools.yaml`. Its `reference/` (原文) + `inspiration/` (当代转译) dirs are source material humans distill *from*, not read at runtime. The multi-thought-system tools (马/毛/邓/习) are layered: 马克思主义=理论根基, 毛泽东思想=方法工具, 邓小平理论=务实行动, 习近平思想=方向，all injected together in `_handle_analyze`.
+Note: each system's `reference/` (原文) is source material humans distill *from*; what reaches the model is the distilled `*-tools.yaml` tool cards **plus** the live inspiration scan above. The multi-thought-system layering (马/毛/邓/习): 马克思主义=理论根基, 毛泽东思想=方法工具, 邓小平理论=务实行动, 习近平思想=方向 — all injected together in `_handle_analyze`.
 
 ### Single source + generated packs (read before editing skills or data)
 

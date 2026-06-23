@@ -22,7 +22,7 @@ xi_jinping_thought/
 └── inspiration/        启发库（当代转译 × 7 主题）
 ```
 
-**当前完成度**：原料库 10 篇，启发库 2 篇（仅 today_life）。工具经 `skills/data/xi-tools.yaml` 接入引擎；启发库目前**不被运行时直接读取**（与毛泽东思想同属"蒸馏进 YAML"模式）。未铺满的主题暂不预建空目录，新增转译时再创建。
+**当前完成度**：原料库 10 篇，启发库 2 篇（仅 today_life）。工具经 `skills/data/xi-tools.yaml` 接入；启发库也被引擎**实时检索**（见 `engine/router.py` 的 `get_xi_inspiration`，带缓存）。未铺满的主题暂不预建空目录，新增转译时再创建。
 
 ## 四套思想体系的关系
 

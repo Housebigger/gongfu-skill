@@ -285,6 +285,11 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
     if marxism_insp:
         knowledge_context["marxism_inspiration"] = marxism_insp
 
+    # 匹配最相关的毛泽东思想启发文件（实时检索 1500+ 篇当代转译，带缓存）
+    mao_insp = router.get_mao_inspiration(situation, info.get("cluster"), limit=2)
+    if mao_insp:
+        knowledge_context["mao_inspiration"] = mao_insp
+
     # ── 注入邓小平理论工具与启发（务实行动层）──
     deng_tools = []
     if info.get("cluster"):
@@ -302,6 +307,10 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
         xi_tools = router.get_xi_tools_for_cluster(info["cluster"])
     if xi_tools:
         knowledge_context["xi_tools"] = xi_tools
+
+    xi_insp = router.get_xi_inspiration(situation, info.get("cluster"), limit=2)
+    if xi_insp:
+        knowledge_context["xi_inspiration"] = xi_insp
 
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)

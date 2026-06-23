@@ -18,3 +18,5 @@ mao_zedong_thought/
 ```
 
 原文来源对照 marxists.org 毛泽东著作目录，001—229 已连续覆盖。
+
+**引擎接入**：工具卡片蒸馏进 `skills/data/methodology-tools.yaml`；启发库（1547 篇）由引擎**实时检索**（见 `engine/router.py` 的 `get_mao_inspiration`，带模块级缓存，仅首次读盘）。

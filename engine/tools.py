@@ -312,6 +312,15 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
     if xi_insp:
         knowledge_context["xi_inspiration"] = xi_insp
 
+    # ── 注入产业链卡点分析工具（Serenity 方法·战略库第二根源）──
+    # 仅在行业判断/趋势前瞻类路由且识别出 cluster 时注入
+    if info.get("cluster") and (
+        "industry-scan" in route_to or "opportunity-radar" in route_to
+    ):
+        chain_tools = router.get_chain_tools_for_cluster(info["cluster"])
+        if chain_tools:
+            knowledge_context["chain_tools"] = chain_tools
+
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)
     if strengths:

@@ -24,6 +24,7 @@ _DENG_TOOLS = _load_yaml("deng-tools.yaml")
 _XI_TOOLS = _load_yaml("xi-tools.yaml")
 _INDUSTRY = _load_yaml("industry-signals.yaml")
 _REGIONAL = _load_yaml("regional-matrix.yaml")
+_CHAIN = _load_yaml("industrial-chain-tools.yaml")
 
 # Industry keyword -> cluster mapping
 _INDUSTRY_KEYWORDS = {
@@ -312,6 +313,30 @@ def get_marxism_tools_for_cluster(cluster: str) -> list:
     cluster_match = _MARXISM_TOOLS.get("cluster_match", {})
     tool_keys = cluster_match.get(cluster, [])
     all_tools = _MARXISM_TOOLS.get("tools", {})
+    result = []
+    for key in tool_keys:
+        tool = all_tools.get(key, {})
+        if tool:
+            result.append({
+                "name": key,
+                "principle": tool.get("principle", ""),
+                "one_liner": tool.get("one_liner", ""),
+                "use_when": tool.get("use_when", ""),
+                "quote_source": tool.get("quote_source", ""),
+            })
+    return result
+
+
+def get_chain_tools_for_cluster(cluster: str) -> list:
+    """Get the most relevant industrial-chain (Serenity 方法) tools for a cluster.
+
+    Returns a list of tool dicts with principle, one_liner, use_when, quote_source.
+    """
+    if not cluster:
+        return []
+    cluster_match = _CHAIN.get("cluster_match", {})
+    tool_keys = cluster_match.get(cluster, [])
+    all_tools = _CHAIN.get("tools", {})
     result = []
     for key in tool_keys:
         tool = all_tools.get(key, {})

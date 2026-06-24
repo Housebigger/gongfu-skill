@@ -41,4 +41,4 @@ policy_archive/
 
 本目录内容经 `strategy/economic_policy/` 专栏的复盘分析后，提炼为对一线劳动者有参考价值的政策解读、产业信号和就业趋势判断，供 `engine/` 调用或供用户直接阅读。
 
-**记录链**：policy_archive（原文/数据）→ economic_policy/（复盘提炼）→ engine/skills/data（结构化知识）→ gongfu_consult（工具调用）
+**记录链**：policy_archive（原文/数据）→ economic_policy/（复盘提炼）→ skills/data（结构化知识）→ gongfu_consult（工具调用）

@@ -26,6 +26,8 @@ _INDUSTRY = _load_yaml("industry-signals.yaml")
 _REGIONAL = _load_yaml("regional-matrix.yaml")
 # 产业链卡点分析工具（Serenity 方法·战略库第二根源）
 _CHAIN = _load_yaml("industrial-chain-tools.yaml")
+# 经济政策推演方法（战略库第三根源·Phase 2 方法框架·evergreen）
+_DEDUCTION = _load_yaml("policy-deduction-tools.yaml")
 
 # Industry keyword -> cluster mapping
 _INDUSTRY_KEYWORDS = {
@@ -649,6 +651,21 @@ def get_chain_tools_for_cluster(cluster: str) -> list:
                 "quote_source": tool.get("quote_source", ""),
             })
     return result
+
+
+def get_policy_deduction_method() -> dict:
+    """Get the evergreen economic-policy deduction method (six steps + honest boundaries).
+
+    Universal macro-forecasting method distilled from strategy/economic_policy/06 —
+    NOT cluster-specific. Returns {} if the data file is missing or empty.
+    """
+    if not _DEDUCTION:
+        return {}
+    steps = _DEDUCTION.get("method_steps", [])
+    boundaries = _DEDUCTION.get("honest_boundaries", [])
+    if not steps and not boundaries:
+        return {}
+    return {"method_steps": steps, "honest_boundaries": boundaries}
 
 
 def get_regional_score(opportunity: str, region: str) -> int:

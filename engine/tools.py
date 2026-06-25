@@ -329,6 +329,16 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
         if deduction:
             knowledge_context["policy_deduction"] = deduction
 
+    # ── 注入逐集群行业前景卡片（09 行业前景推演蒸馏·evergreen）──
+    # 仅 evergreen 方向骨架（主驱动/基调/卡位/观察指标名/详版指引），不含时效数据；
+    # 行业判断/趋势前瞻类路由且识别出 cluster 时注入
+    if info.get("cluster") and (
+        "industry-scan" in route_to or "opportunity-radar" in route_to
+    ):
+        forecast = router.get_industry_forecast_for_cluster(info["cluster"])
+        if forecast:
+            knowledge_context["industry_forecast"] = forecast
+
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)
     if strengths:

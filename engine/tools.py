@@ -321,6 +321,14 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
         if chain_tools:
             knowledge_context["chain_tools"] = chain_tools
 
+    # ── 注入经济政策推演方法（战略库第三根源·Phase 2 方法框架·evergreen）──
+    # 仅"方法 + 诚实边界"，不含时效宏观假设/议题结论；
+    # 趋势前瞻或行业判断时注入，不依赖 cluster（方法通用）
+    if "opportunity-radar" in route_to or "industry-scan" in route_to:
+        deduction = router.get_policy_deduction_method()
+        if deduction:
+            knowledge_context["policy_deduction"] = deduction
+
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)
     if strengths:
@@ -397,6 +405,13 @@ def _build_execution_guide(route_to: list, info: dict, triage_result: dict) -> s
         elif skill == "opportunity-radar":
             steps.append(f"第{step_num}步：聊趋势——'往远了看，大方向其实是对你有利的/需要警惕的'，"
                          "给希望但不给幻觉。")
+        step_num += 1
+
+    # 在上方"聊趋势/聊行业"步之后补一条"方法论"步：前者给语气框架，本步给推演方法，互补而非重复
+    if "opportunity-radar" in route_to or "industry-scan" in route_to:
+        steps.append(f"第{step_num}步：谈未来方向时用「六要素情景法」——先钉现状锚点（已发生的官方数据），"
+                     "再用政策作用规律外推，给基准/上行/下行三条路和各自的观察信号。"
+                     "守住四条线：情景非预言、给方向不给时间表、不荐资产/个股、不预测政局。")
         step_num += 1
 
     steps.append(f"第{step_num}步：收尾。用一句话总结，但不是冷冰冰的结论。"

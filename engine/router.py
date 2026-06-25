@@ -28,6 +28,8 @@ _REGIONAL = _load_yaml("regional-matrix.yaml")
 _CHAIN = _load_yaml("industrial-chain-tools.yaml")
 # 经济政策推演方法（战略库第三根源·Phase 2 方法框架·evergreen）
 _DEDUCTION = _load_yaml("policy-deduction-tools.yaml")
+# 逐集群行业前景卡片（战略库第三根源·09 行业前景推演蒸馏·evergreen）
+_FORECAST = _load_yaml("industry-forecast-tools.yaml")
 
 # Industry keyword -> cluster mapping
 _INDUSTRY_KEYWORDS = {
@@ -666,6 +668,30 @@ def get_policy_deduction_method() -> dict:
     if not steps and not boundaries:
         return {}
     return {"method_steps": steps, "honest_boundaries": boundaries}
+
+
+def get_industry_forecast_for_cluster(cluster: str) -> dict:
+    """Get the evergreen per-cluster industry-forecast card.
+
+    Distilled from strategy/economic_policy/09-行业前景推演/<cluster>.md — slow-moving
+    fields only (main_issue/tone/positioning/watch_indicators/one_liner/source); the
+    time-sensitive specifics live in the knowledge file pointed to by `source`.
+    Returns {} if cluster is empty or has no card.
+    """
+    if not cluster:
+        return {}
+    forecasts = _FORECAST.get("forecasts", {})
+    card = forecasts.get(cluster, {})
+    if not card:
+        return {}
+    return {
+        "main_issue": card.get("main_issue", ""),
+        "tone": card.get("tone", ""),
+        "positioning": card.get("positioning", ""),
+        "watch_indicators": card.get("watch_indicators", ""),
+        "one_liner": card.get("one_liner", ""),
+        "source": card.get("source", ""),
+    }
 
 
 def get_regional_score(opportunity: str, region: str) -> int:

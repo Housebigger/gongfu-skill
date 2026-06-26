@@ -45,7 +45,7 @@ engine/                  # 仓库顶层
     ├── situation-triage/SKILL.md
     └── ...（其余 6 个）
 
-# 数据不在 engine/ 内，引擎运行时读取 skills/data/ 的 11 个 YAML 知识库
+# 数据不在 engine/ 内，引擎运行时读取 skills/data/ 的 14 个 YAML 知识库
 ```
 
 ### 安装

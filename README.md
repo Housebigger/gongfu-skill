@@ -197,7 +197,7 @@ curl -X POST http://127.0.0.1:8787/consult \
 
 ## 作为 Claude Code 知识包使用
 
-`claude-skills/` 目录是一个自包含的知识包，可以直接放进 Claude Code 项目。包含 7 个 SKILL.md + 11 个 YAML 知识库 + 一个 CLAUDE.md 入口。
+`claude-skills/` 目录是一个自包含的知识包，可以直接放进 Claude Code 项目。包含 7 个 SKILL.md + 14 个 YAML 知识库 + 一个 CLAUDE.md 入口。
 
 > 注：`claude-skills/skills/` 和 `claude-skills/data/` 是从单一源 `skills/` 生成的（已 gitignore）。刚 clone 的仓库需先生成一次：`python scripts/build_packs.py`（运行任一安装脚本会自动生成）。
 
@@ -267,18 +267,21 @@ gongfu-skill/
 │   ├── xi_jinping_thought/     习近平思想（原料库 + 启发库）
 │   └── cluster_frameworks/     16 集群认知框架（跨体系引用）
 ├── accumulation_settle/    伴随式沉淀（经验结晶 + 成长反思）
-├── strategy/               第二阶段：现实建功（9 个子层，60 篇内容 + 各层 README）
+├── strategy/               第二阶段：现实建功（12 个子层 + 各层 README）
 │   ├── analysis/          十五五规划逐句解读
 │   ├── worker_guidance/   16 产业集群行动指南
 │   ├── entrepreneurship/  零成本创业四条路径
 │   ├── collaboration/     五种协作形态
 │   ├── growth_path/       四种画像成长地图
 │   ├── new_value/         十大确定性增量
-│   ├── regional/          五大区域×机会矩阵
 │   ├── perspective/       六大中长期前瞻
-│   └── references/        规划全文
+│   ├── regional/          五大区域×机会矩阵
+│   ├── industry_investment/  Serenity 产业链卡点分析法（劳动者版）
+│   ├── economic_policy/   经济政策追踪专栏（台账 + 作用规律 + 推演）
+│   ├── semiconductor_outlook/  华为韬（τ）定律半导体产业前瞻专题
+│   └── references/        根源文档（规划全文 / Serenity 源料 / 政策源料 / 韬定律原料库）
 ├── skills/                第三阶段知识源：7 个 SKILL.md + data/（★单一源）
-│   ├── data/              11 个结构化知识库（YAML）← 引擎读取的源
+│   ├── data/              14 个结构化知识库（YAML）← 引擎读取的源
 │   ├── problem-diagnosis/ | industry-scan/ | startup-feasibility/
 │   ├── growth-planner/    | collaboration-match/ | opportunity-radar/
 │   ├── situation-triage/  路由层
@@ -293,7 +296,7 @@ gongfu-skill/
 ├── claude-skills/         Claude Code 知识包（自包含，可直接放入项目）
 │   ├── CLAUDE.md          入口文件（手写）
 │   ├── skills/            ⚙生成：7 个 SKILL.md
-│   └── data/              ⚙生成：11 个 YAML 知识库
+│   └── data/              ⚙生成：14 个 YAML 知识库
 ├── agents/                编程 Agent 适配（ZCode / Codex / Claude Code）
 │   ├── install.sh         一键安装脚本（交互式）
 │   ├── AGENTS.md          Codex CLI 自定义指令

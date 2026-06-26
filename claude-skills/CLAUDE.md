@@ -55,6 +55,9 @@ Claude 会自动匹配下面的知识模块，给出判断。
 - `xi-tools.yaml` — 习近平思想工具（新质生产力、高质量发展等）
 - `regional-matrix.yaml` — 五大区域 × 机会矩阵
 - `counseling-principles.yaml` — 心理咨询原则参考
+- `industrial-chain-tools.yaml` — Serenity 产业链卡点分析法（5 工具卡 × 16 集群）
+- `policy-deduction-tools.yaml` — 六要素经济政策推演法（evergreen 方法框架）
+- `industry-forecast-tools.yaml` — 16 集群行业前景 evergreen 卡片（政策 → 前景方向）
 
 ## 安装方式
 

@@ -696,8 +696,38 @@ def get_industry_forecast_for_cluster(cluster: str) -> dict:
     }
 
 
+def get_regional_context(region: str) -> dict:
+    """Get evergreen regional knowledge for analyze injection. Returns {} if missing.
+
+    region 形如 "②新兴增长极"（带圈号）；按首字符 ①②③④⑤ 从 opportunity_matrix 取该区域整列评分。
+    注：regional_advice 为跨区域通用决策建议（非按 region 过滤）；若未来 YAML 改为按区域分组需同步本函数。
+    """
+    if not region:
+        return {}
+    regions = _REGIONAL.get("regions", {})
+    profile = regions.get(region, {})
+    if not profile:
+        return {}
+    region_key = region[0]  # ①②③④⑤
+    matrix = _REGIONAL.get("opportunity_matrix", {})
+    region_scores = {
+        opp: scores[region_key]
+        for opp, scores in matrix.items()
+        if region_key in scores
+    }
+    return {
+        "region_profile": profile,
+        "region_scores": region_scores,
+        "regional_advice": _REGIONAL.get("regional_advice", {}),
+    }
+
+
 def get_regional_score(opportunity: str, region: str) -> int:
-    """Get the opportunity score for a region from the matrix."""
+    """Get the opportunity score for a region from the matrix.
+
+    单格查询（机会×区域）。当前 analyze 经 get_regional_context 注入整列；
+    本函数保留供未来按 cluster→机会 精确取分之需，勿删。
+    """
     matrix = _REGIONAL.get("opportunity_matrix", {})
     opp_data = matrix.get(opportunity, {})
     region_key = region[0] if region else None  # First char: ①②③④⑤

@@ -343,6 +343,15 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
         if forecast:
             knowledge_context["industry_forecast"] = forecast
 
+    # ── 注入地域知识（regional-matrix·evergreen：区域画像+机会评分列+决策建议）──
+    # 行业判断/趋势前瞻类路由且识别出 region 时注入
+    if info.get("region") and (
+        "industry-scan" in route_to or "opportunity-radar" in route_to
+    ):
+        regional = router.get_regional_context(info["region"])
+        if regional:
+            knowledge_context["regional"] = regional
+
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)
     if strengths:

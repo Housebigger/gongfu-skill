@@ -4,6 +4,7 @@ Analyzes free-form user text, identifies intent, extracts structured info,
 and routes to the right combination of skills.
 """
 
+import re
 import yaml
 import json
 from pathlib import Path
@@ -223,11 +224,12 @@ def triage(situation_text: str) -> dict:
         if extracted["region"]:
             break
 
-    # Age
-    import re
-    age_match = re.search(r'(\d{2})\s*岁', situation_text)
+    # Age（负向前瞻避免从多位数尾部误截；范围校验剔除 0 与不合理值）
+    age_match = re.search(r'(?<!\d)(\d{1,3})\s*岁', situation_text)
     if age_match:
-        extracted["age"] = int(age_match.group(1))
+        age_val = int(age_match.group(1))
+        if 14 <= age_val <= 80:
+            extracted["age"] = age_val
 
     # Finances
     finance_kw = {"月光": "月光", "负债": "负债", "结余": "有结余", "存款": "有结余",

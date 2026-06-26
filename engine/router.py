@@ -4,6 +4,7 @@ Analyzes free-form user text, identifies intent, extracts structured info,
 and routes to the right combination of skills.
 """
 
+import re
 import yaml
 import json
 from pathlib import Path
@@ -153,6 +154,8 @@ def triage(situation_text: str) -> dict:
         if hits:
             detected_intents.append({"intent": intent, "matched_keywords": hits})
 
+    # 路由优先级：困境/耗竭先置 problem-diagnosis（情绪/处境优先），
+    # 其余意图按 intent_keywords 出现序去重追加；无显式优先级表（行序即意图）。
     # Determine routing priority
     route_to = []
     has_exhaustion = bool(exhaustion_hit)
@@ -218,16 +221,17 @@ def triage(situation_text: str) -> dict:
         for kw in keywords:
             if kw in situation_text:
                 extracted["region"] = region
-                extracted["region_name"] = region
+                extracted["region_name"] = region[1:] if region[:1] in "①②③④⑤" else region
                 break
         if extracted["region"]:
             break
 
-    # Age
-    import re
-    age_match = re.search(r'(\d{2})\s*岁', situation_text)
+    # Age（负向前瞻避免从多位数尾部误截；范围校验剔除 0 与不合理值）
+    age_match = re.search(r'(?<!\d)(\d{1,3})\s*岁', situation_text)
     if age_match:
-        extracted["age"] = int(age_match.group(1))
+        age_val = int(age_match.group(1))
+        if 14 <= age_val <= 80:
+            extracted["age"] = age_val
 
     # Finances
     finance_kw = {"月光": "月光", "负债": "负债", "结余": "有结余", "存款": "有结余",
@@ -371,7 +375,7 @@ def get_marxism_inspiration(situation: str, cluster: str = None, limit: int = 2)
             continue
         try:
             text = f.read_text(encoding="utf-8")
-        except Exception:
+        except (OSError, UnicodeDecodeError):
             continue
 
         # Score by keyword matches in title + first 800 chars
@@ -460,7 +464,7 @@ def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) ->
             continue
         try:
             text = f.read_text(encoding="utf-8")
-        except Exception:
+        except (OSError, UnicodeDecodeError):
             continue
 
         title = f.stem
@@ -527,7 +531,7 @@ def _load_inspiration_dir(base_dir):
                 continue
             try:
                 text = f.read_text(encoding="utf-8")
-            except Exception:
+            except (OSError, UnicodeDecodeError):
                 continue
             title = f.stem
             zone = (title + " " + text[:800]).lower()
@@ -694,8 +698,38 @@ def get_industry_forecast_for_cluster(cluster: str) -> dict:
     }
 
 
+def get_regional_context(region: str) -> dict:
+    """Get evergreen regional knowledge for analyze injection. Returns {} if missing.
+
+    region 形如 "②新兴增长极"（带圈号）；按首字符 ①②③④⑤ 从 opportunity_matrix 取该区域整列评分。
+    注：regional_advice 为跨区域通用决策建议（非按 region 过滤）；若未来 YAML 改为按区域分组需同步本函数。
+    """
+    if not region:
+        return {}
+    regions = _REGIONAL.get("regions", {})
+    profile = regions.get(region, {})
+    if not profile:
+        return {}
+    region_key = region[0]  # ①②③④⑤
+    matrix = _REGIONAL.get("opportunity_matrix", {})
+    region_scores = {
+        opp: scores[region_key]
+        for opp, scores in matrix.items()
+        if region_key in scores
+    }
+    return {
+        "region_profile": profile,
+        "region_scores": region_scores,
+        "regional_advice": _REGIONAL.get("regional_advice", {}),
+    }
+
+
 def get_regional_score(opportunity: str, region: str) -> int:
-    """Get the opportunity score for a region from the matrix."""
+    """Get the opportunity score for a region from the matrix.
+
+    单格查询（机会×区域）。当前 analyze 经 get_regional_context 注入整列；
+    本函数保留供未来按 cluster→机会 精确取分之需，勿删。
+    """
     matrix = _REGIONAL.get("opportunity_matrix", {})
     opp_data = matrix.get(opportunity, {})
     region_key = region[0] if region else None  # First char: ①②③④⑤

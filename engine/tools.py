@@ -114,6 +114,10 @@ def gongfu_consult(args: dict, **kwargs) -> str:
             ),
         }, ensure_ascii=False, indent=2)
 
+    # ── 信息过少 → 无论 mode 都先请用户补基本信息（不产出空壳分析）──
+    if triage_result.get("special_handling") == "need_more_info":
+        return _handle_intake(situation, triage_result)
+
     if mode == "intake":
         return _handle_intake(situation, triage_result)
     return _handle_analyze(situation, triage_result)
@@ -339,6 +343,15 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
         if forecast:
             knowledge_context["industry_forecast"] = forecast
 
+    # ── 注入地域知识（regional-matrix·evergreen：区域画像+机会评分列+决策建议）──
+    # 行业判断/趋势前瞻类路由且识别出 region 时注入
+    if info.get("region") and (
+        "industry-scan" in route_to or "opportunity-radar" in route_to
+    ):
+        regional = router.get_regional_context(info["region"])
+        if regional:
+            knowledge_context["regional"] = regional
+
     # 优势视角：提炼用户已经拥有的
     strengths = _identify_strengths(info, situation)
     if strengths:
@@ -354,7 +367,7 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
         },
         "tone_instruction": _build_tone_instruction(triage_result, "analyzing"),
         "knowledge_context": knowledge_context,
-        "execution_guide": _build_execution_guide(route_to, info, triage_result),
+        "execution_guide": _build_execution_guide(route_to, info, triage_result, strengths),
     }
 
     return json.dumps(result, ensure_ascii=False, indent=2)
@@ -378,13 +391,12 @@ def _identify_strengths(info: dict, situation: str) -> list:
     return strengths
 
 
-def _build_execution_guide(route_to: list, info: dict, triage_result: dict) -> str:
+def _build_execution_guide(route_to: list, info: dict, triage_result: dict, strengths: list) -> str:
     """Build a text guide with warm, counseling-informed tone."""
     steps = []
     step_num = 1
 
     # Step 0: 先说优势（优势视角）
-    strengths = _identify_strengths(info, triage_result.get("extracted_info", {}).get("situation", ""))
     if strengths:
         steps.append(f"第{step_num}步：先说优势。在分析之前，先告诉用户他手里已经有什么牌——"
                      f"不是安慰，是让他看到自己不是从零开始。")

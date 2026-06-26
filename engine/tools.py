@@ -367,7 +367,7 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
         },
         "tone_instruction": _build_tone_instruction(triage_result, "analyzing"),
         "knowledge_context": knowledge_context,
-        "execution_guide": _build_execution_guide(route_to, info, triage_result),
+        "execution_guide": _build_execution_guide(route_to, info, triage_result, strengths),
     }
 
     return json.dumps(result, ensure_ascii=False, indent=2)
@@ -391,13 +391,12 @@ def _identify_strengths(info: dict, situation: str) -> list:
     return strengths
 
 
-def _build_execution_guide(route_to: list, info: dict, triage_result: dict) -> str:
+def _build_execution_guide(route_to: list, info: dict, triage_result: dict, strengths: list) -> str:
     """Build a text guide with warm, counseling-informed tone."""
     steps = []
     step_num = 1
 
     # Step 0: 先说优势（优势视角）
-    strengths = _identify_strengths(info, triage_result.get("extracted_info", {}).get("situation", ""))
     if strengths:
         steps.append(f"第{step_num}步：先说优势。在分析之前，先告诉用户他手里已经有什么牌——"
                      f"不是安慰，是让他看到自己不是从零开始。")

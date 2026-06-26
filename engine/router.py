@@ -154,6 +154,8 @@ def triage(situation_text: str) -> dict:
         if hits:
             detected_intents.append({"intent": intent, "matched_keywords": hits})
 
+    # 路由优先级：困境/耗竭先置 problem-diagnosis（情绪/处境优先），
+    # 其余意图按 intent_keywords 出现序去重追加；无显式优先级表（行序即意图）。
     # Determine routing priority
     route_to = []
     has_exhaustion = bool(exhaustion_hit)
@@ -219,7 +221,7 @@ def triage(situation_text: str) -> dict:
         for kw in keywords:
             if kw in situation_text:
                 extracted["region"] = region
-                extracted["region_name"] = region
+                extracted["region_name"] = region[1:] if region[:1] in "①②③④⑤" else region
                 break
         if extracted["region"]:
             break
@@ -373,7 +375,7 @@ def get_marxism_inspiration(situation: str, cluster: str = None, limit: int = 2)
             continue
         try:
             text = f.read_text(encoding="utf-8")
-        except Exception:
+        except (OSError, UnicodeDecodeError):
             continue
 
         # Score by keyword matches in title + first 800 chars
@@ -462,7 +464,7 @@ def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) ->
             continue
         try:
             text = f.read_text(encoding="utf-8")
-        except Exception:
+        except (OSError, UnicodeDecodeError):
             continue
 
         title = f.stem
@@ -529,7 +531,7 @@ def _load_inspiration_dir(base_dir):
                 continue
             try:
                 text = f.read_text(encoding="utf-8")
-            except Exception:
+            except (OSError, UnicodeDecodeError):
                 continue
             title = f.stem
             zone = (title + " " + text[:800]).lower()

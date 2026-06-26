@@ -114,6 +114,10 @@ def gongfu_consult(args: dict, **kwargs) -> str:
             ),
         }, ensure_ascii=False, indent=2)
 
+    # ── 信息过少 → 无论 mode 都先请用户补基本信息（不产出空壳分析）──
+    if triage_result.get("special_handling") == "need_more_info":
+        return _handle_intake(situation, triage_result)
+
     if mode == "intake":
         return _handle_intake(situation, triage_result)
     return _handle_analyze(situation, triage_result)

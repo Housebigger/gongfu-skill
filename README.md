@@ -69,9 +69,30 @@ iwr -useb https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/instal
 .\install.ps1       # Windows PowerShell
 ```
 
-脚本会自动完成克隆/更新、链接插件、启用插件。新开一个 Hermes 会话即可使用。
+脚本会自动完成克隆、生成知识包、链接插件、启用插件。新开一个 Hermes 会话即可使用。若已安装，重跑脚本只做版本检查并提示（不自动改动）；更新见下方「更新与版本检查」。
 
 > **从 v1.1.x 升级**：引擎目录已改为 `engine/`，旧的符号链接会失效——重新运行上面的安装脚本即可重新链接。详见 [CHANGELOG.md](CHANGELOG.md)。
+
+### 更新与版本检查
+
+重跑安装脚本（不加参数）对**已安装**系统是只读的：它会打印「当前版本 ｜ 最新版本」，有新版本时提示你更新，但**不会自动改动**。要真正更新，加 `--update`：
+
+```bash
+# macOS / Linux —— 检查版本
+curl -fsSL https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/install.sh | bash
+# macOS / Linux —— 执行更新（git pull + 重建知识包 + 重链 + 启用）
+curl -fsSL https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/install.sh | bash -s -- --update
+./install.sh            # 本地：检查
+./install.sh --update   # 本地：更新
+```
+
+```powershell
+# Windows —— 检查版本
+iwr -useb https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/install.ps1 | iex
+# Windows —— 执行更新
+& ([scriptblock]::Create((irm https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/install.ps1))) -Update
+.\install.ps1 -Update   # 本地：更新
+```
 
 > 前提：已安装 [Hermes Agent](https://hermes-agent.nousresearch.com/)（`hermes --version` 能跑就行）
 

@@ -59,6 +59,11 @@ def main():
             dest = skills_dest / d.name
             dest.mkdir(parents=True, exist_ok=True)
             shutil.copy2(d / "SKILL.md", dest / "SKILL.md")
+            # 携带 skill 的内部参考文档（references/）——前门 SKILL.md 会按 route_to 读取，
+            # 故三处派生包（含 engine/skills）都必须带上，否则 agent 找不到输出模板。
+            refs = d / "references"
+            if refs.is_dir():
+                shutil.copytree(refs, dest / "references", dirs_exist_ok=True)
 
         n_data = 0
         if data_dest is not None:

@@ -12,6 +12,9 @@
 
 ## [未发布]
 
+### Added
+- **安装脚本版本检查 + `--update`**（`install.sh` / `install.ps1`）：默认运行对已安装系统只读——打印「当前版本 ｜ 最新版本」并在有新版本时提示；更新需显式 `--update`（远程 `curl … | bash -s -- --update` / `… -Update`）。远程版本抓取 best-effort + 超时降级。引擎/接口/版本号不变。
+
 ## [1.7.0] - 2026-06-27
 
 ### Changed

@@ -1,5 +1,5 @@
 name: gongfu-skill
-version: 1.6.0
+version: 1.7.0
 description: "共富参谋——劳动者的随身参谋。说出你的情况，获得行业判断、创业评估、成长规划、协作建议和趋势前瞻。直接用大白话描述你的情况就行。"
 author: gongfu-skill
 provides_tools:

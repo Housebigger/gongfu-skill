@@ -6,25 +6,26 @@
 
 ---
 
-## 7 个 skill（环环相扣的判断体系）
+## 一个入口技能 + 六类内部能力
 
-| skill | 解决的问题 | 蒸馏自 |
+对外只有一个技能 `gongfu-skill/`（前门：意图识别 + 信息提取 + 路由 + 情绪优先）。原先环环相扣的 6 类判断能力已下沉为 `gongfu-skill/references/` 内部参考，由引擎 `route_to` 调度：
+
+| 内部能力（references/<能力>.md） | 回答的问题 | 知识来源 |
 |---|---|---|
-| `problem-diagnosis/` | 我这个处境的主要矛盾是什么 | methodology 毛泽东战略思维工具箱 |
-| `industry-scan/` | 我这个行业在我这个地方行不行 | worker_guidance 16 集群 + regional 五大区域 |
-| `startup-feasibility/` | 我该不该创业、创什么、怎么起步 | entrepreneurship 四条路径 + 诚实劝退 |
-| `growth-planner/` | 我该怎么一步步成长 | growth_path 四种画像 + 学习地图 |
-| `collaboration-match/` | 我该找什么合作、怎么分钱 | collaboration 五种形态 + 信任分配 |
-| `opportunity-radar/` | 未来 5—10 年机会在哪 | perspective 六大前瞻 + new_value 十大增量 |
-| `situation-triage/` | 路由层——说了情况，该用上面哪几个 skill | 全局（意图识别+信息提取+路由） |
+| `problem-diagnosis` | 我这个处境的主要矛盾是什么 | methodology 毛泽东战略思维工具箱 |
+| `industry-scan` | 我这个行业在我这个地方行不行 | worker_guidance 16 集群 + regional 五大区域 |
+| `startup-feasibility` | 我该不该创业、创什么、怎么起步 | entrepreneurship 四条路径 + 诚实劝退 |
+| `growth-planner` | 我该怎么一步步成长 | growth_path 四种画像 + 学习地图 |
+| `collaboration-match` | 我该找什么合作、怎么分钱 | collaboration 五种形态 + 信任分配 |
+| `opportunity-radar` | 未来 5—10 年机会在哪 | perspective 六大前瞻 + new_value 十大增量 |
 
 ---
 
 ## 共富参谋插件 / 引擎（已移至仓库顶层 `engine/`）
 
-> 引擎/插件代码原先在 `skills/gongfu-skill/`，现已上移到仓库顶层 `engine/`，让"知识源 `skills/`"与"引擎 `engine/`"一眼分清。本目录 `skills/` 现在只放知识源（7 个 `SKILL.md` + `data/` + 设计规范）。
+> 引擎/插件代码原先在 `skills/gongfu-skill/`，现已上移到仓库顶层 `engine/`，让"知识源 `skills/`"与"引擎 `engine/`"一眼分清。本目录 `skills/` 现在只放知识源（1 个前门 `SKILL.md` + `references/` 6 能力 + `data/` + 设计规范）。
 
-7 个 skill 封装成一个 Hermes 插件，对外只有一个简约接口，采用多轮对话交互（借鉴 Superpowers brainstorming 模式）：
+这一个技能封装成一个 Hermes 插件，对外只有一个简约接口，采用多轮对话交互（借鉴 Superpowers brainstorming 模式）：
 
 **`gongfu_consult(situation="用大白话描述你的情况")`** —— 双模式：
 - `mode="intake"`（默认）：分析用户情况，识别意图和信息缺口，返回需要追问的问题（一次一个）
@@ -40,10 +41,9 @@ engine/                  # 仓库顶层
 ├── __init__.py          # 注册（工具+hook+skills）
 ├── schemas.py           # gongfu_consult 工具 schema
 ├── tools.py             # 工具 handler
-├── router.py            # 路由逻辑（situation-triage 的代码版）
-└── skills/              # ⚙生成：内嵌 7 个 SKILL.md（由 scripts/build_packs.py 生成，gitignore）
-    ├── situation-triage/SKILL.md
-    └── ...（其余 6 个）
+├── router.py            # 路由逻辑（前门分诊的代码版）
+└── skills/              # ⚙生成：内嵌 gongfu-skill（含 references/，由 scripts/build_packs.py 生成，gitignore）
+    └── gongfu-skill/SKILL.md + references/
 
 # 数据不在 engine/ 内，引擎运行时读取 skills/data/ 的 14 个 YAML 知识库
 ```
@@ -66,12 +66,12 @@ hermes plugins enable gongfu-skill
 
 ```
 用户：「我30岁做嵌入式开发，同事都走了，很累」
-  → situation-triage 路由：检测到耗竭→特殊处理 + problem-diagnosis
+  → 前门分诊路由：检测到耗竭→特殊处理 + problem-diagnosis
   → problem-diagnosis（诊断主要矛盾=精力耗竭vs判断力，阶段=相持）
   → industry-scan（嵌入式/机器人=A集群，增★★★★★）
 
 用户：「想在县城开个养老服务机构」
-  → situation-triage 路由：创业意向→startup-feasibility + 行业=E民生
+  → 前门分诊路由：创业意向→startup-feasibility + 行业=E民生
   → startup-feasibility（先劝退检查→匹配路径→红线）
 ```
 

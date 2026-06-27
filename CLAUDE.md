@@ -92,6 +92,8 @@ Note: each system's `reference/` (原文) is source material humans distill *fro
 | `claude-skills/skills/` + `claude-skills/data/` | generated (Claude Code static pack) — gitignored |
 | `agents/zcode-skills/` (skills + `data/`) | generated (ZCode pack) — gitignored |
 
+> 自 v1.7.0：对外只有**一个**技能 `skills/gongfu-skill/`（唯一入口）。原 6 个能力 skill 已下沉为 `skills/gongfu-skill/references/<能力>.md` 内部参考——不再单独注册/上架，但仍是 `route_to` 标签与 `data/*.yaml` 的一一对应。`build_packs.py` 会把 `references/` 一并复制进三处派生包。
+
 **`scripts/build_packs.py`** regenerates all three derived locations from the source (stdlib-only, cross-platform, byte-identical copy). The three installers (`install.sh`, `install.ps1`, `agents/install.sh`) call it automatically; run it by hand after editing source:
 
 ```bash

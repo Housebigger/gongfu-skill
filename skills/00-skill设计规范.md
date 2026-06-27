@@ -3,6 +3,8 @@
 日期：2026-06-15
 性质：本文档从第一批 3 个实战 skill（industry-scan / startup-feasibility / problem-diagnosis）的制作实践中反推提炼，是后续 skill 制作的标准。
 
+> 自 v1.7.0：对外只有一个技能 `gongfu-skill`（统一入口）。本规范中作为范例引用的 `industry-scan` / `startup-feasibility` / `problem-diagnosis` 等，现已下沉为 `skills/gongfu-skill/references/<能力>.md` 内部能力参考——它们不再单独作为技能上架，但其 `SKILL.md` 结构（含测试用例）仍按本规范维护，供 doc-based 验证与输出模板使用。
+
 ---
 
 ## 一、什么是 gongfu-skill 里的「skill」

@@ -25,7 +25,7 @@ def register(ctx):
     """Wire schema to handler and register hook."""
     ctx.register_tool(
         name="gongfu_consult",
-        toolset="gongfu",
+        toolset="gongfu-skill",
         schema=schemas.GONGFU_CONSULT,
         handler=tools.gongfu_consult,
     )

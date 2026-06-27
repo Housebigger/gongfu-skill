@@ -4,7 +4,7 @@
 
 ## 这是什么
 
-共富参谋是一套面向中国一线劳动者的职业判断知识体系。它把行业前景、创业可行性、成长规划、协作方法、趋势前瞻，蒸馏成 7 个可调用的知识模块。
+共富参谋是一套面向中国一线劳动者的职业判断知识体系。它把行业前景、创业可行性、成长规划、协作方法、趋势前瞻，蒸馏成一个可调用的技能 gongfu-skill（统一入口），内部按意图路由到 6 类能力。
 
 每个模块是一个 SKILL.md 文件 + 配套的结构化知识库（YAML）。Claude Code 读取这些文件后，就能像"劳动者的随身参谋"一样回答问题。
 
@@ -18,17 +18,18 @@
 
 Claude 会自动匹配下面的知识模块，给出判断。
 
-## 7 个知识模块
+## 一个技能，六类能力
 
-| 模块 | 触发场景 | 文件 |
-|------|---------|------|
-| situation-triage | 路由/分诊——用户刚开口时先接住情绪，再了解情况 | skills/situation-triage/SKILL.md |
-| problem-diagnosis | 面临困境/迷茫——用矛盾分析、持久战等工具诊断主要矛盾 | skills/problem-diagnosis/SKILL.md |
-| industry-scan | 想了解行业前景——16 集群信号 + 5 大地域校准 | skills/industry-scan/SKILL.md |
-| startup-feasibility | 考虑创业——4 条零成本路径评估 + 止损红线 | skills/startup-feasibility/SKILL.md |
-| growth-planner | 想规划成长——4 种画像的成长地图 | skills/growth-planner/SKILL.md |
-| collaboration-match | 找人合作——5 种协作形态 + 分钱规则 | skills/collaboration-match/SKILL.md |
-| opportunity-radar | 看未来趋势——5-10 年前瞻 + 十大确定性增量 | skills/opportunity-radar/SKILL.md |
+对外只有一个技能 `gongfu-skill`。用户用大白话描述处境，引擎在内部路由到下面六类能力；每类能力的输出模板见 `skills/gongfu-skill/references/<能力>.md`。
+
+| 内部能力（route_to） | 何时触发 | 输出模板 |
+|---|---|---|
+| problem-diagnosis | 面临困境/迷茫——矛盾分析、持久战诊断主要矛盾 | skills/gongfu-skill/references/problem-diagnosis.md |
+| industry-scan | 想了解行业前景——16 集群信号 + 5 大地域校准 | skills/gongfu-skill/references/industry-scan.md |
+| startup-feasibility | 考虑创业——4 条零成本路径 + 止损红线 | skills/gongfu-skill/references/startup-feasibility.md |
+| growth-planner | 想规划成长——4 种画像成长地图 | skills/gongfu-skill/references/growth-planner.md |
+| collaboration-match | 找人合作——5 种协作形态 + 分钱规则 | skills/gongfu-skill/references/collaboration-match.md |
+| opportunity-radar | 看未来趋势——5-10 年前瞻 + 十大确定性增量 | skills/gongfu-skill/references/opportunity-radar.md |
 
 ## 交互原则（重要）
 
@@ -64,7 +65,7 @@ Claude 会自动匹配下面的知识模块，给出判断。
 把本目录放入项目后，Claude Code 会自动读取 CLAUDE.md。也可以单独引用某个 SKILL.md：
 
 ```
-请读取 skills/industry-scan/SKILL.md，然后帮我分析制造业产线工人的行业前景
+请读取 skills/gongfu-skill/SKILL.md（行业判断模板见 references/industry-scan.md），然后帮我分析制造业产线工人的行业前景
 ```
 
 如果同时安装了 MCP Server（`mcp_server/server.py`），还能获得动态路由能力——Claude 会自动调用 `gongfu_consult` 工具做意图识别和知识加载，不需要手动选模块。

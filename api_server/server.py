@@ -97,7 +97,7 @@ async def index(request):
     """GET / — API 信息"""
     return ChineseJSONResponse({
         "name": "gongfu-skill 共富参谋 API",
-        "version": "1.6.0",
+        "version": "1.7.0",
         "endpoints": {
             "POST /consult": "主接口——传入用户情况，返回判断",
             "GET /health": "健康检查",

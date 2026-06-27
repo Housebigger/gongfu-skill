@@ -4,7 +4,7 @@
 
 全民共享，共同富裕。
 
-> 当前版本 **v1.6.0** ｜ 升级与变更说明见 [CHANGELOG.md](CHANGELOG.md)
+> 当前版本 **v1.7.0** ｜ 升级与变更说明见 [CHANGELOG.md](CHANGELOG.md)
 
 这是一个以“促进广大劳动人民具备零成本创业的意愿和条件”为宗旨的知识仓库。它更关心的，不是个人流水账式记录，而是那些能够被反复调用、持续积累、低门槛传播的方法论、认知框架、经验结晶与伴随式反思。
 
@@ -80,7 +80,7 @@ iwr -useb https://raw.githubusercontent.com/Housebigger/gongfu-skill/main/instal
 安装后，你不需要记任何命令。直接在 Hermes 对话中用大白话描述你的情况，Hermes 会自动调用共富参谋。也可以手动触发：
 
 ```
-/gongfu 我30岁在工厂干了10年，最近产线上了机器人，我怕被替代，该怎么办
+/gongfu-skill 我30岁在工厂干了10年，最近产线上了机器人，我怕被替代，该怎么办
 ```
 
 或者直接说：
@@ -197,7 +197,7 @@ curl -X POST http://127.0.0.1:8787/consult \
 
 ## 作为 Claude Code 知识包使用
 
-`claude-skills/` 目录是一个自包含的知识包，可以直接放进 Claude Code 项目。包含 7 个 SKILL.md + 14 个 YAML 知识库 + 一个 CLAUDE.md 入口。
+`claude-skills/` 目录是一个自包含的知识包，可以直接放进 Claude Code 项目。包含 1 个 SKILL.md（gongfu-skill，内附 6 个能力参考 references/）+ 14 个 YAML 知识库 + 一个 CLAUDE.md 入口。
 
 > 注：`claude-skills/skills/` 和 `claude-skills/data/` 是从单一源 `skills/` 生成的（已 gitignore）。刚 clone 的仓库需先生成一次：`python scripts/build_packs.py`（运行任一安装脚本会自动生成）。
 
@@ -205,7 +205,7 @@ curl -X POST http://127.0.0.1:8787/consult \
 
 把 `claude-skills/` 目录放入你的项目，Claude Code 会自动读取 `CLAUDE.md`。然后直接用大白话提问就行——Claude 会根据问题自动匹配对应的知识模块。
 
-也可以手动指定模块：`请读取 skills/industry-scan/SKILL.md，帮我分析制造业产线工人的前景`。
+也可以手动指定：`请读取 skills/gongfu-skill/SKILL.md，帮我分析制造业产线工人的前景`（行业判断的输出模板在 `skills/gongfu-skill/references/industry-scan.md`）。
 
 ---
 
@@ -248,7 +248,7 @@ python scripts/build_packs.py          # 生成 agents/zcode-skills/（运行 ba
 cp -r agents/zcode-skills/* ~/.zcode/skills/
 ```
 
-然后在 ZCode 中：Settings → Skills → Refresh，对话中用 `$industry-scan 分析制造业前景` 调用。
+然后在 ZCode 中：Settings → Skills → Refresh，对话中用 `$gongfu-skill 分析制造业前景` 调用。
 
 也可以用 ZCode 的 Import 功能，直接从 Claude Code / Codex 导入已有 skill。
 
@@ -280,22 +280,24 @@ gongfu-skill/
 │   ├── economic_policy/   经济政策追踪专栏（台账 + 作用规律 + 推演）
 │   ├── semiconductor_outlook/  华为韬（τ）定律半导体产业前瞻专题
 │   └── references/        根源文档（规划全文 / Serenity 源料 / 政策源料 / 韬定律原料库）
-├── skills/                第三阶段知识源：7 个 SKILL.md + data/（★单一源）
+├── skills/                第三阶段知识源：gongfu-skill/（前门 SKILL.md + references/ 6 能力）+ data/（★单一源）
 │   ├── data/              14 个结构化知识库（YAML）← 引擎读取的源
-│   ├── problem-diagnosis/ | industry-scan/ | startup-feasibility/
-│   ├── growth-planner/    | collaboration-match/ | opportunity-radar/
-│   ├── situation-triage/  路由层
+│   ├── gongfu-skill/      唯一对外技能（前门）
+│   │   ├── SKILL.md       统一入口：分诊/路由/情绪优先
+│   │   └── references/    6 能力内部参考：problem-diagnosis / industry-scan /
+│   │                      startup-feasibility / growth-planner /
+│   │                      collaboration-match / opportunity-radar
 │   └── 00-skill设计规范.md
 ├── engine/                共富参谋引擎 / Hermes 插件（install.sh 链接此目录）
 │   ├── router.py·tools.py·schemas.py·__init__.py·plugin.yaml
-│   └── skills/            ⚙生成：内嵌 7 个 SKILL.md
+│   └── skills/            ⚙生成：内嵌 gongfu-skill（含 references/）
 ├── mcp_server/            MCP Server（适配 Claude Desktop / Cursor 等）
 │   └── server.py          stdio 传输，复用同一套引擎
 ├── api_server/            HTTP API（适配 Coze / Dify / FastGPT 等）
 │   └── server.py          starlette + uvicorn，零额外依赖
 ├── claude-skills/         Claude Code 知识包（自包含，可直接放入项目）
 │   ├── CLAUDE.md          入口文件（手写）
-│   ├── skills/            ⚙生成：7 个 SKILL.md
+│   ├── skills/            ⚙生成：gongfu-skill（含 references/）
 │   └── data/              ⚙生成：14 个 YAML 知识库
 ├── agents/                编程 Agent 适配（ZCode / Codex / Claude Code）
 │   ├── install.sh         一键安装脚本（交互式）

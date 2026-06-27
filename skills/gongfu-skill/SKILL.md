@@ -1,7 +1,7 @@
 ---
-name: situation-triage
-description: "Use as the router/intake layer when a worker comes for consultation — FIRST listen and connect with the person (borrowing from Carl Rogers' person-centered counseling), THEN gradually understand their situation through gentle multi-turn dialogue, CONFIRM before concluding."
-version: 3.0.0
+name: gongfu-skill
+description: "共富参谋——一线劳动者的随身参谋（唯一统一入口）。当劳动者想了解行业前景、评估创业、走出职业困境、规划成长、寻找协作、或看清未来趋势时使用。先倾听接住情绪，再用温柔的多轮对话了解情况，确认后才下判断；内部按意图路由到 6 类能力（困境诊断/行业判断/创业评估/成长规划/协作匹配/趋势前瞻），通过 gongfu_consult 工具加载知识。直接把用户原话传进来即可。"
+version: 4.0.0
 author: gongfu-skill
 license: MIT
 metadata:
@@ -11,11 +11,11 @@ metadata:
     methodology: [矛盾论-018, 改造我们的学习-060, 关心群众生活-011]
 ---
 
-# 情况分诊 skill（路由层 · 春风化雨版 v3）
+# 共富参谋 skill（统一入口 · 春风化雨版 v4）
 
 ## 概述
 
-这个 skill 是整个共富参谋体系的**路由入口**。用户用自然语言描述自己的处境，skill 解析意图、抽取结构化信息，并决定调用哪些下游 skill（problem-diagnosis / industry-scan / startup-feasibility / growth-planner / collaboration-match / opportunity-radar）。
+这个 skill 是整个共富参谋体系**对外的唯一入口**。用户用自然语言描述自己的处境，skill 解析意图、抽取结构化信息，并决定走哪几类能力。原先的 6 个能力（problem-diagnosis / industry-scan / startup-feasibility / growth-planner / collaboration-match / opportunity-radar）已下沉为本目录的**内部参考**（`references/`），不再单独作为技能上架——对外只有 `gongfu-skill` 一个名字。
 
 它解决的问题是：**「这个人来找我，我该用哪些工具帮 ta？」**——不是直接分析，是"先弄清楚问题再分配专家"。
 
@@ -46,7 +46,22 @@ metadata:
 该温暖的时候温暖，该说真话的时候温和地说真话。
 用户能分辨真诚和客套——一旦 ta 觉得你在敷衍，信任就没了。
 
-## 何时使用 / 不要用于
+## 能力分派与内部参考
+
+运行时由引擎 `gongfu_consult` 返回的 `route_to` 决定走哪几类能力；每类能力的详细**输出模板**见对应内部参考文档：
+
+| route_to 取值 | 能力 | 输出模板参考 |
+|---|---|---|
+| problem-diagnosis | 困境诊断（主要矛盾 / 阶段判断） | `references/problem-diagnosis.md` |
+| industry-scan | 行业判断（增/转/缩 + 地域校准） | `references/industry-scan.md` |
+| startup-feasibility | 创业评估（四路径 + 劝退红线） | `references/startup-feasibility.md` |
+| growth-planner | 成长规划（四画像成长地图） | `references/growth-planner.md` |
+| collaboration-match | 协作匹配（五形态 + 分钱规则） | `references/collaboration-match.md` |
+| opportunity-radar | 趋势前瞻（5—10 年 + 确定性增量） | `references/opportunity-radar.md` |
+
+用法：拿到 `route_to` 后，对其中每个能力，读取对应 `references/<能力>.md` 的「输出规格」段，按模板组织该部分回复。引擎返回的 `execution_guide` / `tone_instruction` 决定语气与顺序，两者配合使用——参考给"输出长什么样"，execution_guide 给"用什么语气、按什么次序说"。
+
+## 何时使用 / 何时快进
 
 **何时使用**：
 - 用户用自然语言描述处境，还不清楚"应该问什么"
@@ -54,11 +69,11 @@ metadata:
 - 第一轮对话，什么都不知道，从零开始
 - 需要判断"这个人是否处于危机或耗竭状态"
 
-**不要用于**：
-- 用户已明确说"我就想知道行业前景"——直接用 industry-scan
-- 用户已明确问创业可行性——直接用 startup-feasibility
-- 下游 skill 已经开始、正在收集信息的中途——不要再触发 triage
-- 纯趋势/政策问题（AI 会不会替代某职业）——可直接用 opportunity-radar
+**何时快进（跳过铺垫，让引擎直接路由）**：
+- 用户已明确说"我就想知道行业前景"——引擎直接路由到 industry-scan 能力（输出模板见 `references/industry-scan.md`）
+- 用户已明确问创业可行性——引擎直接路由到 startup-feasibility 能力（见 `references/startup-feasibility.md`）
+- 已在多轮收集信息的中途——不要重复分诊、不要重问已经问过的内容
+- 纯趋势/政策问题（AI 会不会替代某职业）——引擎直接路由到 opportunity-radar 能力（见 `references/opportunity-radar.md`）
 
 ## 输入规格
 

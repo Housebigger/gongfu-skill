@@ -12,6 +12,16 @@
 
 ## [未发布]
 
+## [1.7.0] - 2026-06-27
+
+### Changed
+- **对外技能统一为单一入口 `gongfu-skill`。** 原 `situation-triage` 改名为 `gongfu-skill` 作为唯一对外技能；原 6 个能力 skill（industry-scan / startup-feasibility / growth-planner / collaboration-match / opportunity-radar / problem-diagnosis）下沉为 `skills/gongfu-skill/references/<能力>.md` 内部参考，不再单独上架。用户在 Hermes / Claude Code / ZCode 中只看到、只键入一个名字，agent 显示的"当前技能"也只剩 `gongfu-skill`。
+- **Hermes 触发词 `/gongfu` → `/gongfu-skill`**；toolset `gongfu` → `gongfu-skill`（插件名、toolset、技能名三者对齐）。
+- `scripts/build_packs.py` 现会把每个 skill 的 `references/` 子目录一并复制进三处派生包。
+
+### 兼容性（未变更）
+- MCP 工具名 `gongfu_consult`、HTTP `POST /consult`、引擎路由逻辑与 `route_to` 取值、`skills/data/*.yaml` 内容与文件名**均保持不变**——现有 MCP / Coze / Dify / API 接入无需改动。
+
 ## [1.6.0] - 2026-06-27
 
 ### 修复 Fixed（引擎逻辑·源自全仓审计）

@@ -31,14 +31,14 @@ def _build_tone_instruction(triage_result: dict, phase: str) -> str:
     )
 
     # ── 倾听先于提问（intake 阶段的核心原则）──
-    if phase in ("need_basic_info", "assessing"):
+    if phase in ("need_basic_info", "assessing", "emotional_first_aid"):
         parts.append(
             "【倾听先于提问】你的第一句话不应该是追问信息，而应该先确认你听到了用户的感受。"
             "用你自己的话把用户的核心情绪复述一遍——不是复述事实，是复述感受。"
             "让用户知道：你在听，你听懂了，你不是在走流程。"
         )
 
-    # ── 温柔的提问方式 ──
+    # ── 温柔的提问方式（assessing 阶段）──
     if phase == "assessing" and not triage_result.get("special_note"):
         counseling = _COUNSELING.get("principles", {})
         gentle = counseling.get("温柔的提问", {})
@@ -47,6 +47,14 @@ def _build_tone_instruction(triage_result: dict, phase: str) -> str:
                 f"【温柔的提问】避免审问式直接提问。{gentle.get('desc', '')}"
                 "用'方便聊聊''不知道''大概就好'这类软化词，给用户留退路。"
             )
+
+    # ── E6: ready_to_analyze 阶段——不再追问，温柔复述收尾 ──
+    if phase == "ready_to_analyze":
+        parts.append(
+            "【复述收尾——不再追问】这一轮不问任何问题。"
+            "用你自己的话把用户说过的情况温柔地复述一遍，让他感到被认真听了。"
+            "像在跟老朋友确认：'你的意思是这样，我理解得对不对？'确认无误后再调用 analyze。"
+        )
 
     # ── 耗竭/焦虑/自责的特殊处理 ──
     if special == "exhaustion" or "耗竭" in (info.get("emotional_state") or ""):
@@ -61,6 +69,12 @@ def _build_tone_instruction(triage_result: dict, phase: str) -> str:
         anxiety = special_handling.get("焦虑信号", {})
         if anxiety:
             parts.append(f"【用户很焦虑——先稳住】{anxiety.get('first_response_rule', '')}")
+    elif info.get("emotional_state") == "自责":
+        # G1: 激活 counseling-principles 中已有但未使用的自责分支（仅注入语气，不改路由）
+        special_handling = _COUNSELING.get("special_handling", {})
+        self_blame = special_handling.get("自责信号", {})
+        if self_blame:
+            parts.append(f"【用户在自责——先解除自责】{self_blame.get('first_response_rule', '')}")
 
     # ── 分析阶段的语气 ──
     if phase == "analyzing":
@@ -90,21 +104,27 @@ def gongfu_consult(args: dict, **kwargs) -> str:
 
     核心改变（vs 第二代）：追问信息不再是第一优先——确认感受才是。
     """
-    situation = args.get("situation", "").strip()
-    mode = args.get("mode", "intake")
-
-    if not situation:
+    # F2: situation 类型守卫——键存在但值为 None/数字/列表时安全处理，不崩溃
+    situation = args.get("situation") or ""
+    if not isinstance(situation, str) or not situation.strip():
         return json.dumps({"error": "请描述你的情况"}, ensure_ascii=False)
+    situation = situation.strip()
+
+    # F1: mode 归一化——空串/None/大小写变体/拼写错 均回退到更安全的 intake
+    mode = (args.get("mode") or "intake").strip().lower()
+    if mode not in ("intake", "analyze"):
+        mode = "intake"
 
     triage_result = router.triage(situation)
 
     # ── 危机信号 → 不做任何职业判断 ──
     if triage_result.get("special_handling") == "crisis":
         crisis = _COUNSELING.get("special_handling", {}).get("危机信号", {})
+        # E1: 优先用 router 构造的 message（含两条热线），YAML rule 含元指令仅作 fallback
         return json.dumps({
             "type": "special",
             "handling": "crisis",
-            "message": crisis.get("rule", triage_result.get("message", "")),
+            "message": triage_result.get("message", crisis.get("rule", "")),
             "original_situation": situation,
             "instruction": (
                 "【危机处理】用户可能正在经历非常困难的时刻。"
@@ -149,6 +169,14 @@ def _handle_intake(situation: str, triage_result: dict) -> str:
     # 评估信息完整度
     completeness = router.assess_completeness(info, route_to)
 
+    # E6: 预先计算实际 phase（按最终 phase 传入语气指令，不再恒传 assessing）
+    if is_exhausted:
+        _phase = "emotional_first_aid"
+    elif completeness["ready"]:
+        _phase = "ready_to_analyze"
+    else:
+        _phase = "assessing"
+
     # 构建用户全景图
     profile_parts = []
     if info.get("cluster"):
@@ -168,17 +196,16 @@ def _handle_intake(situation: str, triage_result: dict) -> str:
 
     result = {
         "type": "intake",
-        "phase": "assessing",
+        "phase": _phase,
         "user_profile": " ｜ ".join(profile_parts) if profile_parts else "（信息较少）",
         "detected_intents": [i["intent"] for i in triage_result.get("detected_intents", [])],
         "route_to": route_to,
         "completeness": completeness,
-        "tone_instruction": _build_tone_instruction(triage_result, "assessing"),
+        "tone_instruction": _build_tone_instruction(triage_result, _phase),  # E6: 按实际 phase
     }
 
     if is_exhausted:
         # 耗竭用户：完全不追问，先接住
-        result["phase"] = "emotional_first_aid"
         result["instruction"] = (
             "【这一轮不要追问任何信息。】用户明显很累。"
             "你的回复只做一件事：让他知道他说的那些话，你都听到了，而且你理解他为什么累。"
@@ -186,11 +213,18 @@ def _handle_intake(situation: str, triage_result: dict) -> str:
             "等他下一轮回复时，看他的能量状态再决定要不要开始了解情况。"
         )
     elif completeness["ready"]:
-        result["phase"] = "ready_to_analyze"
+        # E5: 保留一次可选的温柔城市追问（region 不阻断，但提示 LLM 可顺带问）
+        city_note = ""
+        if "industry-scan" in route_to and not info.get("region"):
+            city_note = (
+                "（如果方便，可以顺带问问用户在哪个城市或地区——"
+                "区域信息对行业前景判断有帮助，但用户不说也没关系，分析照常进行，不用追。）"
+            )
         result["instruction"] = (
             "信息收集得差不多了。在进入分析之前，先用你自己的话把用户的情况复述一遍，"
             "像这样：'我先整理一下你说的情况，你看我理解得对不对——……'。"
             "复述的时候带温度，不是读清单。确认无误后再调用 analyze。"
+            + (f"\n{city_note}" if city_note else "")
         )
     else:
         # 需要追问——但要温柔
@@ -227,7 +261,8 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
     route_to = triage_result.get("route_to", [])
     knowledge_context = {}
 
-    if "industry-scan" in route_to and info.get("cluster"):
+    # E3: industry signal + cluster_framework 与 chain/policy/forecast 对齐——同时认 opportunity-radar
+    if ("industry-scan" in route_to or "opportunity-radar" in route_to) and info.get("cluster"):
         knowledge_context["industry"] = router.get_industry_signal(info["cluster"])
         # 加载集群认知框架（方法论思想 × 行业挂钩）
         framework = router.get_cluster_framework(info["cluster"])
@@ -344,9 +379,10 @@ def _handle_analyze(situation: str, triage_result: dict) -> str:
             knowledge_context["industry_forecast"] = forecast
 
     # ── 注入地域知识（regional-matrix·evergreen：区域画像+机会评分列+决策建议）──
-    # 行业判断/趋势前瞻类路由且识别出 region 时注入
+    # E2: 行业判断/趋势前瞻/创业可行性类路由且识别出 region 时注入
+    # startup-feasibility 路由的区域信息同样影响创业路径选择，故纳入并集
     if info.get("region") and (
-        "industry-scan" in route_to or "opportunity-radar" in route_to
+        "industry-scan" in route_to or "opportunity-radar" in route_to or "startup-feasibility" in route_to
     ):
         regional = router.get_regional_context(info["region"])
         if regional:

@@ -134,6 +134,8 @@ forecasts:
     one_liner: 刚需托底+双碳慢变量撑住环保方向，公交财政补贴是最真实的逆风线——往水务/环保运维而非公交方向卡位
     source: strategy/economic_policy/09-行业前景推演/P-公用事业与市政服务.md
 
+# 注意：下方 cluster_match 段不被加载器读取——forecast 直接按 cluster 键从 forecasts 字典取卡；
+# 本段仅作文档/便查用途，不影响运行。（参见 router.py::get_industry_forecast_for_cluster）
 cluster_match:
   A-先进制造与硬科技: [A-先进制造与硬科技]
   B-数字与智能产业: [B-数字与智能产业]

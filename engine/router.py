@@ -32,6 +32,111 @@ _DEDUCTION = _load_yaml("policy-deduction-tools.yaml")
 # 逐集群行业前景卡片（战略库第三根源·09 行业前景推演蒸馏·evergreen）
 _FORECAST = _load_yaml("industry-forecast-tools.yaml")
 
+# C4: 崩溃上下文排除——这些词紧邻"崩溃"时说明是技术/市场语境，不计入个人耗竭
+_BENGKUI_TECH_CONTEXT = frozenset([
+    "系统", "服务器", "电脑", "程序", "股市", "市场", "行业", "经济",
+])
+_BENGKUI_WINDOW = 10  # 崩溃前后各检查 N 个字符
+
+# D5: 纯小写 ASCII 短键需要边界匹配，防止子串误命中（'ai' in 'email'/'retail'/'training'）
+# 勿用 \b — CJK↔ASCII 非词边界会漏『做ai的』；用两侧非小写字母断言
+_ASCII_BOUNDARY_KEYS = frozenset(["ai", "6g", "cnc", "cpo", "eml", "hbm", "mlcc"])
+_ASCII_BOUNDARY_RE = {
+    kw: re.compile(r'(?<![a-z])' + re.escape(kw) + r'(?![a-z])')
+    for kw in _ASCII_BOUNDARY_KEYS
+}
+
+# D2: 强复合词前置短表 — 在通用集群扫描前命中即定 cluster
+# 每条规则已含真维修 token，确保不误拽无维修语境的复合词（如纯制造/电站）
+_CLUSTER_COMPOUND_PRIORITY = [
+    # 新能源汽车维修类 → O-居民生活服务（否则"新能源"会先命中 C-绿色能源全链）
+    ("新能源汽车三电维修", "O-居民生活服务"),
+    ("新能源汽车维修",     "O-居民生活服务"),
+    ("新能源汽修",         "O-居民生活服务"),
+    ("三电维修",           "O-居民生活服务"),
+]
+
+
+# 终审 Critical 修复：'不想活'是危机信号，但紧随'得'/'在'时为过劳口语
+# （'不想活得这么累'/'不想活在父母的安排里'）不判危机；句末或紧随'了/下去/着'仍判危机
+_BUXIANGHUO_EXCLUDE_NEXT = ("得", "在")
+
+
+def _crisis_hit(situation_text: str, crisis_kw: list) -> list:
+    """匹配危机关键词。对'不想活'做上下文守卫：紧随'得'/'在'为过劳口语不判危机；
+    其余位置（句末、'不想活了/下去/着'等）及其它危机词正常子串判定。"""
+    hits = []
+    for kw in crisis_kw:
+        if kw not in situation_text:
+            continue
+        if kw == "不想活":
+            start = 0
+            real_hit = False
+            while True:
+                idx = situation_text.find("不想活", start)
+                if idx == -1:
+                    break
+                nxt = situation_text[idx + 3: idx + 4]  # '不想活'紧随字符（句末为空串）
+                if nxt not in _BUXIANGHUO_EXCLUDE_NEXT:
+                    real_hit = True
+                    break
+                start = idx + 1
+            if real_hit:
+                hits.append(kw)
+        else:
+            hits.append(kw)
+    return hits
+
+
+def _exhaustion_hit(situation_text: str, exhaustion_kw: list) -> list:
+    """匹配耗竭关键词，对'崩溃'做上下文排除：若紧邻技术/市场词则不判耗竭。"""
+    hits = []
+    for kw in exhaustion_kw:
+        if kw not in situation_text:
+            continue
+        if kw == "崩溃":
+            # 遍历所有命中位置：任一非技术语境的命中即判个人耗竭
+            start = 0
+            personal_hit = False
+            while True:
+                idx = situation_text.find("崩溃", start)
+                if idx == -1:
+                    break
+                window = situation_text[max(0, idx - _BENGKUI_WINDOW): idx + 2 + _BENGKUI_WINDOW]
+                if not any(ctx in window for ctx in _BENGKUI_TECH_CONTEXT):
+                    personal_hit = True
+                    break
+                start = idx + 1
+            if personal_hit:
+                hits.append(kw)
+        else:
+            hits.append(kw)
+    return hits
+
+
+def _has_negation_prefix(text: str, idx: int, window: int = 2) -> bool:
+    """D1: 检查 idx 前 window 字符内是否含否定词（没/无/不/未/还没）。
+
+    "还没" 整体优先（2字），其次逐字符检查单字否定。
+    window=2 覆盖『没结婚』(前1字)和『不想结婚』『没有孩子』(前2字含否定)。
+    """
+    prefix = text[max(0, idx - window): idx]
+    if "还没" in prefix:
+        return True
+    negation_1char = {"没", "无", "不", "未"}
+    return any(c in negation_1char for c in prefix)
+
+
+def _kw_in_text(kw: str, text_lower: str) -> bool:
+    """D5: 关键词是否命中文本（text_lower 为小写化后的文本）。
+
+    ASCII 短键用边界正则防子串误命中；中文键直接子串匹配。
+    """
+    if kw in _ASCII_BOUNDARY_KEYS:
+        return bool(_ASCII_BOUNDARY_RE[kw].search(text_lower))
+    return kw in text_lower
+
+
 # Industry keyword -> cluster mapping
 _INDUSTRY_KEYWORDS = {
     # A
@@ -39,6 +144,10 @@ _INDUSTRY_KEYWORDS = {
     "工业母机": "A-先进制造与硬科技", "数控": "A-先进制造与硬科技", "cnc": "A-先进制造与硬科技",
     "高端装备": "A-先进制造与硬科技", "新材料": "A-先进制造与硬科技", "基础软件": "A-先进制造与硬科技",
     "生物制造": "A-先进制造与硬科技", "嵌入式": "A-先进制造与硬科技", "硬件": "A-先进制造与硬科技",
+    "光模块": "A-先进制造与硬科技", "光通信": "A-先进制造与硬科技", "光器件": "A-先进制造与硬科技",
+    "硅光": "A-先进制造与硬科技", "先进封装": "A-先进制造与硬科技", "光子": "A-先进制造与硬科技",
+    "cpo": "A-先进制造与硬科技", "eml": "A-先进制造与硬科技",
+    "hbm": "A-先进制造与硬科技", "mlcc": "A-先进制造与硬科技",
     # B
     "人工智能": "B-数字与智能产业", "ai": "B-数字与智能产业", "算力": "B-数字与智能产业",
     "软件开发": "B-数字与智能产业", "编程": "B-数字与智能产业", "程序员": "B-数字与智能产业",
@@ -48,8 +157,14 @@ _INDUSTRY_KEYWORDS = {
     # C
     "光伏": "C-绿色能源全链", "风电": "C-绿色能源全链", "水电": "C-绿色能源全链",
     "核电": "C-绿色能源全链", "储能": "C-绿色能源全链", "电网": "C-绿色能源全链",
-    "碳": "C-绿色能源全链", "氢能": "C-绿色能源全链", "新能源": "C-绿色能源全链",
+    # D5: 裸'碳'已删（会误命中'碳水'）；改用下列复合键覆盖真实场景
+    "碳排放": "C-绿色能源全链", "碳中和": "C-绿色能源全链", "碳达峰": "C-绿色能源全链",
+    "碳市场": "C-绿色能源全链", "碳交易": "C-绿色能源全链", "碳资产": "C-绿色能源全链",
+    "低碳": "C-绿色能源全链",
+    "氢能": "C-绿色能源全链", "新能源": "C-绿色能源全链",
     "电力": "C-绿色能源全链", "电气": "C-绿色能源全链", "电工": "C-绿色能源全链",
+    "电池": "C-绿色能源全链", "动力电池": "C-绿色能源全链", "锂电": "C-绿色能源全链",
+    "充电桩": "C-绿色能源全链", "换电": "C-绿色能源全链",
     # D
     "农业": "D-农业与乡村振兴", "种植": "D-农业与乡村振兴", "养殖": "D-农业与乡村振兴",
     "种业": "D-农业与乡村振兴", "农机": "D-农业与乡村振兴", "农技": "D-农业与乡村振兴",
@@ -58,6 +173,7 @@ _INDUSTRY_KEYWORDS = {
     "养老": "E-民生服务", "银发": "E-民生服务", "托育": "E-民生服务", "育婴": "E-民生服务",
     "医疗": "E-民生服务", "健康": "E-民生服务", "护理": "E-民生服务", "护士": "E-民生服务",
     "创新药": "E-民生服务", "家政": "E-民生服务", "医药": "E-民生服务",
+    "医生": "E-民生服务", "大夫": "E-民生服务",
     # F
     "网文": "F-文化创意与出海", "游戏": "F-文化创意与出海", "影视": "F-文化创意与出海",
     "短剧": "F-文化创意与出海", "动漫": "F-文化创意与出海", "文化": "F-文化创意与出海",
@@ -107,12 +223,12 @@ _REGION_KEYWORDS = {
         "宝安", "南山", "福田", "浦东", "海淀", "朝阳",
     ],
     "②新兴增长极": [
-        "成都", "重庆", "武汉", "长沙", "合肥", "西安", "郑州", "南昌", "昆明", "贵阳",
+        "成都", "重庆", "武汉", "长沙", "合肥", "西安", "郑州", "南昌",
         "成渝", "长江中游", "中部",
     ],
     "③战略腹地与西部": [
         "新疆", "西藏", "青海", "甘肃", "宁夏", "内蒙古", "南宁", "兰州", "乌鲁木齐",
-        "西部", "西北", "西南",
+        "西部", "西北", "西南", "昆明", "贵阳", "云南", "贵州", "广西",
     ],
     "④东北老工业基地": [
         "黑龙江", "吉林", "辽宁", "哈尔滨", "长春", "沈阳", "大连", "东北",
@@ -132,8 +248,8 @@ def triage(situation_text: str) -> dict:
     crisis_kw = crisis_signals.get("危机", [])
     exhaustion_kw = crisis_signals.get("耗竭", [])
 
-    crisis_hit = [kw for kw in crisis_kw if kw in situation_text]
-    exhaustion_hit = [kw for kw in exhaustion_kw if kw in situation_text]
+    crisis_hit = _crisis_hit(situation_text, crisis_kw)
+    exhaustion_hit = _exhaustion_hit(situation_text, exhaustion_kw)
 
     if crisis_hit:
         return {
@@ -150,7 +266,9 @@ def triage(situation_text: str) -> dict:
     intent_keywords = _METHODOLOGY.get("intent_keywords", {})
     detected_intents = []
     for intent, keywords in intent_keywords.items():
-        hits = [kw for kw in keywords if kw in situation_text]
+        # D4: kw.lower() 使大写 ASCII 关键词（如 YAML 中的'AI会不会'）匹配小写输入；
+        # 对纯中文 kw 无副作用（.lower() 对 CJK 是 no-op）
+        hits = [kw for kw in keywords if kw.lower() in text_lower]
         if hits:
             detected_intents.append({"intent": intent, "matched_keywords": hits})
 
@@ -181,8 +299,8 @@ def triage(situation_text: str) -> dict:
     # If no intent detected, check if we at least have an industry → default to industry-scan
     if not route_to:
         # Pre-scan for industry to decide if we can still help
-        temp_text_lower = situation_text.lower()
-        has_industry = any(kw in temp_text_lower for kw in _INDUSTRY_KEYWORDS)
+        # D5: 用 _kw_in_text 做 ASCII 边界匹配（text_lower 已在作用域）
+        has_industry = any(_kw_in_text(kw, text_lower) for kw in _INDUSTRY_KEYWORDS)
         if has_industry:
             route_to.append("industry-scan")
         else:
@@ -209,12 +327,20 @@ def triage(situation_text: str) -> dict:
         "emotional_state": "正常",
     }
 
-    # Industry
-    for kw, cluster in _INDUSTRY_KEYWORDS.items():
-        if kw in text_lower:
-            extracted["industry"] = kw
-            extracted["cluster"] = cluster
+    # Industry — D2: 前置短表先于通用扫描；D5: ASCII 边界守卫
+    _cluster_matched = False
+    for compound_kw, priority_cluster in _CLUSTER_COMPOUND_PRIORITY:
+        if compound_kw in situation_text:  # 中文复合词：直接子串匹配
+            extracted["industry"] = compound_kw
+            extracted["cluster"] = priority_cluster
+            _cluster_matched = True
             break
+    if not _cluster_matched:
+        for kw, cluster in _INDUSTRY_KEYWORDS.items():
+            if _kw_in_text(kw, text_lower):  # D5: ASCII 边界守卫
+                extracted["industry"] = kw
+                extracted["cluster"] = cluster
+                break
 
     # Region
     for region, keywords in _REGION_KEYWORDS.items():
@@ -226,34 +352,48 @@ def triage(situation_text: str) -> dict:
         if extracted["region"]:
             break
 
-    # Age（负向前瞻避免从多位数尾部误截；范围校验剔除 0 与不合理值）
-    age_match = re.search(r'(?<!\d)(\d{1,3})\s*岁', situation_text)
-    if age_match:
+    # Age — D3: finditer 遍历所有岁数，取首个落在 14-80 区间者；跳过越界值（如孩子12岁）
+    for age_match in re.finditer(r'(?<!\d)(\d{1,3})\s*岁', situation_text):
         age_val = int(age_match.group(1))
         if 14 <= age_val <= 80:
             extracted["age"] = age_val
+            break
 
-    # Finances
+    # Finances — D1: 否定守卫（没/无/不/未/还没 紧邻前 1-2 字）
+    # 防『没存款』→有结余、『没有存款』→有结余 等捏造优势
     finance_kw = {"月光": "月光", "负债": "负债", "结余": "有结余", "存款": "有结余",
                   "房贷": "有房贷", "攒": "有结余"}
     for kw, status in finance_kw.items():
-        if kw in situation_text:
+        idx = situation_text.find(kw)
+        if idx != -1 and not _has_negation_prefix(situation_text, idx):
             extracted["finances"] = status
             break
 
-    # Family
-    family_kw = {"妻子": "有伴侣", "老公": "有伴侣", "对象": "有伴侣", "相亲": "有伴侣",
-                 "孩子": "有孩子", "父母": "有父母", "单身": "单身", "结婚": "已婚"}
+    # Family — D1: 否定守卫
+    # 防『没结婚』→已婚、『没孩子』→有孩子 等捏造相反状态
+    family_kw = {"妻子": "有伴侣", "老公": "有伴侣", "对象": "有伴侣",
+                 "孩子": "有孩子", "父母": "有父母", "单身": "单身", "结婚": "已婚",
+                 "相亲": "单身"}
     for kw, status in family_kw.items():
-        if kw in situation_text:
+        idx = situation_text.find(kw)
+        if idx != -1 and not _has_negation_prefix(situation_text, idx):
             extracted["family"] = status
             break
 
     # Emotional state
     if exhaustion_hit:
         extracted["emotional_state"] = "耗竭"
-    elif any(kw in situation_text for kw in ["焦虑", "压力大", "迷茫"]):
+    # E4: 补显式变体——"压力很大/太大/好大/山大"不含子串"压力大"故需单列；
+    # 勿用裸"压力"（会误伤"没压力/压力不大/想减压"）；勿纳入裸单字
+    elif any(kw in situation_text for kw in [
+        "焦虑", "压力大", "压力很大", "压力太大", "压力好大", "压力山大",
+        "迷茫", "焦急", "怕来不及",
+    ]):
         extracted["emotional_state"] = "焦虑/迷茫"
+    # G1: 激活自责检测——明确自责短语（优先级排在 crisis/exhaustion 之后）
+    # 收紧为明确形，勿用裸"后悔/早知道"（易误标）；仅注入语气，不改路由
+    elif any(kw in situation_text for kw in ["都怪我", "怪我自己", "是我没用", "是我不好", "我太没用"]):
+        extracted["emotional_state"] = "自责"
 
     # Step 4: Build result
     result = {
@@ -458,6 +598,26 @@ def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) ->
 
     situation_lower = situation.lower() if situation else ""
 
+    # G2: cluster 关键词加权（与 marxism/mao/xi 三系一致，命中 cluster_keywords 时 +5）
+    cluster_keywords = {
+        "A-先进制造与硬科技": ["工厂", "产线", "制造", "设备", "嵌入式", "技能"],
+        "B-数字与智能产业": ["程序员", "代码", "AI", "互联网", "算法"],
+        "C-绿色能源全链": ["光伏", "风电", "电站", "运维", "电工"],
+        "D-农业与乡村振兴": ["农村", "返乡", "种植", "农业", "县城"],
+        "E-民生服务": ["养老", "护理", "服务", "人"],
+        "F-文化创意与出海": ["内容", "创作", "出海", "短剧"],
+        "G-基建物流房地产": ["外卖", "骑手", "快递", "物流", "建筑"],
+        "H-新兴未来产业": ["机器人", "无人机", "AI", "新兴"],
+        "I-传统矿业与资源开采": ["矿", "矿工"],
+        "J-传统轻纺与日用制造": ["纺织", "服装", "工厂"],
+        "K-传统重化工与建材": ["钢铁", "水泥", "化工"],
+        "L-商贸零售与餐饮住宿": ["店", "零售", "餐饮", "电商"],
+        "M-金融与商务服务": ["银行", "金融", "工资", "保险"],
+        "N-教育与培训": ["教师", "教育", "学习", "培训"],
+        "O-居民生活服务": ["美容", "维修", "宠物", "汽修"],
+        "P-公用事业与市政服务": ["环卫", "公交", "司机"],
+    }
+
     scored_files = []
     for f in _DENG_INSPIRATION_DIR.rglob("*.md"):
         if f.name in ("README.md", "index.md"):
@@ -480,6 +640,12 @@ def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) ->
         for word in situation_keywords:
             if word in situation_lower and word in excerpt_zone:
                 score += 2
+
+        # G2: cluster 关键词加权 +5（与其它三系一致）
+        if cluster and cluster in cluster_keywords:
+            for kw in cluster_keywords[cluster]:
+                if kw in excerpt_zone:
+                    score += 5
 
         emotional_kw = ["累", "穷", "焦虑", "迷茫", "不想干", "压力", "加班", "被替代",
                         "纠结", "犹豫", "害怕", "不敢"]
@@ -747,10 +913,12 @@ def assess_completeness(info: dict, route_to: list) -> dict:
     - missing_fields: list of field names that are missing
     - next_question: the single most important question to ask next
     """
-    # Define which fields each skill needs
+    # Define which fields each skill needs (critical/blocking fields only)
+    # E5: industry-scan 的 region 是可选增强——cluster 已在场即可 ready_to_analyze；
+    # region 降为"有则注入"，不再列为 critical 阻塞字段（instructions 层保留软追问）
     skill_needs = {
         "problem-diagnosis": [],  # works with free text, no required fields
-        "industry-scan": ["cluster", "region"],
+        "industry-scan": ["cluster"],  # region preferred but not blocking (see E5)
         "startup-feasibility": ["finances", "family"],
         "growth-planner": ["age"],
         "collaboration-match": [],
@@ -776,10 +944,10 @@ def assess_completeness(info: dict, route_to: list) -> dict:
         missing = []
     else:
         # Ready if no critical fields missing AND not too many fields missing overall.
-        # Critical = cluster/region (for industry-scan).
+        # Critical = cluster only (for industry-scan; region is preferred but not blocking per E5).
         # For startup-feasibility, finances+family matter for abort checks,
         # so allow at most 1 missing field before requiring more questions.
-        critical = [f for f in missing if f in ("cluster", "region")]
+        critical = [f for f in missing if f == "cluster"]
         ready = len(critical) == 0 and len(missing) <= 1
 
     # Determine the single next question (priority order)

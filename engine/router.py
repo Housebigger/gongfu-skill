@@ -352,7 +352,12 @@ def triage(situation_text: str) -> dict:
     # Emotional state
     if exhaustion_hit:
         extracted["emotional_state"] = "耗竭"
-    elif any(kw in situation_text for kw in ["焦虑", "压力大", "迷茫"]):
+    # E4: 补显式变体——"压力很大/太大/好大/山大"不含子串"压力大"故需单列；
+    # 勿用裸"压力"（会误伤"没压力/压力不大/想减压"）；勿纳入裸单字
+    elif any(kw in situation_text for kw in [
+        "焦虑", "压力大", "压力很大", "压力太大", "压力好大", "压力山大",
+        "迷茫", "焦急", "怕来不及",
+    ]):
         extracted["emotional_state"] = "焦虑/迷茫"
 
     # Step 4: Build result
@@ -847,10 +852,12 @@ def assess_completeness(info: dict, route_to: list) -> dict:
     - missing_fields: list of field names that are missing
     - next_question: the single most important question to ask next
     """
-    # Define which fields each skill needs
+    # Define which fields each skill needs (critical/blocking fields only)
+    # E5: industry-scan 的 region 是可选增强——cluster 已在场即可 ready_to_analyze；
+    # region 降为"有则注入"，不再列为 critical 阻塞字段（instructions 层保留软追问）
     skill_needs = {
         "problem-diagnosis": [],  # works with free text, no required fields
-        "industry-scan": ["cluster", "region"],
+        "industry-scan": ["cluster"],  # region preferred but not blocking (see E5)
         "startup-feasibility": ["finances", "family"],
         "growth-planner": ["age"],
         "collaboration-match": [],
@@ -876,10 +883,10 @@ def assess_completeness(info: dict, route_to: list) -> dict:
         missing = []
     else:
         # Ready if no critical fields missing AND not too many fields missing overall.
-        # Critical = cluster/region (for industry-scan).
+        # Critical = cluster only (for industry-scan; region is preferred but not blocking per E5).
         # For startup-feasibility, finances+family matter for abort checks,
         # so allow at most 1 missing field before requiring more questions.
-        critical = [f for f in missing if f in ("cluster", "region")]
+        critical = [f for f in missing if f == "cluster"]
         ready = len(critical) == 0 and len(missing) <= 1
 
     # Determine the single next question (priority order)

@@ -32,6 +32,39 @@ _DEDUCTION = _load_yaml("policy-deduction-tools.yaml")
 # 逐集群行业前景卡片（战略库第三根源·09 行业前景推演蒸馏·evergreen）
 _FORECAST = _load_yaml("industry-forecast-tools.yaml")
 
+# C4: 崩溃上下文排除——这些词紧邻"崩溃"时说明是技术/市场语境，不计入个人耗竭
+_BENGKUI_TECH_CONTEXT = frozenset([
+    "系统", "服务器", "电脑", "程序", "股市", "市场", "行业", "经济",
+])
+_BENGKUI_WINDOW = 10  # 崩溃前后各检查 N 个字符
+
+
+def _exhaustion_hit(situation_text: str, exhaustion_kw: list) -> list:
+    """匹配耗竭关键词，对'崩溃'做上下文排除：若紧邻技术/市场词则不判耗竭。"""
+    hits = []
+    for kw in exhaustion_kw:
+        if kw not in situation_text:
+            continue
+        if kw == "崩溃":
+            # 遍历所有命中位置：任一非技术语境的命中即判个人耗竭
+            start = 0
+            personal_hit = False
+            while True:
+                idx = situation_text.find("崩溃", start)
+                if idx == -1:
+                    break
+                window = situation_text[max(0, idx - _BENGKUI_WINDOW): idx + 2 + _BENGKUI_WINDOW]
+                if not any(ctx in window for ctx in _BENGKUI_TECH_CONTEXT):
+                    personal_hit = True
+                    break
+                start = idx + 1
+            if personal_hit:
+                hits.append(kw)
+        else:
+            hits.append(kw)
+    return hits
+
+
 # Industry keyword -> cluster mapping
 _INDUSTRY_KEYWORDS = {
     # A
@@ -140,7 +173,7 @@ def triage(situation_text: str) -> dict:
     exhaustion_kw = crisis_signals.get("耗竭", [])
 
     crisis_hit = [kw for kw in crisis_kw if kw in situation_text]
-    exhaustion_hit = [kw for kw in exhaustion_kw if kw in situation_text]
+    exhaustion_hit = _exhaustion_hit(situation_text, exhaustion_kw)
 
     if crisis_hit:
         return {

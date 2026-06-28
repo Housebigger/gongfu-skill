@@ -17,6 +17,8 @@ Almost all content is Chinese. Cluster IDs (`A-先进制造与硬科技` … `P-
 
 There is **no build, lint, or automated test suite**. "Tests" are the Test Cases sections inside each `SKILL.md` (doc-based, run by a human/LLM). Verify code changes by running a shell and exercising `gongfu_consult` directly.
 
+**引擎逻辑审计**：系统化排查引擎逻辑缺口用可复用 workflow `Workflow({name:"engine-logic-audit"})`（脚本 `.claude/workflows/engine-logic-audit.js`，只读不改）——7 lens 并行 + 逐条对抗验证 → 缺口清单 + 修复批次 + 版本号评估。方法论与落地闭环（subagent-driven + 分层验证门）见 [`docs/engine-logic-audit.md`](docs/engine-logic-audit.md)。
+
 ```bash
 # Dev environment (Python 3.10+, project pins 3.12)
 uv venv --python 3.12 .venv && source .venv/bin/activate

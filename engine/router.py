@@ -38,6 +38,24 @@ _BENGKUI_TECH_CONTEXT = frozenset([
 ])
 _BENGKUI_WINDOW = 10  # 崩溃前后各检查 N 个字符
 
+# D5: 纯小写 ASCII 短键需要边界匹配，防止子串误命中（'ai' in 'email'/'retail'/'training'）
+# 勿用 \b — CJK↔ASCII 非词边界会漏『做ai的』；用两侧非小写字母断言
+_ASCII_BOUNDARY_KEYS = frozenset(["ai", "6g", "cnc", "cpo", "eml", "hbm", "mlcc"])
+_ASCII_BOUNDARY_RE = {
+    kw: re.compile(r'(?<![a-z])' + re.escape(kw) + r'(?![a-z])')
+    for kw in _ASCII_BOUNDARY_KEYS
+}
+
+# D2: 强复合词前置短表 — 在通用集群扫描前命中即定 cluster
+# 每条规则已含真维修 token，确保不误拽无维修语境的复合词（如纯制造/电站）
+_CLUSTER_COMPOUND_PRIORITY = [
+    # 新能源汽车维修类 → O-居民生活服务（否则"新能源"会先命中 C-绿色能源全链）
+    ("新能源汽车三电维修", "O-居民生活服务"),
+    ("新能源汽车维修",     "O-居民生活服务"),
+    ("新能源汽修",         "O-居民生活服务"),
+    ("三电维修",           "O-居民生活服务"),
+]
+
 
 def _exhaustion_hit(situation_text: str, exhaustion_kw: list) -> list:
     """匹配耗竭关键词，对'崩溃'做上下文排除：若紧邻技术/市场词则不判耗竭。"""
@@ -65,6 +83,29 @@ def _exhaustion_hit(situation_text: str, exhaustion_kw: list) -> list:
     return hits
 
 
+def _has_negation_prefix(text: str, idx: int, window: int = 2) -> bool:
+    """D1: 检查 idx 前 window 字符内是否含否定词（没/无/不/未/还没）。
+
+    "还没" 整体优先（2字），其次逐字符检查单字否定。
+    window=2 覆盖『没结婚』(前1字)和『不想结婚』『没有孩子』(前2字含否定)。
+    """
+    prefix = text[max(0, idx - window): idx]
+    if "还没" in prefix:
+        return True
+    negation_1char = {"没", "无", "不", "未"}
+    return any(c in negation_1char for c in prefix)
+
+
+def _kw_in_text(kw: str, text_lower: str) -> bool:
+    """D5: 关键词是否命中文本（text_lower 为小写化后的文本）。
+
+    ASCII 短键用边界正则防子串误命中；中文键直接子串匹配。
+    """
+    if kw in _ASCII_BOUNDARY_KEYS:
+        return bool(_ASCII_BOUNDARY_RE[kw].search(text_lower))
+    return kw in text_lower
+
+
 # Industry keyword -> cluster mapping
 _INDUSTRY_KEYWORDS = {
     # A
@@ -85,7 +126,11 @@ _INDUSTRY_KEYWORDS = {
     # C
     "光伏": "C-绿色能源全链", "风电": "C-绿色能源全链", "水电": "C-绿色能源全链",
     "核电": "C-绿色能源全链", "储能": "C-绿色能源全链", "电网": "C-绿色能源全链",
-    "碳": "C-绿色能源全链", "氢能": "C-绿色能源全链", "新能源": "C-绿色能源全链",
+    # D5: 裸'碳'已删（会误命中'碳水'）；改用下列复合键覆盖真实场景
+    "碳排放": "C-绿色能源全链", "碳中和": "C-绿色能源全链", "碳达峰": "C-绿色能源全链",
+    "碳市场": "C-绿色能源全链", "碳交易": "C-绿色能源全链", "碳资产": "C-绿色能源全链",
+    "低碳": "C-绿色能源全链",
+    "氢能": "C-绿色能源全链", "新能源": "C-绿色能源全链",
     "电力": "C-绿色能源全链", "电气": "C-绿色能源全链", "电工": "C-绿色能源全链",
     "电池": "C-绿色能源全链", "动力电池": "C-绿色能源全链", "锂电": "C-绿色能源全链",
     "充电桩": "C-绿色能源全链", "换电": "C-绿色能源全链",
@@ -190,7 +235,9 @@ def triage(situation_text: str) -> dict:
     intent_keywords = _METHODOLOGY.get("intent_keywords", {})
     detected_intents = []
     for intent, keywords in intent_keywords.items():
-        hits = [kw for kw in keywords if kw in situation_text]
+        # D4: kw.lower() 使大写 ASCII 关键词（如 YAML 中的'AI会不会'）匹配小写输入；
+        # 对纯中文 kw 无副作用（.lower() 对 CJK 是 no-op）
+        hits = [kw for kw in keywords if kw.lower() in text_lower]
         if hits:
             detected_intents.append({"intent": intent, "matched_keywords": hits})
 
@@ -221,8 +268,8 @@ def triage(situation_text: str) -> dict:
     # If no intent detected, check if we at least have an industry → default to industry-scan
     if not route_to:
         # Pre-scan for industry to decide if we can still help
-        temp_text_lower = situation_text.lower()
-        has_industry = any(kw in temp_text_lower for kw in _INDUSTRY_KEYWORDS)
+        # D5: 用 _kw_in_text 做 ASCII 边界匹配（text_lower 已在作用域）
+        has_industry = any(_kw_in_text(kw, text_lower) for kw in _INDUSTRY_KEYWORDS)
         if has_industry:
             route_to.append("industry-scan")
         else:
@@ -249,12 +296,20 @@ def triage(situation_text: str) -> dict:
         "emotional_state": "正常",
     }
 
-    # Industry
-    for kw, cluster in _INDUSTRY_KEYWORDS.items():
-        if kw in text_lower:
-            extracted["industry"] = kw
-            extracted["cluster"] = cluster
+    # Industry — D2: 前置短表先于通用扫描；D5: ASCII 边界守卫
+    _cluster_matched = False
+    for compound_kw, priority_cluster in _CLUSTER_COMPOUND_PRIORITY:
+        if compound_kw in situation_text:  # 中文复合词：直接子串匹配
+            extracted["industry"] = compound_kw
+            extracted["cluster"] = priority_cluster
+            _cluster_matched = True
             break
+    if not _cluster_matched:
+        for kw, cluster in _INDUSTRY_KEYWORDS.items():
+            if _kw_in_text(kw, text_lower):  # D5: ASCII 边界守卫
+                extracted["industry"] = kw
+                extracted["cluster"] = cluster
+                break
 
     # Region
     for region, keywords in _REGION_KEYWORDS.items():
@@ -266,27 +321,31 @@ def triage(situation_text: str) -> dict:
         if extracted["region"]:
             break
 
-    # Age（负向前瞻避免从多位数尾部误截；范围校验剔除 0 与不合理值）
-    age_match = re.search(r'(?<!\d)(\d{1,3})\s*岁', situation_text)
-    if age_match:
+    # Age — D3: finditer 遍历所有岁数，取首个落在 14-80 区间者；跳过越界值（如孩子12岁）
+    for age_match in re.finditer(r'(?<!\d)(\d{1,3})\s*岁', situation_text):
         age_val = int(age_match.group(1))
         if 14 <= age_val <= 80:
             extracted["age"] = age_val
+            break
 
-    # Finances
+    # Finances — D1: 否定守卫（没/无/不/未/还没 紧邻前 1-2 字）
+    # 防『没存款』→有结余、『没有存款』→有结余 等捏造优势
     finance_kw = {"月光": "月光", "负债": "负债", "结余": "有结余", "存款": "有结余",
                   "房贷": "有房贷", "攒": "有结余"}
     for kw, status in finance_kw.items():
-        if kw in situation_text:
+        idx = situation_text.find(kw)
+        if idx != -1 and not _has_negation_prefix(situation_text, idx):
             extracted["finances"] = status
             break
 
-    # Family
+    # Family — D1: 否定守卫
+    # 防『没结婚』→已婚、『没孩子』→有孩子 等捏造相反状态
     family_kw = {"妻子": "有伴侣", "老公": "有伴侣", "对象": "有伴侣",
                  "孩子": "有孩子", "父母": "有父母", "单身": "单身", "结婚": "已婚",
                  "相亲": "单身"}
     for kw, status in family_kw.items():
-        if kw in situation_text:
+        idx = situation_text.find(kw)
+        if idx != -1 and not _has_negation_prefix(situation_text, idx):
             extracted["family"] = status
             break
 

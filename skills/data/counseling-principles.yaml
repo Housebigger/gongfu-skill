@@ -78,6 +78,8 @@ principles:
     example: "以上这些供你参考。不管你最后怎么选，能认真想清楚就不亏。"
 
 # ── 特殊信号处理 ──
+# 注意：各子项中的 signs 字段仅作文档示例，真实检测词表见 methodology-tools.yaml::crisis_signals
+# 与 router.py（triage 函数）。代码不读取此处的 signs——请勿将其并入危机检测路径（安全红线）。
 special_handling:
 
   耗竭信号:

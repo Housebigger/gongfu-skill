@@ -359,6 +359,10 @@ def triage(situation_text: str) -> dict:
         "迷茫", "焦急", "怕来不及",
     ]):
         extracted["emotional_state"] = "焦虑/迷茫"
+    # G1: 激活自责检测——明确自责短语（优先级排在 crisis/exhaustion 之后）
+    # 收紧为明确形，勿用裸"后悔/早知道"（易误标）；仅注入语气，不改路由
+    elif any(kw in situation_text for kw in ["都怪我", "怪我自己", "是我没用", "是我不好", "我太没用"]):
+        extracted["emotional_state"] = "自责"
 
     # Step 4: Build result
     result = {
@@ -563,6 +567,26 @@ def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) ->
 
     situation_lower = situation.lower() if situation else ""
 
+    # G2: cluster 关键词加权（与 marxism/mao/xi 三系一致，命中 cluster_keywords 时 +5）
+    cluster_keywords = {
+        "A-先进制造与硬科技": ["工厂", "产线", "制造", "设备", "嵌入式", "技能"],
+        "B-数字与智能产业": ["程序员", "代码", "AI", "互联网", "算法"],
+        "C-绿色能源全链": ["光伏", "风电", "电站", "运维", "电工"],
+        "D-农业与乡村振兴": ["农村", "返乡", "种植", "农业", "县城"],
+        "E-民生服务": ["养老", "护理", "服务", "人"],
+        "F-文化创意与出海": ["内容", "创作", "出海", "短剧"],
+        "G-基建物流房地产": ["外卖", "骑手", "快递", "物流", "建筑"],
+        "H-新兴未来产业": ["机器人", "无人机", "AI", "新兴"],
+        "I-传统矿业与资源开采": ["矿", "矿工"],
+        "J-传统轻纺与日用制造": ["纺织", "服装", "工厂"],
+        "K-传统重化工与建材": ["钢铁", "水泥", "化工"],
+        "L-商贸零售与餐饮住宿": ["店", "零售", "餐饮", "电商"],
+        "M-金融与商务服务": ["银行", "金融", "工资", "保险"],
+        "N-教育与培训": ["教师", "教育", "学习", "培训"],
+        "O-居民生活服务": ["美容", "维修", "宠物", "汽修"],
+        "P-公用事业与市政服务": ["环卫", "公交", "司机"],
+    }
+
     scored_files = []
     for f in _DENG_INSPIRATION_DIR.rglob("*.md"):
         if f.name in ("README.md", "index.md"):
@@ -585,6 +609,12 @@ def get_deng_inspiration(situation: str, cluster: str = None, limit: int = 2) ->
         for word in situation_keywords:
             if word in situation_lower and word in excerpt_zone:
                 score += 2
+
+        # G2: cluster 关键词加权 +5（与其它三系一致）
+        if cluster and cluster in cluster_keywords:
+            for kw in cluster_keywords[cluster]:
+                if kw in excerpt_zone:
+                    score += 5
 
         emotional_kw = ["累", "穷", "焦虑", "迷茫", "不想干", "压力", "加班", "被替代",
                         "纠结", "犹豫", "害怕", "不敢"]

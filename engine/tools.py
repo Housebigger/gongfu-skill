@@ -69,6 +69,12 @@ def _build_tone_instruction(triage_result: dict, phase: str) -> str:
         anxiety = special_handling.get("焦虑信号", {})
         if anxiety:
             parts.append(f"【用户很焦虑——先稳住】{anxiety.get('first_response_rule', '')}")
+    elif info.get("emotional_state") == "自责":
+        # G1: 激活 counseling-principles 中已有但未使用的自责分支（仅注入语气，不改路由）
+        special_handling = _COUNSELING.get("special_handling", {})
+        self_blame = special_handling.get("自责信号", {})
+        if self_blame:
+            parts.append(f"【用户在自责——先解除自责】{self_blame.get('first_response_rule', '')}")
 
     # ── 分析阶段的语气 ──
     if phase == "analyzing":
@@ -98,11 +104,16 @@ def gongfu_consult(args: dict, **kwargs) -> str:
 
     核心改变（vs 第二代）：追问信息不再是第一优先——确认感受才是。
     """
-    situation = args.get("situation", "").strip()
-    mode = args.get("mode", "intake")
-
-    if not situation:
+    # F2: situation 类型守卫——键存在但值为 None/数字/列表时安全处理，不崩溃
+    situation = args.get("situation") or ""
+    if not isinstance(situation, str) or not situation.strip():
         return json.dumps({"error": "请描述你的情况"}, ensure_ascii=False)
+    situation = situation.strip()
+
+    # F1: mode 归一化——空串/None/大小写变体/拼写错 均回退到更安全的 intake
+    mode = (args.get("mode") or "intake").strip().lower()
+    if mode not in ("intake", "analyze"):
+        mode = "intake"
 
     triage_result = router.triage(situation)
 

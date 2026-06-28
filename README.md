@@ -299,7 +299,7 @@ gongfu-skill/
 │   ├── regional/          五大区域×机会矩阵
 │   ├── industry_investment/  Serenity 产业链卡点分析法（劳动者版）
 │   ├── economic_policy/   经济政策追踪专栏（台账 + 作用规律 + 推演）
-│   ├── semiconductor_outlook/  华为韬（τ）定律半导体产业前瞻专题
+│   ├── semiconductor_outlook/  半导体产业前瞻（韬定律情景 00-04 + AI 硬件产业链系列 05-09）
 │   └── references/        根源文档（规划全文 / Serenity 源料 / 政策源料 / 韬定律原料库）
 ├── skills/                第三阶段知识源：gongfu-skill/（前门 SKILL.md + references/ 6 能力）+ data/（★单一源）
 │   ├── data/              14 个结构化知识库（YAML）← 引擎读取的源

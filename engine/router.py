@@ -57,6 +57,37 @@ _CLUSTER_COMPOUND_PRIORITY = [
 ]
 
 
+# 终审 Critical 修复：'不想活'是危机信号，但紧随'得'/'在'时为过劳口语
+# （'不想活得这么累'/'不想活在父母的安排里'）不判危机；句末或紧随'了/下去/着'仍判危机
+_BUXIANGHUO_EXCLUDE_NEXT = ("得", "在")
+
+
+def _crisis_hit(situation_text: str, crisis_kw: list) -> list:
+    """匹配危机关键词。对'不想活'做上下文守卫：紧随'得'/'在'为过劳口语不判危机；
+    其余位置（句末、'不想活了/下去/着'等）及其它危机词正常子串判定。"""
+    hits = []
+    for kw in crisis_kw:
+        if kw not in situation_text:
+            continue
+        if kw == "不想活":
+            start = 0
+            real_hit = False
+            while True:
+                idx = situation_text.find("不想活", start)
+                if idx == -1:
+                    break
+                nxt = situation_text[idx + 3: idx + 4]  # '不想活'紧随字符（句末为空串）
+                if nxt not in _BUXIANGHUO_EXCLUDE_NEXT:
+                    real_hit = True
+                    break
+                start = idx + 1
+            if real_hit:
+                hits.append(kw)
+        else:
+            hits.append(kw)
+    return hits
+
+
 def _exhaustion_hit(situation_text: str, exhaustion_kw: list) -> list:
     """匹配耗竭关键词，对'崩溃'做上下文排除：若紧邻技术/市场词则不判耗竭。"""
     hits = []
@@ -217,7 +248,7 @@ def triage(situation_text: str) -> dict:
     crisis_kw = crisis_signals.get("危机", [])
     exhaustion_kw = crisis_signals.get("耗竭", [])
 
-    crisis_hit = [kw for kw in crisis_kw if kw in situation_text]
+    crisis_hit = _crisis_hit(situation_text, crisis_kw)
     exhaustion_hit = _exhaustion_hit(situation_text, exhaustion_kw)
 
     if crisis_hit:
